@@ -1,0 +1,1023 @@
+[2019-07-31 06:27:05,862 INFO]  * src vocab size = 2558
+[2019-07-31 06:27:05,862 INFO]  * tgt vocab size = 2558
+[2019-07-31 06:27:05,863 INFO] Building model...
+[2019-07-31 06:27:06,992 INFO] NMTModel(
+  (encoder): TransformerEncoder(
+    (embeddings): Embeddings(
+      (make_embedding): Sequential(
+        (emb_luts): Elementwise(
+          (0): Embedding(2558, 512, padding_idx=1)
+        )
+        (pe): PositionalEncoding(
+          (dropout): Dropout(p=0.1)
+        )
+      )
+    )
+    (transformer): ModuleList(
+      (0): TransformerEncoderLayer(
+        (self_attn): MultiHeadedAttention(
+          (linear_keys): Linear(in_features=512, out_features=512, bias=True)
+          (linear_values): Linear(in_features=512, out_features=512, bias=True)
+          (linear_query): Linear(in_features=512, out_features=512, bias=True)
+          (softmax): Softmax()
+          (dropout): Dropout(p=0.1)
+          (final_linear): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (feed_forward): PositionwiseFeedForward(
+          (w_1): Linear(in_features=512, out_features=2048, bias=True)
+          (w_2): Linear(in_features=2048, out_features=512, bias=True)
+          (layer_norm): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+          (dropout_1): Dropout(p=0.1)
+          (relu): ReLU()
+          (dropout_2): Dropout(p=0.1)
+        )
+        (layer_norm): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+        (dropout): Dropout(p=0.1)
+      )
+      (1): TransformerEncoderLayer(
+        (self_attn): MultiHeadedAttention(
+          (linear_keys): Linear(in_features=512, out_features=512, bias=True)
+          (linear_values): Linear(in_features=512, out_features=512, bias=True)
+          (linear_query): Linear(in_features=512, out_features=512, bias=True)
+          (softmax): Softmax()
+          (dropout): Dropout(p=0.1)
+          (final_linear): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (feed_forward): PositionwiseFeedForward(
+          (w_1): Linear(in_features=512, out_features=2048, bias=True)
+          (w_2): Linear(in_features=2048, out_features=512, bias=True)
+          (layer_norm): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+          (dropout_1): Dropout(p=0.1)
+          (relu): ReLU()
+          (dropout_2): Dropout(p=0.1)
+        )
+        (layer_norm): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+        (dropout): Dropout(p=0.1)
+      )
+      (2): TransformerEncoderLayer(
+        (self_attn): MultiHeadedAttention(
+          (linear_keys): Linear(in_features=512, out_features=512, bias=True)
+          (linear_values): Linear(in_features=512, out_features=512, bias=True)
+          (linear_query): Linear(in_features=512, out_features=512, bias=True)
+          (softmax): Softmax()
+          (dropout): Dropout(p=0.1)
+          (final_linear): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (feed_forward): PositionwiseFeedForward(
+          (w_1): Linear(in_features=512, out_features=2048, bias=True)
+          (w_2): Linear(in_features=2048, out_features=512, bias=True)
+          (layer_norm): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+          (dropout_1): Dropout(p=0.1)
+          (relu): ReLU()
+          (dropout_2): Dropout(p=0.1)
+        )
+        (layer_norm): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+        (dropout): Dropout(p=0.1)
+      )
+      (3): TransformerEncoderLayer(
+        (self_attn): MultiHeadedAttention(
+          (linear_keys): Linear(in_features=512, out_features=512, bias=True)
+          (linear_values): Linear(in_features=512, out_features=512, bias=True)
+          (linear_query): Linear(in_features=512, out_features=512, bias=True)
+          (softmax): Softmax()
+          (dropout): Dropout(p=0.1)
+          (final_linear): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (feed_forward): PositionwiseFeedForward(
+          (w_1): Linear(in_features=512, out_features=2048, bias=True)
+          (w_2): Linear(in_features=2048, out_features=512, bias=True)
+          (layer_norm): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+          (dropout_1): Dropout(p=0.1)
+          (relu): ReLU()
+          (dropout_2): Dropout(p=0.1)
+        )
+        (layer_norm): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+        (dropout): Dropout(p=0.1)
+      )
+      (4): TransformerEncoderLayer(
+        (self_attn): MultiHeadedAttention(
+          (linear_keys): Linear(in_features=512, out_features=512, bias=True)
+          (linear_values): Linear(in_features=512, out_features=512, bias=True)
+          (linear_query): Linear(in_features=512, out_features=512, bias=True)
+          (softmax): Softmax()
+          (dropout): Dropout(p=0.1)
+          (final_linear): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (feed_forward): PositionwiseFeedForward(
+          (w_1): Linear(in_features=512, out_features=2048, bias=True)
+          (w_2): Linear(in_features=2048, out_features=512, bias=True)
+          (layer_norm): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+          (dropout_1): Dropout(p=0.1)
+          (relu): ReLU()
+          (dropout_2): Dropout(p=0.1)
+        )
+        (layer_norm): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+        (dropout): Dropout(p=0.1)
+      )
+      (5): TransformerEncoderLayer(
+        (self_attn): MultiHeadedAttention(
+          (linear_keys): Linear(in_features=512, out_features=512, bias=True)
+          (linear_values): Linear(in_features=512, out_features=512, bias=True)
+          (linear_query): Linear(in_features=512, out_features=512, bias=True)
+          (softmax): Softmax()
+          (dropout): Dropout(p=0.1)
+          (final_linear): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (feed_forward): PositionwiseFeedForward(
+          (w_1): Linear(in_features=512, out_features=2048, bias=True)
+          (w_2): Linear(in_features=2048, out_features=512, bias=True)
+          (layer_norm): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+          (dropout_1): Dropout(p=0.1)
+          (relu): ReLU()
+          (dropout_2): Dropout(p=0.1)
+        )
+        (layer_norm): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+        (dropout): Dropout(p=0.1)
+      )
+    )
+    (layer_norm): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+  )
+  (decoder): TransformerDecoder(
+    (embeddings): Embeddings(
+      (make_embedding): Sequential(
+        (emb_luts): Elementwise(
+          (0): Embedding(2558, 512, padding_idx=1)
+        )
+        (pe): PositionalEncoding(
+          (dropout): Dropout(p=0.1)
+        )
+      )
+    )
+    (transformer_layers): ModuleList(
+      (0): TransformerDecoderLayer(
+        (self_attn): MultiHeadedAttention(
+          (linear_keys): Linear(in_features=512, out_features=512, bias=True)
+          (linear_values): Linear(in_features=512, out_features=512, bias=True)
+          (linear_query): Linear(in_features=512, out_features=512, bias=True)
+          (softmax): Softmax()
+          (dropout): Dropout(p=0.1)
+          (final_linear): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (context_attn): MultiHeadedAttention(
+          (linear_keys): Linear(in_features=512, out_features=512, bias=True)
+          (linear_values): Linear(in_features=512, out_features=512, bias=True)
+          (linear_query): Linear(in_features=512, out_features=512, bias=True)
+          (softmax): Softmax()
+          (dropout): Dropout(p=0.1)
+          (final_linear): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (feed_forward): PositionwiseFeedForward(
+          (w_1): Linear(in_features=512, out_features=2048, bias=True)
+          (w_2): Linear(in_features=2048, out_features=512, bias=True)
+          (layer_norm): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+          (dropout_1): Dropout(p=0.1)
+          (relu): ReLU()
+          (dropout_2): Dropout(p=0.1)
+        )
+        (layer_norm_1): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+        (layer_norm_2): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+        (drop): Dropout(p=0.1)
+      )
+      (1): TransformerDecoderLayer(
+        (self_attn): MultiHeadedAttention(
+          (linear_keys): Linear(in_features=512, out_features=512, bias=True)
+          (linear_values): Linear(in_features=512, out_features=512, bias=True)
+          (linear_query): Linear(in_features=512, out_features=512, bias=True)
+          (softmax): Softmax()
+          (dropout): Dropout(p=0.1)
+          (final_linear): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (context_attn): MultiHeadedAttention(
+          (linear_keys): Linear(in_features=512, out_features=512, bias=True)
+          (linear_values): Linear(in_features=512, out_features=512, bias=True)
+          (linear_query): Linear(in_features=512, out_features=512, bias=True)
+          (softmax): Softmax()
+          (dropout): Dropout(p=0.1)
+          (final_linear): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (feed_forward): PositionwiseFeedForward(
+          (w_1): Linear(in_features=512, out_features=2048, bias=True)
+          (w_2): Linear(in_features=2048, out_features=512, bias=True)
+          (layer_norm): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+          (dropout_1): Dropout(p=0.1)
+          (relu): ReLU()
+          (dropout_2): Dropout(p=0.1)
+        )
+        (layer_norm_1): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+        (layer_norm_2): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+        (drop): Dropout(p=0.1)
+      )
+      (2): TransformerDecoderLayer(
+        (self_attn): MultiHeadedAttention(
+          (linear_keys): Linear(in_features=512, out_features=512, bias=True)
+          (linear_values): Linear(in_features=512, out_features=512, bias=True)
+          (linear_query): Linear(in_features=512, out_features=512, bias=True)
+          (softmax): Softmax()
+          (dropout): Dropout(p=0.1)
+          (final_linear): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (context_attn): MultiHeadedAttention(
+          (linear_keys): Linear(in_features=512, out_features=512, bias=True)
+          (linear_values): Linear(in_features=512, out_features=512, bias=True)
+          (linear_query): Linear(in_features=512, out_features=512, bias=True)
+          (softmax): Softmax()
+          (dropout): Dropout(p=0.1)
+          (final_linear): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (feed_forward): PositionwiseFeedForward(
+          (w_1): Linear(in_features=512, out_features=2048, bias=True)
+          (w_2): Linear(in_features=2048, out_features=512, bias=True)
+          (layer_norm): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+          (dropout_1): Dropout(p=0.1)
+          (relu): ReLU()
+          (dropout_2): Dropout(p=0.1)
+        )
+        (layer_norm_1): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+        (layer_norm_2): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+        (drop): Dropout(p=0.1)
+      )
+      (3): TransformerDecoderLayer(
+        (self_attn): MultiHeadedAttention(
+          (linear_keys): Linear(in_features=512, out_features=512, bias=True)
+          (linear_values): Linear(in_features=512, out_features=512, bias=True)
+          (linear_query): Linear(in_features=512, out_features=512, bias=True)
+          (softmax): Softmax()
+          (dropout): Dropout(p=0.1)
+          (final_linear): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (context_attn): MultiHeadedAttention(
+          (linear_keys): Linear(in_features=512, out_features=512, bias=True)
+          (linear_values): Linear(in_features=512, out_features=512, bias=True)
+          (linear_query): Linear(in_features=512, out_features=512, bias=True)
+          (softmax): Softmax()
+          (dropout): Dropout(p=0.1)
+          (final_linear): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (feed_forward): PositionwiseFeedForward(
+          (w_1): Linear(in_features=512, out_features=2048, bias=True)
+          (w_2): Linear(in_features=2048, out_features=512, bias=True)
+          (layer_norm): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+          (dropout_1): Dropout(p=0.1)
+          (relu): ReLU()
+          (dropout_2): Dropout(p=0.1)
+        )
+        (layer_norm_1): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+        (layer_norm_2): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+        (drop): Dropout(p=0.1)
+      )
+      (4): TransformerDecoderLayer(
+        (self_attn): MultiHeadedAttention(
+          (linear_keys): Linear(in_features=512, out_features=512, bias=True)
+          (linear_values): Linear(in_features=512, out_features=512, bias=True)
+          (linear_query): Linear(in_features=512, out_features=512, bias=True)
+          (softmax): Softmax()
+          (dropout): Dropout(p=0.1)
+          (final_linear): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (context_attn): MultiHeadedAttention(
+          (linear_keys): Linear(in_features=512, out_features=512, bias=True)
+          (linear_values): Linear(in_features=512, out_features=512, bias=True)
+          (linear_query): Linear(in_features=512, out_features=512, bias=True)
+          (softmax): Softmax()
+          (dropout): Dropout(p=0.1)
+          (final_linear): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (feed_forward): PositionwiseFeedForward(
+          (w_1): Linear(in_features=512, out_features=2048, bias=True)
+          (w_2): Linear(in_features=2048, out_features=512, bias=True)
+          (layer_norm): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+          (dropout_1): Dropout(p=0.1)
+          (relu): ReLU()
+          (dropout_2): Dropout(p=0.1)
+        )
+        (layer_norm_1): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+        (layer_norm_2): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+        (drop): Dropout(p=0.1)
+      )
+      (5): TransformerDecoderLayer(
+        (self_attn): MultiHeadedAttention(
+          (linear_keys): Linear(in_features=512, out_features=512, bias=True)
+          (linear_values): Linear(in_features=512, out_features=512, bias=True)
+          (linear_query): Linear(in_features=512, out_features=512, bias=True)
+          (softmax): Softmax()
+          (dropout): Dropout(p=0.1)
+          (final_linear): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (context_attn): MultiHeadedAttention(
+          (linear_keys): Linear(in_features=512, out_features=512, bias=True)
+          (linear_values): Linear(in_features=512, out_features=512, bias=True)
+          (linear_query): Linear(in_features=512, out_features=512, bias=True)
+          (softmax): Softmax()
+          (dropout): Dropout(p=0.1)
+          (final_linear): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (feed_forward): PositionwiseFeedForward(
+          (w_1): Linear(in_features=512, out_features=2048, bias=True)
+          (w_2): Linear(in_features=2048, out_features=512, bias=True)
+          (layer_norm): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+          (dropout_1): Dropout(p=0.1)
+          (relu): ReLU()
+          (dropout_2): Dropout(p=0.1)
+        )
+        (layer_norm_1): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+        (layer_norm_2): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+        (drop): Dropout(p=0.1)
+      )
+    )
+    (layer_norm): LayerNorm(torch.Size([512]), eps=1e-06, elementwise_affine=True)
+  )
+  (generator): Sequential(
+    (0): Linear(in_features=512, out_features=2558, bias=True)
+    (1): Cast()
+    (2): LogSoftmax()
+  )
+)
+[2019-07-31 06:27:07,075 INFO] encoder: 20225024
+[2019-07-31 06:27:07,075 INFO] decoder: 27847166
+[2019-07-31 06:27:07,075 INFO] * number of parameters: 48072190
+[2019-07-31 06:27:07,078 INFO] Starting training on CPU, could be very slow
+[2019-07-31 06:27:07,078 INFO] Start training loop and validate every 100 steps...
+[2019-07-31 06:27:07,079 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 06:27:07,123 INFO] number of examples: 5485
+[2019-07-31 06:29:12,048 INFO] Step 50/10000; acc:   7.60; ppl: 462.63; xent: 6.14; lr: 0.00001; 175/ 77 tok/s;    125 sec
+[2019-07-31 06:31:14,656 INFO] Step 100/10000; acc:  12.60; ppl: 159.63; xent: 5.07; lr: 0.00003; 180/ 69 tok/s;    248 sec
+[2019-07-31 06:31:14,658 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 06:31:14,665 INFO] number of examples: 744
+[2019-07-31 06:32:18,363 INFO] Validation perplexity: 261.685
+[2019-07-31 06:32:18,363 INFO] Validation accuracy: 15.2925
+[2019-07-31 06:34:22,515 INFO] Step 150/10000; acc:  14.11; ppl: 86.72; xent: 4.46; lr: 0.00004; 119/ 45 tok/s;    435 sec
+[2019-07-31 06:36:26,201 INFO] Step 200/10000; acc:  21.70; ppl: 48.92; xent: 3.89; lr: 0.00006; 178/ 74 tok/s;    559 sec
+[2019-07-31 06:36:26,203 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 06:36:26,211 INFO] number of examples: 744
+[2019-07-31 06:37:30,386 INFO] Validation perplexity: 55.362
+[2019-07-31 06:37:30,386 INFO] Validation accuracy: 29.7138
+[2019-07-31 06:39:37,020 INFO] Step 250/10000; acc:  30.57; ppl: 26.95; xent: 3.29; lr: 0.00007; 115/ 48 tok/s;    750 sec
+[2019-07-31 06:40:29,155 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 06:40:29,226 INFO] number of examples: 5485
+[2019-07-31 06:41:43,608 INFO] Step 300/10000; acc:  40.25; ppl: 16.76; xent: 2.82; lr: 0.00009; 173/ 75 tok/s;    877 sec
+[2019-07-31 06:41:43,610 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 06:41:43,616 INFO] number of examples: 744
+[2019-07-31 06:42:48,358 INFO] Validation perplexity: 20.8041
+[2019-07-31 06:42:48,359 INFO] Validation accuracy: 44.7418
+[2019-07-31 06:44:54,977 INFO] Step 350/10000; acc:  45.91; ppl: 12.54; xent: 2.53; lr: 0.00010; 115/ 46 tok/s;   1068 sec
+[2019-07-31 06:47:03,113 INFO] Step 400/10000; acc:  52.18; ppl:  9.06; xent: 2.20; lr: 0.00012; 173/ 70 tok/s;   1196 sec
+[2019-07-31 06:47:03,115 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 06:47:03,122 INFO] number of examples: 744
+[2019-07-31 06:48:09,965 INFO] Validation perplexity: 12.4517
+[2019-07-31 06:48:09,965 INFO] Validation accuracy: 54.0604
+[2019-07-31 06:50:12,608 INFO] Step 450/10000; acc:  52.95; ppl:  8.95; xent: 2.19; lr: 0.00013; 118/ 44 tok/s;   1386 sec
+[2019-07-31 06:52:20,222 INFO] Step 500/10000; acc:  56.93; ppl:  7.12; xent: 1.96; lr: 0.00015; 171/ 75 tok/s;   1513 sec
+[2019-07-31 06:52:20,223 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 06:52:20,229 INFO] number of examples: 744
+[2019-07-31 06:53:24,971 INFO] Validation perplexity: 8.98882
+[2019-07-31 06:53:24,972 INFO] Validation accuracy: 58.7897
+[2019-07-31 06:55:10,394 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 06:55:10,434 INFO] number of examples: 5485
+[2019-07-31 06:55:33,472 INFO] Step 550/10000; acc:  56.84; ppl:  6.70; xent: 1.90; lr: 0.00016; 113/ 51 tok/s;   1706 sec
+[2019-07-31 06:57:40,513 INFO] Step 600/10000; acc:  61.55; ppl:  5.40; xent: 1.69; lr: 0.00018; 173/ 71 tok/s;   1833 sec
+[2019-07-31 06:57:40,515 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 06:57:40,559 INFO] number of examples: 744
+[2019-07-31 06:58:48,598 INFO] Validation perplexity: 7.90028
+[2019-07-31 06:58:48,598 INFO] Validation accuracy: 60.6254
+[2019-07-31 07:00:56,396 INFO] Step 650/10000; acc:  62.06; ppl:  5.04; xent: 1.62; lr: 0.00019; 112/ 44 tok/s;   2029 sec
+[2019-07-31 07:03:04,656 INFO] Step 700/10000; acc:  62.11; ppl:  5.01; xent: 1.61; lr: 0.00021; 174/ 65 tok/s;   2158 sec
+[2019-07-31 07:03:04,658 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 07:03:04,663 INFO] number of examples: 744
+[2019-07-31 07:04:12,076 INFO] Validation perplexity: 6.87656
+[2019-07-31 07:04:12,076 INFO] Validation accuracy: 63.3012
+[2019-07-31 07:06:21,939 INFO] Step 750/10000; acc:  64.34; ppl:  4.64; xent: 1.53; lr: 0.00022; 111/ 49 tok/s;   2355 sec
+[2019-07-31 07:08:34,782 INFO] Step 800/10000; acc:  62.65; ppl:  4.71; xent: 1.55; lr: 0.00023; 166/ 68 tok/s;   2488 sec
+[2019-07-31 07:08:34,785 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 07:08:34,792 INFO] number of examples: 744
+[2019-07-31 07:09:41,722 INFO] Validation perplexity: 6.19467
+[2019-07-31 07:09:41,722 INFO] Validation accuracy: 63.7834
+[2019-07-31 07:10:11,240 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 07:10:11,281 INFO] number of examples: 5485
+[2019-07-31 07:11:51,750 INFO] Step 850/10000; acc:  66.27; ppl:  3.98; xent: 1.38; lr: 0.00023; 111/ 50 tok/s;   2685 sec
+[2019-07-31 07:13:59,153 INFO] Step 900/10000; acc:  67.78; ppl:  3.86; xent: 1.35; lr: 0.00022; 173/ 66 tok/s;   2812 sec
+[2019-07-31 07:13:59,154 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 07:13:59,161 INFO] number of examples: 744
+[2019-07-31 07:15:06,546 INFO] Validation perplexity: 5.70756
+[2019-07-31 07:15:06,546 INFO] Validation accuracy: 64.3591
+[2019-07-31 07:17:16,304 INFO] Step 950/10000; acc:  68.37; ppl:  3.51; xent: 1.26; lr: 0.00021; 113/ 45 tok/s;   3009 sec
+[2019-07-31 07:19:24,330 INFO] Step 1000/10000; acc:  67.93; ppl:  3.71; xent: 1.31; lr: 0.00021; 173/ 70 tok/s;   3137 sec
+[2019-07-31 07:19:24,332 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 07:19:24,338 INFO] number of examples: 744
+[2019-07-31 07:20:32,025 INFO] Validation perplexity: 4.67281
+[2019-07-31 07:20:32,025 INFO] Validation accuracy: 69.135
+[2019-07-31 07:20:32,039 INFO] Saving checkpoint CQR_valid_100_step_1000.pt
+[2019-07-31 07:22:42,616 INFO] Step 1050/10000; acc:  70.68; ppl:  3.31; xent: 1.20; lr: 0.00020; 110/ 49 tok/s;   3336 sec
+[2019-07-31 07:24:04,879 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 07:24:04,949 INFO] number of examples: 5485
+[2019-07-31 07:24:49,661 INFO] Step 1100/10000; acc:  71.01; ppl:  3.16; xent: 1.15; lr: 0.00020; 174/ 73 tok/s;   3463 sec
+[2019-07-31 07:24:49,663 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 07:24:49,670 INFO] number of examples: 744
+[2019-07-31 07:25:54,012 INFO] Validation perplexity: 4.55414
+[2019-07-31 07:25:54,012 INFO] Validation accuracy: 69.8973
+[2019-07-31 07:27:59,856 INFO] Step 1150/10000; acc:  73.24; ppl:  2.86; xent: 1.05; lr: 0.00020; 115/ 48 tok/s;   3653 sec
+[2019-07-31 07:30:04,722 INFO] Step 1200/10000; acc:  74.70; ppl:  2.77; xent: 1.02; lr: 0.00019; 177/ 69 tok/s;   3778 sec
+[2019-07-31 07:30:04,724 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 07:30:04,732 INFO] number of examples: 744
+[2019-07-31 07:31:09,247 INFO] Validation perplexity: 4.14699
+[2019-07-31 07:31:09,247 INFO] Validation accuracy: 72.0597
+[2019-07-31 07:33:12,198 INFO] Step 1250/10000; acc:  74.27; ppl:  2.75; xent: 1.01; lr: 0.00019; 119/ 44 tok/s;   3965 sec
+[2019-07-31 07:35:23,413 INFO] Step 1300/10000; acc:  76.61; ppl:  2.54; xent: 0.93; lr: 0.00018; 167/ 74 tok/s;   4096 sec
+[2019-07-31 07:35:23,415 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 07:35:23,422 INFO] number of examples: 744
+[2019-07-31 07:36:30,846 INFO] Validation perplexity: 3.93802
+[2019-07-31 07:36:30,846 INFO] Validation accuracy: 73.3665
+[2019-07-31 07:38:43,789 INFO] Step 1350/10000; acc:  74.67; ppl:  2.67; xent: 0.98; lr: 0.00018; 110/ 46 tok/s;   4297 sec
+[2019-07-31 07:38:49,985 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 07:38:50,029 INFO] number of examples: 5485
+[2019-07-31 07:40:51,152 INFO] Step 1400/10000; acc:  77.01; ppl:  2.49; xent: 0.91; lr: 0.00018; 172/ 77 tok/s;   4424 sec
+[2019-07-31 07:40:51,153 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 07:40:51,161 INFO] number of examples: 744
+[2019-07-31 07:41:56,815 INFO] Validation perplexity: 3.67928
+[2019-07-31 07:41:56,816 INFO] Validation accuracy: 74.5333
+[2019-07-31 07:44:01,448 INFO] Step 1450/10000; acc:  78.86; ppl:  2.34; xent: 0.85; lr: 0.00017; 116/ 44 tok/s;   4614 sec
+[2019-07-31 07:46:07,850 INFO] Step 1500/10000; acc:  77.59; ppl:  2.37; xent: 0.86; lr: 0.00017; 176/ 68 tok/s;   4741 sec
+[2019-07-31 07:46:07,851 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 07:46:07,858 INFO] number of examples: 744
+[2019-07-31 07:47:13,551 INFO] Validation perplexity: 3.60673
+[2019-07-31 07:47:13,552 INFO] Validation accuracy: 75.0778
+[2019-07-31 07:49:18,822 INFO] Step 1550/10000; acc:  79.37; ppl:  2.25; xent: 0.81; lr: 0.00017; 116/ 48 tok/s;   4932 sec
+[2019-07-31 07:51:26,762 INFO] Step 1600/10000; acc:  78.64; ppl:  2.26; xent: 0.82; lr: 0.00017; 171/ 70 tok/s;   5060 sec
+[2019-07-31 07:51:26,764 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 07:51:26,771 INFO] number of examples: 744
+[2019-07-31 07:52:30,726 INFO] Validation perplexity: 3.73694
+[2019-07-31 07:52:30,726 INFO] Validation accuracy: 73.7243
+[2019-07-31 07:53:29,202 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 07:53:29,263 INFO] number of examples: 5485
+[2019-07-31 07:54:35,477 INFO] Step 1650/10000; acc:  79.70; ppl:  2.19; xent: 0.78; lr: 0.00016; 116/ 51 tok/s;   5248 sec
+[2019-07-31 07:56:39,940 INFO] Step 1700/10000; acc:  80.73; ppl:  2.12; xent: 0.75; lr: 0.00016; 177/ 72 tok/s;   5373 sec
+[2019-07-31 07:56:39,941 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 07:56:39,948 INFO] number of examples: 744
+[2019-07-31 07:57:45,155 INFO] Validation perplexity: 3.43234
+[2019-07-31 07:57:45,155 INFO] Validation accuracy: 76.089
+[2019-07-31 07:59:51,557 INFO] Step 1750/10000; acc:  81.31; ppl:  2.06; xent: 0.72; lr: 0.00016; 116/ 45 tok/s;   5564 sec
+[2019-07-31 08:01:56,845 INFO] Step 1800/10000; acc:  82.35; ppl:  2.02; xent: 0.70; lr: 0.00016; 178/ 70 tok/s;   5690 sec
+[2019-07-31 08:01:56,847 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 08:01:56,853 INFO] number of examples: 744
+[2019-07-31 08:03:00,125 INFO] Validation perplexity: 3.1764
+[2019-07-31 08:03:00,125 INFO] Validation accuracy: 77.6447
+[2019-07-31 08:05:04,155 INFO] Step 1850/10000; acc:  84.42; ppl:  1.86; xent: 0.62; lr: 0.00015; 117/ 50 tok/s;   5877 sec
+[2019-07-31 08:06:56,616 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 08:06:56,657 INFO] number of examples: 5485
+[2019-07-31 08:07:13,634 INFO] Step 1900/10000; acc:  81.04; ppl:  2.05; xent: 0.72; lr: 0.00015; 170/ 72 tok/s;   6007 sec
+[2019-07-31 08:07:13,636 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 08:07:13,675 INFO] number of examples: 744
+[2019-07-31 08:08:18,912 INFO] Validation perplexity: 3.17679
+[2019-07-31 08:08:18,912 INFO] Validation accuracy: 78.0492
+[2019-07-31 08:10:23,526 INFO] Step 1950/10000; acc:  84.25; ppl:  1.85; xent: 0.62; lr: 0.00015; 116/ 51 tok/s;   6196 sec
+[2019-07-31 08:12:26,388 INFO] Step 2000/10000; acc:  84.71; ppl:  1.82; xent: 0.60; lr: 0.00015; 178/ 69 tok/s;   6319 sec
+[2019-07-31 08:12:26,389 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 08:12:26,395 INFO] number of examples: 744
+[2019-07-31 08:13:29,892 INFO] Validation perplexity: 3.21399
+[2019-07-31 08:13:29,892 INFO] Validation accuracy: 77.5513
+[2019-07-31 08:13:29,906 INFO] Saving checkpoint CQR_valid_100_step_2000.pt
+[2019-07-31 08:15:34,502 INFO] Step 2050/10000; acc:  83.80; ppl:  1.86; xent: 0.62; lr: 0.00015; 119/ 44 tok/s;   6507 sec
+[2019-07-31 08:17:39,018 INFO] Step 2100/10000; acc:  85.58; ppl:  1.77; xent: 0.57; lr: 0.00014; 177/ 75 tok/s;   6632 sec
+[2019-07-31 08:17:39,020 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 08:17:39,026 INFO] number of examples: 744
+[2019-07-31 08:18:42,517 INFO] Validation perplexity: 3.05364
+[2019-07-31 08:18:42,518 INFO] Validation accuracy: 78.6559
+[2019-07-31 08:20:48,495 INFO] Step 2150/10000; acc:  83.62; ppl:  1.85; xent: 0.62; lr: 0.00014; 116/ 48 tok/s;   6821 sec
+[2019-07-31 08:21:24,584 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 08:21:24,625 INFO] number of examples: 5485
+[2019-07-31 08:22:52,071 INFO] Step 2200/10000; acc:  85.74; ppl:  1.73; xent: 0.55; lr: 0.00014; 176/ 78 tok/s;   6945 sec
+[2019-07-31 08:22:52,072 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 08:22:52,079 INFO] number of examples: 744
+[2019-07-31 08:23:56,251 INFO] Validation perplexity: 3.07892
+[2019-07-31 08:23:56,251 INFO] Validation accuracy: 78.5781
+[2019-07-31 08:25:58,944 INFO] Step 2250/10000; acc:  85.61; ppl:  1.76; xent: 0.56; lr: 0.00014; 118/ 46 tok/s;   7132 sec
+[2019-07-31 08:28:04,273 INFO] Step 2300/10000; acc:  87.86; ppl:  1.63; xent: 0.49; lr: 0.00014; 178/ 72 tok/s;   7257 sec
+[2019-07-31 08:28:04,274 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 08:28:04,280 INFO] number of examples: 744
+[2019-07-31 08:29:07,499 INFO] Validation perplexity: 3.04565
+[2019-07-31 08:29:07,499 INFO] Validation accuracy: 79.1226
+[2019-07-31 08:31:08,084 INFO] Step 2350/10000; acc:  86.09; ppl:  1.71; xent: 0.54; lr: 0.00014; 120/ 49 tok/s;   7441 sec
+[2019-07-31 08:33:13,357 INFO] Step 2400/10000; acc:  87.25; ppl:  1.65; xent: 0.50; lr: 0.00014; 175/ 75 tok/s;   7566 sec
+[2019-07-31 08:33:13,359 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 08:33:13,366 INFO] number of examples: 744
+[2019-07-31 08:34:17,183 INFO] Validation perplexity: 2.99089
+[2019-07-31 08:34:17,183 INFO] Validation accuracy: 79.3871
+[2019-07-31 08:35:44,535 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 08:35:44,602 INFO] number of examples: 5485
+[2019-07-31 08:36:24,590 INFO] Step 2450/10000; acc:  86.34; ppl:  1.68; xent: 0.52; lr: 0.00013; 115/ 50 tok/s;   7758 sec
+[2019-07-31 08:38:27,233 INFO] Step 2500/10000; acc:  88.81; ppl:  1.55; xent: 0.44; lr: 0.00013; 179/ 73 tok/s;   7880 sec
+[2019-07-31 08:38:27,234 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 08:38:27,241 INFO] number of examples: 744
+[2019-07-31 08:39:31,595 INFO] Validation perplexity: 3.00528
+[2019-07-31 08:39:31,596 INFO] Validation accuracy: 79.2782
+[2019-07-31 08:41:35,081 INFO] Step 2550/10000; acc:  89.02; ppl:  1.55; xent: 0.44; lr: 0.00013; 117/ 47 tok/s;   8068 sec
+[2019-07-31 08:43:36,241 INFO] Step 2600/10000; acc:  87.56; ppl:  1.62; xent: 0.48; lr: 0.00013; 184/ 68 tok/s;   8189 sec
+[2019-07-31 08:43:36,243 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 08:43:36,248 INFO] number of examples: 744
+[2019-07-31 08:44:39,757 INFO] Validation perplexity: 2.97888
+[2019-07-31 08:44:39,757 INFO] Validation accuracy: 79.5737
+[2019-07-31 08:46:43,433 INFO] Step 2650/10000; acc:  90.25; ppl:  1.50; xent: 0.41; lr: 0.00013; 117/ 51 tok/s;   8376 sec
+[2019-07-31 08:48:50,497 INFO] Step 2700/10000; acc:  88.44; ppl:  1.57; xent: 0.45; lr: 0.00013; 173/ 73 tok/s;   8503 sec
+[2019-07-31 08:48:50,498 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 08:48:50,506 INFO] number of examples: 744
+[2019-07-31 08:49:54,221 INFO] Validation perplexity: 2.92274
+[2019-07-31 08:49:54,221 INFO] Validation accuracy: 80.1805
+[2019-07-31 08:50:07,784 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 08:50:07,823 INFO] number of examples: 5485
+[2019-07-31 08:52:00,439 INFO] Step 2750/10000; acc:  88.71; ppl:  1.57; xent: 0.45; lr: 0.00013; 115/ 52 tok/s;   8693 sec
+[2019-07-31 08:54:04,165 INFO] Step 2800/10000; acc:  90.53; ppl:  1.46; xent: 0.38; lr: 0.00013; 178/ 68 tok/s;   8817 sec
+[2019-07-31 08:54:04,167 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 08:54:04,173 INFO] number of examples: 744
+[2019-07-31 08:55:07,973 INFO] Validation perplexity: 2.87686
+[2019-07-31 08:55:07,973 INFO] Validation accuracy: 80.0249
+[2019-07-31 08:57:10,257 INFO] Step 2850/10000; acc:  90.24; ppl:  1.48; xent: 0.39; lr: 0.00012; 120/ 46 tok/s;   9003 sec
+[2019-07-31 08:59:12,904 INFO] Step 2900/10000; acc:  91.36; ppl:  1.44; xent: 0.36; lr: 0.00012; 180/ 75 tok/s;   9126 sec
+[2019-07-31 08:59:12,906 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 08:59:12,914 INFO] number of examples: 744
+[2019-07-31 09:00:15,738 INFO] Validation perplexity: 2.8545
+[2019-07-31 09:00:15,738 INFO] Validation accuracy: 80.7561
+[2019-07-31 09:02:20,988 INFO] Step 2950/10000; acc:  90.69; ppl:  1.46; xent: 0.38; lr: 0.00012; 117/ 49 tok/s;   9314 sec
+[2019-07-31 09:03:24,688 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 09:03:24,751 INFO] number of examples: 5485
+[2019-07-31 09:04:26,269 INFO] Step 3000/10000; acc:  91.45; ppl:  1.43; xent: 0.35; lr: 0.00012; 176/ 76 tok/s;   9439 sec
+[2019-07-31 09:04:26,271 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 09:04:26,277 INFO] number of examples: 744
+[2019-07-31 09:05:29,593 INFO] Validation perplexity: 2.7665
+[2019-07-31 09:05:29,593 INFO] Validation accuracy: 81.3939
+[2019-07-31 09:05:29,607 INFO] Saving checkpoint CQR_valid_100_step_3000.pt
+[2019-07-31 09:07:35,083 INFO] Step 3050/10000; acc:  90.91; ppl:  1.44; xent: 0.36; lr: 0.00012; 116/ 47 tok/s;   9628 sec
+[2019-07-31 09:09:39,478 INFO] Step 3100/10000; acc:  91.91; ppl:  1.40; xent: 0.33; lr: 0.00012; 178/ 70 tok/s;   9752 sec
+[2019-07-31 09:09:39,480 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 09:09:39,487 INFO] number of examples: 744
+[2019-07-31 09:10:43,125 INFO] Validation perplexity: 2.87287
+[2019-07-31 09:10:43,125 INFO] Validation accuracy: 80.4294
+[2019-07-31 09:12:44,395 INFO] Step 3150/10000; acc:  92.42; ppl:  1.38; xent: 0.32; lr: 0.00012; 120/ 46 tok/s;   9937 sec
+[2019-07-31 09:14:51,002 INFO] Step 3200/10000; acc:  92.99; ppl:  1.35; xent: 0.30; lr: 0.00012; 173/ 76 tok/s;  10064 sec
+[2019-07-31 09:14:51,003 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 09:14:51,009 INFO] number of examples: 744
+[2019-07-31 09:15:56,058 INFO] Validation perplexity: 2.78195
+[2019-07-31 09:15:56,058 INFO] Validation accuracy: 81.5806
+[2019-07-31 09:17:57,537 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 09:17:57,634 INFO] number of examples: 5485
+[2019-07-31 09:18:07,496 INFO] Step 3250/10000; acc:  91.75; ppl:  1.42; xent: 0.35; lr: 0.00012; 112/ 48 tok/s;  10260 sec
+[2019-07-31 09:20:18,131 INFO] Step 3300/10000; acc:  93.31; ppl:  1.35; xent: 0.30; lr: 0.00012; 168/ 75 tok/s;  10391 sec
+[2019-07-31 09:20:18,133 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 09:20:18,140 INFO] number of examples: 744
+[2019-07-31 09:21:26,065 INFO] Validation perplexity: 2.80236
+[2019-07-31 09:21:26,065 INFO] Validation accuracy: 81.565
+[2019-07-31 09:23:34,043 INFO] Step 3350/10000; acc:  93.25; ppl:  1.33; xent: 0.29; lr: 0.00011; 112/ 43 tok/s;  10587 sec
+[2019-07-31 09:25:43,302 INFO] Step 3400/10000; acc:  93.10; ppl:  1.35; xent: 0.30; lr: 0.00011; 172/ 66 tok/s;  10716 sec
+[2019-07-31 09:25:43,304 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 09:25:43,310 INFO] number of examples: 744
+[2019-07-31 09:26:50,562 INFO] Validation perplexity: 2.78456
+[2019-07-31 09:26:50,563 INFO] Validation accuracy: 81.6739
+[2019-07-31 09:28:59,672 INFO] Step 3450/10000; acc:  94.37; ppl:  1.30; xent: 0.26; lr: 0.00011; 112/ 47 tok/s;  10913 sec
+[2019-07-31 09:31:13,761 INFO] Step 3500/10000; acc:  93.72; ppl:  1.33; xent: 0.29; lr: 0.00011; 164/ 67 tok/s;  11047 sec
+[2019-07-31 09:31:13,763 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 09:31:13,770 INFO] number of examples: 744
+[2019-07-31 09:32:20,685 INFO] Validation perplexity: 2.79779
+[2019-07-31 09:32:20,685 INFO] Validation accuracy: 81.0672
+[2019-07-31 09:33:04,068 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 09:33:04,109 INFO] number of examples: 5485
+[2019-07-31 09:34:31,515 INFO] Step 3550/10000; acc:  94.53; ppl:  1.29; xent: 0.26; lr: 0.00011; 111/ 48 tok/s;  11244 sec
+[2019-07-31 09:36:34,827 INFO] Step 3600/10000; acc:  93.84; ppl:  1.32; xent: 0.28; lr: 0.00011; 179/ 71 tok/s;  11368 sec
+[2019-07-31 09:36:34,829 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 09:36:34,835 INFO] number of examples: 744
+[2019-07-31 09:37:39,235 INFO] Validation perplexity: 2.80638
+[2019-07-31 09:37:39,235 INFO] Validation accuracy: 81.6273
+[2019-07-31 09:39:42,648 INFO] Step 3650/10000; acc:  95.07; ppl:  1.26; xent: 0.23; lr: 0.00011; 118/ 46 tok/s;  11556 sec
+[2019-07-31 09:41:45,775 INFO] Step 3700/10000; acc:  94.10; ppl:  1.31; xent: 0.27; lr: 0.00011; 180/ 72 tok/s;  11679 sec
+[2019-07-31 09:41:45,776 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 09:41:45,784 INFO] number of examples: 744
+[2019-07-31 09:42:48,271 INFO] Validation perplexity: 2.75248
+[2019-07-31 09:42:48,272 INFO] Validation accuracy: 81.8295
+[2019-07-31 09:44:51,654 INFO] Step 3750/10000; acc:  95.83; ppl:  1.25; xent: 0.23; lr: 0.00011; 118/ 51 tok/s;  11865 sec
+[2019-07-31 09:46:27,173 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 09:46:27,239 INFO] number of examples: 5485
+[2019-07-31 09:46:58,212 INFO] Step 3800/10000; acc:  94.27; ppl:  1.29; xent: 0.26; lr: 0.00011; 174/ 75 tok/s;  11991 sec
+[2019-07-31 09:46:58,214 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 09:46:58,220 INFO] number of examples: 744
+[2019-07-31 09:48:04,717 INFO] Validation perplexity: 2.80342
+[2019-07-31 09:48:04,717 INFO] Validation accuracy: 81.6895
+[2019-07-31 09:50:13,484 INFO] Step 3850/10000; acc:  95.22; ppl:  1.25; xent: 0.22; lr: 0.00011; 112/ 47 tok/s;  12186 sec
+[2019-07-31 09:52:23,284 INFO] Step 3900/10000; acc:  95.49; ppl:  1.24; xent: 0.22; lr: 0.00011; 170/ 66 tok/s;  12316 sec
+[2019-07-31 09:52:23,286 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 09:52:23,293 INFO] number of examples: 744
+[2019-07-31 09:53:25,554 INFO] Validation perplexity: 2.77415
+[2019-07-31 09:53:25,555 INFO] Validation accuracy: 81.8139
+[2019-07-31 09:55:25,718 INFO] Step 3950/10000; acc:  95.15; ppl:  1.25; xent: 0.23; lr: 0.00011; 122/ 46 tok/s;  12499 sec
+[2019-07-31 09:57:31,158 INFO] Step 4000/10000; acc:  96.15; ppl:  1.22; xent: 0.20; lr: 0.00010; 175/ 75 tok/s;  12624 sec
+[2019-07-31 09:57:31,160 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 09:57:31,168 INFO] number of examples: 744
+[2019-07-31 09:58:36,803 INFO] Validation perplexity: 2.80899
+[2019-07-31 09:58:36,803 INFO] Validation accuracy: 81.9695
+[2019-07-31 09:58:36,817 INFO] Saving checkpoint CQR_valid_100_step_4000.pt
+[2019-07-31 10:00:54,741 INFO] Step 4050/10000; acc:  95.76; ppl:  1.25; xent: 0.22; lr: 0.00010; 108/ 46 tok/s;  12828 sec
+[2019-07-31 10:01:14,231 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 10:01:14,272 INFO] number of examples: 5485
+[2019-07-31 10:03:06,541 INFO] Step 4100/10000; acc:  95.55; ppl:  1.25; xent: 0.22; lr: 0.00010; 165/ 74 tok/s;  12959 sec
+[2019-07-31 10:03:06,543 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 10:03:06,550 INFO] number of examples: 744
+[2019-07-31 10:04:14,950 INFO] Validation perplexity: 2.72155
+[2019-07-31 10:04:14,950 INFO] Validation accuracy: 82.4518
+[2019-07-31 10:06:23,157 INFO] Step 4150/10000; acc:  96.00; ppl:  1.22; xent: 0.20; lr: 0.00010; 112/ 42 tok/s;  13156 sec
+[2019-07-31 10:08:34,146 INFO] Step 4200/10000; acc:  95.77; ppl:  1.23; xent: 0.21; lr: 0.00010; 170/ 68 tok/s;  13287 sec
+[2019-07-31 10:08:34,148 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 10:08:34,154 INFO] number of examples: 744
+[2019-07-31 10:09:39,430 INFO] Validation perplexity: 2.7846
+[2019-07-31 10:09:39,430 INFO] Validation accuracy: 81.6428
+[2019-07-31 10:11:40,216 INFO] Step 4250/10000; acc:  96.09; ppl:  1.23; xent: 0.20; lr: 0.00010; 119/ 49 tok/s;  13473 sec
+[2019-07-31 10:13:45,213 INFO] Step 4300/10000; acc:  96.51; ppl:  1.21; xent: 0.19; lr: 0.00010; 175/ 76 tok/s;  13598 sec
+[2019-07-31 10:13:45,215 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 10:13:45,249 INFO] number of examples: 744
+[2019-07-31 10:14:48,067 INFO] Validation perplexity: 2.75376
+[2019-07-31 10:14:48,067 INFO] Validation accuracy: 82.5296
+[2019-07-31 10:15:58,031 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 10:15:58,072 INFO] number of examples: 5485
+[2019-07-31 10:16:51,802 INFO] Step 4350/10000; acc:  96.54; ppl:  1.21; xent: 0.19; lr: 0.00010; 118/ 51 tok/s;  13785 sec
+[2019-07-31 10:18:54,380 INFO] Step 4400/10000; acc:  96.60; ppl:  1.20; xent: 0.18; lr: 0.00010; 178/ 73 tok/s;  13907 sec
+[2019-07-31 10:18:54,382 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 10:18:54,388 INFO] number of examples: 744
+[2019-07-31 10:19:57,569 INFO] Validation perplexity: 2.78205
+[2019-07-31 10:19:57,569 INFO] Validation accuracy: 81.8451
+[2019-07-31 10:21:58,858 INFO] Step 4450/10000; acc:  97.20; ppl:  1.18; xent: 0.17; lr: 0.00010; 120/ 46 tok/s;  14092 sec
+[2019-07-31 10:23:59,556 INFO] Step 4500/10000; acc:  96.99; ppl:  1.19; xent: 0.17; lr: 0.00010; 185/ 69 tok/s;  14212 sec
+[2019-07-31 10:23:59,557 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 10:23:59,566 INFO] number of examples: 744
+[2019-07-31 10:25:02,843 INFO] Validation perplexity: 2.74077
+[2019-07-31 10:25:02,843 INFO] Validation accuracy: 82.4051
+[2019-07-31 10:27:06,497 INFO] Step 4550/10000; acc:  97.22; ppl:  1.18; xent: 0.16; lr: 0.00010; 117/ 52 tok/s;  14399 sec
+[2019-07-31 10:29:08,007 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 10:29:08,046 INFO] number of examples: 5485
+[2019-07-31 10:29:12,609 INFO] Step 4600/10000; acc:  96.65; ppl:  1.20; xent: 0.18; lr: 0.00010; 174/ 73 tok/s;  14526 sec
+[2019-07-31 10:29:12,611 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 10:29:12,616 INFO] number of examples: 744
+[2019-07-31 10:30:15,322 INFO] Validation perplexity: 2.73814
+[2019-07-31 10:30:15,323 INFO] Validation accuracy: 82.5296
+[2019-07-31 10:32:18,786 INFO] Step 4650/10000; acc:  97.16; ppl:  1.18; xent: 0.17; lr: 0.00010; 117/ 52 tok/s;  14712 sec
+[2019-07-31 10:34:19,201 INFO] Step 4700/10000; acc:  97.78; ppl:  1.16; xent: 0.15; lr: 0.00010; 183/ 69 tok/s;  14832 sec
+[2019-07-31 10:34:19,203 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 10:34:19,210 INFO] number of examples: 744
+[2019-07-31 10:35:21,670 INFO] Validation perplexity: 2.69334
+[2019-07-31 10:35:21,670 INFO] Validation accuracy: 82.4829
+[2019-07-31 10:37:26,807 INFO] Step 4750/10000; acc:  97.54; ppl:  1.16; xent: 0.15; lr: 0.00010; 119/ 46 tok/s;  15020 sec
+[2019-07-31 10:39:36,927 INFO] Step 4800/10000; acc:  97.63; ppl:  1.17; xent: 0.16; lr: 0.00010; 170/ 71 tok/s;  15150 sec
+[2019-07-31 10:39:36,929 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 10:39:36,936 INFO] number of examples: 744
+[2019-07-31 10:40:45,011 INFO] Validation perplexity: 2.77595
+[2019-07-31 10:40:45,011 INFO] Validation accuracy: 82.4207
+[2019-07-31 10:42:52,227 INFO] Step 4850/10000; acc:  97.46; ppl:  1.17; xent: 0.16; lr: 0.00010; 112/ 47 tok/s;  15345 sec
+[2019-07-31 10:43:42,346 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 10:43:42,386 INFO] number of examples: 5485
+[2019-07-31 10:45:00,218 INFO] Step 4900/10000; acc:  97.61; ppl:  1.17; xent: 0.16; lr: 0.00009; 171/ 75 tok/s;  15473 sec
+[2019-07-31 10:45:00,220 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 10:45:00,228 INFO] number of examples: 744
+[2019-07-31 10:46:06,076 INFO] Validation perplexity: 2.77417
+[2019-07-31 10:46:06,076 INFO] Validation accuracy: 82.6073
+[2019-07-31 10:48:12,530 INFO] Step 4950/10000; acc:  97.69; ppl:  1.17; xent: 0.15; lr: 0.00009; 115/ 47 tok/s;  15665 sec
+[2019-07-31 10:50:14,414 INFO] Step 5000/10000; acc:  98.13; ppl:  1.14; xent: 0.13; lr: 0.00009; 182/ 72 tok/s;  15787 sec
+[2019-07-31 10:50:14,416 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 10:50:14,423 INFO] number of examples: 744
+[2019-07-31 10:51:18,485 INFO] Validation perplexity: 2.76593
+[2019-07-31 10:51:18,485 INFO] Validation accuracy: 82.6385
+[2019-07-31 10:51:18,500 INFO] Saving checkpoint CQR_valid_100_step_5000.pt
+[2019-07-31 10:53:29,649 INFO] Step 5050/10000; acc:  97.65; ppl:  1.16; xent: 0.15; lr: 0.00009; 114/ 45 tok/s;  15983 sec
+[2019-07-31 10:55:40,581 INFO] Step 5100/10000; acc:  98.02; ppl:  1.15; xent: 0.14; lr: 0.00009; 167/ 70 tok/s;  16114 sec
+[2019-07-31 10:55:40,583 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 10:55:40,589 INFO] number of examples: 744
+[2019-07-31 10:56:48,279 INFO] Validation perplexity: 2.78812
+[2019-07-31 10:56:48,280 INFO] Validation accuracy: 82.6851
+[2019-07-31 10:58:33,015 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 10:58:33,108 INFO] number of examples: 5485
+[2019-07-31 10:59:01,618 INFO] Step 5150/10000; acc:  97.71; ppl:  1.16; xent: 0.15; lr: 0.00009; 109/ 49 tok/s;  16315 sec
+[2019-07-31 11:01:10,551 INFO] Step 5200/10000; acc:  98.09; ppl:  1.15; xent: 0.14; lr: 0.00009; 170/ 69 tok/s;  16443 sec
+[2019-07-31 11:01:10,553 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 11:01:10,560 INFO] number of examples: 744
+[2019-07-31 11:02:18,668 INFO] Validation perplexity: 2.78362
+[2019-07-31 11:02:18,668 INFO] Validation accuracy: 82.6385
+[2019-07-31 11:04:30,004 INFO] Step 5250/10000; acc:  98.40; ppl:  1.13; xent: 0.12; lr: 0.00009; 110/ 44 tok/s;  16643 sec
+[2019-07-31 11:06:37,512 INFO] Step 5300/10000; acc:  98.03; ppl:  1.14; xent: 0.13; lr: 0.00009; 175/ 66 tok/s;  16770 sec
+[2019-07-31 11:06:37,513 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 11:06:37,521 INFO] number of examples: 744
+[2019-07-31 11:07:39,587 INFO] Validation perplexity: 2.77749
+[2019-07-31 11:07:39,588 INFO] Validation accuracy: 82.8718
+[2019-07-31 11:09:42,174 INFO] Step 5350/10000; acc:  98.23; ppl:  1.13; xent: 0.13; lr: 0.00009; 119/ 52 tok/s;  16955 sec
+[2019-07-31 11:11:48,476 INFO] Step 5400/10000; acc:  97.97; ppl:  1.15; xent: 0.14; lr: 0.00009; 175/ 72 tok/s;  17081 sec
+[2019-07-31 11:11:48,477 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 11:11:48,483 INFO] number of examples: 744
+[2019-07-31 11:12:51,011 INFO] Validation perplexity: 2.78901
+[2019-07-31 11:12:51,011 INFO] Validation accuracy: 82.2184
+[2019-07-31 11:13:16,546 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 11:13:16,585 INFO] number of examples: 5485
+[2019-07-31 11:14:53,938 INFO] Step 5450/10000; acc:  98.43; ppl:  1.13; xent: 0.12; lr: 0.00009; 117/ 52 tok/s;  17267 sec
+[2019-07-31 11:16:56,075 INFO] Step 5500/10000; acc:  98.30; ppl:  1.13; xent: 0.12; lr: 0.00009; 181/ 69 tok/s;  17389 sec
+[2019-07-31 11:16:56,077 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 11:16:56,084 INFO] number of examples: 744
+[2019-07-31 11:17:59,843 INFO] Validation perplexity: 2.78972
+[2019-07-31 11:17:59,843 INFO] Validation accuracy: 83.1829
+[2019-07-31 11:20:02,782 INFO] Step 5550/10000; acc:  98.73; ppl:  1.12; xent: 0.11; lr: 0.00009; 119/ 47 tok/s;  17576 sec
+[2019-07-31 11:22:03,474 INFO] Step 5600/10000; acc:  98.63; ppl:  1.13; xent: 0.12; lr: 0.00009; 183/ 75 tok/s;  17696 sec
+[2019-07-31 11:22:03,476 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 11:22:03,482 INFO] number of examples: 744
+[2019-07-31 11:23:05,435 INFO] Validation perplexity: 2.73923
+[2019-07-31 11:23:05,435 INFO] Validation accuracy: 83.1674
+[2019-07-31 11:25:09,105 INFO] Step 5650/10000; acc:  98.47; ppl:  1.12; xent: 0.12; lr: 0.00009; 118/ 52 tok/s;  17882 sec
+[2019-07-31 11:26:23,122 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 11:26:23,188 INFO] number of examples: 5485
+[2019-07-31 11:27:11,834 INFO] Step 5700/10000; acc:  98.47; ppl:  1.12; xent: 0.12; lr: 0.00009; 180/ 75 tok/s;  18005 sec
+[2019-07-31 11:27:11,835 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 11:27:11,842 INFO] number of examples: 744
+[2019-07-31 11:28:14,239 INFO] Validation perplexity: 2.85822
+[2019-07-31 11:28:14,239 INFO] Validation accuracy: 82.934
+[2019-07-31 11:30:17,063 INFO] Step 5750/10000; acc:  98.44; ppl:  1.13; xent: 0.12; lr: 0.00009; 118/ 49 tok/s;  18190 sec
+[2019-07-31 11:32:19,345 INFO] Step 5800/10000; acc:  98.96; ppl:  1.11; xent: 0.11; lr: 0.00009; 181/ 71 tok/s;  18312 sec
+[2019-07-31 11:32:19,347 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 11:32:19,355 INFO] number of examples: 744
+[2019-07-31 11:33:22,667 INFO] Validation perplexity: 2.75906
+[2019-07-31 11:33:22,667 INFO] Validation accuracy: 83.2141
+[2019-07-31 11:35:23,510 INFO] Step 5850/10000; acc:  98.58; ppl:  1.12; xent: 0.11; lr: 0.00009; 121/ 45 tok/s;  18496 sec
+[2019-07-31 11:37:28,900 INFO] Step 5900/10000; acc:  98.94; ppl:  1.11; xent: 0.10; lr: 0.00009; 175/ 78 tok/s;  18622 sec
+[2019-07-31 11:37:28,901 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 11:37:28,907 INFO] number of examples: 744
+[2019-07-31 11:38:31,969 INFO] Validation perplexity: 2.80862
+[2019-07-31 11:38:31,969 INFO] Validation accuracy: 82.5762
+[2019-07-31 11:40:37,084 INFO] Step 5950/10000; acc:  98.77; ppl:  1.12; xent: 0.11; lr: 0.00009; 117/ 49 tok/s;  18810 sec
+[2019-07-31 11:40:39,829 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 11:40:39,903 INFO] number of examples: 5485
+[2019-07-31 11:42:40,516 INFO] Step 6000/10000; acc:  98.65; ppl:  1.12; xent: 0.11; lr: 0.00009; 177/ 78 tok/s;  18933 sec
+[2019-07-31 11:42:40,518 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 11:42:40,525 INFO] number of examples: 744
+[2019-07-31 11:43:44,029 INFO] Validation perplexity: 2.76449
+[2019-07-31 11:43:44,029 INFO] Validation accuracy: 82.9963
+[2019-07-31 11:43:44,043 INFO] Saving checkpoint CQR_valid_100_step_6000.pt
+[2019-07-31 11:45:48,157 INFO] Step 6050/10000; acc:  98.75; ppl:  1.11; xent: 0.10; lr: 0.00009; 117/ 45 tok/s;  19121 sec
+[2019-07-31 11:47:51,074 INFO] Step 6100/10000; acc:  98.86; ppl:  1.11; xent: 0.10; lr: 0.00008; 181/ 69 tok/s;  19244 sec
+[2019-07-31 11:47:51,076 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 11:47:51,083 INFO] number of examples: 744
+[2019-07-31 11:48:53,966 INFO] Validation perplexity: 2.75497
+[2019-07-31 11:48:53,966 INFO] Validation accuracy: 83.2141
+[2019-07-31 11:50:54,805 INFO] Step 6150/10000; acc:  99.08; ppl:  1.10; xent: 0.09; lr: 0.00008; 120/ 51 tok/s;  19428 sec
+[2019-07-31 11:52:58,401 INFO] Step 6200/10000; acc:  98.85; ppl:  1.11; xent: 0.10; lr: 0.00008; 177/ 72 tok/s;  19551 sec
+[2019-07-31 11:52:58,402 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 11:52:58,409 INFO] number of examples: 744
+[2019-07-31 11:54:00,998 INFO] Validation perplexity: 2.81836
+[2019-07-31 11:54:00,999 INFO] Validation accuracy: 83.0429
+[2019-07-31 11:54:53,922 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 11:54:53,961 INFO] number of examples: 5485
+[2019-07-31 11:56:03,582 INFO] Step 6250/10000; acc:  98.94; ppl:  1.10; xent: 0.10; lr: 0.00008; 118/ 51 tok/s;  19737 sec
+[2019-07-31 11:58:09,985 INFO] Step 6300/10000; acc:  98.91; ppl:  1.11; xent: 0.10; lr: 0.00008; 174/ 71 tok/s;  19863 sec
+[2019-07-31 11:58:09,986 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 11:58:09,995 INFO] number of examples: 744
+[2019-07-31 11:59:13,924 INFO] Validation perplexity: 2.83441
+[2019-07-31 11:59:13,924 INFO] Validation accuracy: 83.0118
+[2019-07-31 12:01:17,231 INFO] Step 6350/10000; acc:  99.05; ppl:  1.10; xent: 0.09; lr: 0.00008; 118/ 48 tok/s;  20050 sec
+[2019-07-31 12:03:20,014 INFO] Step 6400/10000; acc:  98.76; ppl:  1.11; xent: 0.10; lr: 0.00008; 182/ 69 tok/s;  20173 sec
+[2019-07-31 12:03:20,015 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 12:03:20,023 INFO] number of examples: 744
+[2019-07-31 12:04:23,237 INFO] Validation perplexity: 2.74689
+[2019-07-31 12:04:23,238 INFO] Validation accuracy: 83.0896
+[2019-07-31 12:06:26,813 INFO] Step 6450/10000; acc:  99.32; ppl:  1.09; xent: 0.08; lr: 0.00008; 117/ 50 tok/s;  20360 sec
+[2019-07-31 12:08:15,625 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 12:08:15,696 INFO] number of examples: 5485
+[2019-07-31 12:08:35,470 INFO] Step 6500/10000; acc:  99.04; ppl:  1.10; xent: 0.09; lr: 0.00008; 170/ 74 tok/s;  20488 sec
+[2019-07-31 12:08:35,472 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 12:08:35,478 INFO] number of examples: 744
+[2019-07-31 12:09:39,617 INFO] Validation perplexity: 2.80222
+[2019-07-31 12:09:39,618 INFO] Validation accuracy: 83.1518
+[2019-07-31 12:11:44,044 INFO] Step 6550/10000; acc:  99.00; ppl:  1.10; xent: 0.10; lr: 0.00008; 117/ 49 tok/s;  20677 sec
+[2019-07-31 12:13:48,184 INFO] Step 6600/10000; acc:  99.27; ppl:  1.09; xent: 0.08; lr: 0.00008; 177/ 68 tok/s;  20801 sec
+[2019-07-31 12:13:48,185 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 12:13:48,194 INFO] number of examples: 744
+[2019-07-31 12:14:52,120 INFO] Validation perplexity: 2.78782
+[2019-07-31 12:14:52,121 INFO] Validation accuracy: 83.0896
+[2019-07-31 12:16:54,582 INFO] Step 6650/10000; acc:  99.21; ppl:  1.09; xent: 0.09; lr: 0.00008; 120/ 45 tok/s;  20988 sec
+[2019-07-31 12:19:00,415 INFO] Step 6700/10000; acc:  99.38; ppl:  1.08; xent: 0.08; lr: 0.00008; 175/ 76 tok/s;  21113 sec
+[2019-07-31 12:19:00,416 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 12:19:00,422 INFO] number of examples: 744
+[2019-07-31 12:20:05,228 INFO] Validation perplexity: 2.80466
+[2019-07-31 12:20:05,228 INFO] Validation accuracy: 82.8407
+[2019-07-31 12:22:13,106 INFO] Step 6750/10000; acc:  99.08; ppl:  1.09; xent: 0.09; lr: 0.00008; 114/ 46 tok/s;  21306 sec
+[2019-07-31 12:22:44,737 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 12:22:44,777 INFO] number of examples: 5485
+[2019-07-31 12:24:18,166 INFO] Step 6800/10000; acc:  99.09; ppl:  1.09; xent: 0.09; lr: 0.00008; 174/ 79 tok/s;  21431 sec
+[2019-07-31 12:24:18,167 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 12:24:18,175 INFO] number of examples: 744
+[2019-07-31 12:25:21,368 INFO] Validation perplexity: 2.80871
+[2019-07-31 12:25:21,368 INFO] Validation accuracy: 82.934
+[2019-07-31 12:27:22,962 INFO] Step 6850/10000; acc:  99.11; ppl:  1.09; xent: 0.09; lr: 0.00008; 120/ 45 tok/s;  21616 sec
+[2019-07-31 12:29:29,518 INFO] Step 6900/10000; acc:  99.33; ppl:  1.09; xent: 0.08; lr: 0.00008; 176/ 72 tok/s;  21742 sec
+[2019-07-31 12:29:29,520 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 12:29:29,526 INFO] number of examples: 744
+[2019-07-31 12:30:33,102 INFO] Validation perplexity: 2.8318
+[2019-07-31 12:30:33,102 INFO] Validation accuracy: 82.6073
+[2019-07-31 12:32:37,105 INFO] Step 6950/10000; acc:  99.05; ppl:  1.10; xent: 0.10; lr: 0.00008; 118/ 47 tok/s;  21930 sec
+[2019-07-31 12:34:42,641 INFO] Step 7000/10000; acc:  99.18; ppl:  1.09; xent: 0.08; lr: 0.00008; 174/ 75 tok/s;  22056 sec
+[2019-07-31 12:34:42,642 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 12:34:42,681 INFO] number of examples: 744
+[2019-07-31 12:35:45,925 INFO] Validation perplexity: 2.85679
+[2019-07-31 12:35:45,925 INFO] Validation accuracy: 82.934
+[2019-07-31 12:35:45,939 INFO] Saving checkpoint CQR_valid_100_step_7000.pt
+[2019-07-31 12:37:13,581 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 12:37:13,621 INFO] number of examples: 5485
+[2019-07-31 12:37:55,878 INFO] Step 7050/10000; acc:  99.34; ppl:  1.09; xent: 0.08; lr: 0.00008; 114/ 48 tok/s;  22249 sec
+[2019-07-31 12:40:02,174 INFO] Step 7100/10000; acc:  99.21; ppl:  1.09; xent: 0.08; lr: 0.00008; 173/ 71 tok/s;  22375 sec
+[2019-07-31 12:40:02,176 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 12:40:02,184 INFO] number of examples: 744
+[2019-07-31 12:41:08,260 INFO] Validation perplexity: 2.8346
+[2019-07-31 12:41:08,260 INFO] Validation accuracy: 83.0118
+[2019-07-31 12:43:13,499 INFO] Step 7150/10000; acc:  99.32; ppl:  1.08; xent: 0.08; lr: 0.00008; 115/ 46 tok/s;  22566 sec
+[2019-07-31 12:45:16,345 INFO] Step 7200/10000; acc:  99.47; ppl:  1.08; xent: 0.08; lr: 0.00008; 182/ 66 tok/s;  22689 sec
+[2019-07-31 12:45:16,347 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 12:45:16,354 INFO] number of examples: 744
+[2019-07-31 12:46:20,576 INFO] Validation perplexity: 2.84679
+[2019-07-31 12:46:20,576 INFO] Validation accuracy: 82.8563
+[2019-07-31 12:48:26,983 INFO] Step 7250/10000; acc:  99.36; ppl:  1.08; xent: 0.08; lr: 0.00008; 115/ 51 tok/s;  22880 sec
+[2019-07-31 12:50:34,775 INFO] Step 7300/10000; acc:  99.29; ppl:  1.09; xent: 0.08; lr: 0.00008; 172/ 71 tok/s;  23008 sec
+[2019-07-31 12:50:34,777 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 12:50:34,783 INFO] number of examples: 744
+[2019-07-31 12:51:38,943 INFO] Validation perplexity: 2.86586
+[2019-07-31 12:51:38,943 INFO] Validation accuracy: 83.0896
+[2019-07-31 12:51:47,761 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 12:51:47,831 INFO] number of examples: 5485
+[2019-07-31 12:53:45,679 INFO] Step 7350/10000; acc:  99.19; ppl:  1.09; xent: 0.08; lr: 0.00008; 115/ 53 tok/s;  23199 sec
+[2019-07-31 12:55:48,058 INFO] Step 7400/10000; acc:  99.37; ppl:  1.08; xent: 0.07; lr: 0.00008; 180/ 68 tok/s;  23321 sec
+[2019-07-31 12:55:48,060 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 12:55:48,067 INFO] number of examples: 744
+[2019-07-31 12:56:51,208 INFO] Validation perplexity: 2.84598
+[2019-07-31 12:56:51,209 INFO] Validation accuracy: 83.0896
+[2019-07-31 12:58:55,129 INFO] Step 7450/10000; acc:  99.35; ppl:  1.08; xent: 0.08; lr: 0.00008; 119/ 46 tok/s;  23508 sec
+[2019-07-31 13:00:58,620 INFO] Step 7500/10000; acc:  99.25; ppl:  1.08; xent: 0.08; lr: 0.00008; 179/ 75 tok/s;  23632 sec
+[2019-07-31 13:00:58,621 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 13:00:58,627 INFO] number of examples: 744
+[2019-07-31 13:02:02,287 INFO] Validation perplexity: 2.83444
+[2019-07-31 13:02:02,287 INFO] Validation accuracy: 83.4007
+[2019-07-31 13:04:06,383 INFO] Step 7550/10000; acc:  99.32; ppl:  1.08; xent: 0.08; lr: 0.00008; 117/ 48 tok/s;  23819 sec
+[2019-07-31 13:05:07,180 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 13:05:07,220 INFO] number of examples: 5485
+[2019-07-31 13:06:10,740 INFO] Step 7600/10000; acc:  99.25; ppl:  1.08; xent: 0.08; lr: 0.00008; 177/ 76 tok/s;  23944 sec
+[2019-07-31 13:06:10,742 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 13:06:10,749 INFO] number of examples: 744
+[2019-07-31 13:07:13,245 INFO] Validation perplexity: 2.83079
+[2019-07-31 13:07:13,245 INFO] Validation accuracy: 83.2452
+[2019-07-31 13:09:15,196 INFO] Step 7650/10000; acc:  99.41; ppl:  1.08; xent: 0.07; lr: 0.00008; 119/ 48 tok/s;  24128 sec
+[2019-07-31 13:11:20,280 INFO] Step 7700/10000; acc:  99.48; ppl:  1.07; xent: 0.07; lr: 0.00008; 177/ 70 tok/s;  24253 sec
+[2019-07-31 13:11:20,282 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 13:11:20,287 INFO] number of examples: 744
+[2019-07-31 13:12:25,531 INFO] Validation perplexity: 2.81134
+[2019-07-31 13:12:25,531 INFO] Validation accuracy: 83.1518
+[2019-07-31 13:14:28,604 INFO] Step 7750/10000; acc:  99.59; ppl:  1.07; xent: 0.07; lr: 0.00008; 118/ 45 tok/s;  24442 sec
+[2019-07-31 13:16:33,912 INFO] Step 7800/10000; acc:  99.49; ppl:  1.07; xent: 0.07; lr: 0.00008; 174/ 77 tok/s;  24567 sec
+[2019-07-31 13:16:33,913 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 13:16:33,922 INFO] number of examples: 744
+[2019-07-31 13:17:37,198 INFO] Validation perplexity: 2.81418
+[2019-07-31 13:17:37,199 INFO] Validation accuracy: 83.463
+[2019-07-31 13:19:28,097 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 13:19:28,163 INFO] number of examples: 5485
+[2019-07-31 13:19:42,517 INFO] Step 7850/10000; acc:  99.27; ppl:  1.08; xent: 0.08; lr: 0.00007; 116/ 49 tok/s;  24755 sec
+[2019-07-31 13:21:47,657 INFO] Step 7900/10000; acc:  99.36; ppl:  1.07; xent: 0.07; lr: 0.00007; 176/ 77 tok/s;  24881 sec
+[2019-07-31 13:21:47,659 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 13:21:47,667 INFO] number of examples: 744
+[2019-07-31 13:22:50,952 INFO] Validation perplexity: 2.82321
+[2019-07-31 13:22:50,952 INFO] Validation accuracy: 83.2141
+[2019-07-31 13:24:54,053 INFO] Step 7950/10000; acc:  99.43; ppl:  1.07; xent: 0.07; lr: 0.00007; 118/ 46 tok/s;  25067 sec
+[2019-07-31 13:26:55,986 INFO] Step 8000/10000; acc:  99.40; ppl:  1.07; xent: 0.07; lr: 0.00007; 183/ 68 tok/s;  25189 sec
+[2019-07-31 13:26:55,988 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 13:26:55,994 INFO] number of examples: 744
+[2019-07-31 13:27:59,328 INFO] Validation perplexity: 2.83887
+[2019-07-31 13:27:59,328 INFO] Validation accuracy: 83.1829
+[2019-07-31 13:27:59,343 INFO] Saving checkpoint CQR_valid_100_step_8000.pt
+[2019-07-31 13:30:05,116 INFO] Step 8050/10000; acc:  99.55; ppl:  1.06; xent: 0.06; lr: 0.00007; 116/ 49 tok/s;  25378 sec
+[2019-07-31 13:32:11,712 INFO] Step 8100/10000; acc:  99.30; ppl:  1.08; xent: 0.07; lr: 0.00007; 174/ 71 tok/s;  25505 sec
+[2019-07-31 13:32:11,713 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 13:32:11,719 INFO] number of examples: 744
+[2019-07-31 13:33:14,903 INFO] Validation perplexity: 2.84391
+[2019-07-31 13:33:14,903 INFO] Validation accuracy: 83.1829
+[2019-07-31 13:33:53,763 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 13:33:53,804 INFO] number of examples: 5485
+[2019-07-31 13:35:19,738 INFO] Step 8150/10000; acc:  99.55; ppl:  1.07; xent: 0.06; lr: 0.00007; 116/ 51 tok/s;  25693 sec
+[2019-07-31 13:37:24,974 INFO] Step 8200/10000; acc:  99.43; ppl:  1.07; xent: 0.07; lr: 0.00007; 176/ 70 tok/s;  25818 sec
+[2019-07-31 13:37:24,976 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 13:37:25,015 INFO] number of examples: 744
+[2019-07-31 13:38:30,010 INFO] Validation perplexity: 2.8545
+[2019-07-31 13:38:30,010 INFO] Validation accuracy: 83.3541
+[2019-07-31 13:40:35,759 INFO] Step 8250/10000; acc:  99.53; ppl:  1.06; xent: 0.06; lr: 0.00007; 117/ 46 tok/s;  26009 sec
+[2019-07-31 13:42:39,238 INFO] Step 8300/10000; acc:  99.65; ppl:  1.07; xent: 0.06; lr: 0.00007; 179/ 74 tok/s;  26132 sec
+[2019-07-31 13:42:39,240 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 13:42:39,246 INFO] number of examples: 744
+[2019-07-31 13:43:42,443 INFO] Validation perplexity: 2.84056
+[2019-07-31 13:43:42,444 INFO] Validation accuracy: 83.463
+[2019-07-31 13:45:46,861 INFO] Step 8350/10000; acc:  99.72; ppl:  1.06; xent: 0.06; lr: 0.00007; 116/ 49 tok/s;  26320 sec
+[2019-07-31 13:47:19,358 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 13:47:19,399 INFO] number of examples: 5485
+[2019-07-31 13:47:59,100 INFO] Step 8400/10000; acc:  99.41; ppl:  1.07; xent: 0.07; lr: 0.00007; 167/ 73 tok/s;  26452 sec
+[2019-07-31 13:47:59,101 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 13:47:59,108 INFO] number of examples: 744
+[2019-07-31 13:49:06,619 INFO] Validation perplexity: 2.8612
+[2019-07-31 13:49:06,620 INFO] Validation accuracy: 83.1829
+[2019-07-31 13:51:12,441 INFO] Step 8450/10000; acc:  99.46; ppl:  1.07; xent: 0.06; lr: 0.00007; 113/ 45 tok/s;  26645 sec
+[2019-07-31 13:53:23,864 INFO] Step 8500/10000; acc:  99.52; ppl:  1.06; xent: 0.06; lr: 0.00007; 168/ 68 tok/s;  26777 sec
+[2019-07-31 13:53:23,866 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 13:53:23,872 INFO] number of examples: 744
+[2019-07-31 13:54:28,660 INFO] Validation perplexity: 2.81973
+[2019-07-31 13:54:28,660 INFO] Validation accuracy: 83.5874
+[2019-07-31 13:56:30,452 INFO] Step 8550/10000; acc:  99.56; ppl:  1.06; xent: 0.06; lr: 0.00007; 120/ 42 tok/s;  26963 sec
+[2019-07-31 13:58:34,778 INFO] Step 8600/10000; acc:  99.57; ppl:  1.06; xent: 0.06; lr: 0.00007; 176/ 79 tok/s;  27088 sec
+[2019-07-31 13:58:34,779 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 13:58:34,787 INFO] number of examples: 744
+[2019-07-31 13:59:37,916 INFO] Validation perplexity: 2.84909
+[2019-07-31 13:59:37,916 INFO] Validation accuracy: 83.2763
+[2019-07-31 14:01:42,639 INFO] Step 8650/10000; acc:  99.39; ppl:  1.07; xent: 0.07; lr: 0.00007; 117/ 49 tok/s;  27276 sec
+[2019-07-31 14:01:58,607 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 14:01:58,687 INFO] number of examples: 5485
+[2019-07-31 14:03:47,167 INFO] Step 8700/10000; acc:  99.59; ppl:  1.07; xent: 0.07; lr: 0.00007; 175/ 79 tok/s;  27400 sec
+[2019-07-31 14:03:47,169 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 14:03:47,176 INFO] number of examples: 744
+[2019-07-31 14:04:51,004 INFO] Validation perplexity: 2.8289
+[2019-07-31 14:04:51,005 INFO] Validation accuracy: 83.7897
+[2019-07-31 14:06:53,707 INFO] Step 8750/10000; acc:  99.42; ppl:  1.07; xent: 0.06; lr: 0.00007; 118/ 45 tok/s;  27587 sec
+[2019-07-31 14:08:57,520 INFO] Step 8800/10000; acc:  99.61; ppl:  1.06; xent: 0.06; lr: 0.00007; 180/ 70 tok/s;  27710 sec
+[2019-07-31 14:08:57,522 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 14:08:57,528 INFO] number of examples: 744
+[2019-07-31 14:10:02,030 INFO] Validation perplexity: 2.83528
+[2019-07-31 14:10:02,031 INFO] Validation accuracy: 83.5408
+[2019-07-31 14:12:06,096 INFO] Step 8850/10000; acc:  99.62; ppl:  1.06; xent: 0.06; lr: 0.00007; 117/ 49 tok/s;  27899 sec
+[2019-07-31 14:14:13,595 INFO] Step 8900/10000; acc:  99.54; ppl:  1.06; xent: 0.06; lr: 0.00007; 172/ 73 tok/s;  28027 sec
+[2019-07-31 14:14:13,597 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 14:14:13,604 INFO] number of examples: 744
+[2019-07-31 14:15:17,339 INFO] Validation perplexity: 2.85198
+[2019-07-31 14:15:17,340 INFO] Validation accuracy: 83.5252
+[2019-07-31 14:16:21,986 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 14:16:22,025 INFO] number of examples: 5485
+[2019-07-31 14:17:20,756 INFO] Step 8950/10000; acc:  99.63; ppl:  1.06; xent: 0.06; lr: 0.00007; 118/ 51 tok/s;  28214 sec
+[2019-07-31 14:19:22,000 INFO] Step 9000/10000; acc:  99.59; ppl:  1.06; xent: 0.06; lr: 0.00007; 180/ 73 tok/s;  28335 sec
+[2019-07-31 14:19:22,001 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 14:19:22,007 INFO] number of examples: 744
+[2019-07-31 14:20:24,478 INFO] Validation perplexity: 2.87781
+[2019-07-31 14:20:24,479 INFO] Validation accuracy: 83.0429
+[2019-07-31 14:20:24,492 INFO] Saving checkpoint CQR_valid_100_step_9000.pt
+[2019-07-31 14:22:28,714 INFO] Step 9050/10000; acc:  99.60; ppl:  1.06; xent: 0.06; lr: 0.00007; 119/ 46 tok/s;  28522 sec
+[2019-07-31 14:24:28,428 INFO] Step 9100/10000; acc:  99.69; ppl:  1.06; xent: 0.06; lr: 0.00007; 186/ 68 tok/s;  28641 sec
+[2019-07-31 14:24:28,430 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 14:24:28,437 INFO] number of examples: 744
+[2019-07-31 14:25:31,583 INFO] Validation perplexity: 2.82214
+[2019-07-31 14:25:31,583 INFO] Validation accuracy: 83.7741
+[2019-07-31 14:27:41,573 INFO] Step 9150/10000; acc:  99.58; ppl:  1.06; xent: 0.06; lr: 0.00007; 113/ 51 tok/s;  28834 sec
+[2019-07-31 14:29:43,056 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 14:29:43,135 INFO] number of examples: 5485
+[2019-07-31 14:29:50,338 INFO] Step 9200/10000; acc:  99.41; ppl:  1.06; xent: 0.06; lr: 0.00007; 170/ 73 tok/s;  28963 sec
+[2019-07-31 14:29:50,340 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 14:29:50,347 INFO] number of examples: 744
+[2019-07-31 14:30:54,142 INFO] Validation perplexity: 2.83361
+[2019-07-31 14:30:54,142 INFO] Validation accuracy: 83.6497
+[2019-07-31 14:32:59,254 INFO] Step 9250/10000; acc:  99.61; ppl:  1.06; xent: 0.06; lr: 0.00007; 116/ 51 tok/s;  29152 sec
+[2019-07-31 14:35:04,688 INFO] Step 9300/10000; acc:  99.75; ppl:  1.05; xent: 0.05; lr: 0.00007; 176/ 67 tok/s;  29278 sec
+[2019-07-31 14:35:04,690 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 14:35:04,697 INFO] number of examples: 744
+[2019-07-31 14:36:08,360 INFO] Validation perplexity: 2.84378
+[2019-07-31 14:36:08,360 INFO] Validation accuracy: 83.8208
+[2019-07-31 14:38:11,735 INFO] Step 9350/10000; acc:  99.56; ppl:  1.06; xent: 0.06; lr: 0.00007; 119/ 45 tok/s;  29465 sec
+[2019-07-31 14:40:15,872 INFO] Step 9400/10000; acc:  99.64; ppl:  1.05; xent: 0.05; lr: 0.00007; 177/ 74 tok/s;  29589 sec
+[2019-07-31 14:40:15,873 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 14:40:15,879 INFO] number of examples: 744
+[2019-07-31 14:41:19,768 INFO] Validation perplexity: 2.81115
+[2019-07-31 14:41:19,768 INFO] Validation accuracy: 83.6652
+[2019-07-31 14:43:26,464 INFO] Step 9450/10000; acc:  99.52; ppl:  1.06; xent: 0.06; lr: 0.00007; 115/ 48 tok/s;  29779 sec
+[2019-07-31 14:44:10,524 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 14:44:10,566 INFO] number of examples: 5485
+[2019-07-31 14:45:32,741 INFO] Step 9500/10000; acc:  99.53; ppl:  1.06; xent: 0.05; lr: 0.00007; 173/ 75 tok/s;  29906 sec
+[2019-07-31 14:45:32,743 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 14:45:32,751 INFO] number of examples: 744
+[2019-07-31 14:46:37,855 INFO] Validation perplexity: 2.8351
+[2019-07-31 14:46:37,855 INFO] Validation accuracy: 83.5408
+[2019-07-31 14:48:45,155 INFO] Step 9550/10000; acc:  99.51; ppl:  1.06; xent: 0.06; lr: 0.00007; 115/ 46 tok/s;  30098 sec
+[2019-07-31 14:50:52,192 INFO] Step 9600/10000; acc:  99.67; ppl:  1.05; xent: 0.05; lr: 0.00007; 175/ 69 tok/s;  30225 sec
+[2019-07-31 14:50:52,193 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 14:50:52,228 INFO] number of examples: 744
+[2019-07-31 14:51:57,369 INFO] Validation perplexity: 2.84045
+[2019-07-31 14:51:57,369 INFO] Validation accuracy: 83.8363
+[2019-07-31 14:54:02,561 INFO] Step 9650/10000; acc:  99.69; ppl:  1.06; xent: 0.05; lr: 0.00007; 117/ 46 tok/s;  30415 sec
+[2019-07-31 14:56:09,672 INFO] Step 9700/10000; acc:  99.76; ppl:  1.05; xent: 0.05; lr: 0.00007; 172/ 73 tok/s;  30543 sec
+[2019-07-31 14:56:09,674 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 14:56:09,683 INFO] number of examples: 744
+[2019-07-31 14:57:14,838 INFO] Validation perplexity: 2.86614
+[2019-07-31 14:57:14,838 INFO] Validation accuracy: 83.6341
+[2019-07-31 14:58:53,120 INFO] Loading dataset from opennmt_format/preprocessed.train.0.pt
+[2019-07-31 14:58:53,160 INFO] number of examples: 5485
+[2019-07-31 14:59:23,013 INFO] Step 9750/10000; acc:  99.46; ppl:  1.06; xent: 0.06; lr: 0.00007; 114/ 49 tok/s;  30736 sec
+[2019-07-31 15:01:28,385 INFO] Step 9800/10000; acc:  99.56; ppl:  1.06; xent: 0.05; lr: 0.00007; 175/ 72 tok/s;  30861 sec
+[2019-07-31 15:01:28,387 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 15:01:28,393 INFO] number of examples: 744
+[2019-07-31 15:02:32,483 INFO] Validation perplexity: 2.85365
+[2019-07-31 15:02:32,483 INFO] Validation accuracy: 83.4319
+[2019-07-31 15:04:38,054 INFO] Step 9850/10000; acc:  99.78; ppl:  1.05; xent: 0.05; lr: 0.00007; 116/ 46 tok/s;  31051 sec
+[2019-07-31 15:06:41,767 INFO] Step 9900/10000; acc:  99.56; ppl:  1.05; xent: 0.05; lr: 0.00007; 180/ 68 tok/s;  31175 sec
+[2019-07-31 15:06:41,768 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 15:06:41,777 INFO] number of examples: 744
+[2019-07-31 15:07:46,518 INFO] Validation perplexity: 2.88416
+[2019-07-31 15:07:46,518 INFO] Validation accuracy: 83.5252
+[2019-07-31 15:09:51,816 INFO] Step 9950/10000; acc:  99.69; ppl:  1.05; xent: 0.05; lr: 0.00007; 115/ 50 tok/s;  31365 sec
+[2019-07-31 15:12:02,176 INFO] Step 10000/10000; acc:  99.58; ppl:  1.06; xent: 0.06; lr: 0.00007; 169/ 71 tok/s;  31495 sec
+[2019-07-31 15:12:02,178 INFO] Loading dataset from opennmt_format/preprocessed.valid.0.pt
+[2019-07-31 15:12:02,184 INFO] number of examples: 744
+[2019-07-31 15:13:06,810 INFO] Validation perplexity: 2.85456
+[2019-07-31 15:13:06,811 INFO] Validation accuracy: 83.3696
+[2019-07-31 15:13:06,825 INFO] Saving checkpoint CQR_valid_100_step_10000.pt

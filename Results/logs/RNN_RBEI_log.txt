@@ -1,0 +1,972 @@
+
+
+[2019-08-09 19:04:37,121 INFO]  * src vocab size = 1549
+[2019-08-09 19:04:37,121 INFO]  * tgt vocab size = 1549
+[2019-08-09 19:04:37,121 INFO] Building model...
+[2019-08-09 19:04:37,267 INFO] NMTModel(
+  (encoder): RNNEncoder(
+    (embeddings): Embeddings(
+      (make_embedding): Sequential(
+        (emb_luts): Elementwise(
+          (0): Embedding(1549, 128, padding_idx=1)
+        )
+      )
+    )
+    (rnn): LSTM(128, 128, num_layers=2, dropout=0.3)
+  )
+  (decoder): InputFeedRNNDecoder(
+    (embeddings): Embeddings(
+      (make_embedding): Sequential(
+        (emb_luts): Elementwise(
+          (0): Embedding(1549, 128, padding_idx=1)
+        )
+      )
+    )
+    (dropout): Dropout(p=0.3)
+    (rnn): StackedLSTM(
+      (dropout): Dropout(p=0.3)
+      (layers): ModuleList(
+        (0): LSTMCell(256, 128)
+        (1): LSTMCell(128, 128)
+      )
+    )
+    (attn): GlobalAttention(
+      (linear_in): Linear(in_features=128, out_features=128, bias=False)
+      (linear_out): Linear(in_features=256, out_features=128, bias=False)
+    )
+  )
+  (generator): Sequential(
+    (0): Linear(in_features=128, out_features=1549, bias=True)
+    (1): Cast()
+    (2): LogSoftmax()
+  )
+)
+[2019-08-09 19:04:37,268 INFO] encoder: 462464
+[2019-08-09 19:04:37,272 INFO] decoder: 578701
+[2019-08-09 19:04:37,272 INFO] * number of parameters: 1041165
+[2019-08-09 19:04:37,284 INFO] Starting training on CPU, could be very slow
+[2019-08-09 19:04:37,284 INFO] Start training loop and validate every 100 steps...
+[2019-08-09 19:04:37,285 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:04:37,325 INFO] number of examples: 4050
+[2019-08-09 19:04:55,033 INFO] Step 50/20000; acc:   2.72; ppl: 468611.57; xent: 13.06; lr: 0.15000; 4163/1464 tok/s;     18 sec
+[2019-08-09 19:05:00,640 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:05:00,676 INFO] number of examples: 4050
+[2019-08-09 19:05:12,896 INFO] Step 100/20000; acc:   3.97; ppl: 7457.74; xent: 8.92; lr: 0.15000; 4268/1490 tok/s;     36 sec
+[2019-08-09 19:05:12,897 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:05:12,947 INFO] number of examples: 744
+[2019-08-09 19:05:15,500 INFO] Validation perplexity: 2947.68
+[2019-08-09 19:05:15,500 INFO] Validation accuracy: 0.793774
+[2019-08-09 19:05:25,433 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:05:25,465 INFO] number of examples: 4050
+[2019-08-09 19:05:33,237 INFO] Step 150/20000; acc:   5.75; ppl: 1057.77; xent: 6.96; lr: 0.15000; 3906/1312 tok/s;     56 sec
+[2019-08-09 19:05:47,095 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:05:47,129 INFO] number of examples: 4050
+[2019-08-09 19:05:49,970 INFO] Step 200/20000; acc:   6.75; ppl: 450.47; xent: 6.11; lr: 0.15000; 4472/1568 tok/s;     73 sec
+[2019-08-09 19:05:49,970 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:05:49,977 INFO] number of examples: 744
+[2019-08-09 19:05:52,376 INFO] Validation perplexity: 539.363
+[2019-08-09 19:05:52,376 INFO] Validation accuracy: 13.4786
+[2019-08-09 19:06:08,517 INFO] Step 250/20000; acc:   8.30; ppl: 291.38; xent: 5.67; lr: 0.15000; 3979/1391 tok/s;     91 sec
+[2019-08-09 19:06:10,781 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:06:10,871 INFO] number of examples: 4050
+[2019-08-09 19:06:25,264 INFO] Step 300/20000; acc:   9.66; ppl: 200.89; xent: 5.30; lr: 0.15000; 4485/1578 tok/s;    108 sec
+[2019-08-09 19:06:25,265 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:06:25,274 INFO] number of examples: 744
+[2019-08-09 19:06:27,671 INFO] Validation perplexity: 251.438
+[2019-08-09 19:06:27,672 INFO] Validation accuracy: 13.2918
+[2019-08-09 19:06:34,851 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:06:34,883 INFO] number of examples: 4050
+[2019-08-09 19:06:44,941 INFO] Step 350/20000; acc:  11.56; ppl: 147.95; xent: 5.00; lr: 0.15000; 3919/1320 tok/s;    128 sec
+[2019-08-09 19:06:56,694 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:06:56,726 INFO] number of examples: 4050
+[2019-08-09 19:07:02,640 INFO] Step 400/20000; acc:  14.62; ppl: 111.30; xent: 4.71; lr: 0.15000; 4412/1513 tok/s;    145 sec
+[2019-08-09 19:07:02,640 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:07:02,647 INFO] number of examples: 744
+[2019-08-09 19:07:05,065 INFO] Validation perplexity: 141.08
+[2019-08-09 19:07:05,066 INFO] Validation accuracy: 17.6809
+[2019-08-09 19:07:21,366 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:07:21,451 INFO] number of examples: 4050
+[2019-08-09 19:07:22,185 INFO] Step 450/20000; acc:  17.80; ppl: 83.88; xent: 4.43; lr: 0.15000; 3799/1318 tok/s;    165 sec
+[2019-08-09 19:07:40,169 INFO] Step 500/20000; acc:  20.73; ppl: 61.24; xent: 4.11; lr: 0.15000; 4184/1423 tok/s;    183 sec
+[2019-08-09 19:07:40,169 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:07:40,178 INFO] number of examples: 744
+[2019-08-09 19:07:42,759 INFO] Validation perplexity: 84.7025
+[2019-08-09 19:07:42,759 INFO] Validation accuracy: 22.2101
+[2019-08-09 19:07:47,536 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:07:47,569 INFO] number of examples: 4050
+[2019-08-09 19:08:01,037 INFO] Step 550/20000; acc:  24.83; ppl: 46.37; xent: 3.84; lr: 0.15000; 3610/1295 tok/s;    204 sec
+[2019-08-09 19:08:11,052 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:08:11,084 INFO] number of examples: 4050
+[2019-08-09 19:08:20,128 INFO] Step 600/20000; acc:  28.58; ppl: 34.57; xent: 3.54; lr: 0.15000; 4096/1380 tok/s;    223 sec
+[2019-08-09 19:08:20,128 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:08:20,136 INFO] number of examples: 744
+[2019-08-09 19:08:22,790 INFO] Validation perplexity: 48.0131
+[2019-08-09 19:08:22,791 INFO] Validation accuracy: 31.393
+[2019-08-09 19:08:37,114 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:08:37,195 INFO] number of examples: 4050
+[2019-08-09 19:08:40,916 INFO] Step 650/20000; acc:  31.72; ppl: 27.02; xent: 3.30; lr: 0.15000; 3599/1265 tok/s;    244 sec
+[2019-08-09 19:08:58,484 INFO] Step 700/20000; acc:  35.15; ppl: 22.93; xent: 3.13; lr: 0.15000; 4288/1477 tok/s;    261 sec
+[2019-08-09 19:08:58,485 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:08:58,493 INFO] number of examples: 744
+[2019-08-09 19:09:00,943 INFO] Validation perplexity: 32.251
+[2019-08-09 19:09:00,943 INFO] Validation accuracy: 36.6848
+[2019-08-09 19:09:02,439 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:09:02,476 INFO] number of examples: 4050
+[2019-08-09 19:09:18,240 INFO] Step 750/20000; acc:  37.43; ppl: 18.96; xent: 2.94; lr: 0.15000; 3762/1329 tok/s;    281 sec
+[2019-08-09 19:09:25,257 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:09:25,289 INFO] number of examples: 4050
+[2019-08-09 19:09:36,653 INFO] Step 800/20000; acc:  40.94; ppl: 16.06; xent: 2.78; lr: 0.15000; 4210/1419 tok/s;    299 sec
+[2019-08-09 19:09:36,654 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:09:36,662 INFO] number of examples: 744
+[2019-08-09 19:09:39,127 INFO] Validation perplexity: 24.3047
+[2019-08-09 19:09:39,127 INFO] Validation accuracy: 43.4708
+[2019-08-09 19:09:50,671 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:09:50,751 INFO] number of examples: 4050
+[2019-08-09 19:09:57,277 INFO] Step 850/20000; acc:  43.23; ppl: 13.67; xent: 2.61; lr: 0.15000; 3703/1299 tok/s;    320 sec
+[2019-08-09 19:10:13,612 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:10:13,645 INFO] number of examples: 4050
+[2019-08-09 19:10:15,362 INFO] Step 900/20000; acc:  46.20; ppl: 11.79; xent: 2.47; lr: 0.15000; 4192/1426 tok/s;    338 sec
+[2019-08-09 19:10:15,363 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:10:15,373 INFO] number of examples: 744
+[2019-08-09 19:10:17,859 INFO] Validation perplexity: 18.1709
+[2019-08-09 19:10:17,859 INFO] Validation accuracy: 47.0817
+[2019-08-09 19:10:34,849 INFO] Step 950/20000; acc:  47.78; ppl: 10.79; xent: 2.38; lr: 0.15000; 3783/1325 tok/s;    358 sec
+[2019-08-09 19:10:38,977 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:10:39,011 INFO] number of examples: 4050
+[2019-08-09 19:10:52,580 INFO] Step 1000/20000; acc:  49.37; ppl:  9.68; xent: 2.27; lr: 0.15000; 4210/1498 tok/s;    375 sec
+[2019-08-09 19:10:52,581 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:10:52,643 INFO] number of examples: 744
+[2019-08-09 19:10:55,052 INFO] Validation perplexity: 16.8317
+[2019-08-09 19:10:55,052 INFO] Validation accuracy: 49.2607
+[2019-08-09 19:10:55,062 INFO] Saving checkpoint CQR_valid_100_step_1000.pt
+[2019-08-09 19:11:04,374 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:11:04,406 INFO] number of examples: 4050
+[2019-08-09 19:11:13,606 INFO] Step 1050/20000; acc:  51.69; ppl:  8.73; xent: 2.17; lr: 0.15000; 3785/1253 tok/s;    396 sec
+[2019-08-09 19:11:27,306 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:11:27,340 INFO] number of examples: 4050
+[2019-08-09 19:11:31,753 INFO] Step 1100/20000; acc:  53.29; ppl:  7.83; xent: 2.06; lr: 0.15000; 4153/1453 tok/s;    414 sec
+[2019-08-09 19:11:31,753 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:11:31,763 INFO] number of examples: 744
+[2019-08-09 19:11:34,210 INFO] Validation perplexity: 13.9449
+[2019-08-09 19:11:34,210 INFO] Validation accuracy: 52.4825
+[2019-08-09 19:11:52,126 INFO] Step 1150/20000; acc:  53.82; ppl:  7.70; xent: 2.04; lr: 0.15000; 3664/1263 tok/s;    435 sec
+[2019-08-09 19:11:52,992 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:11:53,085 INFO] number of examples: 4050
+[2019-08-09 19:12:09,625 INFO] Step 1200/20000; acc:  54.47; ppl:  7.25; xent: 1.98; lr: 0.15000; 4272/1498 tok/s;    452 sec
+[2019-08-09 19:12:09,625 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:12:09,635 INFO] number of examples: 744
+[2019-08-09 19:12:12,096 INFO] Validation perplexity: 13.1174
+[2019-08-09 19:12:12,097 INFO] Validation accuracy: 51.8755
+[2019-08-09 19:12:18,494 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:12:18,528 INFO] number of examples: 4050
+[2019-08-09 19:12:30,404 INFO] Step 1250/20000; acc:  56.31; ppl:  6.62; xent: 1.89; lr: 0.15000; 3665/1278 tok/s;    473 sec
+[2019-08-09 19:12:41,365 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:12:41,399 INFO] number of examples: 4050
+[2019-08-09 19:12:48,842 INFO] Step 1300/20000; acc:  57.39; ppl:  6.32; xent: 1.84; lr: 0.15000; 4287/1441 tok/s;    492 sec
+[2019-08-09 19:12:48,842 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:12:48,850 INFO] number of examples: 744
+[2019-08-09 19:12:51,249 INFO] Validation perplexity: 11.3915
+[2019-08-09 19:12:51,249 INFO] Validation accuracy: 54.9261
+[2019-08-09 19:13:06,576 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:13:06,671 INFO] number of examples: 4050
+[2019-08-09 19:13:09,139 INFO] Step 1350/20000; acc:  58.92; ppl:  5.78; xent: 1.75; lr: 0.15000; 3698/1289 tok/s;    512 sec
+[2019-08-09 19:13:26,481 INFO] Step 1400/20000; acc:  59.08; ppl:  5.78; xent: 1.75; lr: 0.15000; 4273/1488 tok/s;    529 sec
+[2019-08-09 19:13:26,482 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:13:26,491 INFO] number of examples: 744
+[2019-08-09 19:13:28,900 INFO] Validation perplexity: 11.293
+[2019-08-09 19:13:28,900 INFO] Validation accuracy: 57.1362
+[2019-08-09 19:13:32,017 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:13:32,050 INFO] number of examples: 4050
+[2019-08-09 19:13:47,269 INFO] Step 1450/20000; acc:  60.19; ppl:  5.28; xent: 1.66; lr: 0.15000; 3675/1269 tok/s;    550 sec
+[2019-08-09 19:13:55,276 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:13:55,309 INFO] number of examples: 4050
+[2019-08-09 19:14:04,968 INFO] Step 1500/20000; acc:  61.67; ppl:  4.99; xent: 1.61; lr: 0.15000; 4227/1460 tok/s;    568 sec
+[2019-08-09 19:14:04,968 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:14:04,976 INFO] number of examples: 744
+[2019-08-09 19:14:07,416 INFO] Validation perplexity: 10.6156
+[2019-08-09 19:14:07,416 INFO] Validation accuracy: 57.2451
+[2019-08-09 19:14:20,805 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:14:20,893 INFO] number of examples: 4050
+[2019-08-09 19:14:26,552 INFO] Step 1550/20000; acc:  61.89; ppl:  4.83; xent: 1.58; lr: 0.15000; 3717/1246 tok/s;    589 sec
+[2019-08-09 19:14:43,893 INFO] Step 1600/20000; acc:  62.68; ppl:  4.69; xent: 1.54; lr: 0.15000; 4183/1475 tok/s;    607 sec
+[2019-08-09 19:14:43,893 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:14:43,901 INFO] number of examples: 744
+[2019-08-09 19:14:46,333 INFO] Validation perplexity: 9.92294
+[2019-08-09 19:14:46,334 INFO] Validation accuracy: 59.1595
+[2019-08-09 19:14:46,334 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:14:46,374 INFO] number of examples: 4050
+[2019-08-09 19:15:03,609 INFO] Step 1650/20000; acc:  64.08; ppl:  4.40; xent: 1.48; lr: 0.15000; 3747/1318 tok/s;    626 sec
+[2019-08-09 19:15:09,340 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:15:09,375 INFO] number of examples: 4050
+[2019-08-09 19:15:21,797 INFO] Step 1700/20000; acc:  64.00; ppl:  4.40; xent: 1.48; lr: 0.15000; 4191/1463 tok/s;    645 sec
+[2019-08-09 19:15:21,797 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:15:21,807 INFO] number of examples: 744
+[2019-08-09 19:15:24,270 INFO] Validation perplexity: 9.08981
+[2019-08-09 19:15:24,270 INFO] Validation accuracy: 60.8872
+[2019-08-09 19:15:34,664 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:15:34,745 INFO] number of examples: 4050
+[2019-08-09 19:15:42,966 INFO] Step 1750/20000; acc:  65.21; ppl:  4.19; xent: 1.43; lr: 0.15000; 3754/1261 tok/s;    666 sec
+[2019-08-09 19:15:57,787 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:15:57,823 INFO] number of examples: 4050
+[2019-08-09 19:16:01,015 INFO] Step 1800/20000; acc:  66.62; ppl:  3.85; xent: 1.35; lr: 0.15000; 4146/1453 tok/s;    684 sec
+[2019-08-09 19:16:01,015 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:16:01,025 INFO] number of examples: 744
+[2019-08-09 19:16:03,636 INFO] Validation perplexity: 8.89923
+[2019-08-09 19:16:03,637 INFO] Validation accuracy: 61.7276
+[2019-08-09 19:16:20,972 INFO] Step 1850/20000; acc:  66.66; ppl:  3.92; xent: 1.37; lr: 0.15000; 3698/1293 tok/s;    704 sec
+[2019-08-09 19:16:23,376 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:16:23,410 INFO] number of examples: 4050
+[2019-08-09 19:16:38,848 INFO] Step 1900/20000; acc:  68.15; ppl:  3.66; xent: 1.30; lr: 0.15000; 4202/1478 tok/s;    722 sec
+[2019-08-09 19:16:38,848 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:16:38,914 INFO] number of examples: 744
+[2019-08-09 19:16:41,386 INFO] Validation perplexity: 8.63173
+[2019-08-09 19:16:41,386 INFO] Validation accuracy: 62.5837
+[2019-08-09 19:16:49,147 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:16:49,181 INFO] number of examples: 4050
+[2019-08-09 19:16:59,776 INFO] Step 1950/20000; acc:  68.59; ppl:  3.61; xent: 1.28; lr: 0.15000; 3685/1241 tok/s;    742 sec
+[2019-08-09 19:17:12,158 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:17:12,195 INFO] number of examples: 4050
+[2019-08-09 19:17:18,311 INFO] Step 2000/20000; acc:  69.05; ppl:  3.44; xent: 1.23; lr: 0.15000; 4213/1445 tok/s;    761 sec
+[2019-08-09 19:17:18,312 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:17:18,322 INFO] number of examples: 744
+[2019-08-09 19:17:20,773 INFO] Validation perplexity: 8.33361
+[2019-08-09 19:17:20,773 INFO] Validation accuracy: 63.3152
+[2019-08-09 19:17:20,783 INFO] Saving checkpoint CQR_valid_100_step_2000.pt
+[2019-08-09 19:17:37,356 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:17:37,454 INFO] number of examples: 4050
+[2019-08-09 19:17:38,223 INFO] Step 2050/20000; acc:  70.50; ppl:  3.28; xent: 1.19; lr: 0.15000; 3729/1293 tok/s;    781 sec
+[2019-08-09 19:17:55,741 INFO] Step 2100/20000; acc:  70.59; ppl:  3.25; xent: 1.18; lr: 0.15000; 4295/1461 tok/s;    798 sec
+[2019-08-09 19:17:55,741 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:17:55,751 INFO] number of examples: 744
+[2019-08-09 19:17:58,213 INFO] Validation perplexity: 8.48723
+[2019-08-09 19:17:58,214 INFO] Validation accuracy: 64.2802
+[2019-08-09 19:18:02,774 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:18:02,808 INFO] number of examples: 4050
+[2019-08-09 19:18:16,016 INFO] Step 2150/20000; acc:  70.67; ppl:  3.22; xent: 1.17; lr: 0.15000; 3715/1333 tok/s;    819 sec
+[2019-08-09 19:18:25,545 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:18:25,582 INFO] number of examples: 4050
+[2019-08-09 19:18:34,343 INFO] Step 2200/20000; acc:  71.98; ppl:  3.07; xent: 1.12; lr: 0.15000; 4267/1438 tok/s;    837 sec
+[2019-08-09 19:18:34,343 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:18:34,351 INFO] number of examples: 744
+[2019-08-09 19:18:36,778 INFO] Validation perplexity: 7.96588
+[2019-08-09 19:18:36,779 INFO] Validation accuracy: 64.5603
+[2019-08-09 19:18:51,035 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:18:51,134 INFO] number of examples: 4050
+[2019-08-09 19:18:55,005 INFO] Step 2250/20000; acc:  72.72; ppl:  2.93; xent: 1.07; lr: 0.15000; 3621/1273 tok/s;    858 sec
+[2019-08-09 19:19:12,773 INFO] Step 2300/20000; acc:  72.55; ppl:  2.98; xent: 1.09; lr: 0.15000; 4240/1460 tok/s;    875 sec
+[2019-08-09 19:19:12,773 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:19:12,783 INFO] number of examples: 744
+[2019-08-09 19:19:15,217 INFO] Validation perplexity: 8.17033
+[2019-08-09 19:19:15,218 INFO] Validation accuracy: 65.5409
+[2019-08-09 19:19:16,713 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:19:16,749 INFO] number of examples: 4050
+[2019-08-09 19:19:32,563 INFO] Step 2350/20000; acc:  73.80; ppl:  2.80; xent: 1.03; lr: 0.15000; 3756/1326 tok/s;    895 sec
+[2019-08-09 19:19:39,575 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:19:39,611 INFO] number of examples: 4050
+[2019-08-09 19:19:51,075 INFO] Step 2400/20000; acc:  73.49; ppl:  2.84; xent: 1.04; lr: 0.15000; 4188/1412 tok/s;    914 sec
+[2019-08-09 19:19:51,076 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:19:51,084 INFO] number of examples: 744
+[2019-08-09 19:19:53,578 INFO] Validation perplexity: 7.69783
+[2019-08-09 19:19:53,578 INFO] Validation accuracy: 66.1479
+[2019-08-09 19:20:05,014 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:20:05,099 INFO] number of examples: 4050
+[2019-08-09 19:20:11,646 INFO] Step 2450/20000; acc:  74.22; ppl:  2.74; xent: 1.01; lr: 0.15000; 3712/1303 tok/s;    934 sec
+[2019-08-09 19:20:27,865 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:20:27,900 INFO] number of examples: 4050
+[2019-08-09 19:20:29,578 INFO] Step 2500/20000; acc:  75.14; ppl:  2.64; xent: 0.97; lr: 0.15000; 4227/1438 tok/s;    952 sec
+[2019-08-09 19:20:29,579 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:20:29,588 INFO] number of examples: 744
+[2019-08-09 19:20:32,234 INFO] Validation perplexity: 7.79363
+[2019-08-09 19:20:32,234 INFO] Validation accuracy: 66.9261
+[2019-08-09 19:20:49,353 INFO] Step 2550/20000; acc:  75.38; ppl:  2.62; xent: 0.96; lr: 0.15000; 3728/1306 tok/s;    972 sec
+[2019-08-09 19:20:53,351 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:20:53,386 INFO] number of examples: 4050
+[2019-08-09 19:21:07,030 INFO] Step 2600/20000; acc:  75.60; ppl:  2.59; xent: 0.95; lr: 0.15000; 4223/1503 tok/s;    990 sec
+[2019-08-09 19:21:07,031 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:21:07,038 INFO] number of examples: 744
+[2019-08-09 19:21:09,490 INFO] Validation perplexity: 7.59986
+[2019-08-09 19:21:09,490 INFO] Validation accuracy: 67.4397
+[2019-08-09 19:21:18,799 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:21:18,885 INFO] number of examples: 4050
+[2019-08-09 19:21:28,259 INFO] Step 2650/20000; acc:  75.98; ppl:  2.55; xent: 0.93; lr: 0.15000; 3749/1241 tok/s;   1011 sec
+[2019-08-09 19:21:42,057 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:21:42,102 INFO] number of examples: 4050
+[2019-08-09 19:21:46,610 INFO] Step 2700/20000; acc:  77.39; ppl:  2.39; xent: 0.87; lr: 0.15000; 4107/1436 tok/s;   1029 sec
+[2019-08-09 19:21:46,610 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:21:46,620 INFO] number of examples: 744
+[2019-08-09 19:21:49,087 INFO] Validation perplexity: 7.35403
+[2019-08-09 19:21:49,087 INFO] Validation accuracy: 68.1401
+[2019-08-09 19:22:06,388 INFO] Step 2750/20000; acc:  76.52; ppl:  2.48; xent: 0.91; lr: 0.15000; 3774/1301 tok/s;   1049 sec
+[2019-08-09 19:22:07,225 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:22:07,261 INFO] number of examples: 4050
+[2019-08-09 19:22:23,652 INFO] Step 2800/20000; acc:  77.24; ppl:  2.41; xent: 0.88; lr: 0.15000; 4330/1518 tok/s;   1066 sec
+[2019-08-09 19:22:23,652 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:22:23,717 INFO] number of examples: 744
+[2019-08-09 19:22:26,138 INFO] Validation perplexity: 7.28202
+[2019-08-09 19:22:26,138 INFO] Validation accuracy: 68.1556
+[2019-08-09 19:22:32,331 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:22:32,367 INFO] number of examples: 4050
+[2019-08-09 19:22:44,052 INFO] Step 2850/20000; acc:  77.73; ppl:  2.36; xent: 0.86; lr: 0.15000; 3733/1302 tok/s;   1087 sec
+[2019-08-09 19:22:54,870 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:22:54,904 INFO] number of examples: 4050
+[2019-08-09 19:23:02,303 INFO] Step 2900/20000; acc:  77.90; ppl:  2.33; xent: 0.85; lr: 0.15000; 4331/1456 tok/s;   1105 sec
+[2019-08-09 19:23:02,303 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:23:02,313 INFO] number of examples: 744
+[2019-08-09 19:23:04,727 INFO] Validation perplexity: 7.17819
+[2019-08-09 19:23:04,727 INFO] Validation accuracy: 68.6226
+[2019-08-09 19:23:19,827 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:23:19,925 INFO] number of examples: 4050
+[2019-08-09 19:23:22,363 INFO] Step 2950/20000; acc:  79.02; ppl:  2.22; xent: 0.80; lr: 0.15000; 3741/1304 tok/s;   1125 sec
+[2019-08-09 19:23:39,519 INFO] Step 3000/20000; acc:  78.42; ppl:  2.27; xent: 0.82; lr: 0.15000; 4320/1504 tok/s;   1142 sec
+[2019-08-09 19:23:39,519 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:23:39,529 INFO] number of examples: 744
+[2019-08-09 19:23:41,979 INFO] Validation perplexity: 7.45031
+[2019-08-09 19:23:41,979 INFO] Validation accuracy: 68.9961
+[2019-08-09 19:23:41,988 INFO] Saving checkpoint CQR_valid_100_step_3000.pt
+[2019-08-09 19:23:45,146 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:23:45,183 INFO] number of examples: 4050
+[2019-08-09 19:24:00,089 INFO] Step 3050/20000; acc:  79.59; ppl:  2.19; xent: 0.78; lr: 0.15000; 3714/1282 tok/s;   1163 sec
+[2019-08-09 19:24:08,184 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:24:08,223 INFO] number of examples: 4050
+[2019-08-09 19:24:17,719 INFO] Step 3100/20000; acc:  79.78; ppl:  2.14; xent: 0.76; lr: 0.15000; 4244/1465 tok/s;   1180 sec
+[2019-08-09 19:24:17,720 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:24:17,730 INFO] number of examples: 744
+[2019-08-09 19:24:20,191 INFO] Validation perplexity: 6.99263
+[2019-08-09 19:24:20,192 INFO] Validation accuracy: 69.7743
+[2019-08-09 19:24:33,332 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:24:33,429 INFO] number of examples: 4050
+[2019-08-09 19:24:39,008 INFO] Step 3150/20000; acc:  80.25; ppl:  2.13; xent: 0.76; lr: 0.15000; 3769/1263 tok/s;   1202 sec
+[2019-08-09 19:24:55,785 INFO] Step 3200/20000; acc:  80.40; ppl:  2.08; xent: 0.73; lr: 0.15000; 4324/1525 tok/s;   1219 sec
+[2019-08-09 19:24:55,786 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:24:55,796 INFO] number of examples: 744
+[2019-08-09 19:24:58,233 INFO] Validation perplexity: 7.229
+[2019-08-09 19:24:58,233 INFO] Validation accuracy: 69.9455
+[2019-08-09 19:24:58,234 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:24:58,272 INFO] number of examples: 4050
+[2019-08-09 19:25:15,245 INFO] Step 3250/20000; acc:  81.07; ppl:  2.03; xent: 0.71; lr: 0.15000; 3796/1335 tok/s;   1238 sec
+[2019-08-09 19:25:20,839 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:25:20,878 INFO] number of examples: 4050
+[2019-08-09 19:25:32,938 INFO] Step 3300/20000; acc:  80.67; ppl:  2.08; xent: 0.73; lr: 0.15000; 4309/1504 tok/s;   1256 sec
+[2019-08-09 19:25:32,938 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:25:32,946 INFO] number of examples: 744
+[2019-08-09 19:25:35,282 INFO] Validation perplexity: 6.90574
+[2019-08-09 19:25:35,282 INFO] Validation accuracy: 70.2879
+[2019-08-09 19:25:46,103 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:25:46,227 INFO] number of examples: 4050
+[2019-08-09 19:25:55,114 INFO] Step 3350/20000; acc:  81.16; ppl:  2.01; xent: 0.70; lr: 0.15000; 3583/1204 tok/s;   1278 sec
+[2019-08-09 19:26:11,359 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:26:11,402 INFO] number of examples: 4050
+[2019-08-09 19:26:14,780 INFO] Step 3400/20000; acc:  82.27; ppl:  1.94; xent: 0.66; lr: 0.15000; 3805/1334 tok/s;   1297 sec
+[2019-08-09 19:26:14,780 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:26:14,789 INFO] number of examples: 744
+[2019-08-09 19:26:17,474 INFO] Validation perplexity: 7.00612
+[2019-08-09 19:26:17,474 INFO] Validation accuracy: 70.8949
+[2019-08-09 19:26:36,384 INFO] Step 3450/20000; acc:  81.88; ppl:  1.99; xent: 0.69; lr: 0.15000; 3416/1194 tok/s;   1319 sec
+[2019-08-09 19:26:38,958 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:26:39,006 INFO] number of examples: 4050
+[2019-08-09 19:26:55,600 INFO] Step 3500/20000; acc:  82.83; ppl:  1.91; xent: 0.65; lr: 0.15000; 3909/1375 tok/s;   1338 sec
+[2019-08-09 19:26:55,601 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:26:55,609 INFO] number of examples: 744
+[2019-08-09 19:26:58,228 INFO] Validation perplexity: 6.91962
+[2019-08-09 19:26:58,228 INFO] Validation accuracy: 70.9728
+[2019-08-09 19:27:06,627 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:27:06,742 INFO] number of examples: 4050
+[2019-08-09 19:27:18,177 INFO] Step 3550/20000; acc:  82.83; ppl:  1.91; xent: 0.65; lr: 0.15000; 3416/1150 tok/s;   1361 sec
+[2019-08-09 19:27:31,727 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:27:31,770 INFO] number of examples: 4050
+[2019-08-09 19:27:38,554 INFO] Step 3600/20000; acc:  83.09; ppl:  1.88; xent: 0.63; lr: 0.15000; 3832/1314 tok/s;   1381 sec
+[2019-08-09 19:27:38,555 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:27:38,568 INFO] number of examples: 744
+[2019-08-09 19:27:41,251 INFO] Validation perplexity: 7.01441
+[2019-08-09 19:27:41,252 INFO] Validation accuracy: 71.5642
+[2019-08-09 19:27:59,485 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:27:59,533 INFO] number of examples: 4050
+[2019-08-09 19:28:00,373 INFO] Step 3650/20000; acc:  83.61; ppl:  1.85; xent: 0.62; lr: 0.15000; 3403/1180 tok/s;   1403 sec
+[2019-08-09 19:28:19,802 INFO] Step 3700/20000; acc:  84.08; ppl:  1.83; xent: 0.60; lr: 0.15000; 3872/1317 tok/s;   1423 sec
+[2019-08-09 19:28:19,803 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:28:19,896 INFO] number of examples: 744
+[2019-08-09 19:28:22,665 INFO] Validation perplexity: 6.92603
+[2019-08-09 19:28:22,666 INFO] Validation accuracy: 72.0156
+[2019-08-09 19:28:27,719 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:28:27,762 INFO] number of examples: 4050
+[2019-08-09 19:28:42,523 INFO] Step 3750/20000; acc:  83.86; ppl:  1.83; xent: 0.61; lr: 0.15000; 3315/1189 tok/s;   1445 sec
+[2019-08-09 19:28:53,093 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:28:53,135 INFO] number of examples: 4050
+[2019-08-09 19:29:02,857 INFO] Step 3800/20000; acc:  84.47; ppl:  1.79; xent: 0.58; lr: 0.15000; 3845/1296 tok/s;   1466 sec
+[2019-08-09 19:29:02,858 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:29:02,871 INFO] number of examples: 744
+[2019-08-09 19:29:05,512 INFO] Validation perplexity: 6.7656
+[2019-08-09 19:29:05,512 INFO] Validation accuracy: 71.8599
+[2019-08-09 19:29:20,991 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:29:21,132 INFO] number of examples: 4050
+[2019-08-09 19:29:25,238 INFO] Step 3850/20000; acc:  85.28; ppl:  1.73; xent: 0.55; lr: 0.15000; 3343/1175 tok/s;   1488 sec
+[2019-08-09 19:29:44,890 INFO] Step 3900/20000; acc:  84.56; ppl:  1.78; xent: 0.58; lr: 0.15000; 3833/1320 tok/s;   1508 sec
+[2019-08-09 19:29:44,890 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:29:44,902 INFO] number of examples: 744
+[2019-08-09 19:29:47,548 INFO] Validation perplexity: 6.88728
+[2019-08-09 19:29:47,548 INFO] Validation accuracy: 72.3424
+[2019-08-09 19:29:49,161 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:29:49,206 INFO] number of examples: 4050
+[2019-08-09 19:30:06,402 INFO] Step 3950/20000; acc:  85.61; ppl:  1.71; xent: 0.54; lr: 0.15000; 3455/1220 tok/s;   1529 sec
+[2019-08-09 19:30:13,982 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:30:14,030 INFO] number of examples: 4050
+[2019-08-09 19:30:26,264 INFO] Step 4000/20000; acc:  85.14; ppl:  1.74; xent: 0.56; lr: 0.15000; 3903/1316 tok/s;   1549 sec
+[2019-08-09 19:30:26,265 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:30:26,279 INFO] number of examples: 744
+[2019-08-09 19:30:28,900 INFO] Validation perplexity: 6.69287
+[2019-08-09 19:30:28,900 INFO] Validation accuracy: 72.7004
+[2019-08-09 19:30:28,910 INFO] Saving checkpoint CQR_valid_100_step_4000.pt
+[2019-08-09 19:30:41,504 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:30:41,636 INFO] number of examples: 4050
+[2019-08-09 19:30:48,868 INFO] Step 4050/20000; acc:  85.26; ppl:  1.72; xent: 0.54; lr: 0.15000; 3378/1185 tok/s;   1572 sec
+[2019-08-09 19:31:06,717 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:31:06,760 INFO] number of examples: 4050
+[2019-08-09 19:31:08,615 INFO] Step 4100/20000; acc:  86.21; ppl:  1.66; xent: 0.50; lr: 0.15000; 3839/1306 tok/s;   1591 sec
+[2019-08-09 19:31:08,616 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:31:08,624 INFO] number of examples: 744
+[2019-08-09 19:31:11,240 INFO] Validation perplexity: 6.76963
+[2019-08-09 19:31:11,240 INFO] Validation accuracy: 72.7315
+[2019-08-09 19:31:30,024 INFO] Step 4150/20000; acc:  86.02; ppl:  1.68; xent: 0.52; lr: 0.15000; 3443/1206 tok/s;   1613 sec
+[2019-08-09 19:31:34,488 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:31:34,537 INFO] number of examples: 4050
+[2019-08-09 19:31:49,214 INFO] Step 4200/20000; acc:  86.44; ppl:  1.67; xent: 0.51; lr: 0.15000; 3890/1384 tok/s;   1632 sec
+[2019-08-09 19:31:49,215 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:31:49,224 INFO] number of examples: 744
+[2019-08-09 19:31:51,808 INFO] Validation perplexity: 6.5365
+[2019-08-09 19:31:51,808 INFO] Validation accuracy: 73.2296
+[2019-08-09 19:32:02,028 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:32:02,159 INFO] number of examples: 4050
+[2019-08-09 19:32:12,353 INFO] Step 4250/20000; acc:  86.43; ppl:  1.65; xent: 0.50; lr: 0.15000; 3440/1138 tok/s;   1655 sec
+[2019-08-09 19:32:27,029 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:32:27,069 INFO] number of examples: 4050
+[2019-08-09 19:32:31,860 INFO] Step 4300/20000; acc:  87.34; ppl:  1.60; xent: 0.47; lr: 0.15000; 3863/1351 tok/s;   1675 sec
+[2019-08-09 19:32:31,861 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:32:31,870 INFO] number of examples: 744
+[2019-08-09 19:32:34,449 INFO] Validation perplexity: 6.56224
+[2019-08-09 19:32:34,449 INFO] Validation accuracy: 73.7743
+[2019-08-09 19:32:53,381 INFO] Step 4350/20000; acc:  86.68; ppl:  1.64; xent: 0.49; lr: 0.15000; 3468/1196 tok/s;   1696 sec
+[2019-08-09 19:32:54,298 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:32:54,345 INFO] number of examples: 4050
+[2019-08-09 19:33:12,211 INFO] Step 4400/20000; acc:  87.26; ppl:  1.60; xent: 0.47; lr: 0.15000; 3970/1392 tok/s;   1715 sec
+[2019-08-09 19:33:12,212 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:33:12,221 INFO] number of examples: 744
+[2019-08-09 19:33:14,936 INFO] Validation perplexity: 6.63996
+[2019-08-09 19:33:14,937 INFO] Validation accuracy: 73.6654
+[2019-08-09 19:33:21,913 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:33:22,037 INFO] number of examples: 4050
+[2019-08-09 19:33:34,988 INFO] Step 4450/20000; acc:  87.57; ppl:  1.59; xent: 0.46; lr: 0.15000; 3343/1166 tok/s;   1738 sec
+[2019-08-09 19:33:47,253 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:33:47,295 INFO] number of examples: 4050
+[2019-08-09 19:33:55,667 INFO] Step 4500/20000; acc:  87.51; ppl:  1.58; xent: 0.46; lr: 0.15000; 3822/1285 tok/s;   1758 sec
+[2019-08-09 19:33:55,667 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:33:55,680 INFO] number of examples: 744
+[2019-08-09 19:33:58,423 INFO] Validation perplexity: 6.42137
+[2019-08-09 19:33:58,424 INFO] Validation accuracy: 73.8833
+[2019-08-09 19:34:15,610 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:34:15,658 INFO] number of examples: 4050
+[2019-08-09 19:34:18,461 INFO] Step 4550/20000; acc:  88.28; ppl:  1.53; xent: 0.43; lr: 0.15000; 3293/1147 tok/s;   1781 sec
+[2019-08-09 19:34:37,945 INFO] Step 4600/20000; acc:  87.67; ppl:  1.57; xent: 0.45; lr: 0.15000; 3804/1325 tok/s;   1801 sec
+[2019-08-09 19:34:37,946 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:34:38,041 INFO] number of examples: 744
+[2019-08-09 19:34:40,713 INFO] Validation perplexity: 6.67949
+[2019-08-09 19:34:40,714 INFO] Validation accuracy: 73.9611
+[2019-08-09 19:34:44,137 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:34:44,179 INFO] number of examples: 4050
+[2019-08-09 19:35:00,515 INFO] Step 4650/20000; acc:  88.45; ppl:  1.54; xent: 0.43; lr: 0.15000; 3385/1169 tok/s;   1823 sec
+[2019-08-09 19:35:09,164 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:35:09,205 INFO] number of examples: 4050
+[2019-08-09 19:35:19,801 INFO] Step 4700/20000; acc:  88.43; ppl:  1.52; xent: 0.42; lr: 0.15000; 3880/1340 tok/s;   1843 sec
+[2019-08-09 19:35:19,802 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:35:19,815 INFO] number of examples: 744
+[2019-08-09 19:35:22,506 INFO] Validation perplexity: 6.5137
+[2019-08-09 19:35:22,506 INFO] Validation accuracy: 74.3346
+[2019-08-09 19:35:37,112 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:35:37,254 INFO] number of examples: 4050
+[2019-08-09 19:35:43,355 INFO] Step 4750/20000; acc:  88.45; ppl:  1.52; xent: 0.42; lr: 0.15000; 3406/1142 tok/s;   1866 sec
+[2019-08-09 19:36:02,111 INFO] Step 4800/20000; acc:  88.58; ppl:  1.51; xent: 0.41; lr: 0.15000; 3868/1364 tok/s;   1885 sec
+[2019-08-09 19:36:02,112 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:36:02,120 INFO] number of examples: 744
+[2019-08-09 19:36:04,781 INFO] Validation perplexity: 6.65915
+[2019-08-09 19:36:04,781 INFO] Validation accuracy: 74.7549
+[2019-08-09 19:36:04,782 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:36:04,824 INFO] number of examples: 4050
+[2019-08-09 19:36:23,728 INFO] Step 4850/20000; acc:  89.16; ppl:  1.48; xent: 0.39; lr: 0.15000; 3418/1202 tok/s;   1906 sec
+[2019-08-09 19:36:30,003 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:36:30,047 INFO] number of examples: 4050
+[2019-08-09 19:36:43,640 INFO] Step 4900/20000; acc:  88.92; ppl:  1.50; xent: 0.40; lr: 0.15000; 3829/1337 tok/s;   1926 sec
+[2019-08-09 19:36:43,641 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:36:43,654 INFO] number of examples: 744
+[2019-08-09 19:36:46,246 INFO] Validation perplexity: 6.45634
+[2019-08-09 19:36:46,246 INFO] Validation accuracy: 74.7549
+[2019-08-09 19:36:57,872 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:36:57,994 INFO] number of examples: 4050
+[2019-08-09 19:37:07,190 INFO] Step 4950/20000; acc:  89.15; ppl:  1.49; xent: 0.40; lr: 0.15000; 3374/1133 tok/s;   1950 sec
+[2019-08-09 19:37:23,345 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:37:23,394 INFO] number of examples: 4050
+[2019-08-09 19:37:26,773 INFO] Step 5000/20000; acc:  90.13; ppl:  1.43; xent: 0.36; lr: 0.15000; 3821/1339 tok/s;   1969 sec
+[2019-08-09 19:37:26,774 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:37:26,784 INFO] number of examples: 744
+[2019-08-09 19:37:29,474 INFO] Validation perplexity: 6.47981
+[2019-08-09 19:37:29,474 INFO] Validation accuracy: 75.0506
+[2019-08-09 19:37:29,484 INFO] Saving checkpoint CQR_valid_100_step_5000.pt
+[2019-08-09 19:37:48,605 INFO] Step 5050/20000; acc:  89.46; ppl:  1.47; xent: 0.39; lr: 0.15000; 3380/1182 tok/s;   1991 sec
+[2019-08-09 19:37:51,200 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:37:51,245 INFO] number of examples: 4050
+[2019-08-09 19:38:07,826 INFO] Step 5100/20000; acc:  89.90; ppl:  1.44; xent: 0.37; lr: 0.15000; 3908/1375 tok/s;   2011 sec
+[2019-08-09 19:38:07,827 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:38:07,840 INFO] number of examples: 744
+[2019-08-09 19:38:10,491 INFO] Validation perplexity: 6.50632
+[2019-08-09 19:38:10,491 INFO] Validation accuracy: 74.8171
+[2019-08-09 19:38:18,868 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:38:18,984 INFO] number of examples: 4050
+[2019-08-09 19:38:30,562 INFO] Step 5150/20000; acc:  89.98; ppl:  1.44; xent: 0.36; lr: 0.15000; 3392/1142 tok/s;   2033 sec
+[2019-08-09 19:38:44,021 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:38:44,072 INFO] number of examples: 4050
+[2019-08-09 19:38:50,628 INFO] Step 5200/20000; acc:  90.19; ppl:  1.42; xent: 0.35; lr: 0.15000; 3892/1335 tok/s;   2053 sec
+[2019-08-09 19:38:50,628 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:38:50,637 INFO] number of examples: 744
+[2019-08-09 19:38:53,317 INFO] Validation perplexity: 6.39386
+[2019-08-09 19:38:53,318 INFO] Validation accuracy: 75.5798
+[2019-08-09 19:39:11,611 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:39:11,660 INFO] number of examples: 4050
+[2019-08-09 19:39:12,510 INFO] Step 5250/20000; acc:  90.43; ppl:  1.41; xent: 0.34; lr: 0.15000; 3393/1177 tok/s;   2075 sec
+[2019-08-09 19:39:31,864 INFO] Step 5300/20000; acc:  90.32; ppl:  1.41; xent: 0.35; lr: 0.15000; 3888/1322 tok/s;   2095 sec
+[2019-08-09 19:39:31,865 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:39:31,874 INFO] number of examples: 744
+[2019-08-09 19:39:34,734 INFO] Validation perplexity: 6.55521
+[2019-08-09 19:39:34,734 INFO] Validation accuracy: 75.6576
+[2019-08-09 19:39:39,884 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:39:40,006 INFO] number of examples: 4050
+[2019-08-09 19:39:54,443 INFO] Step 5350/20000; acc:  90.35; ppl:  1.41; xent: 0.35; lr: 0.15000; 3336/1197 tok/s;   2117 sec
+[2019-08-09 19:40:04,903 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:40:04,955 INFO] number of examples: 4050
+[2019-08-09 19:40:14,544 INFO] Step 5400/20000; acc:  90.82; ppl:  1.39; xent: 0.33; lr: 0.15000; 3890/1311 tok/s;   2137 sec
+[2019-08-09 19:40:14,544 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:40:14,554 INFO] number of examples: 744
+[2019-08-09 19:40:17,280 INFO] Validation perplexity: 6.33414
+[2019-08-09 19:40:17,281 INFO] Validation accuracy: 76.0156
+[2019-08-09 19:40:32,730 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:40:32,774 INFO] number of examples: 4050
+[2019-08-09 19:40:36,985 INFO] Step 5450/20000; acc:  90.93; ppl:  1.37; xent: 0.32; lr: 0.15000; 3334/1172 tok/s;   2160 sec
+[2019-08-09 19:40:56,274 INFO] Step 5500/20000; acc:  90.46; ppl:  1.41; xent: 0.34; lr: 0.15000; 3905/1345 tok/s;   2179 sec
+[2019-08-09 19:40:56,274 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:40:56,283 INFO] number of examples: 744
+[2019-08-09 19:40:58,981 INFO] Validation perplexity: 6.45854
+[2019-08-09 19:40:58,982 INFO] Validation accuracy: 75.6732
+[2019-08-09 19:41:00,606 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:41:00,651 INFO] number of examples: 4050
+[2019-08-09 19:41:17,747 INFO] Step 5550/20000; acc:  91.51; ppl:  1.36; xent: 0.31; lr: 0.15000; 3461/1222 tok/s;   2200 sec
+[2019-08-09 19:41:25,212 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:41:25,253 INFO] number of examples: 4050
+[2019-08-09 19:41:37,658 INFO] Step 5600/20000; acc:  91.10; ppl:  1.38; xent: 0.32; lr: 0.15000; 3894/1313 tok/s;   2220 sec
+[2019-08-09 19:41:37,659 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:41:37,671 INFO] number of examples: 744
+[2019-08-09 19:41:40,311 INFO] Validation perplexity: 6.39029
+[2019-08-09 19:41:40,311 INFO] Validation accuracy: 75.7665
+[2019-08-09 19:41:52,720 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:41:52,856 INFO] number of examples: 4050
+[2019-08-09 19:41:59,930 INFO] Step 5650/20000; acc:  91.27; ppl:  1.37; xent: 0.31; lr: 0.15000; 3429/1203 tok/s;   2243 sec
+[2019-08-09 19:42:17,558 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:42:17,602 INFO] number of examples: 4050
+[2019-08-09 19:42:19,407 INFO] Step 5700/20000; acc:  91.64; ppl:  1.35; xent: 0.30; lr: 0.15000; 3892/1324 tok/s;   2262 sec
+[2019-08-09 19:42:19,407 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:42:19,416 INFO] number of examples: 744
+[2019-08-09 19:42:22,019 INFO] Validation perplexity: 6.48856
+[2019-08-09 19:42:22,020 INFO] Validation accuracy: 76.3268
+[2019-08-09 19:42:40,477 INFO] Step 5750/20000; acc:  91.39; ppl:  1.35; xent: 0.30; lr: 0.15000; 3498/1225 tok/s;   2283 sec
+[2019-08-09 19:42:44,879 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:42:44,925 INFO] number of examples: 4050
+[2019-08-09 19:42:59,638 INFO] Step 5800/20000; acc:  91.90; ppl:  1.35; xent: 0.30; lr: 0.15000; 3896/1386 tok/s;   2302 sec
+[2019-08-09 19:42:59,639 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:42:59,653 INFO] number of examples: 744
+[2019-08-09 19:43:02,354 INFO] Validation perplexity: 6.39225
+[2019-08-09 19:43:02,354 INFO] Validation accuracy: 75.9377
+[2019-08-09 19:43:12,446 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:43:12,574 INFO] number of examples: 4050
+[2019-08-09 19:43:22,742 INFO] Step 5850/20000; acc:  91.73; ppl:  1.34; xent: 0.29; lr: 0.15000; 3445/1140 tok/s;   2325 sec
+[2019-08-09 19:43:37,549 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:43:37,600 INFO] number of examples: 4050
+[2019-08-09 19:43:42,547 INFO] Step 5900/20000; acc:  92.25; ppl:  1.32; xent: 0.27; lr: 0.15000; 3805/1331 tok/s;   2345 sec
+[2019-08-09 19:43:42,547 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:43:42,557 INFO] number of examples: 744
+[2019-08-09 19:43:45,391 INFO] Validation perplexity: 6.41424
+[2019-08-09 19:43:45,391 INFO] Validation accuracy: 76.5603
+[2019-08-09 19:44:04,620 INFO] Step 5950/20000; acc:  91.67; ppl:  1.35; xent: 0.30; lr: 0.15000; 3382/1166 tok/s;   2367 sec
+[2019-08-09 19:44:05,548 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:44:05,592 INFO] number of examples: 4050
+[2019-08-09 19:44:23,208 INFO] Step 6000/20000; acc:  92.28; ppl:  1.32; xent: 0.28; lr: 0.15000; 4022/1410 tok/s;   2386 sec
+[2019-08-09 19:44:23,208 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:44:23,217 INFO] number of examples: 744
+[2019-08-09 19:44:25,845 INFO] Validation perplexity: 6.49137
+[2019-08-09 19:44:25,846 INFO] Validation accuracy: 76.6848
+[2019-08-09 19:44:25,855 INFO] Saving checkpoint CQR_valid_100_step_6000.pt
+[2019-08-09 19:44:32,651 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:44:32,767 INFO] number of examples: 4050
+[2019-08-09 19:44:45,578 INFO] Step 6050/20000; acc:  92.27; ppl:  1.32; xent: 0.28; lr: 0.15000; 3404/1187 tok/s;   2408 sec
+[2019-08-09 19:44:57,718 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:44:57,759 INFO] number of examples: 4050
+[2019-08-09 19:45:05,996 INFO] Step 6100/20000; acc:  92.02; ppl:  1.32; xent: 0.28; lr: 0.15000; 3871/1302 tok/s;   2429 sec
+[2019-08-09 19:45:05,997 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:45:06,005 INFO] number of examples: 744
+[2019-08-09 19:45:08,644 INFO] Validation perplexity: 6.39554
+[2019-08-09 19:45:08,644 INFO] Validation accuracy: 76.6693
+[2019-08-09 19:45:25,082 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:45:25,136 INFO] number of examples: 4050
+[2019-08-09 19:45:27,794 INFO] Step 6150/20000; acc:  92.82; ppl:  1.29; xent: 0.25; lr: 0.15000; 3443/1200 tok/s;   2451 sec
+[2019-08-09 19:45:46,496 INFO] Step 6200/20000; acc:  92.27; ppl:  1.31; xent: 0.27; lr: 0.15000; 3963/1380 tok/s;   2469 sec
+[2019-08-09 19:45:46,497 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:45:46,506 INFO] number of examples: 744
+[2019-08-09 19:45:49,211 INFO] Validation perplexity: 6.50165
+[2019-08-09 19:45:49,211 INFO] Validation accuracy: 76.6381
+[2019-08-09 19:45:52,645 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:45:52,765 INFO] number of examples: 4050
+[2019-08-09 19:46:09,109 INFO] Step 6250/20000; acc:  92.56; ppl:  1.30; xent: 0.26; lr: 0.15000; 3379/1166 tok/s;   2492 sec
+[2019-08-09 19:46:17,875 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:46:17,917 INFO] number of examples: 4050
+[2019-08-09 19:46:28,384 INFO] Step 6300/20000; acc:  92.97; ppl:  1.28; xent: 0.25; lr: 0.15000; 3882/1340 tok/s;   2511 sec
+[2019-08-09 19:46:28,385 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:46:28,398 INFO] number of examples: 744
+[2019-08-09 19:46:31,122 INFO] Validation perplexity: 6.35438
+[2019-08-09 19:46:31,123 INFO] Validation accuracy: 76.8093
+[2019-08-09 19:46:45,500 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:46:45,545 INFO] number of examples: 4050
+[2019-08-09 19:46:51,541 INFO] Step 6350/20000; acc:  92.96; ppl:  1.28; xent: 0.25; lr: 0.15000; 3465/1161 tok/s;   2534 sec
+[2019-08-09 19:47:09,881 INFO] Step 6400/20000; acc:  92.69; ppl:  1.28; xent: 0.25; lr: 0.15000; 3955/1395 tok/s;   2553 sec
+[2019-08-09 19:47:09,881 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:47:09,984 INFO] number of examples: 744
+[2019-08-09 19:47:12,608 INFO] Validation perplexity: 6.48739
+[2019-08-09 19:47:12,608 INFO] Validation accuracy: 76.9183
+[2019-08-09 19:47:12,609 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:47:12,656 INFO] number of examples: 4050
+[2019-08-09 19:47:31,640 INFO] Step 6450/20000; acc:  93.52; ppl:  1.26; xent: 0.23; lr: 0.15000; 3395/1194 tok/s;   2574 sec
+[2019-08-09 19:47:37,870 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:47:37,910 INFO] number of examples: 4050
+[2019-08-09 19:47:51,040 INFO] Step 6500/20000; acc:  93.10; ppl:  1.27; xent: 0.24; lr: 0.15000; 3930/1372 tok/s;   2594 sec
+[2019-08-09 19:47:51,041 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:47:51,054 INFO] number of examples: 744
+[2019-08-09 19:47:53,668 INFO] Validation perplexity: 6.4327
+[2019-08-09 19:47:53,669 INFO] Validation accuracy: 76.5759
+[2019-08-09 19:48:04,811 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:48:04,946 INFO] number of examples: 4050
+[2019-08-09 19:48:13,854 INFO] Step 6550/20000; acc:  93.35; ppl:  1.27; xent: 0.24; lr: 0.15000; 3483/1170 tok/s;   2617 sec
+[2019-08-09 19:48:29,654 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:48:29,697 INFO] number of examples: 4050
+[2019-08-09 19:48:32,900 INFO] Step 6600/20000; acc:  93.58; ppl:  1.26; xent: 0.23; lr: 0.15000; 3928/1377 tok/s;   2636 sec
+[2019-08-09 19:48:32,901 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:48:32,914 INFO] number of examples: 744
+[2019-08-09 19:48:35,552 INFO] Validation perplexity: 6.34772
+[2019-08-09 19:48:35,552 INFO] Validation accuracy: 76.9805
+[2019-08-09 19:48:53,794 INFO] Step 6650/20000; acc:  93.13; ppl:  1.27; xent: 0.24; lr: 0.15000; 3532/1235 tok/s;   2657 sec
+[2019-08-09 19:48:56,276 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:48:56,319 INFO] number of examples: 4050
+[2019-08-09 19:49:12,149 INFO] Step 6700/20000; acc:  93.68; ppl:  1.25; xent: 0.22; lr: 0.15000; 4093/1440 tok/s;   2675 sec
+[2019-08-09 19:49:12,149 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:49:12,162 INFO] number of examples: 744
+[2019-08-09 19:49:14,733 INFO] Validation perplexity: 6.28928
+[2019-08-09 19:49:14,734 INFO] Validation accuracy: 77.572
+[2019-08-09 19:49:22,726 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:49:22,850 INFO] number of examples: 4050
+[2019-08-09 19:49:33,765 INFO] Step 6750/20000; acc:  93.79; ppl:  1.25; xent: 0.22; lr: 0.15000; 3567/1201 tok/s;   2696 sec
+[2019-08-09 19:49:46,661 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:49:46,704 INFO] number of examples: 4050
+[2019-08-09 19:49:53,199 INFO] Step 6800/20000; acc:  93.80; ppl:  1.24; xent: 0.22; lr: 0.15000; 4018/1378 tok/s;   2716 sec
+[2019-08-09 19:49:53,200 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:49:53,209 INFO] number of examples: 744
+[2019-08-09 19:49:55,855 INFO] Validation perplexity: 6.56434
+[2019-08-09 19:49:55,856 INFO] Validation accuracy: 77.4786
+[2019-08-09 19:50:13,848 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:50:13,893 INFO] number of examples: 4050
+[2019-08-09 19:50:14,683 INFO] Step 6850/20000; acc:  93.94; ppl:  1.24; xent: 0.22; lr: 0.15000; 3456/1199 tok/s;   2737 sec
+[2019-08-09 19:50:33,248 INFO] Step 6900/20000; acc:  93.95; ppl:  1.24; xent: 0.22; lr: 0.15000; 4053/1378 tok/s;   2756 sec
+[2019-08-09 19:50:33,248 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:50:33,258 INFO] number of examples: 744
+[2019-08-09 19:50:35,849 INFO] Validation perplexity: 6.44435
+[2019-08-09 19:50:35,850 INFO] Validation accuracy: 77.323
+[2019-08-09 19:50:40,616 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:50:40,738 INFO] number of examples: 4050
+[2019-08-09 19:50:54,650 INFO] Step 6950/20000; acc:  93.95; ppl:  1.24; xent: 0.21; lr: 0.15000; 3520/1263 tok/s;   2777 sec
+[2019-08-09 19:51:04,800 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:51:04,842 INFO] number of examples: 4050
+[2019-08-09 19:51:14,327 INFO] Step 7000/20000; acc:  94.07; ppl:  1.23; xent: 0.21; lr: 0.15000; 3974/1339 tok/s;   2797 sec
+[2019-08-09 19:51:14,327 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:51:14,337 INFO] number of examples: 744
+[2019-08-09 19:51:16,951 INFO] Validation perplexity: 6.43017
+[2019-08-09 19:51:16,951 INFO] Validation accuracy: 77.4008
+[2019-08-09 19:51:16,961 INFO] Saving checkpoint CQR_valid_100_step_7000.pt
+[2019-08-09 19:51:31,976 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:51:32,024 INFO] number of examples: 4050
+[2019-08-09 19:51:36,011 INFO] Step 7050/20000; acc:  94.27; ppl:  1.22; xent: 0.20; lr: 0.15000; 3450/1213 tok/s;   2819 sec
+[2019-08-09 19:51:54,602 INFO] Step 7100/20000; acc:  94.07; ppl:  1.24; xent: 0.21; lr: 0.15000; 4052/1395 tok/s;   2837 sec
+[2019-08-09 19:51:54,602 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:51:54,612 INFO] number of examples: 744
+[2019-08-09 19:51:57,188 INFO] Validation perplexity: 6.49094
+[2019-08-09 19:51:57,189 INFO] Validation accuracy: 77.4475
+[2019-08-09 19:51:58,713 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:51:58,818 INFO] number of examples: 4050
+[2019-08-09 19:52:15,164 INFO] Step 7150/20000; acc:  94.44; ppl:  1.22; xent: 0.20; lr: 0.15000; 3615/1277 tok/s;   2858 sec
+[2019-08-09 19:52:22,426 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:52:22,468 INFO] number of examples: 4050
+[2019-08-09 19:52:34,544 INFO] Step 7200/20000; acc:  93.90; ppl:  1.24; xent: 0.21; lr: 0.15000; 4000/1349 tok/s;   2877 sec
+[2019-08-09 19:52:34,544 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:52:34,557 INFO] number of examples: 744
+[2019-08-09 19:52:37,153 INFO] Validation perplexity: 6.51031
+[2019-08-09 19:52:37,153 INFO] Validation accuracy: 77.7432
+[2019-08-09 19:52:49,057 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:52:49,105 INFO] number of examples: 4050
+[2019-08-09 19:52:55,993 INFO] Step 7250/20000; acc:  94.54; ppl:  1.21; xent: 0.19; lr: 0.15000; 3560/1249 tok/s;   2899 sec
+[2019-08-09 19:53:13,159 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:53:13,287 INFO] number of examples: 4050
+[2019-08-09 19:53:15,077 INFO] Step 7300/20000; acc:  94.53; ppl:  1.21; xent: 0.19; lr: 0.15000; 3972/1351 tok/s;   2918 sec
+[2019-08-09 19:53:15,077 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:53:15,089 INFO] number of examples: 744
+[2019-08-09 19:53:17,598 INFO] Validation perplexity: 6.40849
+[2019-08-09 19:53:17,598 INFO] Validation accuracy: 77.6654
+[2019-08-09 19:53:35,555 INFO] Step 7350/20000; acc:  94.65; ppl:  1.20; xent: 0.19; lr: 0.15000; 3600/1261 tok/s;   2938 sec
+[2019-08-09 19:53:39,770 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:53:39,811 INFO] number of examples: 4050
+[2019-08-09 19:53:53,901 INFO] Step 7400/20000; acc:  94.63; ppl:  1.21; xent: 0.19; lr: 0.15000; 4069/1448 tok/s;   2957 sec
+[2019-08-09 19:53:53,902 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:53:53,914 INFO] number of examples: 744
+[2019-08-09 19:53:56,453 INFO] Validation perplexity: 6.30641
+[2019-08-09 19:53:56,453 INFO] Validation accuracy: 77.8366
+[2019-08-09 19:54:06,344 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:54:06,477 INFO] number of examples: 4050
+[2019-08-09 19:54:16,420 INFO] Step 7450/20000; acc:  94.78; ppl:  1.20; xent: 0.18; lr: 0.15000; 3534/1170 tok/s;   2979 sec
+[2019-08-09 19:54:30,717 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:54:30,759 INFO] number of examples: 4050
+[2019-08-09 19:54:35,334 INFO] Step 7500/20000; acc:  94.94; ppl:  1.19; xent: 0.18; lr: 0.15000; 3985/1394 tok/s;   2998 sec
+[2019-08-09 19:54:35,334 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:54:35,346 INFO] number of examples: 744
+[2019-08-09 19:54:37,859 INFO] Validation perplexity: 6.44468
+[2019-08-09 19:54:37,860 INFO] Validation accuracy: 78.1634
+[2019-08-09 19:54:56,041 INFO] Step 7550/20000; acc:  94.46; ppl:  1.21; xent: 0.19; lr: 0.15000; 3605/1243 tok/s;   3019 sec
+[2019-08-09 19:54:56,916 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:54:56,957 INFO] number of examples: 4050
+[2019-08-09 19:55:14,454 INFO] Step 7600/20000; acc:  94.90; ppl:  1.20; xent: 0.18; lr: 0.15000; 4060/1423 tok/s;   3037 sec
+[2019-08-09 19:55:14,455 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:55:14,469 INFO] number of examples: 744
+[2019-08-09 19:55:17,152 INFO] Validation perplexity: 6.52301
+[2019-08-09 19:55:17,152 INFO] Validation accuracy: 77.8677
+[2019-08-09 19:55:23,761 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:55:23,894 INFO] number of examples: 4050
+[2019-08-09 19:55:36,394 INFO] Step 7650/20000; acc:  95.15; ppl:  1.19; xent: 0.18; lr: 0.15000; 3471/1211 tok/s;   3059 sec
+[2019-08-09 19:55:48,095 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:55:48,139 INFO] number of examples: 4050
+[2019-08-09 19:55:55,950 INFO] Step 7700/20000; acc:  94.90; ppl:  1.19; xent: 0.18; lr: 0.15000; 4042/1359 tok/s;   3079 sec
+[2019-08-09 19:55:55,950 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:55:55,960 INFO] number of examples: 744
+[2019-08-09 19:55:58,499 INFO] Validation perplexity: 6.55444
+[2019-08-09 19:55:58,499 INFO] Validation accuracy: 78.2101
+[2019-08-09 19:56:14,705 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:56:14,753 INFO] number of examples: 4050
+[2019-08-09 19:56:17,355 INFO] Step 7750/20000; acc:  95.32; ppl:  1.18; xent: 0.17; lr: 0.15000; 3506/1222 tok/s;   3100 sec
+[2019-08-09 19:56:35,618 INFO] Step 7800/20000; acc:  95.05; ppl:  1.19; xent: 0.18; lr: 0.15000; 4058/1413 tok/s;   3118 sec
+[2019-08-09 19:56:35,618 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:56:35,634 INFO] number of examples: 744
+[2019-08-09 19:56:38,171 INFO] Validation perplexity: 6.46921
+[2019-08-09 19:56:38,171 INFO] Validation accuracy: 78.0545
+[2019-08-09 19:56:41,479 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:56:41,603 INFO] number of examples: 4050
+[2019-08-09 19:56:57,023 INFO] Step 7850/20000; acc:  95.37; ppl:  1.18; xent: 0.17; lr: 0.15000; 3569/1232 tok/s;   3140 sec
+[2019-08-09 19:57:05,476 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:57:05,520 INFO] number of examples: 4050
+[2019-08-09 19:57:15,420 INFO] Step 7900/20000; acc:  95.46; ppl:  1.18; xent: 0.16; lr: 0.15000; 4067/1404 tok/s;   3158 sec
+[2019-08-09 19:57:15,421 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:57:15,430 INFO] number of examples: 744
+[2019-08-09 19:57:17,946 INFO] Validation perplexity: 6.50095
+[2019-08-09 19:57:17,946 INFO] Validation accuracy: 77.9455
+[2019-08-09 19:57:31,825 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:57:31,875 INFO] number of examples: 4050
+[2019-08-09 19:57:38,033 INFO] Step 7950/20000; acc:  95.27; ppl:  1.18; xent: 0.17; lr: 0.15000; 3548/1189 tok/s;   3181 sec
+[2019-08-09 19:57:55,914 INFO] Step 8000/20000; acc:  95.46; ppl:  1.18; xent: 0.16; lr: 0.15000; 4057/1431 tok/s;   3199 sec
+[2019-08-09 19:57:55,915 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:57:55,924 INFO] number of examples: 744
+[2019-08-09 19:57:58,393 INFO] Validation perplexity: 6.54047
+[2019-08-09 19:57:58,394 INFO] Validation accuracy: 78.0389
+[2019-08-09 19:57:58,403 INFO] Saving checkpoint CQR_valid_100_step_8000.pt
+[2019-08-09 19:57:58,420 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:57:58,527 INFO] number of examples: 4050
+[2019-08-09 19:58:16,636 INFO] Step 8050/20000; acc:  95.62; ppl:  1.17; xent: 0.15; lr: 0.15000; 3565/1254 tok/s;   3219 sec
+[2019-08-09 19:58:22,539 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:58:22,579 INFO] number of examples: 4050
+[2019-08-09 19:58:35,515 INFO] Step 8100/20000; acc:  95.39; ppl:  1.17; xent: 0.16; lr: 0.15000; 4038/1410 tok/s;   3238 sec
+[2019-08-09 19:58:35,515 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:58:35,525 INFO] number of examples: 744
+[2019-08-09 19:58:38,027 INFO] Validation perplexity: 6.47097
+[2019-08-09 19:58:38,027 INFO] Validation accuracy: 77.9144
+[2019-08-09 19:58:48,673 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:58:48,716 INFO] number of examples: 4050
+[2019-08-09 19:58:57,385 INFO] Step 8150/20000; acc:  95.64; ppl:  1.17; xent: 0.15; lr: 0.15000; 3633/1220 tok/s;   3260 sec
+[2019-08-09 19:59:12,643 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:59:12,684 INFO] number of examples: 4050
+[2019-08-09 19:59:15,887 INFO] Step 8200/20000; acc:  95.86; ppl:  1.16; xent: 0.15; lr: 0.15000; 4044/1418 tok/s;   3279 sec
+[2019-08-09 19:59:15,888 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:59:15,904 INFO] number of examples: 744
+[2019-08-09 19:59:18,438 INFO] Validation perplexity: 6.62157
+[2019-08-09 19:59:18,438 INFO] Validation accuracy: 78.2724
+[2019-08-09 19:59:36,979 INFO] Step 8250/20000; acc:  95.38; ppl:  1.17; xent: 0.16; lr: 0.15000; 3499/1223 tok/s;   3300 sec
+[2019-08-09 19:59:39,464 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 19:59:39,507 INFO] number of examples: 4050
+[2019-08-09 19:59:55,444 INFO] Step 8300/20000; acc:  95.80; ppl:  1.16; xent: 0.15; lr: 0.15000; 4068/1431 tok/s;   3318 sec
+[2019-08-09 19:59:55,445 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 19:59:55,458 INFO] number of examples: 744
+[2019-08-09 19:59:58,050 INFO] Validation perplexity: 6.43538
+[2019-08-09 19:59:58,051 INFO] Validation accuracy: 78.1323
+[2019-08-09 20:00:06,082 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:00:06,206 INFO] number of examples: 4050
+[2019-08-09 20:00:17,284 INFO] Step 8350/20000; acc:  95.59; ppl:  1.17; xent: 0.15; lr: 0.15000; 3531/1189 tok/s;   3340 sec
+[2019-08-09 20:00:30,880 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:00:30,922 INFO] number of examples: 4050
+[2019-08-09 20:00:37,536 INFO] Step 8400/20000; acc:  95.72; ppl:  1.16; xent: 0.15; lr: 0.15000; 3856/1322 tok/s;   3360 sec
+[2019-08-09 20:00:37,537 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 20:00:37,546 INFO] number of examples: 744
+[2019-08-09 20:00:40,249 INFO] Validation perplexity: 6.50284
+[2019-08-09 20:00:40,249 INFO] Validation accuracy: 78.3969
+[2019-08-09 20:00:58,339 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:00:58,389 INFO] number of examples: 4050
+[2019-08-09 20:00:59,190 INFO] Step 8450/20000; acc:  96.07; ppl:  1.15; xent: 0.14; lr: 0.15000; 3429/1189 tok/s;   3382 sec
+[2019-08-09 20:01:18,157 INFO] Step 8500/20000; acc:  95.79; ppl:  1.16; xent: 0.15; lr: 0.15000; 3967/1349 tok/s;   3401 sec
+[2019-08-09 20:01:18,158 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 20:01:18,170 INFO] number of examples: 744
+[2019-08-09 20:01:20,863 INFO] Validation perplexity: 6.50357
+[2019-08-09 20:01:20,863 INFO] Validation accuracy: 78.1479
+[2019-08-09 20:01:25,591 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:01:25,714 INFO] number of examples: 4050
+[2019-08-09 20:01:39,904 INFO] Step 8550/20000; acc:  95.74; ppl:  1.16; xent: 0.15; lr: 0.15000; 3464/1243 tok/s;   3423 sec
+[2019-08-09 20:01:50,192 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:01:50,237 INFO] number of examples: 4050
+[2019-08-09 20:01:59,668 INFO] Step 8600/20000; acc:  95.94; ppl:  1.15; xent: 0.14; lr: 0.15000; 3956/1333 tok/s;   3442 sec
+[2019-08-09 20:01:59,669 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 20:01:59,677 INFO] number of examples: 744
+[2019-08-09 20:02:02,284 INFO] Validation perplexity: 6.54891
+[2019-08-09 20:02:02,284 INFO] Validation accuracy: 78.3969
+[2019-08-09 20:02:17,584 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:02:17,631 INFO] number of examples: 4050
+[2019-08-09 20:02:21,725 INFO] Step 8650/20000; acc:  96.08; ppl:  1.15; xent: 0.14; lr: 0.15000; 3392/1192 tok/s;   3464 sec
+[2019-08-09 20:02:40,688 INFO] Step 8700/20000; acc:  95.90; ppl:  1.16; xent: 0.15; lr: 0.15000; 3972/1368 tok/s;   3483 sec
+[2019-08-09 20:02:40,689 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 20:02:40,697 INFO] number of examples: 744
+[2019-08-09 20:02:43,463 INFO] Validation perplexity: 6.61186
+[2019-08-09 20:02:43,463 INFO] Validation accuracy: 78.2101
+[2019-08-09 20:02:45,083 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:02:45,206 INFO] number of examples: 4050
+[2019-08-09 20:03:01,845 INFO] Step 8750/20000; acc:  96.14; ppl:  1.14; xent: 0.13; lr: 0.15000; 3513/1241 tok/s;   3505 sec
+[2019-08-09 20:03:09,278 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:03:09,319 INFO] number of examples: 4050
+[2019-08-09 20:03:21,474 INFO] Step 8800/20000; acc:  95.93; ppl:  1.15; xent: 0.14; lr: 0.15000; 3949/1332 tok/s;   3524 sec
+[2019-08-09 20:03:21,474 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 20:03:21,483 INFO] number of examples: 744
+[2019-08-09 20:03:24,154 INFO] Validation perplexity: 6.64088
+[2019-08-09 20:03:24,154 INFO] Validation accuracy: 78.2257
+[2019-08-09 20:03:36,541 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:03:36,591 INFO] number of examples: 4050
+[2019-08-09 20:03:43,545 INFO] Step 8850/20000; acc:  96.25; ppl:  1.14; xent: 0.13; lr: 0.15000; 3460/1214 tok/s;   3546 sec
+[2019-08-09 20:04:00,883 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:04:01,012 INFO] number of examples: 4050
+[2019-08-09 20:04:02,866 INFO] Step 8900/20000; acc:  96.05; ppl:  1.14; xent: 0.13; lr: 0.15000; 3923/1335 tok/s;   3566 sec
+[2019-08-09 20:04:02,866 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 20:04:02,878 INFO] number of examples: 744
+[2019-08-09 20:04:05,580 INFO] Validation perplexity: 6.55365
+[2019-08-09 20:04:05,580 INFO] Validation accuracy: 78.7393
+[2019-08-09 20:04:23,477 INFO] Step 8950/20000; acc:  96.11; ppl:  1.14; xent: 0.13; lr: 0.15000; 3576/1253 tok/s;   3586 sec
+[2019-08-09 20:04:27,803 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:04:27,847 INFO] number of examples: 4050
+[2019-08-09 20:04:42,234 INFO] Step 9000/20000; acc:  96.37; ppl:  1.14; xent: 0.13; lr: 0.15000; 3980/1416 tok/s;   3605 sec
+[2019-08-09 20:04:42,235 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 20:04:42,247 INFO] number of examples: 744
+[2019-08-09 20:04:44,817 INFO] Validation perplexity: 6.46802
+[2019-08-09 20:04:44,818 INFO] Validation accuracy: 78.3813
+[2019-08-09 20:04:44,827 INFO] Saving checkpoint CQR_valid_100_step_9000.pt
+[2019-08-09 20:04:54,640 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:04:54,685 INFO] number of examples: 4050
+[2019-08-09 20:05:04,773 INFO] Step 9050/20000; acc:  96.45; ppl:  1.13; xent: 0.13; lr: 0.15000; 3531/1169 tok/s;   3627 sec
+[2019-08-09 20:05:19,187 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:05:19,307 INFO] number of examples: 4050
+[2019-08-09 20:05:24,045 INFO] Step 9100/20000; acc:  96.51; ppl:  1.13; xent: 0.12; lr: 0.15000; 3911/1368 tok/s;   3647 sec
+[2019-08-09 20:05:24,046 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 20:05:24,057 INFO] number of examples: 744
+[2019-08-09 20:05:26,643 INFO] Validation perplexity: 6.57218
+[2019-08-09 20:05:26,643 INFO] Validation accuracy: 78.4903
+[2019-08-09 20:05:45,826 INFO] Step 9150/20000; acc:  96.19; ppl:  1.14; xent: 0.13; lr: 0.15000; 3427/1181 tok/s;   3669 sec
+[2019-08-09 20:05:46,778 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:05:46,822 INFO] number of examples: 4050
+[2019-08-09 20:06:04,945 INFO] Step 9200/20000; acc:  96.49; ppl:  1.13; xent: 0.12; lr: 0.15000; 3910/1371 tok/s;   3688 sec
+[2019-08-09 20:06:04,946 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 20:06:04,959 INFO] number of examples: 744
+[2019-08-09 20:06:07,696 INFO] Validation perplexity: 6.51926
+[2019-08-09 20:06:07,696 INFO] Validation accuracy: 78.4436
+[2019-08-09 20:06:14,447 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:06:14,580 INFO] number of examples: 4050
+[2019-08-09 20:06:27,340 INFO] Step 9250/20000; acc:  96.50; ppl:  1.13; xent: 0.12; lr: 0.15000; 3400/1186 tok/s;   3710 sec
+[2019-08-09 20:06:39,493 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:06:39,543 INFO] number of examples: 4050
+[2019-08-09 20:06:47,582 INFO] Step 9300/20000; acc:  96.30; ppl:  1.14; xent: 0.13; lr: 0.15000; 3905/1313 tok/s;   3730 sec
+[2019-08-09 20:06:47,582 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 20:06:47,595 INFO] number of examples: 744
+[2019-08-09 20:06:50,174 INFO] Validation perplexity: 6.60107
+[2019-08-09 20:06:50,174 INFO] Validation accuracy: 78.7237
+[2019-08-09 20:07:06,408 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:07:06,453 INFO] number of examples: 4050
+[2019-08-09 20:07:09,153 INFO] Step 9350/20000; acc:  96.81; ppl:  1.12; xent: 0.11; lr: 0.15000; 3479/1212 tok/s;   3752 sec
+[2019-08-09 20:07:27,505 INFO] Step 9400/20000; acc:  96.49; ppl:  1.13; xent: 0.12; lr: 0.15000; 4038/1406 tok/s;   3770 sec
+[2019-08-09 20:07:27,506 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 20:07:27,519 INFO] number of examples: 744
+[2019-08-09 20:07:30,382 INFO] Validation perplexity: 6.66823
+[2019-08-09 20:07:30,383 INFO] Validation accuracy: 78.6926
+[2019-08-09 20:07:33,954 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:07:34,087 INFO] number of examples: 4050
+[2019-08-09 20:07:50,333 INFO] Step 9450/20000; acc:  96.63; ppl:  1.13; xent: 0.12; lr: 0.15000; 3347/1155 tok/s;   3793 sec
+[2019-08-09 20:07:58,965 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:07:59,009 INFO] number of examples: 4050
+[2019-08-09 20:08:09,213 INFO] Step 9500/20000; acc:  96.91; ppl:  1.11; xent: 0.11; lr: 0.15000; 3963/1368 tok/s;   3812 sec
+[2019-08-09 20:08:09,213 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 20:08:09,222 INFO] number of examples: 744
+[2019-08-09 20:08:11,874 INFO] Validation perplexity: 6.6477
+[2019-08-09 20:08:11,874 INFO] Validation accuracy: 78.7237
+[2019-08-09 20:08:25,908 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:08:25,953 INFO] number of examples: 4050
+[2019-08-09 20:08:31,807 INFO] Step 9550/20000; acc:  96.68; ppl:  1.12; xent: 0.12; lr: 0.15000; 3551/1190 tok/s;   3835 sec
+[2019-08-09 20:08:49,593 INFO] Step 9600/20000; acc:  96.56; ppl:  1.13; xent: 0.12; lr: 0.15000; 4079/1438 tok/s;   3852 sec
+[2019-08-09 20:08:49,593 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 20:08:49,603 INFO] number of examples: 744
+[2019-08-09 20:08:52,155 INFO] Validation perplexity: 6.68071
+[2019-08-09 20:08:52,155 INFO] Validation accuracy: 79.035
+[2019-08-09 20:08:52,156 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:08:52,280 INFO] number of examples: 4050
+[2019-08-09 20:09:10,213 INFO] Step 9650/20000; acc:  96.77; ppl:  1.12; xent: 0.11; lr: 0.15000; 3583/1260 tok/s;   3873 sec
+[2019-08-09 20:09:16,143 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:09:16,189 INFO] number of examples: 4050
+[2019-08-09 20:09:29,160 INFO] Step 9700/20000; acc:  96.77; ppl:  1.12; xent: 0.12; lr: 0.15000; 4024/1405 tok/s;   3892 sec
+[2019-08-09 20:09:29,161 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 20:09:29,170 INFO] number of examples: 744
+[2019-08-09 20:09:31,681 INFO] Validation perplexity: 6.59299
+[2019-08-09 20:09:31,681 INFO] Validation accuracy: 79.0973
+[2019-08-09 20:09:42,714 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:09:42,762 INFO] number of examples: 4050
+[2019-08-09 20:09:51,313 INFO] Step 9750/20000; acc:  96.86; ppl:  1.12; xent: 0.11; lr: 0.15000; 3587/1205 tok/s;   3914 sec
+[2019-08-09 20:10:06,573 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:10:06,691 INFO] number of examples: 4050
+[2019-08-09 20:10:09,913 INFO] Step 9800/20000; acc:  96.97; ppl:  1.11; xent: 0.11; lr: 0.15000; 4023/1410 tok/s;   3933 sec
+[2019-08-09 20:10:09,913 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 20:10:09,924 INFO] number of examples: 744
+[2019-08-09 20:10:12,484 INFO] Validation perplexity: 6.74845
+[2019-08-09 20:10:12,484 INFO] Validation accuracy: 78.8794
+[2019-08-09 20:10:30,606 INFO] Step 9850/20000; acc:  96.70; ppl:  1.12; xent: 0.11; lr: 0.15000; 3566/1247 tok/s;   3953 sec
+[2019-08-09 20:10:33,151 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:10:33,193 INFO] number of examples: 4050
+[2019-08-09 20:10:49,239 INFO] Step 9900/20000; acc:  97.07; ppl:  1.11; xent: 0.10; lr: 0.15000; 4032/1418 tok/s;   3972 sec
+[2019-08-09 20:10:49,240 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 20:10:49,252 INFO] number of examples: 744
+[2019-08-09 20:10:51,925 INFO] Validation perplexity: 6.62611
+[2019-08-09 20:10:51,925 INFO] Validation accuracy: 78.9416
+[2019-08-09 20:10:59,940 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:10:59,984 INFO] number of examples: 4050
+[2019-08-09 20:11:11,043 INFO] Step 9950/20000; acc:  97.01; ppl:  1.11; xent: 0.10; lr: 0.15000; 3537/1191 tok/s;   3994 sec
+[2019-08-09 20:11:24,392 INFO] Loading dataset from preprocessed.train.0.pt
+[2019-08-09 20:11:24,508 INFO] number of examples: 4050
+[2019-08-09 20:11:30,968 INFO] Step 10000/20000; acc:  97.14; ppl:  1.11; xent: 0.10; lr: 0.15000; 3919/1344 tok/s;   4014 sec
+[2019-08-09 20:11:30,969 INFO] Loading dataset from preprocessed.valid.0.pt
+[2019-08-09 20:11:30,980 INFO] number of examples: 744
+[2019-08-09 20:11:33,653 INFO] Validation perplexity: 6.73596
+[2019-08-09 20:11:33,654 INFO] Validation accuracy: 79.0661
+[2019-08-09 20:11:33,663 INFO] Saving checkpoint CQR_valid_100_step_10000.pt
