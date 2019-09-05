@@ -1,0 +1,744 @@
+ 1@$% make an appointment to reserve conference room 100 later this week for a meeting.
+ 1@$% make an appointment to reserve conference room 100 later this week for a meeting.  1@$% What day and time should I set an appointment to reserve the conference room?  1@$% Monday at 3pm.
+ 1@$% Is there supposed to be a blizzard in brentwood on friday?
+ 1@$% Is there supposed to be a blizzard in brentwood on friday?  1@$% On Friday it's gonna rain in Brentwood.  1@$% Thanks.
+ 1@$% give me directions to nearest mall.
+ 1@$% give me directions to nearest mall.  1@$% There is Ravenswood Shopping Center 5 miles away from here but with heavy traffic on our way.  1@$% Give me the address.
+ 1@$% give me directions to nearest mall.  1@$% There is Ravenswood Shopping Center 5 miles away from here but with heavy traffic on our way.  1@$% Give me the address.  1@$% The address to Ravenswood Shopping Center is 434 Arastradero Rd.  1@$% Thank you car, please pick the quickest way to get there!
+ 1@$% What is the date of our dinner and who is attending?
+ 1@$% What is the date of our dinner and who is attending?  1@$% YOu have 2 dinners on your schedule. One on Friday at 6 pm with your father and one on the 8th at 7 pm with your aunt.   1@$% Thank you.
+ 1@$% Where can I go shopping?
+ 1@$% Where can I go shopping?  1@$% Two shopping centers are located nearby. One is the Topanga Mall located 4 miles away and the other is Ravenswood Shopping Center that's 2 miles away. Which do you prefer?  1@$% I want to go to the Ravenwood Shopping Center, give me the address and then directions with avoiding heavy traffic.
+ 1@$% Where can I go shopping?  1@$% Two shopping centers are located nearby. One is the Topanga Mall located 4 miles away and the other is Ravenswood Shopping Center that's 2 miles away. Which do you prefer?  1@$% I want to go to the Ravenwood Shopping Center, give me the address and then directions with avoiding heavy traffic.  1@$% The address is 434 Arastradero Rd, I picked the fastest route for you, it's on your screen.  1@$% Thank you very much car!
+ 1@$% What time is my meeting and what is the agenda, also who is attending?
+ 1@$% What time is my meeting and what is the agenda, also who is attending?  1@$% For which one? I have one with Sales team at 9 am to sign the NDA, and I also have another with Sales team at 1pm to go over budget.   1@$% That will do car. Thanks. 
+ 1@$% Set a reminder for a doctor's appointment at 2pm on Monday the 1st with Marie.
+ 1@$% Set a reminder for a doctor's appointment at 2pm on Monday the 1st with Marie.  1@$% Okay, setting a reminder for your doctor's appointment at 2pm on Monday the 1st with Marie.  1@$% Thanks.
+ 1@$% Where can I get groceries?
+ 1@$% Where can I get groceries?  1@$% We're 1 miles away drom Trader Joes and there is moderate traffic on our way.  1@$% What is the address of Traders Joe's and give me directions with the fastesr route.
+ 1@$% Where can I get groceries?  1@$% We're 1 miles away drom Trader Joes and there is moderate traffic on our way.  1@$% What is the address of Traders Joe's and give me directions with the fastesr route.  1@$% The quickest route to Trader Joes is 1 mile away at 408 University Avenue.   1@$% Thanks!
+ 1@$% When is my tennis?
+ 1@$% When is my tennis?  1@$% Your next tennis activity is Thursday at 3pm with your brother.   1@$% Thank you.
+ 1@$% what's the weather like in new york city.
+ 1@$% what's the weather like in new york city.  1@$% The weather in New York is predicted as a drizzle with lows in the 60s and highs in the 80s.  1@$% Thanks, I would like to know if it will be windy n New York on Tuesday please.
+ 1@$% what's the weather like in new york city.  1@$% The weather in New York is predicted as a drizzle with lows in the 60s and highs in the 80s.  1@$% Thanks, I would like to know if it will be windy n New York on Tuesday please.  1@$% It will not be windy in New York City tomorrow.  1@$% Thank you.
+ 1@$% where is a restaurant.
+ 1@$% where is a restaurant.  1@$% There are two Chinese restaurants nearby: Mandarin Roots 4 miles away and Chef Chu's 5 miles away.  1@$% Please tell me the one with the quickest route and the details of the location.
+ 1@$% where is a restaurant.  1@$% There are two Chinese restaurants nearby: Mandarin Roots 4 miles away and Chef Chu's 5 miles away.  1@$% Please tell me the one with the quickest route and the details of the location.  1@$% Mandarin Roots is 4 miles away in moderate traffic, it is located at 271 Springer Street.  1@$% Thank you. 
+ 1@$% What is the nearby hospital?
+ 1@$% What is the nearby hospital?  1@$% Palo Alto Medical Foundation is the nearby hospital.  1@$% Please pick the quickest route to go there and send me the address on my map.
+ 1@$% What is the nearby hospital?  1@$% Palo Alto Medical Foundation is the nearby hospital.  1@$% Please pick the quickest route to go there and send me the address on my map.  1@$% Palo Alto Medical Foundation	is at 611 Ames Ave.  1@$% Thanks.
+ 1@$% is it going to be raining this weekend.
+ 1@$% is it going to be raining this weekend.  1@$% What city are you inquiring about?  1@$% Alhambra please.
+ 1@$% is it going to be raining this weekend.  1@$% What city are you inquiring about?  1@$% Alhambra please.  1@$% It will be raining on Saturday and hailing on Sunday in Alhambra.  1@$% Thanks.
+ 1@$% Is it gonna be dry in Carson on Sunday?
+ 1@$% Is it gonna be dry in Carson on Sunday?  1@$% On sunday the forecast is predicted to be foggy in carson.  1@$% Thank you.
+ 1@$% how's the weather in new york.
+ 1@$% how's the weather in new york.  1@$% The weather in New York is hot today. Are you interested in other days' forecast?  1@$% Will it be humid on Friday?
+ 1@$% how's the weather in new york.  1@$% The weather in New York is hot today. Are you interested in other days' forecast?  1@$% Will it be humid on Friday?  1@$% On Friday it will be dew!  1@$% Thanks.
+ 1@$% Set an optometrist appointment for Saturday. 
+ 1@$% Set an optometrist appointment for Saturday.   1@$% What time on Saturday should I set the appointment reminder?  1@$% at 3 pm and my sister is joining.
+ 1@$% Set an optometrist appointment for Saturday.   1@$% What time on Saturday should I set the appointment reminder?  1@$% at 3 pm and my sister is joining.  1@$% Okay great, I have that all set for you. Can I help with anything else?  1@$% That is all, thanks!
+ 1@$% Can you please find me the time, date, and what is planned for the next meeting I have scheduled in my calendar?
+ 1@$% Can you please find me the time, date, and what is planned for the next meeting I have scheduled in my calendar?  1@$% Your meeting is on the 5th at 1 pm, the purpose is to go over the quarterly report.  1@$% Thank you.
+ 1@$% where's parking.
+ 1@$% where's parking.  1@$% The nearest one is Dish Parking, it's 5 miles away.  1@$% Can you get me a route that avoids all heavy traffic?
+ 1@$% where's parking.  1@$% The nearest one is Dish Parking, it's 5 miles away.  1@$% Can you get me a route that avoids all heavy traffic?  1@$% Dish Parking has heavy traffic and is the only local one, is it okay?  1@$% Yes get me the address.
+ 1@$% where's parking.  1@$% The nearest one is Dish Parking, it's 5 miles away.  1@$% Can you get me a route that avoids all heavy traffic?  1@$% Dish Parking has heavy traffic and is the only local one, is it okay?  1@$% Yes get me the address.  1@$% The address to Dish Parking is 550 Alester Ave.  1@$% Thanks so much.
+ 1@$% give me directions to the nearest place to get to eat.
+ 1@$% give me directions to the nearest place to get to eat.  1@$% There is Dominos 4 miles away: does it sound good?  1@$% That's fine. Please give me the address and directions via the quickest route. 
+ 1@$% give me directions to the nearest place to get to eat.  1@$% There is Dominos 4 miles away: does it sound good?  1@$% That's fine. Please give me the address and directions via the quickest route.   1@$% The quickest route to Dominos is with moderate traffic to 776 Arastradero Rd.   1@$% Show me the route please.
+ 1@$% give me directions to the nearest place to get to eat.  1@$% There is Dominos 4 miles away: does it sound good?  1@$% That's fine. Please give me the address and directions via the quickest route.   1@$% The quickest route to Dominos is with moderate traffic to 776 Arastradero Rd.   1@$% Show me the route please.  1@$% I sent the route on your screen, drive carefully!  1@$% Thank you car!
+ 1@$% directions to the mall.
+ 1@$% directions to the mall.  1@$% Town and Country is a shopping center I can find. It is located at 383 University Ave.  1@$% Can you give me a route which is fast please. 
+ 1@$% directions to the mall.  1@$% Town and Country is a shopping center I can find. It is located at 383 University Ave.  1@$% Can you give me a route which is fast please.   1@$% Unfortunately there is a road block nearby but I sent on your screen another route to reach faster.  1@$% Great thank you.
+ 1@$% who is going to be at the meeting?
+ 1@$% who is going to be at the meeting?  1@$% Which one? There is one at 11 am on the 10th, and there is another at 7pm on the 9th.   1@$% Both. Thanks.
+ 1@$% please set reminder for the 8th at 5 pm for yoga. my aunt is coming along.
+ 1@$% please set reminder for the 8th at 5 pm for yoga. my aunt is coming along.  1@$% Okay reminder set for your yoga appointment on the 8th at 5pm with your aunt.  1@$% Thank you.
+ 1@$% what are some nearby hotels.
+ 1@$% what are some nearby hotels.  1@$% The closest is Travelers Lodge 1 mile away, then The Clement Hotel 2 miles away, Four Seasons is 4 miles away and The Westin is 5 miles away.  1@$% Let's try Travelers Lodge what's the address and how's the traffic?
+ 1@$% what are some nearby hotels.  1@$% The closest is Travelers Lodge 1 mile away, then The Clement Hotel 2 miles away, Four Seasons is 4 miles away and The Westin is 5 miles away.  1@$% Let's try Travelers Lodge what's the address and how's the traffic?  1@$% There is a road block nearby on the route to 333 Arbol Dr. Would you like directions there?  1@$% Thank you for this route.
+ 1@$% what's the forecast for the city this week.
+ 1@$% what's the forecast for the city this week.  1@$% For what city did you need the forecast?   1@$% Exeter, please. Will it be misty anytime during the week?
+ 1@$% what's the forecast for the city this week.  1@$% For what city did you need the forecast?   1@$% Exeter, please. Will it be misty anytime during the week?  1@$% It will not be misty in Exeter this week.  1@$% Thank you car!
+ 1@$% what time and day is my doctor's appointment on.
+ 1@$% what time and day is my doctor's appointment on.  1@$% Your doctor's appointment is on Thursday at 2 pm.  1@$% Thank you.
+ 1@$% search for nearest fast food restaurants.
+ 1@$% search for nearest fast food restaurants.  1@$% Pizza Chicago is the closest pizza, would you like the address?  1@$% Yes, please, send it on my screen and show me the quickest route too, thank you!
+ 1@$% what's the weather supposed to be like in new york city this week.
+ 1@$% what's the weather supposed to be like in new york city this week.  1@$% This week in new york will be rainy and windy with overcast skies.  1@$% Will be dry any day this week?
+ 1@$% what's the weather supposed to be like in new york city this week.  1@$% This week in new york will be rainy and windy with overcast skies.  1@$% Will be dry any day this week?  1@$% There aren't any days predicted to be dry in new york this week.  1@$% Thank you.
+ 1@$% When is the date and time of my dentist appointment?
+ 1@$% When is the date and time of my dentist appointment?  1@$% Your dentist appointment is at 10am on the 13th.  1@$% Thank you.
+ 1@$% On Sunday in San Jose will there be a blizzard?
+ 1@$% On Sunday in San Jose will there be a blizzard?  1@$% The forecast does not predict a blizzard in san jose this sunday.  1@$% Thank you car!
+ 1@$% What time is my next yoga activity and who will be attending?
+ 1@$% What time is my next yoga activity and who will be attending?  1@$% Your next yoga activity is on Thursday with your sister.  1@$% What is the scheduled time for the yoga activity on Thursday?
+ 1@$% What time is my next yoga activity and who will be attending?  1@$% Your next yoga activity is on Thursday with your sister.  1@$% What is the scheduled time for the yoga activity on Thursday?  1@$% Your Thursday yoga activity with your sister is at 9 am.  1@$% Okay thanks.
+ 1@$% show me this week's forecast.
+ 1@$% show me this week's forecast.  1@$% What city do you want the weather for?  1@$% Is it going to snow this week in Chicago?
+ 1@$% show me this week's forecast.  1@$% What city do you want the weather for?  1@$% Is it going to snow this week in Chicago?  1@$% There is no snow forecasted for Chicago this week.  1@$% Thanks!
+ 1@$% Today in Menlo Park, will it be misty?
+ 1@$% Today in Menlo Park, will it be misty?  1@$% Yes, menlo park is predicted to be misty today.  1@$% Thank you car!
+ 1@$% Take me to a hospital.
+ 1@$% Take me to a hospital.  1@$% Palo Alto medical Foundation is the nearest hospital at 611 Ames Ave.  1@$% Is it the quickest option?
+ 1@$% Take me to a hospital.  1@$% Palo Alto medical Foundation is the nearest hospital at 611 Ames Ave.  1@$% Is it the quickest option?  1@$% Yes the route to 611 Ames Ave is the quickest available.   1@$% That's good, please send me its address on the screen, thank you!
+ 1@$% Can you kindly schedule a meeting at 4pm, later this week with infrastructure to discuss dress code?
+ 1@$% Can you kindly schedule a meeting at 4pm, later this week with infrastructure to discuss dress code?  1@$% Scheduling meeting for 4 pm later this week with infrastructure to discuss dress code. Do you have a specific day in mind?   1@$% Thursday.
+ 1@$% Can you kindly schedule a meeting at 4pm, later this week with infrastructure to discuss dress code?  1@$% Scheduling meeting for 4 pm later this week with infrastructure to discuss dress code. Do you have a specific day in mind?   1@$% Thursday.  1@$% Anything else?  1@$% No that was everything, thanks. 
+ 1@$% Set reminder for conference at 9AM on Wednesday with infrastructure team.
+ 1@$% Set reminder for conference at 9AM on Wednesday with infrastructure team.  1@$% Okay setting reminder for your meeting with the infrastructure team on Wednesday at 9AM.  1@$% Thank you.
+ 1@$% what will the temperature be for the next week.
+ 1@$% what will the temperature be for the next week.  1@$% What city are you interested in?  1@$% San Mateo.
+ 1@$% what will the temperature be for the next week.  1@$% What city are you interested in?  1@$% San Mateo.  1@$% It will be between 60-70F on Monday and Tuesday in San Mateo.  70-90F on Wednesday, 80-100F on Thursday, 60-70F on Friday, 80-100F on Saturday, and 90-100F on Sunday.  1@$% Thanks.
+ 1@$% I'm in need of a pizza restaurant. 
+ 1@$% I'm in need of a pizza restaurant.   1@$% We're 5 miles away from Pizza Hut and 6 miles away from Round Table: do they sound good?  1@$% They sound great! Please pick a quick route to Pizza Hut, thank you!
+ 1@$% I'm in need of a pizza restaurant.   1@$% We're 5 miles away from Pizza Hut and 6 miles away from Round Table: do they sound good?  1@$% They sound great! Please pick a quick route to Pizza Hut, thank you!  1@$% Pizza Hut is the quickest. Navigating to 704 El Camino Real. There is moderate traffic on the route.   1@$% That sounds good. Please start directions. 
+ 1@$% tell me when my next tennis game is.
+ 1@$% tell me when my next tennis game is.  1@$% Your next tennis activity is on Wednesday at 1 pm.  1@$% Great. 
+ 1@$% What time and date is my lab appointment? 
+ 1@$% What time and date is my lab appointment?   1@$% Your lab appointment is scheduled on Friday at 4 pm.  1@$% Thank you!
+ 1@$% What is the date and time of my next lab appointment?
+ 1@$% What is the date and time of my next lab appointment?  1@$%  You have two, one at 4pm on the 17th, and one at 6pm on Tuesday.   1@$% Thank you.
+ 1@$% navigate to the nearest coffee shop.
+ 1@$% navigate to the nearest coffee shop.  1@$% Navigating you to Starbucks.  1@$% Please send me the address on screen and pick the quickest route for me, thank you!
+ 1@$% navigate to the nearest coffee shop.  1@$% Navigating you to Starbucks.  1@$% Please send me the address on screen and pick the quickest route for me, thank you!  1@$% Starbucks is at 792 Bedoin Street.  1@$% Thanks!
+ 1@$% Where is a hospital in the area?
+ 1@$% Where is a hospital in the area?  1@$% I have a listing for a hospital named Stanford Childrens Health and its 5 miles away.  1@$% What is the address?
+ 1@$% Where is a hospital in the area?  1@$% I have a listing for a hospital named Stanford Childrens Health and its 5 miles away.  1@$% What is the address?  1@$% Its address is 899 Ames Ct, unfortunately there is heavy traffic on our way: what to do?  1@$% That is ok, thanks.
+ 1@$% add meeting in conference room 102 the calendar.
+ 1@$% add meeting in conference room 102 the calendar.  1@$% What day and time is the meeting?  1@$% The meeting is at 2pm on August 3rd with Sales Team to discuss the merger.
+ 1@$% add meeting in conference room 102 the calendar.  1@$% What day and time is the meeting?  1@$% The meeting is at 2pm on August 3rd with Sales Team to discuss the merger.  1@$% Setting meeting at 2pm on August 3rd with Sales Team to discuss the merger.  1@$% Perfect. Nothing else for now. 
+ 1@$% Will it be overcast in San Mateo over the next 48 hours?
+ 1@$% Will it be overcast in San Mateo over the next 48 hours?  1@$% It will be stormy on Tuesday and there will be rain on Wednesday in San Mateo.  1@$% Thank you car!
+ 1@$% What day and time is my yoga activity?
+ 1@$% What day and time is my yoga activity?  1@$% Your yoga activity is on Wednesday at 7 pm.  1@$% Alright, thanks.
+ 1@$% find me a hotel room for tonight.
+ 1@$% find me a hotel room for tonight.  1@$% You have three possible rest stops, one 3 miles away, one 4 miles away, and one 5 miles away.  1@$% Which is the quickest?
+ 1@$% find me a hotel room for tonight.  1@$% You have three possible rest stops, one 3 miles away, one 4 miles away, and one 5 miles away.  1@$% Which is the quickest?  1@$% The Westin appears to be the fastest at 4 miles away and no traffic. Do you need the address?  1@$% Yes, please, and set the navigation there too.
+ 1@$% find me a hotel room for tonight.  1@$% You have three possible rest stops, one 3 miles away, one 4 miles away, and one 5 miles away.  1@$% Which is the quickest?  1@$% The Westin appears to be the fastest at 4 miles away and no traffic. Do you need the address?  1@$% Yes, please, and set the navigation there too.  1@$% The Westin is located at 329 El Camino Real. Setting navigation now.  1@$% Thank you. 
+ 1@$% what is the weather.
+ 1@$% what is the weather.  1@$% Where are you interested in the weather for?  1@$% San Francisco.
+ 1@$% what is the weather.  1@$% Where are you interested in the weather for?  1@$% San Francisco.  1@$% In San Francisco right now, it is warm, with a low of 60F and a high of 70F.  1@$% Thank you!
+ 1@$% what time is the football game this week.
+ 1@$% what time is the football game this week.  1@$% The football game is on Friday at 11 am.   1@$% Thank you car. 
+ 1@$% Find me the fastest route to the nearest rest stop around.
+ 1@$% Find me the fastest route to the nearest rest stop around.  1@$% There is Comfort Inn 3 miles away but with heavy traffic on its direction: do you want me to set the navigation there?  1@$% Yes please. Thanks for the help. 
+ 1@$% Find me the fastest route to the nearest rest stop around.  1@$% There is Comfort Inn 3 miles away but with heavy traffic on its direction: do you want me to set the navigation there?  1@$% Yes please. Thanks for the help.   1@$% Setting GPS now.  1@$% Would you give me the address please?
+ 1@$% Find me the fastest route to the nearest rest stop around.  1@$% There is Comfort Inn 3 miles away but with heavy traffic on its direction: do you want me to set the navigation there?  1@$% Yes please. Thanks for the help.   1@$% Setting GPS now.  1@$% Would you give me the address please?  1@$% The address for Comfort Inn is 753 University Ave.  1@$% Thank you car, let's go there!
+ 1@$% i'm not feeling well show me the fastest route to the nearest hospital.
+ 1@$% i'm not feeling well show me the fastest route to the nearest hospital.  1@$% The nearest hospital is 5 miles away at 899 Ames Ct, there is heavy traffic on the way.   1@$% Thanks.
+ 1@$% Where is the nearest gas station?
+ 1@$% Where is the nearest gas station?  1@$% The nearest gas station is 76 at 4 miles away but a road block is nearby.   1@$% Thanks for the information. 
+ 1@$% On friday will there be frost in menlo park?
+ 1@$% On friday will there be frost in menlo park?  1@$% In Menlo Park the weather will be stormy on Friday.  1@$% Thanks.
+ 1@$% What time is my football activity and who is attending?
+ 1@$% What time is my football activity and who is attending?  1@$% Which one? I have two, one for 11 am with Ana, and one for 6pm with Job.  1@$% That's all the info I needed, thanks. 
+ 1@$% is it going to rain sometime this week.
+ 1@$% is it going to rain sometime this week.  1@$% What city are you wanting to know if it's going to rain?  1@$% Menlo Park.
+ 1@$% is it going to rain sometime this week.  1@$% What city are you wanting to know if it's going to rain?  1@$% Menlo Park.  1@$% In Menlo Park, it will rain on Tuesday and Wednesday.  1@$% Thanks!
+ 1@$% Please give me the address and directions via the fastest route to a hospital nearby. 
+ 1@$% Please give me the address and directions via the fastest route to a hospital nearby.   1@$% The fastest route to the hospital is 899 Ames Ct. at 4 miles away with a road block nearby. Do you want to go to Stanford Childrens Health?  1@$% Yes, please pick the shortest distance to get there, thank you!
+ 1@$% take me to the closest starbucks.
+ 1@$% take me to the closest starbucks.  1@$% There is no Starbucks nearby.  1@$% Do you have any local coffee shops?
+ 1@$% take me to the closest starbucks.  1@$% There is no Starbucks nearby.  1@$% Do you have any local coffee shops?  1@$% There is Coupa, it's just 6 miles away but there is heavy traffic on our way.  1@$% Pick the fastest way and let's go there, thank you!
+ 1@$% take me to the closest starbucks.  1@$% There is no Starbucks nearby.  1@$% Do you have any local coffee shops?  1@$% There is Coupa, it's just 6 miles away but there is heavy traffic on our way.  1@$% Pick the fastest way and let's go there, thank you!  1@$% Coupa is located at 394 Van Ness Avenue. Setting the fastest route on GPS.   1@$% Thank you.
+ 1@$% what is the weather like in new york this week.
+ 1@$% what is the weather like in new york this week.  1@$% What can I tell you about this week's weather in new york?  1@$% I want to find out if it will rain this week.
+ 1@$% what is the weather like in new york this week.  1@$% What can I tell you about this week's weather in new york?  1@$% I want to find out if it will rain this week.  1@$% It will not rain this week in New York.  1@$% Thanks.
+ 1@$% I need the address of a the shopping center that I can get to the quickest from here.
+ 1@$% I need the address of a the shopping center that I can get to the quickest from here.  1@$% Stanford Shopping Center is 5 miles away but there is heavy traffic on our way. Do you want me to set the GPS to get there?  1@$% Yes, please, just pick the quickest route and let's go there!
+ 1@$% I need the address of a the shopping center that I can get to the quickest from here.  1@$% Stanford Shopping Center is 5 miles away but there is heavy traffic on our way. Do you want me to set the GPS to get there?  1@$% Yes, please, just pick the quickest route and let's go there!  1@$% The quickest route is 773 Alger dr and is set.   1@$% Thanks for all the help. 
+ 1@$% What is my friend's address?
+ 1@$% What is my friend's address?  1@$% Jill's house is located at 347 Alta Mesa Ave. Anything else?  1@$% How's the traffic?
+ 1@$% What is my friend's address?  1@$% Jill's house is located at 347 Alta Mesa Ave. Anything else?  1@$% How's the traffic?  1@$% There is no traffic on the way to Jill's House.  1@$% Perfect. Let's go. 
+ 1@$% What is my friend's address?  1@$% Jill's house is located at 347 Alta Mesa Ave. Anything else?  1@$% How's the traffic?  1@$% There is no traffic on the way to Jill's House.  1@$% Perfect. Let's go.   1@$% Okay, we're on the way now!  1@$% Thank you.
+ 1@$% I need a rest stop.
+ 1@$% I need a rest stop.  1@$% The Clement Hotel is 5 miles away.  1@$% Farther than I wish but patience.. Please send me the quickest way to get there, thank you!
+ 1@$% I need a rest stop.  1@$% The Clement Hotel is 5 miles away.  1@$% Farther than I wish but patience.. Please send me the quickest way to get there, thank you!  1@$% Sure, it's just 5 miles away at 657 Ames Avenue.  1@$% Please give me a quick route. Thank you.
+ 1@$% I need a rest stop.  1@$% The Clement Hotel is 5 miles away.  1@$% Farther than I wish but patience.. Please send me the quickest way to get there, thank you!  1@$% Sure, it's just 5 miles away at 657 Ames Avenue.  1@$% Please give me a quick route. Thank you.  1@$% Setting route to 657 Ames Avenue now.   1@$% Thank you car!
+ 1@$% What is my friend's house's address?
+ 1@$% What is my friend's house's address?  1@$% Jill or Jack?  1@$% The one who is the closest.
+ 1@$% What is my friend's house's address?  1@$% Jill or Jack?  1@$% The one who is the closest.  1@$% Jack is closer.  1@$% What is his address?
+ 1@$% What is my friend's house's address?  1@$% Jill or Jack?  1@$% The one who is the closest.  1@$% Jack is closer.  1@$% What is his address?  1@$% 864 Almanor Ln, it's 3 miles away, I sent his address on your screen.  1@$% Thanks.
+ 1@$% I have an appointment at 1pm on wednesday with Alex.
+ 1@$% I have an appointment at 1pm on wednesday with Alex.  1@$%  Okay making appointment with Alex on Wednesday at 1pm.  1@$% thanks!
+ 1@$% Will it drizzle in Oakland in the next week?
+ 1@$% Will it drizzle in Oakland in the next week?  1@$% It will not drizzle in Oakland next week.  1@$% Thank you.
+ 1@$% Where is my home?
+ 1@$% Where is my home?  1@$% You live at 10 ames street.  1@$% Yes, yes, right, I need my morning coffee.. Please pick the shortest distance to go back home!
+ 1@$% Where is my home?  1@$% You live at 10 ames street.  1@$% Yes, yes, right, I need my morning coffee.. Please pick the shortest distance to go back home!  1@$% We're 2 miles away and there is no traffic, I sent the route on your screen, keep your eyes open on the road!  1@$% Thank you car!
+ 1@$% find me a nearby coffee shop where i can sit and have some coffee.
+ 1@$% find me a nearby coffee shop where i can sit and have some coffee.  1@$% The Palo Alto Cafe is located at 436 Alger Dr, it is 2 miles away with moderate traffic.  1@$% That's great! Please send me its address on screen and pick the quickest way for me.
+ 1@$% Where is the closest rest stop?
+ 1@$% Where is the closest rest stop?  1@$% Comfort Inn is 5 miles away.  1@$% Do you have for me a route with no traffic to reach it?
+ 1@$% Where is the closest rest stop?  1@$% Comfort Inn is 5 miles away.  1@$% Do you have for me a route with no traffic to reach it?  1@$% Comfort Inn route is reporting a car collision nearby. Do you still want to go there?  1@$% Yes I need to rest. 
+ 1@$% Where is the closest rest stop?  1@$% Comfort Inn is 5 miles away.  1@$% Do you have for me a route with no traffic to reach it?  1@$% Comfort Inn route is reporting a car collision nearby. Do you still want to go there?  1@$% Yes I need to rest.   1@$% I sent the best available route on your screen, drive carefully!  1@$% Thanks!
+ 1@$% What time is the optometrist appointment and who is going?
+ 1@$% What time is the optometrist appointment and who is going?  1@$% I have two, one at 1pm with Father, and one at 7pm with Martha.  1@$% The one with Martha. Thanks.
+ 1@$% What time is the optometrist appointment and who is going?  1@$% I have two, one at 1pm with Father, and one at 7pm with Martha.  1@$% The one with Martha. Thanks.  1@$% The optometrist appointment with Martha is at 7pm.  1@$% Thanks!
+ 1@$% will it rain next week.
+ 1@$% will it rain next week.  1@$% For which city would you like to know if there is going to be rain next week?  1@$% Seattle.
+ 1@$% will it rain next week.  1@$% For which city would you like to know if there is going to be rain next week?  1@$% Seattle.  1@$% It will drizzle Tuesday, Saturday, and Sunday in Seattle.  1@$% Thanks.
+ 1@$% what is today's forecast.
+ 1@$% what is today's forecast.  1@$% What city would you like today's forecast for?  1@$% Please check for Boston.
+ 1@$% what is today's forecast.  1@$% What city would you like today's forecast for?  1@$% Please check for Boston.  1@$% Today in Boston it is cloudy with a temperature between 70-80F.  1@$% Okay, thank you.
+ 1@$% give me directions to the nearest restaurant.
+ 1@$% give me directions to the nearest restaurant.  1@$% Navigating you to Jing Jing.  1@$% Can you give me the quickest route? 
+ 1@$% give me directions to the nearest restaurant.  1@$% Navigating you to Jing Jing.  1@$% Can you give me the quickest route?   1@$% Setting GPS to quickest route for Jing Jing which has no traffic.  1@$% Thank you car, please send me the address on screen!
+ 1@$% Is it snowy in alhambra today?
+ 1@$% Is it snowy in alhambra today?  1@$% It is not snowy in Alhambra today.  1@$% Thanks.
+ 1@$% What grocery stores are near?
+ 1@$% What grocery stores are near?  1@$% We're 1 miles away from Safeway and there is no traffic on our way: set the GPS to go there?  1@$% What is the address?
+ 1@$% What grocery stores are near?  1@$% We're 1 miles away from Safeway and there is no traffic on our way: set the GPS to go there?  1@$% What is the address?  1@$% Safeway is at 452 Arcadia Pl.  1@$% Let's go there through the route with the shortest distance please.
+ 1@$% What grocery stores are near?  1@$% We're 1 miles away from Safeway and there is no traffic on our way: set the GPS to go there?  1@$% What is the address?  1@$% Safeway is at 452 Arcadia Pl.  1@$% Let's go there through the route with the shortest distance please.  1@$% Taking you there on the shortest distance.  1@$% Thanks!
+ 1@$% take me to the closest whole foods place i can buy groceries.
+ 1@$% take me to the closest whole foods place i can buy groceries.  1@$% Sigona farmers Market is the only grocery store I can find. It is 5 miles away.  1@$% That will be fine, thank you.
+ 1@$% search hotels near me.
+ 1@$% search hotels near me.  1@$% There is a Four Seasons and a Hotel Keen nearby.  1@$% Give me the address of a rest stop nearby.
+ 1@$% search hotels near me.  1@$% There is a Four Seasons and a Hotel Keen nearby.  1@$% Give me the address of a rest stop nearby.  1@$% The nearest rest stop is at 465 Arcadia Pl.  1@$% Thanks!
+ 1@$% what's the temperature going to be like today and tomorrow.
+ 1@$% what's the temperature going to be like today and tomorrow.  1@$% For what city?  1@$% Seattle, please.
+ 1@$% what's the temperature going to be like today and tomorrow.  1@$% For what city?  1@$% Seattle, please.  1@$% Today's temperature in Seattle will have a low of 30 F and a high of 40F. Tomorrow's temperature will be a low of 80F and a high of 90F.  1@$% Thank you!
+ 1@$% I need you to set a reminder for me to take my medicine. Set it for 10 am, the 7th with Jon, please. 
+ 1@$% I need you to set a reminder for me to take my medicine. Set it for 10 am, the 7th with Jon, please.   1@$% Alright, setting a reminder at 10 am to take medicine on the 7th with Jon.  1@$% Thank you.
+ 1@$% What is my address?
+ 1@$% What is my address?  1@$% Home is programmed as 5671 Barringer Street.   1@$% Please give me the shortest route. 
+ 1@$% What is my address?  1@$% Home is programmed as 5671 Barringer Street.   1@$% Please give me the shortest route.   1@$% The route to home does not have any traffic, you should arrive quickly being that it is 1 mile away.  1@$% Awesome, thank you. 
+ 1@$% find the nearest coffee shop.
+ 1@$% find the nearest coffee shop.  1@$% The nearest coffee shop is Cafe Venetia on 269 Alger Dr.  1@$% OK, please direct me there via a route that avoids all heavy traffic. 
+ 1@$% find the nearest coffee shop.  1@$% The nearest coffee shop is Cafe Venetia on 269 Alger Dr.  1@$% OK, please direct me there via a route that avoids all heavy traffic.   1@$% There is a car collision reported on the route to Cafe Venetia.   1@$% That is fine, just give directions around the traffic. 
+ 1@$% find the nearest coffee shop.  1@$% The nearest coffee shop is Cafe Venetia on 269 Alger Dr.  1@$% OK, please direct me there via a route that avoids all heavy traffic.   1@$% There is a car collision reported on the route to Cafe Venetia.   1@$% That is fine, just give directions around the traffic.   1@$% Unfortunately there is a car collision nearby. Do you want me to set the GPS anyway?  1@$% How far away is it?
+ 1@$% find the nearest coffee shop.  1@$% The nearest coffee shop is Cafe Venetia on 269 Alger Dr.  1@$% OK, please direct me there via a route that avoids all heavy traffic.   1@$% There is a car collision reported on the route to Cafe Venetia.   1@$% That is fine, just give directions around the traffic.   1@$% Unfortunately there is a car collision nearby. Do you want me to set the GPS anyway?  1@$% How far away is it?  1@$% 2 miles away.  1@$% Yes, please direct me via the route with least traffic.
+ 1@$% find the nearest coffee shop.  1@$% The nearest coffee shop is Cafe Venetia on 269 Alger Dr.  1@$% OK, please direct me there via a route that avoids all heavy traffic.   1@$% There is a car collision reported on the route to Cafe Venetia.   1@$% That is fine, just give directions around the traffic.   1@$% Unfortunately there is a car collision nearby. Do you want me to set the GPS anyway?  1@$% How far away is it?  1@$% 2 miles away.  1@$% Yes, please direct me via the route with least traffic.  1@$% OK, setting navigation now.   1@$% Thank you car assistant .
+ 1@$% Next week will it be misty anytime in redwood city?
+ 1@$% Next week will it be misty anytime in redwood city?  1@$% This week it's not gonna be misty in Redwood City.  1@$% Thank you car!
+ 1@$% Car I need to get home, it should be near me, please highlight its position on the map.
+ 1@$% Car I need to get home, it should be near me, please highlight its position on the map.  1@$% Your home is at 10 ames street.  1@$% Avoid all heavy traffic and let's go there, thank you!
+ 1@$% Car I need to get home, it should be near me, please highlight its position on the map.  1@$% Your home is at 10 ames street.  1@$% Avoid all heavy traffic and let's go there, thank you!  1@$% Setting GPS to avoid any heavy traffic. Your route is now set.  1@$% Thanks so much. 
+ 1@$% What day and time is my tennis activity?
+ 1@$% What day and time is my tennis activity?  1@$% Your tennis activity is on the 4th at 3pm.  1@$% Thanks.
+ 1@$% get me the weather report for this week.
+ 1@$% get me the weather report for this week.  1@$% What city would you like the weather report from?  1@$% I wanna know if it will rain in Fresno.
+ 1@$% get me the weather report for this week.  1@$% What city would you like the weather report from?  1@$% I wanna know if it will rain in Fresno.  1@$% It's not gonna rain in Fresno this week.  1@$% Thank you.
+ 1@$% give me this week's high temperature.
+ 1@$% give me this week's high temperature.  1@$% What city would you like to know the high temperature of?  1@$% For Compton please.
+ 1@$% give me this week's high temperature.  1@$% What city would you like to know the high temperature of?  1@$% For Compton please.  1@$% This week the highest temperature in Compton will be 90F on Friday and Sunday.  1@$% Thank you.
+ 1@$% what time is my tennis match for this saturday.
+ 1@$% what time is my tennis match for this saturday.  1@$% Your tennis activity is scheduled for 11am on Tuesday, nothing is scheduled for Saturday.  1@$% Oh okay well thank you car. 
+ 1@$% does the forecast say it will snow.
+ 1@$% does the forecast say it will snow.  1@$% What city do you want the weather for?  1@$% I would like information for Compton.
+ 1@$% does the forecast say it will snow.  1@$% What city do you want the weather for?  1@$% I would like information for Compton.  1@$% It is not forecasted to snow in Compton this week.  1@$% Thanks.
+ 1@$% find directions to nearest starbucks.
+ 1@$% find directions to nearest starbucks.  1@$% There is no Starbucks in your area but there are other coffee places near by. Would you like more info?  1@$% Yes.
+ 1@$% find directions to nearest starbucks.  1@$% There is no Starbucks in your area but there are other coffee places near by. Would you like more info?  1@$% Yes.  1@$% The nearest coffee shop is 2 miles away and the name of it is Philz. Would you like the address?  1@$% Yes please.
+ 1@$% find directions to nearest starbucks.  1@$% There is no Starbucks in your area but there are other coffee places near by. Would you like more info?  1@$% Yes.  1@$% The nearest coffee shop is 2 miles away and the name of it is Philz. Would you like the address?  1@$% Yes please.  1@$% Philz is 2 miles away at 583 Alester Avenue. Anything else?  1@$% No that's it for now. Thanks. 
+ 1@$% Where can I get pizza?
+ 1@$% Where can I get pizza?  1@$% There is a Round Table and Papa Johns near.  1@$% Which one is closer to my location?
+ 1@$% Where can I get pizza?  1@$% There is a Round Table and Papa Johns near.  1@$% Which one is closer to my location?  1@$% Papa Johns is closer at 3 miles.  1@$% Then pick a quick route to get there, thank you!
+ 1@$% Where can I get pizza?  1@$% There is a Round Table and Papa Johns near.  1@$% Which one is closer to my location?  1@$% Papa Johns is closer at 3 miles.  1@$% Then pick a quick route to get there, thank you!  1@$% Setting navigation to Papa Johns at 110 Arastradero Rd. Anything else?  1@$% That will be all, thanks!
+ 1@$% set a reminder about my swim meet next wednesday at 3 pm.
+ 1@$% set a reminder about my swim meet next wednesday at 3 pm.  1@$% your swim meet has been set for 3pm next Wednesday, the 7th....is that correct?  1@$% Yes, that is correct. Thank you! 
+ 1@$% what route can i take home to avoid traffic.
+ 1@$% what route can i take home to avoid traffic.  1@$% In this moment there is moderate traffic on our way but since we're just 6 miles away it shouldn't take too long to reach home. I sent the route on your screen.  1@$% OK, thanks for directions via a route with the least traffic. 
+ 1@$% what route can i take home to avoid traffic.  1@$% In this moment there is moderate traffic on our way but since we're just 6 miles away it shouldn't take too long to reach home. I sent the route on your screen.  1@$% OK, thanks for directions via a route with the least traffic.   1@$% Setting directions to 5672 barringer street now.   1@$% Thank you car assistant for the help. 
+ 1@$% give me directions to starbucks.
+ 1@$% give me directions to starbucks.  1@$% There are no nearby Starbucks, but there are 3 other Coffee places nearby.   1@$% Please send me directions for the one closest to me.
+ 1@$% give me directions to starbucks.  1@$% There are no nearby Starbucks, but there are 3 other Coffee places nearby.   1@$% Please send me directions for the one closest to me.  1@$% Setting directions to Coupa, located 2 miles away at 394 Van Ness Ave.  1@$% Thank you!
+ 1@$% what is the forecast for today and tomorrow.
+ 1@$% what is the forecast for today and tomorrow.  1@$% What city do you want the weather for?  1@$% Will it be overcast in downtown Chicago today or tomorrow?
+ 1@$% what is the forecast for today and tomorrow.  1@$% What city do you want the weather for?  1@$% Will it be overcast in downtown Chicago today or tomorrow?  1@$% There will be no overcast today and tomorrow in Chicago. The forecast for Monday is hot, low of 80F, high of 90F. The forecast for Tuesday will be snow, low of 60F, high of 70F.  1@$% Very nice to know, thanks.
+ 1@$% Find a shopping mall that i can get to with the least amount of traffic.
+ 1@$% Find a shopping mall that i can get to with the least amount of traffic.  1@$% Topanga Mall is the only one nearby but here is heavy traffic.  1@$% Well I guess it will have to do. Set the GPS please. 
+ 1@$% what is the forecast for the city this week.
+ 1@$% what is the forecast for the city this week.  1@$% Which city do you want the weather forecast for?  1@$% Inglewood.
+ 1@$% what is the forecast for the city this week.  1@$% Which city do you want the weather forecast for?  1@$% Inglewood.  1@$% In Inglewood it will be frosty on Monday, overcast on Tuesday, raining on Wednesday, foggy on Thursday, drizzle on Friday and Saturday, dry on Sunday.  1@$% Thank you!
+ 1@$% is it supposed to snow today.
+ 1@$% is it supposed to snow today.  1@$% What location do you want the weather for?  1@$% Oakland.
+ 1@$% is it supposed to snow today.  1@$% What location do you want the weather for?  1@$% Oakland.  1@$% There will be no snow today in Oakland.  1@$% Thanks.
+ 1@$% can you set a reminder for a yoga activity at 2pm on the 1st.
+ 1@$% can you set a reminder for a yoga activity at 2pm on the 1st.  1@$% Okay, I am scheduling a yoga activity for you on the 1st at 2pm.  1@$% My sister is coming along, thanks. 
+ 1@$% can you set a reminder for a yoga activity at 2pm on the 1st.  1@$% Okay, I am scheduling a yoga activity for you on the 1st at 2pm.  1@$% My sister is coming along, thanks.   1@$% Your sister has been added to parties involved for your yoga activity at 2pm on the 1st.  1@$% Perfect.
+ 1@$% find me chinese restaurants within 3 miles of my current location.
+ 1@$% find me chinese restaurants within 3 miles of my current location.  1@$% There is a Jing Jing 2 miles away.  1@$% Could you give me the address and directions to the restaurant via a route that avoids all heavy traffic?
+ 1@$% find me chinese restaurants within 3 miles of my current location.  1@$% There is a Jing Jing 2 miles away.  1@$% Could you give me the address and directions to the restaurant via a route that avoids all heavy traffic?  1@$% Alright, the route to 113 Arbol Drive is 2 miles away with a road block nearby.  1@$% Please set the GPS to go there, thank you!
+ 1@$% find me chinese restaurants within 3 miles of my current location.  1@$% There is a Jing Jing 2 miles away.  1@$% Could you give me the address and directions to the restaurant via a route that avoids all heavy traffic?  1@$% Alright, the route to 113 Arbol Drive is 2 miles away with a road block nearby.  1@$% Please set the GPS to go there, thank you!  1@$% Navigation is set. Drive carefully, and enjoy.   1@$% Thank you.
+ 1@$% Where can I get a coffee?
+ 1@$% Where can I get a coffee?  1@$% Teavana is 2 miles away.  1@$% Is there a quick route to reach it?
+ 1@$% Where can I get a coffee?  1@$% Teavana is 2 miles away.  1@$% Is there a quick route to reach it?  1@$% Unfortunately Teavana is the only coffee place I can find. It is 2 miles away through heavy traffic, located at 145 Amherst St.  1@$% Well, it is what it is. Let's navigate there now. 
+ 1@$% Schedule a doctor appointment with my brother for August 3rd at 10am.
+ 1@$% Schedule a doctor appointment with my brother for August 3rd at 10am.  1@$% Okay, scheduling a doctor appointment with your brother for August 3rd at 10am.  1@$% Thanks. 
+ 1@$% check the weather forecast.
+ 1@$% check the weather forecast.  1@$% For what location and time?  1@$% Will it be dry in Fresno today?
+ 1@$% check the weather forecast.  1@$% For what location and time?  1@$% Will it be dry in Fresno today?  1@$% No, it will not be dry in Fresno today. Today's forecast is rain, with a low of 20F and a high of 40F.  1@$% Thank you!
+ 1@$% Is there a chinese place that has no traffic on the way? 
+ 1@$% Is there a chinese place that has no traffic on the way?   1@$% Jing Jing is 2 miles away in light traffic. Would you like directions there?   1@$% Yes, please!
+ 1@$% Is there a chinese place that has no traffic on the way?   1@$% Jing Jing is 2 miles away in light traffic. Would you like directions there?   1@$% Yes, please!  1@$% Jing Jing is at 113 Arbol Dr. do you need me to set the navigation?  1@$% Sure, thank you car!
+ 1@$% What is the date of my next optometrist appointment and who will be attending?
+ 1@$% What is the date of my next optometrist appointment and who will be attending?  1@$% I have two, one on Thursday with Tom, and one on the 3rd with Alex.  1@$% Thanks. 
+ 1@$% Can you find out the parties attending and time for my optometrist appointment? 
+ 1@$% Can you find out the parties attending and time for my optometrist appointment?   1@$% I have four, one with Alex at 5pm on Saturday, one with your sister at 2pm on the 5th, one with Jeff on the 6th, and one with Martha on thursday. Which one?  1@$% That will do, thank you kindly.
+ 1@$% Where is the local gas station?
+ 1@$% Where is the local gas station?  1@$% There is a gas station 4 miles away. It's Chevron. Would you like more details?  1@$% Yes please show me the route and avoid heavy traffic. 
+ 1@$% Where is the local gas station?  1@$% There is a gas station 4 miles away. It's Chevron. Would you like more details?  1@$% Yes please show me the route and avoid heavy traffic.   1@$% Here is the best route to Chevron.  1@$% What is the address?
+ 1@$% Where is the local gas station?  1@$% There is a gas station 4 miles away. It's Chevron. Would you like more details?  1@$% Yes please show me the route and avoid heavy traffic.   1@$% Here is the best route to Chevron.  1@$% What is the address?  1@$% 783 Arcadia Pl: do you want me to send the route on your screen?  1@$% Yes please that sounds great. 
+ 1@$% Where is the local gas station?  1@$% There is a gas station 4 miles away. It's Chevron. Would you like more details?  1@$% Yes please show me the route and avoid heavy traffic.   1@$% Here is the best route to Chevron.  1@$% What is the address?  1@$% 783 Arcadia Pl: do you want me to send the route on your screen?  1@$% Yes please that sounds great.   1@$% Plotting route to 783 Arcadia Pl, 4 miles away with car collision nearby.  1@$% Thank you car!
+ 1@$% Car I need a gas station to feed you: is there anything around here?
+ 1@$% Car I need a gas station to feed you: is there anything around here?  1@$% There is 2 gas stations nearby one has a road block noted and the other is 8 miles away with heavy traffic. Which do you prefer?  1@$% Please ask Siri to replace you and take me to the one with a quick route, thank you!
+ 1@$% Car I need a gas station to feed you: is there anything around here?  1@$% There is 2 gas stations nearby one has a road block noted and the other is 8 miles away with heavy traffic. Which do you prefer?  1@$% Please ask Siri to replace you and take me to the one with a quick route, thank you!  1@$% Directions to Valero are on your screen.  1@$% Where is Valero located?
+ 1@$% Car I need a gas station to feed you: is there anything around here?  1@$% There is 2 gas stations nearby one has a road block noted and the other is 8 miles away with heavy traffic. Which do you prefer?  1@$% Please ask Siri to replace you and take me to the one with a quick route, thank you!  1@$% Directions to Valero are on your screen.  1@$% Where is Valero located?  1@$% Valero is located at 200 Alester Ave and has a road block reported.   1@$% Then let's go there, thank you!
+ 1@$% What day is my lab appointment and who is coming with? 
+ 1@$% What day is my lab appointment and who is coming with?   1@$% Currently you have two lab appointments. One on the 3rd which Martha is attending, and one on the 13th that your brother is attending.  1@$% Thank you for your help.
+ 1@$% i have a meeting on the 12th of august at 5:50 please remind me.
+ 1@$% i have a meeting on the 12th of august at 5:50 please remind me.  1@$% I have set a reminder for your meeting on August 12th at 5:50  1@$% Thank you.
+ 1@$% Car I need to go back home, please pick the quickest way with no traffic.
+ 1@$% Car I need to go back home, please pick the quickest way with no traffic.  1@$% The only route i currently have to home currently has heavy traffic. Would you like me to set your GPS anyway?  1@$% It's okay, just pick the quickest route to get there, thank you!
+ 1@$% Car I need to go back home, please pick the quickest way with no traffic.  1@$% The only route i currently have to home currently has heavy traffic. Would you like me to set your GPS anyway?  1@$% It's okay, just pick the quickest route to get there, thank you!  1@$% Taking you on the quickest way home.  1@$% Thank you car!
+ 1@$% navigate me to the nearest hotel.
+ 1@$% navigate me to the nearest hotel.  1@$% The nearest hotel is the Four Seasons.  1@$% Send me the address on screen.
+ 1@$% navigate me to the nearest hotel.  1@$% The nearest hotel is the Four Seasons.  1@$% Send me the address on screen.  1@$% The Four Seasons hotel is located at 465 Arcadia Pl.  1@$% Set GPS for quickest available route.
+ 1@$% navigate me to the nearest hotel.  1@$% The nearest hotel is the Four Seasons.  1@$% Send me the address on screen.  1@$% The Four Seasons hotel is located at 465 Arcadia Pl.  1@$% Set GPS for quickest available route.  1@$% GPS set. Anything else?  1@$% That's it, thank you car!
+ 1@$% what's the weather forecast for the next week.
+ 1@$% what's the weather forecast for the next week.  1@$% What city are you inquiring about?  1@$% San Francisco.
+ 1@$% what's the weather forecast for the next week.  1@$% What city are you inquiring about?  1@$% San Francisco.  1@$% In the next week in San Francisco it will be dry on Monday, raining on Tuesday,	hail on Wednesday and Thursday, hot on Friday, overcast on Saturday, frost on Sunday.  1@$% Thank you!
+ 1@$% start listening what will be the weather for the week.
+ 1@$% start listening what will be the weather for the week.  1@$% For what city do you need the weekly forecast?   1@$% San Francisco.
+ 1@$% start listening what will be the weather for the week.  1@$% For what city do you need the weekly forecast?   1@$% San Francisco.  1@$% The weather in San Francisco during the next week will be humid on Monday, clear skies on Tuesday, stormy on Wednesday, raining on Thursday, windy on Friday, raining again on Saturday and Sunday.  1@$% Thank you so much car!
+ 1@$% Schedule a dinner at 3pm on Monday the 1st with Alex.
+ 1@$% Schedule a dinner at 3pm on Monday the 1st with Alex.  1@$% Okay, scheduling dinner with Alex for Monday the 1st at 3pm.  1@$% Thanks!
+ 1@$% Will the weather be stormy in San Mateo over the next 7 days?
+ 1@$% Will the weather be stormy in San Mateo over the next 7 days?  1@$% It will not be stormy in San Mateo this week.  1@$% Thank you.
+ 1@$% Address to the gas station .
+ 1@$% Address to the gas station .  1@$% Valero is located at 200 Alester Ave.   1@$% OK, please give me directions via a route that avoids all heavy traffic. 
+ 1@$% Address to the gas station .  1@$% Valero is located at 200 Alester Ave.   1@$% OK, please give me directions via a route that avoids all heavy traffic.   1@$% Since there is a road block nearby, I found another route for you and I sent it on your screen.  1@$% Awesome thank you.
+ 1@$% is it going to be cloudy in the next 7 days.
+ 1@$% is it going to be cloudy in the next 7 days.  1@$% For what city would you like the forecast?  1@$% Chicago please.
+ 1@$% Schedule a football activity with my mother for August 14th at 11am.
+ 1@$% Schedule a football activity with my mother for August 14th at 11am.  1@$% Setting a schedule for football activity with mother for August 14th at 11 am.  1@$% Thank you buddy.
+ 1@$% Currently are there clear skies in redwood city?
+ 1@$% Currently are there clear skies in redwood city?  1@$% There currently are no clear skies in Redwood City.  1@$% Thank you.
+ 1@$% Will it drizzle in Camarillo tomorrow?
+ 1@$% Will it drizzle in Camarillo tomorrow?  1@$% On Tuesday there will be drizzle in Camarillo.  1@$% Thank you very much car!
+ 1@$% check forecast for today and tomorrow.
+ 1@$% check forecast for today and tomorrow.  1@$% What city should I check the forecast for?  1@$% San Mateo please, find out the forecast for today and tomorrow. 
+ 1@$% check forecast for today and tomorrow.  1@$% What city should I check the forecast for?  1@$% San Mateo please, find out the forecast for today and tomorrow.   1@$% In San Mateo there will be rain today, and it will be stormy tomorrow.  1@$% Thank you!
+ 1@$% schedule a blood test.
+ 1@$% schedule a blood test.  1@$% What date and time are you blood test?  1@$% It is tomorrow at 1 pm. 
+ 1@$% schedule a blood test.  1@$% What date and time are you blood test?  1@$% It is tomorrow at 1 pm.   1@$% Your blood test has been scheduled for tomorrow at 1PM.  1@$% Perfect.
+ 1@$% what's the weather going to be like in the city on thursday.
+ 1@$% what's the weather going to be like in the city on thursday.  1@$% what city do you want to hear thursday's weather for?  1@$% Will it be overcast in Atherton on Thursday?
+ 1@$% what's the weather going to be like in the city on thursday.  1@$% what city do you want to hear thursday's weather for?  1@$% Will it be overcast in Atherton on Thursday?  1@$% It will be cloudy in Atherton on Thursday.  1@$% Thanks so much. 
+ 1@$% I need to locate a shopping center.
+ 1@$% I need to locate a shopping center.  1@$% Stanford Shopping Center and Town and Country are both near.  1@$% Which is within 3 miles?
+ 1@$% I need to locate a shopping center.  1@$% Stanford Shopping Center and Town and Country are both near.  1@$% Which is within 3 miles?  1@$% Stanford Shopping Center is only 2 miles away and Town and Country is 1 mile away.   1@$% Since Town and Country is the closest tell me its details.
+ 1@$% I need to locate a shopping center.  1@$% Stanford Shopping Center and Town and Country are both near.  1@$% Which is within 3 miles?  1@$% Stanford Shopping Center is only 2 miles away and Town and Country is 1 mile away.   1@$% Since Town and Country is the closest tell me its details.  1@$% .  1@$% I repeat: please tell me about Town and Country: which one is it the quickest way to go there?
+ 1@$% I need to locate a shopping center.  1@$% Stanford Shopping Center and Town and Country are both near.  1@$% Which is within 3 miles?  1@$% Stanford Shopping Center is only 2 miles away and Town and Country is 1 mile away.   1@$% Since Town and Country is the closest tell me its details.  1@$% .  1@$% I repeat: please tell me about Town and Country: which one is it the quickest way to go there?  1@$% Its address is 383 University Ave, I sent the position on your screen.  1@$% Thank you car!
+ 1@$% What time do i have to take medicine and who is helping ? 
+ 1@$% What time do i have to take medicine and who is helping ?   1@$% I have you set for two. One at 6pm and one at 3pm.  1@$% Who will be helping me for the one at 3pm?
+ 1@$% What time do i have to take medicine and who is helping ?   1@$% I have you set for two. One at 6pm and one at 3pm.  1@$% Who will be helping me for the one at 3pm?  1@$% Mother is one the helping at 3 pm. Anything else?   1@$% Nope, thank you.
+ 1@$% what will the weather be like in the city.
+ 1@$% what will the weather be like in the city.  1@$% Where would you like to hear the weather forecast from?  1@$% I want to know if there are clear skies in Atherton right now.
+ 1@$% what will the weather be like in the city.  1@$% Where would you like to hear the weather forecast from?  1@$% I want to know if there are clear skies in Atherton right now.  1@$% There will be no clear skies in Atherton today, the weather will be a blizzard, low of 50F, high of 60F.  1@$% Thank you!
+ 1@$% take me to a chinese restaurant.
+ 1@$% take me to a chinese restaurant.  1@$% Chef Chu's located at 593 Arrowhead Way is 4 miles away, there isn't any traffic on this route.  1@$% Thank you!
+ 1@$% set a reminder for my daughter's swimming lessons.
+ 1@$% set a reminder for my daughter's swimming lessons.  1@$% Okay, for what time and day?   1@$% I need it to be set for 7 pm on the 1st.
+ 1@$% set a reminder for my daughter's swimming lessons.  1@$% Okay, for what time and day?   1@$% I need it to be set for 7 pm on the 1st.  1@$% I am setting a reminder for swimming lessons at 7 pm  on the 1st.   1@$% Thank you car. 
+ 1@$% what's the weather like in new york.
+ 1@$% what's the weather like in new york.  1@$% The weather in New York is foggy.  1@$% Okay great. Will there be clear skies in the next few days in New York?
+ 1@$% what's the weather like in new york.  1@$% The weather in New York is foggy.  1@$% Okay great. Will there be clear skies in the next few days in New York?  1@$% No, the weather isn't going to be good in New York in next days.  1@$% great thank you.
+ 1@$% Schedule a dentist appointment with Alex for Monday August 8th at 6pm.
+ 1@$% Schedule a dentist appointment with Alex for Monday August 8th at 6pm.  1@$% Your dentist appointment with Alex has been scheduled for Monday at 6pm.  1@$% Thank you. 
+ 1@$% Set a reminder to take my medicine on Monday Aug 8 at 7 pm with my mother.
+ 1@$% Set a reminder to take my medicine on Monday Aug 8 at 7 pm with my mother.  1@$% Setting a reminder to take my medicine on Monday Aug 8 at 7 pm with your mother.  1@$% Thanks.
+ 1@$% Will it be warm in Brentwood this week?
+ 1@$% Will it be warm in Brentwood this week?  1@$% Tuesday, Wednesday, and Sunday appear to be the warm days expected in Brentwood this week.  1@$% Thank you.
+ 1@$% what's the temperature.
+ 1@$% what's the temperature.  1@$% What city are you wanting to know the temperature for?  1@$% San Mateo.
+ 1@$% what's the temperature.  1@$% What city are you wanting to know the temperature for?  1@$% San Mateo.  1@$% It is currently overcast with a low of 60F and a high of 80F in San Mateo.  1@$% Thank you!
+ 1@$% what is the forecast for new york city.
+ 1@$% what is the forecast for new york city.  1@$% What days are you interested in?  1@$% Is there a blizzard now?
+ 1@$% what is the forecast for new york city.  1@$% What days are you interested in?  1@$% Is there a blizzard now?  1@$% No, there is not a blizzard in New York right now.  1@$% Okay, great. Thanks!
+ 1@$% Where does  my friend live?
+ 1@$% Where does  my friend live?  1@$% Jack or Jill?  1@$% Mmm... which one is the quickest to reach?
+ 1@$% Where does  my friend live?  1@$% Jack or Jill?  1@$% Mmm... which one is the quickest to reach?  1@$% Jill's house is 2 miles away, while Jacks house is 4 miles. There is moderate traffic to both locations.  1@$% Let's head to Jill's house, then. 
+ 1@$% Where does  my friend live?  1@$% Jack or Jill?  1@$% Mmm... which one is the quickest to reach?  1@$% Jill's house is 2 miles away, while Jacks house is 4 miles. There is moderate traffic to both locations.  1@$% Let's head to Jill's house, then.   1@$% Displaying GPS now.   1@$% Thanks.
+ 1@$% Is it going to frost in Oakland now?
+ 1@$% Is it going to frost in Oakland now?  1@$% There is no frost in the forecast for today in Oakland.  1@$% Thanks.
+ 1@$% please add playing tennis to my schedule.
+ 1@$% please add playing tennis to my schedule.  1@$% What day and time should I add playing tennis to your schedule?  1@$% August 8th at 10 AM.
+ 1@$% please add playing tennis to my schedule.  1@$% What day and time should I add playing tennis to your schedule?  1@$% August 8th at 10 AM.  1@$% Okay, adding playing tennis to your calendar, on August the 8th at 10 am.  1@$% Perfect. Thank you.
+ 1@$% i'd like to know where i can get some chinese takeout.
+ 1@$% i'd like to know where i can get some chinese takeout.  1@$% We're 2 miles away from Jing Jing and 5 miles away from P.F.Changs: which one do you like more?  1@$% Let's try Jing Jing. 
+ 1@$% i'd like to know where i can get some chinese takeout.  1@$% We're 2 miles away from Jing Jing and 5 miles away from P.F.Changs: which one do you like more?  1@$% Let's try Jing Jing.   1@$% I sent its position and the route to reach it on your screen, don't speed too much.  1@$% What is the address, and is there supposed to be any traffic?
+ 1@$% i'd like to know where i can get some chinese takeout.  1@$% We're 2 miles away from Jing Jing and 5 miles away from P.F.Changs: which one do you like more?  1@$% Let's try Jing Jing.   1@$% I sent its position and the route to reach it on your screen, don't speed too much.  1@$% What is the address, and is there supposed to be any traffic?  1@$% Jing Jing is at 113 Arbol Dr. There is a road block nearby. Shall I give you directions?  1@$% Yes please give me directions via the fastest route.
+ 1@$% i'd like to know where i can get some chinese takeout.  1@$% We're 2 miles away from Jing Jing and 5 miles away from P.F.Changs: which one do you like more?  1@$% Let's try Jing Jing.   1@$% I sent its position and the route to reach it on your screen, don't speed too much.  1@$% What is the address, and is there supposed to be any traffic?  1@$% Jing Jing is at 113 Arbol Dr. There is a road block nearby. Shall I give you directions?  1@$% Yes please give me directions via the fastest route.  1@$% I sent the best route on your screen, enjoy your trip!  1@$% Thank you car!
+ 1@$% I have a lab appointment with Alex at 2 at the end of March.
+ 1@$% I have a lab appointment with Alex at 2 at the end of March.  1@$% Okay great, would you like to set a reminder for it?  1@$% Yes, please. 
+ 1@$% I have a lab appointment with Alex at 2 at the end of March.  1@$% Okay great, would you like to set a reminder for it?  1@$% Yes, please.   1@$% Okay, I just set that reminder for you. Can I help with anything else?  1@$% Thank you.
+ 1@$% check weather for new york city.
+ 1@$% check weather for new york city.  1@$% New York is supposed to be fair with a chance of rain on Saturday with the highs in the 90s and lows in the 20s.   1@$% Thanks.
+ 1@$% give me the time for my next doctor's appointment.
+ 1@$% give me the time for my next doctor's appointment.  1@$% Your next doctor's appointment is Thursday at 1 pm.   1@$% Okay perfect. 
+ 1@$% give me weather forecast for today.
+ 1@$% give me weather forecast for today.  1@$% What location do you want the weather for?  1@$% Will it be cloudy in Corona?
+ 1@$% give me weather forecast for today.  1@$% What location do you want the weather for?  1@$% Will it be cloudy in Corona?  1@$% It is not predicted to be cloudy in corona today.  1@$% Thanks.
+ 1@$% Set calendar reminder for 1pm this coming tuesday with my aunt. 
+ 1@$% Set calendar reminder for 1pm this coming tuesday with my aunt.   1@$% Sure, a calender reminder has been set for 1 PM this upcoming tuesday with your aunt.  1@$% Thank you!
+ 1@$% tell me the best route to get home with the least amount of traffic.
+ 1@$% tell me the best route to get home with the least amount of traffic.  1@$% Navigating you home with the least traffic.  1@$% Thank you car, send the address on the screen with the fastest route too.
+ 1@$% tell me the best route to get home with the least amount of traffic.  1@$% Navigating you home with the least traffic.  1@$% Thank you car, send the address on the screen with the fastest route too.  1@$% The address to your home is 56 cadwell street. Setting GPS for the fastest route now.  1@$% Great job, thanks.
+ 1@$% find me the best parking spot.
+ 1@$% find me the best parking spot.  1@$% We're 4 miles away from Civic Center Garage and there is also a road block nearby: do you want me to find a quickest way to go there?  1@$% yes please.
+ 1@$% find me the best parking spot.  1@$% We're 4 miles away from Civic Center Garage and there is also a road block nearby: do you want me to find a quickest way to go there?  1@$% yes please.  1@$% Setting navigation to 270 Altaire Walk now.   1@$% Please pick the fastest route, thanks!
+ 1@$% find me the best parking spot.  1@$% We're 4 miles away from Civic Center Garage and there is also a road block nearby: do you want me to find a quickest way to go there?  1@$% yes please.  1@$% Setting navigation to 270 Altaire Walk now.   1@$% Please pick the fastest route, thanks!  1@$% Yes, I will navigate you via the fastest route.  1@$% Thank you car!
+ 1@$% is it going to snow this week.
+ 1@$% is it going to snow this week.  1@$% What city would you like the forecast for?  1@$% Boston.
+ 1@$% i'd like to know where i can get some chinese takeout.
+ 1@$% i'd like to know where i can get some chinese takeout.  1@$% Panda Express is a chinese restaurant nearby.  1@$% Can you show me the quickest route?
+ 1@$% i'd like to know where i can get some chinese takeout.  1@$% Panda Express is a chinese restaurant nearby.  1@$% Can you show me the quickest route?  1@$% Currently the quickest route to Panda Express is through heavy traffic. Should i set the GPS now?  1@$% Is there another chinese restaurant available? 
+ 1@$% i'd like to know where i can get some chinese takeout.  1@$% Panda Express is a chinese restaurant nearby.  1@$% Can you show me the quickest route?  1@$% Currently the quickest route to Panda Express is through heavy traffic. Should i set the GPS now?  1@$% Is there another chinese restaurant available?   1@$% No, Panda Express is the only one i have listed.  1@$% What is the address?
+ 1@$% i'd like to know where i can get some chinese takeout.  1@$% Panda Express is a chinese restaurant nearby.  1@$% Can you show me the quickest route?  1@$% Currently the quickest route to Panda Express is through heavy traffic. Should i set the GPS now?  1@$% Is there another chinese restaurant available?   1@$% No, Panda Express is the only one i have listed.  1@$% What is the address?  1@$% Panda Express is located at 842 Arrowhead Way.  1@$% Thank you, let's go there!
+ 1@$% Car I'd like to have a coffee somewhere within 5 miles: show me a quick route too please.
+ 1@$% Car I'd like to have a coffee somewhere within 5 miles: show me a quick route too please.  1@$% Here is a route to Starbucks, 4 miles away.  1@$% Make sure it is the quickest please. 
+ 1@$% Car I'd like to have a coffee somewhere within 5 miles: show me a quick route too please.  1@$% Here is a route to Starbucks, 4 miles away.  1@$% Make sure it is the quickest please.   1@$% There isn't any traffic, heading to 792 Bedoin Street.  1@$% Great, thanks.
+ 1@$% Will it be hot in Inglewood this weekend?
+ 1@$% Will it be hot in Inglewood this weekend?  1@$% It will be hot on Sunday in Inglewood.  1@$% Thanks.
+ 1@$% will it snow this week.
+ 1@$% will it snow this week.  1@$% Which city would you like to find out if it's snowing in?  1@$% Cleveland.
+ 1@$% will it snow this week.  1@$% Which city would you like to find out if it's snowing in?  1@$% Cleveland.  1@$% Snow is predicted to fall in Cleveland today.  1@$% Thank you car. 
+ 1@$% find directions to the nearest starbucks.
+ 1@$% find directions to the nearest starbucks.  1@$% There is no Starbucks nearby, the Palo Alto Cafe is 7 miles away. Would you like directions there?   1@$% Yes, please give me the address and directions via a route with no traffic. 
+ 1@$% find directions to the nearest starbucks.  1@$% There is no Starbucks nearby, the Palo Alto Cafe is 7 miles away. Would you like directions there?   1@$% Yes, please give me the address and directions via a route with no traffic.   1@$% The Palo Alto Cafe is reporting heavy traffic but I will still find the quickest route to 436 Alger Dr.   1@$% Thank you for all your help. 
+ 1@$% what's the temperature for today.
+ 1@$% what's the temperature for today.  1@$% What city should I check the temperature for?  1@$% Well, I need to know the temperature for Seattle, today. 
+ 1@$% what's the temperature for today.  1@$% What city should I check the temperature for?  1@$% Well, I need to know the temperature for Seattle, today.   1@$% The temperature for Seattle today will be low of 60F, high of 80F, and also cloudy.  1@$% Thank you!
+ 1@$% where is the closest place to eat.
+ 1@$% where is the closest place to eat.  1@$% There is the Chinese restaurant P.F. Changs at 669 El Camino Real, it's just 2 miles away.  1@$% Set GPS for the fastest route with least amount of traffic.
+ 1@$% where is the closest place to eat.  1@$% There is the Chinese restaurant P.F. Changs at 669 El Camino Real, it's just 2 miles away.  1@$% Set GPS for the fastest route with least amount of traffic.  1@$% P.F. Changs has no traffic at the moment. I am setting the navigation and we should arrive soon.   1@$% That's great, thank you car!
+ 1@$% give me the 7 day weather forecast.
+ 1@$% give me the 7 day weather forecast.  1@$% what city do you want to know the 7 day forecast for?  1@$% Will it drizzle in Atherton?
+ 1@$% give me the 7 day weather forecast.  1@$% what city do you want to know the 7 day forecast for?  1@$% Will it drizzle in Atherton?  1@$% The weather forecast predicts it will drizzle on Saturday.  1@$% Okay thanks. 
+ 1@$% give me directions to the closest chinese food restaurant.
+ 1@$% give me directions to the closest chinese food restaurant.  1@$% The closest Chinese restaurant seems to be P.F. Chang's at 3 miles away with moderate traffic. Do you want the address?  1@$% Just send it on my screen and let's go there through the quickest route, please!
+ 1@$% give me directions to the closest chinese food restaurant.  1@$% The closest Chinese restaurant seems to be P.F. Chang's at 3 miles away with moderate traffic. Do you want the address?  1@$% Just send it on my screen and let's go there through the quickest route, please!  1@$% The address of P.F. Changs is 669 El Camino Real. We should be there shortly.   1@$% Pick a route with no traffic and let's go. Thank you!
+ 1@$% give me directions to the closest chinese food restaurant.  1@$% The closest Chinese restaurant seems to be P.F. Chang's at 3 miles away with moderate traffic. Do you want the address?  1@$% Just send it on my screen and let's go there through the quickest route, please!  1@$% The address of P.F. Changs is 669 El Camino Real. We should be there shortly.   1@$% Pick a route with no traffic and let's go. Thank you!  1@$% Setting navigation now. Enjoy!  1@$% Thanks for the help. 
+ 1@$% i need directions to the nearest grocery store.
+ 1@$% i need directions to the nearest grocery store.  1@$% We are 2 miles away from Safeway: do you want me to send you its address on screen?  1@$% Yes, please, and pick a quick route to reach there too, thank you!
+ 1@$% i need directions to the nearest grocery store.  1@$% We are 2 miles away from Safeway: do you want me to send you its address on screen?  1@$% Yes, please, and pick a quick route to reach there too, thank you!  1@$% Safeway is located at 452 Arcadia Pl. with no traffic. Setting GPS now.   1@$% Thank you car!
+ 1@$% Check the 7 day outlook to see what the highest temperature in oakland will be.
+ 1@$% Check the 7 day outlook to see what the highest temperature in oakland will be.  1@$% Over the next 7 days the days with the highest temperature will be Wednesday and Friday with a high of 90F.  1@$% Thanks.
+ 1@$% what is the weather like for tomorrow night.
+ 1@$% what is the weather like for tomorrow night.  1@$% Where are you located?  1@$% In in Los Angeles, will it be humid tomorrow?
+ 1@$% what is the weather like for tomorrow night.  1@$% Where are you located?  1@$% In in Los Angeles, will it be humid tomorrow?  1@$% Tomorrow in Los Angeles it will be cloudy, there isn't a prediction for humidity.  1@$% Thank you.
+ 1@$% find the nearest restaurant with chinese take-out.
+ 1@$% find the nearest restaurant with chinese take-out.  1@$% There is Jing Jing 1 miles away and P.F. Changs 4 miles away: which one do you prefer?  1@$% Let's go for Jing Jing, please send the address on my screen along with the fastest route, thank you!
+ 1@$% find the nearest restaurant with chinese take-out.  1@$% There is Jing Jing 1 miles away and P.F. Changs 4 miles away: which one do you prefer?  1@$% Let's go for Jing Jing, please send the address on my screen along with the fastest route, thank you!  1@$% Jing Jing is 1 mile away at 113 Arbol Drive. We shouldn't be long in getting there.   1@$% Thank you.
+ 1@$% how hot is it going to be this week.
+ 1@$% how hot is it going to be this week.  1@$% What city do you need to know if it will be hot?  1@$% For New York this week please. 
+ 1@$% how hot is it going to be this week.  1@$% What city do you need to know if it will be hot?  1@$% For New York this week please.   1@$% This week in New York it will be windy on Monday, clear skies on Tuesday, hail on Wednesday, lowest temperature on Thursday, clear skies on Friday, windy on Saturday, dry on Sunday.  1@$% Thank you!
+ 1@$% What hospital is nearby?
+ 1@$% What hospital is nearby?  1@$% Palo Alto Medical Foundation	and Stanford Express Care are close.  1@$% Which one is quickest to reach?
+ 1@$% What hospital is nearby?  1@$% Palo Alto Medical Foundation	and Stanford Express Care are close.  1@$% Which one is quickest to reach?  1@$% Stanford Express Care is just 3 miles away and there is less traffic on its way than on the other hospital. Do you want me to set the navigation to go there?  1@$% Sure, thank you!
+ 1@$% are there clear skies in the forecast today.
+ 1@$% are there clear skies in the forecast today.  1@$% For what city do you need information about today's forecast?  1@$% Look in los angeles.
+ 1@$% are there clear skies in the forecast today.  1@$% For what city do you need information about today's forecast?  1@$% Look in los angeles.  1@$% It appears it will be windy - I do not have information about cloud cover.  1@$% Thanks.
+ 1@$% Where can I go shopping?
+ 1@$% Where can I go shopping?  1@$% I have a listing for a shopping mall that is 6 miles away. Want more info?  1@$% Give me the name and address of it.
+ 1@$% Where can I go shopping?  1@$% I have a listing for a shopping mall that is 6 miles away. Want more info?  1@$% Give me the name and address of it.  1@$% Topanga Mall is located at 171 Oak Road. Want me to set the GPS?  1@$% Yes please and thanks. 
+ 1@$% what will the temperature be this weekend.
+ 1@$% what will the temperature be this weekend.  1@$% What city do you want to know the temperature?  1@$% Grand Rapids.
+ 1@$% what will the temperature be this weekend.  1@$% What city do you want to know the temperature?  1@$% Grand Rapids.  1@$% It will be between 80-100F in Grand Rapids this weekend.  1@$% Thanks.
+ 1@$% Get me the address to a local parking garage.
+ 1@$% Get me the address to a local parking garage.  1@$% There is a parking garage but there is a car collison nearby that could delay your arrival but only one listed in area. Do you want the details?  1@$% Yes, i want the address of the garage with the shortest route possible.
+ 1@$% Get me the address to a local parking garage.  1@$% There is a parking garage but there is a car collison nearby that could delay your arrival but only one listed in area. Do you want the details?  1@$% Yes, i want the address of the garage with the shortest route possible.  1@$% Stanford Oval Parking is located at 610 Amarillo Ave, I sent its position with the quickest route on your screen.  1@$% Thank you!
+ 1@$% I need a hospital within 3 miles. 
+ 1@$% I need a hospital within 3 miles.   1@$% Stanford Express Care is a hospital that is 3 miles away. Need more info?  1@$% Yes, send me the address please.
+ 1@$% I need a hospital within 3 miles.   1@$% Stanford Express Care is a hospital that is 3 miles away. Need more info?  1@$% Yes, send me the address please.  1@$% Stanford Express Care is located at 214 El Camino Real.  1@$% Thank you!
+ 1@$% tell me the temperature for this week.
+ 1@$% tell me the temperature for this week.  1@$% What city should i check the weekly temperature for?  1@$% Oakland.
+ 1@$% tell me the temperature for this week.  1@$% What city should i check the weekly temperature for?  1@$% Oakland.  1@$% Oakland has the following forecast: low of 60F and high of 70F on Monday, low of 80F, high of 100F on Tuesday, low of 50F, high of 70F on Wednesday, low of 30F, high of 50F on Thursday, low of 70F, high of 80F on Friday, low of 50F, high of 60F on Saturday, low of 40F, high of 50F on Sunday.  1@$% Thanks.
+ 1@$% what time is my workout class today.
+ 1@$% what time is my workout class today.  1@$% Your yoga class or swimming?  1@$% Swimming, and I'd also like to know the time.
+ 1@$% it's going to be raining so i have to drive slow.
+ 1@$% it's going to be raining so i have to drive slow.  1@$% What city will you be taking your drive in?  1@$% Camarillo, please.
+ 1@$% it's going to be raining so i have to drive slow.  1@$% What city will you be taking your drive in?  1@$% Camarillo, please.  1@$% There are clear skies on Camarillo now but don't go too fast!  1@$% Thank you car, don't worry!
+ 1@$% Set a reminder for an optometrist appointment at 9am on the 6th of this month - my brother will be there as well.
+ 1@$% Set a reminder for an optometrist appointment at 9am on the 6th of this month - my brother will be there as well.  1@$% I will set a reminder for an Optometrist appointment at 9 am on the 6th of this month with your brother attending as well.  1@$% Thanks!
+ 1@$% what's the weekly forecast.
+ 1@$% what's the weekly forecast.  1@$% What city do you want the weather for?  1@$% In Fresno, will it be raining this week?
+ 1@$% what's the weekly forecast.  1@$% What city do you want the weather for?  1@$% In Fresno, will it be raining this week?  1@$% No rain is in the forecast for Fresno this week.   1@$% Thanks!
+ 1@$% Is it gonna rain in Camarillo today and tomorrow?
+ 1@$% Is it gonna rain in Camarillo today and tomorrow?  1@$% The forecast does not predict rain in Camarillo today or tomorrow.  1@$% Thanks.
+ 1@$% Can you help me find the closest shopping center without heavy traffic?
+ 1@$% Can you help me find the closest shopping center without heavy traffic?  1@$% Town and Country is the closest.  1@$% Is there traffic?
+ 1@$% Can you help me find the closest shopping center without heavy traffic?  1@$% Town and Country is the closest.  1@$% Is there traffic?  1@$% There is moderate traffic.   1@$% Ok that's fine, set the GPS for there.
+ 1@$% tell me what the weather will be like tomorrow.
+ 1@$% tell me what the weather will be like tomorrow.  1@$% For what city would you like me to check tomorrow's weather for?  1@$% redwood city.
+ 1@$% tell me what the weather will be like tomorrow.  1@$% For what city would you like me to check tomorrow's weather for?  1@$% redwood city.  1@$% The weather forecast for Redwood city says there will be clear skies with a low of 90F and a high of 100F tomorrow.  1@$% Thank you.
+ 1@$% what are the directions to the nearest chinese restaurant.
+ 1@$% what are the directions to the nearest chinese restaurant.  1@$% The nearest chinese restaraunt is Panda Express at 842 Arrowhead way.  1@$% Thanks.
+ 1@$% what is the forecast for today's weather.
+ 1@$% what is the forecast for today's weather.  1@$% What city are you interested in?  1@$% Oakland.
+ 1@$% Remind me about my meeting with the vice president on Monday the 1st.
+ 1@$% Remind me about my meeting with the vice president on Monday the 1st.  1@$% Scheduling your meeting with the vice president on Monday the 1st, what time shall I add?  1@$% It's at 6 pm to discuss the company picnic.
+ 1@$% Remind me about my meeting with the vice president on Monday the 1st.  1@$% Scheduling your meeting with the vice president on Monday the 1st, what time shall I add?  1@$% It's at 6 pm to discuss the company picnic.  1@$% Okay, setting a reminder about your meeting with the vice president on Monday the 1st at 6 pm to discuss the company picnic.  1@$% Thank you.
+ 1@$% what's the weather like today and tomorrow.
+ 1@$% what's the weather like today and tomorrow.  1@$% What city do you want the weather for?  1@$% Manhattan, please.
+ 1@$% what's the weather like today and tomorrow.  1@$% What city do you want the weather for?  1@$% Manhattan, please.  1@$% The weather for Manhattan will be snow, low of 70F, high of 90F on Monday, and hot, low of 70F, high of 90F on Tuesday.  1@$% Thank you.
+ 1@$% give me directions to 5677 southwest 4th street.
+ 1@$% give me directions to 5677 southwest 4th street.  1@$% 5677 Springer Street is 2 miles away with moderate traffic.  1@$% Sounds good, let's go there. Thanks for the help. 
+ 1@$% check weather.
+ 1@$% check weather.  1@$% What city would you like the weather for?  1@$% I want to hear the two day forecast for brentwood.
+ 1@$% check weather.  1@$% What city would you like the weather for?  1@$% I want to hear the two day forecast for brentwood.  1@$% Monday will be cloudy in Brentwood. Tuesday will have a high temperature of 70F and a low of 50F.  1@$% Thank you car.
+ 1@$% how is the weather in the city this weekend.
+ 1@$% how is the weather in the city this weekend.  1@$% What city are you asking about?  1@$% I am asking about downtown Chicago, will there be any frost this week?
+ 1@$% how is the weather in the city this weekend.  1@$% What city are you asking about?  1@$% I am asking about downtown Chicago, will there be any frost this week?  1@$% There will be no frost for downtown Chicago this week.  1@$% Thank you!
+ 1@$% Can you schedule a conference at 4pm, the 12th of this month with the vice president?
+ 1@$% Can you schedule a conference at 4pm, the 12th of this month with the vice president?  1@$% Okay, I've got it scheduled for you. Anything else?  1@$% That's all, thank you!
+ 1@$% car is it going to snow today.
+ 1@$% car is it going to snow today.  1@$% What city should I check for snow?  1@$% Durham.
+ 1@$% car is it going to snow today.  1@$% What city should I check for snow?  1@$% Durham.  1@$% It will not be snowing in Durham today. It will be windy with a low of 50F and a high of 70F.  1@$% Thank you car!
+ 1@$% directions to nearest barista.
+ 1@$% directions to nearest barista.  1@$% The nearest coffee place is Cafe Venetia at 269 Alger Dr.  1@$% OK, please direct me there via the fastest route. 
+ 1@$% directions to nearest barista.  1@$% The nearest coffee place is Cafe Venetia at 269 Alger Dr.  1@$% OK, please direct me there via the fastest route.   1@$% Setting navigation now. There is heavy traffic, so drive carefully.  1@$% Thank you car!
+ 1@$% Set a reminder for my football activity today at 1pm with Jon.
+ 1@$% Set a reminder for my football activity today at 1pm with Jon.  1@$% Okay, setting a reminder for your football activity today at 1pm with Jon.  1@$% Thanks.
+ 1@$% which days will be cloudy this week.
+ 1@$% which days will be cloudy this week.  1@$% What city are you wanting to know if it's going to be cloudy?  1@$% Give me info for San Mateo plese.
+ 1@$% which days will be cloudy this week.  1@$% What city are you wanting to know if it's going to be cloudy?  1@$% Give me info for San Mateo plese.  1@$% It will be cloudy in San Mateo on Friday.  1@$% Thank you.
+ 1@$% Where do I live?
+ 1@$% Where do I live?  1@$% Home is at 56 Cadwell street.  1@$% Thank you.
+ 1@$% set reminder for dinner.
+ 1@$% set reminder for dinner.  1@$% Is there a date or time for dinner that I should add to this reminder?  1@$% Tomorrow at 7 pm.
+ 1@$% set reminder for dinner.  1@$% Is there a date or time for dinner that I should add to this reminder?  1@$% Tomorrow at 7 pm.  1@$% Where is the location?  1@$% There is no location to add.
+ 1@$% set reminder for dinner.  1@$% Is there a date or time for dinner that I should add to this reminder?  1@$% Tomorrow at 7 pm.  1@$% Where is the location?  1@$% There is no location to add.  1@$% I have set a reminder for dinner at 7 pm tomorrow.   1@$% Okay thank you. 
+ 1@$% Set a reminder to take medicine with Jon at 5pm on the tenth.
+ 1@$% Set a reminder to take medicine with Jon at 5pm on the tenth.  1@$% Reminder set for Jon to take medicine on the 10th at 5pm .  1@$% Great, thanks.
+ 1@$% Schedule dinner with my father at 4 pm on Monday the 1st. 
+ 1@$% Schedule dinner with my father at 4 pm on Monday the 1st.   1@$% Okay, scheduling a dinner with your father for Monday the 1st at 4pm.  1@$% Awesome, thanks.
+ 1@$% Where can I get gas?
+ 1@$% Where can I get gas?  1@$% There are 2 gas stations near you, woud you like the closest one?  1@$% Yes, what is the address?
+ 1@$% Where can I get gas?  1@$% There are 2 gas stations near you, woud you like the closest one?  1@$% Yes, what is the address?  1@$% The 76 is located at 91 El Camino Real; it is 4 miles away in heavy traffic.  1@$% Any without heavy traffic?
+ 1@$% Where can I get gas?  1@$% There are 2 gas stations near you, woud you like the closest one?  1@$% Yes, what is the address?  1@$% The 76 is located at 91 El Camino Real; it is 4 miles away in heavy traffic.  1@$% Any without heavy traffic?  1@$% That is still the closest gas station.  1@$% Then let's go there, thank you car!
+ 1@$% What is my friend's address?
+ 1@$% What is my friend's address?  1@$% Jill lives at 347 Alta Mesa Ave.  1@$% Is that the quickest route?
+ 1@$% What is my friend's address?  1@$% Jill lives at 347 Alta Mesa Ave.  1@$% Is that the quickest route?  1@$% Yes that route has no traffic noted.   1@$% Sounds great, let's go. 
+ 1@$% what is the highest temperature for the two day forecast in durham?
+ 1@$% what is the highest temperature for the two day forecast in durham?  1@$% 100F is the highest temperature predicted for the next two days in durham.  1@$% Thanks.
+ 1@$% Schedule my 10 am dentist appointment on Friday with my father.
+ 1@$% Schedule my 10 am dentist appointment on Friday with my father.  1@$% Okay, I have scheduled your dentist appointment for this Friday at 10 am with your father. Anything else I can help with?  1@$% List my current schedule. 
+ 1@$% Schedule my 10 am dentist appointment on Friday with my father.  1@$% Okay, I have scheduled your dentist appointment for this Friday at 10 am with your father. Anything else I can help with?  1@$% List my current schedule.   1@$% current schedule is empty.  1@$% List my schedule for Friday.
+ 1@$% Schedule my 10 am dentist appointment on Friday with my father.  1@$% Okay, I have scheduled your dentist appointment for this Friday at 10 am with your father. Anything else I can help with?  1@$% List my current schedule.   1@$% current schedule is empty.  1@$% List my schedule for Friday.  1@$% Okay, you have a dentist appointment with your father, at 10 am on Friday.  1@$% Thank you so much!
+ 1@$% I need the time and parties for taking medicine please.
+ 1@$% I need the time and parties for taking medicine please.  1@$% For which one? I have three, one with Jeff at 11 am. One with Alex at 10am, and one with your Mother at 2pm.  1@$% That will do just fine, goodbye.
+ 1@$% what will the temperature be for the next week.
+ 1@$% what will the temperature be for the next week.  1@$% What city do you want the temperature for?  1@$% I would like the temperature for Alhambra please.
+ 1@$% what will the temperature be for the next week.  1@$% What city do you want the temperature for?  1@$% I would like the temperature for Alhambra please.  1@$% Next week the temperatures in Alhambra will be as follows: a low of 80F and a high of 100F on Monday, a low of 30F and a high of 40F on Tuesday, a low of 40F and a high of 50F on Wednesday, a low of 50F and a high of 60F on Thursday, a low of 40F and a high of 50F on Friday, a low of 60F and a high of 70F on Saturday, and a low of 80F and a high of 100F on Sunday.  1@$% Thank you very much!
+ 1@$% Where can I get groceries?
+ 1@$% Where can I get groceries?  1@$% There is Sigona Farmers Market 1 miles away from here but with heavy traffic on our way.  1@$% Can you pick a quick route for me?
+ 1@$% Where can I get groceries?  1@$% There is Sigona Farmers Market 1 miles away from here but with heavy traffic on our way.  1@$% Can you pick a quick route for me?  1@$% Setting quickest route to Sigona Farmers Market on GPS now.  1@$% Thanks so much. 
+ 1@$% get me directions to the nearest starbucks.
+ 1@$% get me directions to the nearest starbucks.  1@$% There is no Starbucks listed locally, would you like directions to a different coffee shop?  1@$% Yes please.
+ 1@$% get me directions to the nearest starbucks.  1@$% There is no Starbucks listed locally, would you like directions to a different coffee shop?  1@$% Yes please.  1@$% There is a Coupa 6 miles away. Would you like directions?   1@$% Yes please. 
+ 1@$% get me directions to the nearest starbucks.  1@$% There is no Starbucks listed locally, would you like directions to a different coffee shop?  1@$% Yes please.  1@$% There is a Coupa 6 miles away. Would you like directions?   1@$% Yes please.   1@$% The address for Coupa is 394 Van Ness Ave.  1@$% Thank you car, please set the GPS to get there on the fastest route.
+ 1@$% schedule a yoga activity at 9am with my sister.
+ 1@$% schedule a yoga activity at 9am with my sister.  1@$% Sure! Do you want me to schedule it for tomorrow?  1@$% No, schedule my yoga activity for today.
+ 1@$% i need directions to a grocery store.
+ 1@$% i need directions to a grocery store.  1@$% I have a grocery store that is 6 miles away. Would you like info on it?  1@$% Yes, give me the address.
+ 1@$% i need directions to a grocery store.  1@$% I have a grocery store that is 6 miles away. Would you like info on it?  1@$% Yes, give me the address.  1@$% Then let's go at Sigona Farmers Market, the address is 638 Amherst St, I sent it on your screen.  1@$% Sounds great. Thank you. 
+ 1@$% Are there clear skies in los angeles today?
+ 1@$% Are there clear skies in los angeles today?  1@$% It is warm and 80-100F in Los Angeles today.  1@$% Thank you!
+ 1@$% Will it be hot in Inglewood over the next few days?
+ 1@$% Will it be hot in Inglewood over the next few days?  1@$% It will be warm both Monday and Tuesday in Inglewood.  1@$% Thank you very much. 
+ 1@$% Where does my friend live? 
+ 1@$% Where does my friend live?   1@$% Your friend Jill lives at 347 Alta Mesa Ave. Would you like to navigate there now?  1@$% Is there any traffic to her house?
+ 1@$% Where does my friend live?   1@$% Your friend Jill lives at 347 Alta Mesa Ave. Would you like to navigate there now?  1@$% Is there any traffic to her house?  1@$% There is no traffic listed on this route.  1@$% Thanks, let's go there. 
+ 1@$% is my doctors appointment on Tuesday or Wednesday.
+ 1@$% is my doctors appointment on Tuesday or Wednesday.  1@$% Your doctor's appointment is on Wednesday.  1@$% Okay thank you. 
+ 1@$% Please give me the address and directions via a route that avoids all heavy traffic to a grocery store. 
+ 1@$% Please give me the address and directions via a route that avoids all heavy traffic to a grocery store.   1@$% The closest grocery store is Sigona Farmers Market at 638 Amherst St. with heavy traffic but still is the best option.   1@$% Mmm, I understand.. Then let's go there, thank you car!
+ 1@$% Please give me the address and directions via a route that avoids all heavy traffic to a grocery store.   1@$% The closest grocery store is Sigona Farmers Market at 638 Amherst St. with heavy traffic but still is the best option.   1@$% Mmm, I understand.. Then let's go there, thank you car!  1@$% Okay, heading to Sigona Farmers Market.  1@$% Thank you. 
+ 1@$% what's the weather like in downtown chicago.
+ 1@$% what's the weather like in downtown chicago.  1@$% What days are you interested in?  1@$% Wednesday, please. Is it gonna snow?
+ 1@$% what's the weather like in downtown chicago.  1@$% What days are you interested in?  1@$% Wednesday, please. Is it gonna snow?  1@$% It should not snow in Chicago on Wednesday.  1@$% Thank you so much!
+ 1@$% is it going to rain today.
+ 1@$% is it going to rain today.  1@$% Where should I check the forecast for rain?  1@$% Downtown Chicago, please.
+ 1@$% is it going to rain today.  1@$% Where should I check the forecast for rain?  1@$% Downtown Chicago, please.  1@$% there isn't any rain predicted to fall in downtown chicago today.  1@$% Great, thank you.
+ 1@$% is it going to snow today.
+ 1@$% is it going to snow today.  1@$% What city do you want the weather for?  1@$% Inglewood please.
+ 1@$% is it going to snow today.  1@$% What city do you want the weather for?  1@$% Inglewood please.  1@$% It will not snow in Inglewood today.  1@$% That is nice to know, goodbye.
+ 1@$% remind me of the time for today's dinner.
+ 1@$% remind me of the time for today's dinner.  1@$% Dinner event time, 5 PM, Wednesday evening.   1@$% thank you.
+ 1@$% is snow forecasted this week.
+ 1@$% is snow forecasted this week.  1@$% What city can I give you the snow information about?  1@$% Manhattan.
+ 1@$% is snow forecasted this week.  1@$% What city can I give you the snow information about?  1@$% Manhattan.  1@$% It will snow on Wednesday in Manhattan.  1@$% Thanks.
+ 1@$% can you give me directions to the nearest hotel.
+ 1@$% can you give me directions to the nearest hotel.  1@$% The nearest hotel is the Four Seasons, 465 Arcadia Pl, it's 3 miles away.  1@$% Thank you.
+ 1@$% put my eye doctor appointment into the calendar it's tomorrow at 3 pm and remind me 2 hours before.
+ 1@$% put my eye doctor appointment into the calendar it's tomorrow at 3 pm and remind me 2 hours before.  1@$% Reminding you of eye doctor appointment tomorrow at 3pm, will remind at 1pm.  1@$% Thank you!
+ 1@$% put my eye doctor appointment into the calendar it's tomorrow at 3 pm and remind me 2 hours before.  1@$% Reminding you of eye doctor appointment tomorrow at 3pm, will remind at 1pm.  1@$% Thank you!  1@$% is there anything else I can do for you ?  1@$% No, thanks. 
+ 1@$% what's the weather like in new york city.
+ 1@$% what's the weather like in new york city.  1@$% What days are you inquiring about?  1@$% Will it drizzle on Tuesday?
+ 1@$% what's the weather like in new york city.  1@$% What days are you inquiring about?  1@$% Will it drizzle on Tuesday?  1@$% On Tuesday in New York there isn't any prediction for drizzle.  1@$% Awesome, thanks.
+ 1@$% Set a reminder for dinner on August 8th at 3pm with my aunt.
+ 1@$% Set a reminder for dinner on August 8th at 3pm with my aunt.  1@$% Setting reminder for dinner on August 8th at 3 pm with aunt.   1@$%  Thanks.
+ 1@$% i'm looking for some takeout chinese food.
+ 1@$% i'm looking for some takeout chinese food.  1@$% Then let's go at Mandarin Roots, 271 Springer Street.  1@$% Sounds good.
+ 1@$% Please give me an address and directions via the fastest route to a local grocery store.
+ 1@$% Please give me an address and directions via the fastest route to a local grocery store.  1@$% Trader Joes grocery store is 7 miles away at 408 University Ave, there isn't any traffic.  1@$% Sounds perfect. Set the navigation for there, thank you. 
+ 1@$% i need directions to my house and avoid all heavy traffic.
+ 1@$% i need directions to my house and avoid all heavy traffic.  1@$% Your home is 7 miles away but there is a car collision nearby, I sent on your screen the best possible route.  1@$% Thank you car!
+ 1@$% what will the weather be like tomorrow.
+ 1@$% what will the weather be like tomorrow.  1@$% For what location do you want tomorrow's forecast?   1@$% Will it drizzle in Menlo Park?
+ 1@$% what will the weather be like tomorrow.  1@$% For what location do you want tomorrow's forecast?   1@$% Will it drizzle in Menlo Park?  1@$% Yes, the weather forecast is predicting drizzle for tomorrow in Menlo Park.  1@$% Thanks.
+ 1@$% Set meeting for Saturday 11am with the boss. 
+ 1@$% Set meeting for Saturday 11am with the boss.   1@$% Okay, meeting with boss on saturday at 11 is set.  1@$% Thank you.
+ 1@$% remind me that i need to get my shot on the 12th at about 5 pm.
+ 1@$% remind me that i need to get my shot on the 12th at about 5 pm.  1@$% Reminder has been set for 5PM at the 12th.  1@$% Great. Thanks.
+ 1@$% Set a reminder for tennis with Ana at 9am on the 12th of this month.
+ 1@$% Set a reminder for tennis with Ana at 9am on the 12th of this month.  1@$% OK setting reminder of your tennis match with Ana on the 12th at 9:00 a.m.  1@$% Thank you.
+ 1@$% Please give me an address and directions by the fastest route to a rest stop nearby. 
+ 1@$% Please give me an address and directions by the fastest route to a rest stop nearby.   1@$% The Travelers Lodge is 1 miles away at 333 Arbol Dr, though there is a car collision nearby. Would you like directions there?  1@$% Yes. 
+ 1@$% Please give me an address and directions by the fastest route to a rest stop nearby.   1@$% The Travelers Lodge is 1 miles away at 333 Arbol Dr, though there is a car collision nearby. Would you like directions there?  1@$% Yes.   1@$% Travelers Lodge is located at 333 Arbol Dr.   1@$% Thank you car, let's go there!
+ 1@$% Give me the nearest coffee shop. 
+ 1@$% Give me the nearest coffee shop.   1@$% The nearest one is Peets Coffee, it's 7 miles away but there is a car collision nearby.  1@$% What's the address? I guess it will have to do. 
+ 1@$% Give me the nearest coffee shop.   1@$% The nearest one is Peets Coffee, it's 7 miles away but there is a car collision nearby.  1@$% What's the address? I guess it will have to do.   1@$% Setting directions to Peets coffee at 9981 Archuleta Ave. now.   1@$% Thank you car, please pick the quickest route!
+ 1@$% Is it gonna be warm in Menlo Park on Monday?
+ 1@$% Is it gonna be warm in Menlo Park on Monday?  1@$% The low temperature for Menlo Park on monday is 90F with a high of 100F, it will be extremely warm.  1@$% Thank you car, this sounds great!
+ 1@$% What time is my lab appointment and who is coming?
+ 1@$% What time is my lab appointment and who is coming?  1@$% Your lab appointment with Martha is at 9 am.  1@$% Thanks.
+ 1@$% show me directions to the nearest grocery store.
+ 1@$% show me directions to the nearest grocery store.  1@$% The nearest grocery store Trader Joes is 5 miles away with heavy traffic, do you still want to go?  1@$% Yes I guess. Program the address and let's get going. 
+ 1@$% show me directions to the nearest grocery store.  1@$% The nearest grocery store Trader Joes is 5 miles away with heavy traffic, do you still want to go?  1@$% Yes I guess. Program the address and let's get going.   1@$% Setting GPS now.  1@$% What's the address of the store, please? Please direct me via a quick route. 
+ 1@$% show me directions to the nearest grocery store.  1@$% The nearest grocery store Trader Joes is 5 miles away with heavy traffic, do you still want to go?  1@$% Yes I guess. Program the address and let's get going.   1@$% Setting GPS now.  1@$% What's the address of the store, please? Please direct me via a quick route.   1@$% Trader joes is at 408 University Ave. The only route i have is 5 miles through heavy traffic.  1@$% That's ok, thank you. 
+ 1@$% Please schedule a swimming activity on Sunday at 4pm with my brother.
+ 1@$% Please schedule a swimming activity on Sunday at 4pm with my brother.  1@$% Will do, your swimming activity with brother on Sunday at 4pm has been scheduled.   1@$% Thank you. 
+ 1@$% Please schedule a swimming activity on Sunday at 4pm with my brother.  1@$% Will do, your swimming activity with brother on Sunday at 4pm has been scheduled.   1@$% Thank you.   1@$% My pleasure.  1@$% That is all, thanks. 
+ 1@$% Check out the seven day forecast to see if it will be foggy in durham.
+ 1@$% Check out the seven day forecast to see if it will be foggy in durham.  1@$% It will not be foggy in Durham next week.  1@$% Thanks, this is great!
+ 1@$% what time is my meeting at.
+ 1@$% what time is my meeting at.  1@$% I have one meeting on your calendar. It is Monday at 10 am.  1@$% Thank you.
+ 1@$% what is the weather next week in new york.
+ 1@$% what is the weather next week in new york.  1@$% What days are you interested in?  1@$% Will it be windy in New York anytime this week?
+ 1@$% what is the weather next week in new york.  1@$% What days are you interested in?  1@$% Will it be windy in New York anytime this week?  1@$% It shouldn't be windy in New York this week.  1@$% Thank you!
+ 1@$% what is the weather today.
+ 1@$% what is the weather today.  1@$% What location, specifically, are you asking about?   1@$% I want to know if it is raining in Alhambra today.
+ 1@$% what is the weather today.  1@$% What location, specifically, are you asking about?   1@$% I want to know if it is raining in Alhambra today.  1@$% No raining in Alhambra today, the prediction is overcast.  1@$% Thank you!
+ 1@$% find directions to home.
+ 1@$% find directions to home.  1@$% We're 4 miles away from home and there is no traffic on our route, you should reach in few minutes.  1@$% Can you get me the address?
+ 1@$% find directions to home.  1@$% We're 4 miles away from home and there is no traffic on our route, you should reach in few minutes.  1@$% Can you get me the address?  1@$% The address to your home is 56 cadwell street.  1@$% Thanks so much for the information. 
+ 1@$% give me the weekly weather forecast.
+ 1@$% give me the weekly weather forecast.  1@$% Where are you located?  1@$% In Danville, will it be dry this week?
+ 1@$% give me the weekly weather forecast.  1@$% Where are you located?  1@$% In Danville, will it be dry this week?  1@$% Danville does not have any dry weather prediction this week.  1@$% Thank you car!
+ 1@$% Will it be misty in Brentwood today and tomorrow?
+ 1@$% Will it be misty in Brentwood today and tomorrow?  1@$% It will not be misty in Brentwood today or tomorrow.  1@$% Thank you.
+ 1@$% What is the lowest weekend temperature in oakland?
+ 1@$% What is the lowest weekend temperature in oakland?  1@$% It will be 50F Sunday in Oakland.  1@$% Thanks.
+ 1@$% Where can I get Chinese food?
+ 1@$% Where can I get Chinese food?  1@$% There is a Panda Express 5 miles away: would you like me to send you its address on the screen?  1@$% What is the address?
+ 1@$% Where can I get Chinese food?  1@$% There is a Panda Express 5 miles away: would you like me to send you its address on the screen?  1@$% What is the address?  1@$% Panda Express is located at 842 Arrowhead Way but a car collision is noted nearby. Do you still want to go there?  1@$% Yes, please, set the GPS to go there, thank you!
+ 1@$% From the two day forecast what will be the highest temperature in Manhattan?
+ 1@$% From the two day forecast what will be the highest temperature in Manhattan?  1@$% The highest temperature in Manhattan is supposed to be 60F today, and 70F tomorrow.  1@$% Thanks.
+ 1@$% when is the next cloudy day.
+ 1@$% when is the next cloudy day.  1@$% For which city would you like to know when the next cloudy day is?   1@$% San Francisco.
+ 1@$% when is the next cloudy day.  1@$% For which city would you like to know when the next cloudy day is?   1@$% San Francisco.  1@$% It will not be cloudy in San Francisco next week.  1@$% Okay, thank you!
+ 1@$% Schedule a football activity with Ana on the 6th at 7pm.
+ 1@$% Schedule a football activity with Ana on the 6th at 7pm.  1@$% Your football activity with Ana on the 6th at 7pm has been scheduled.   1@$% Thank you again.
+ 1@$% Car please find for me the quickest route to get to some coffee or tea place.
+ 1@$% Car please find for me the quickest route to get to some coffee or tea place.  1@$% There is a Palo Alto Cafe nearby.  1@$% What is the address?
+ 1@$% Car please find for me the quickest route to get to some coffee or tea place.  1@$% There is a Palo Alto Cafe nearby.  1@$% What is the address?  1@$% The address for Palo Alto Cafe is 436 Alger Dr.  1@$% Thanks set the GPS please.
+ 1@$% Car I'm desiring to eat Chinese!
+ 1@$% Car I'm desiring to eat Chinese!  1@$% Jing Jing and Chef Chu's are both near.  1@$% Which is closer?
+ 1@$% Car I'm desiring to eat Chinese!  1@$% Jing Jing and Chef Chu's are both near.  1@$% Which is closer?  1@$% Chef Chu's is 2 miles away with a road block nearby.  1@$% Please pick the best route for me and let's go there!
+ 1@$% Car I'm desiring to eat Chinese!  1@$% Jing Jing and Chef Chu's are both near.  1@$% Which is closer?  1@$% Chef Chu's is 2 miles away with a road block nearby.  1@$% Please pick the best route for me and let's go there!  1@$% There is a road block nearby but I sent on your screen another route that should allow you to reach there fast enough.  1@$% Thank you car!
+ 1@$% send me to the nearest gas station.
+ 1@$% send me to the nearest gas station.  1@$% The nearest gas station is Valero at 200 Alester Ave, 7 miles away. Setting directions now.   1@$% Where is Valero and is there any traffic on the way?
+ 1@$% send me to the nearest gas station.  1@$% The nearest gas station is Valero at 200 Alester Ave, 7 miles away. Setting directions now.   1@$% Where is Valero and is there any traffic on the way?  1@$% Valero is at 200 Alester Ave and moderate traffic is being noted.   1@$% Thank you.
+ 1@$% Is there going to be frost in Los Angeles on Tuesday? 
+ 1@$% Is there going to be frost in Los Angeles on Tuesday?   1@$% There will not be frost in Los Angeles on Tuesday.  1@$% Thank you.
+ 1@$% schedule a new meeting.
+ 1@$% schedule a new meeting.  1@$% What date and time should I schedule your meeting?  1@$% It is today at 1 pm with HR to go over the budget.
+ 1@$% schedule a new meeting.  1@$% What date and time should I schedule your meeting?  1@$% It is today at 1 pm with HR to go over the budget.  1@$% I am setting a new meeting in your calendar for today at 1 pm with HR to go over the budget.  1@$% Nothing else for now. 
+ 1@$% Will it be hot in exeter or the next few days?
+ 1@$% Will it be hot in exeter or the next few days?  1@$% It will be between 80-100F on Tuesday in Exeter.  1@$% Thanks.
+ 1@$% Will it be drizzle in Camarillo tomorrow?
+ 1@$% Will it be drizzle in Camarillo tomorrow?  1@$% It will be raining in Camarillo on Tuesday.  1@$% Thank you.
+ 1@$% Find pizza.
+ 1@$% Find pizza.  1@$% There is a Dominos and a Pizza My Heart.  1@$% Is any of them within 5 miles from our position?
+ 1@$% Find pizza.  1@$% There is a Dominos and a Pizza My Heart.  1@$% Is any of them within 5 miles from our position?  1@$% They are both within 5 miles. Dominos is 3 miles away and Pizza My Heart is 2 miles away.   1@$% Then let's go at Pizza my Heart, please pick a route with no traffic!
+ 1@$% Find pizza.  1@$% There is a Dominos and a Pizza My Heart.  1@$% Is any of them within 5 miles from our position?  1@$% They are both within 5 miles. Dominos is 3 miles away and Pizza My Heart is 2 miles away.   1@$% Then let's go at Pizza my Heart, please pick a route with no traffic!  1@$% Setting route to Pizza My Heart at 528 Anton Ct now.  1@$% Thank you car!
+ 1@$% i'm looking for a place to eat can you show me directions to the nearest fast food restaurant.
+ 1@$% i'm looking for a place to eat can you show me directions to the nearest fast food restaurant.  1@$% There is Pizza My Heart	6 miles away: is it okay for you?  1@$% Sure, let's go there, just pick a route with no traffic please.
+ 1@$% set a reminder for my conference call tomorrow.
+ 1@$% set a reminder for my conference call tomorrow.  1@$% Okay, reminder set for conference call tomorrow.  1@$% thank you.
+ 1@$% what's the forecast going to be for today and tomorrow.
+ 1@$% what's the forecast going to be for today and tomorrow.  1@$% In what city can I check today and tomorrow's forecast?  1@$% Brentwood, please: there will be any blizzard?
+ 1@$% what's the forecast going to be for today and tomorrow.  1@$% In what city can I check today and tomorrow's forecast?  1@$% Brentwood, please: there will be any blizzard?  1@$% There will be no blizzard in Brentwood next week.  1@$% thank you.
+ 1@$% Will it be misty on Friday in Exeter?
+ 1@$% Will it be misty on Friday in Exeter?  1@$% It will not be misty on Friday in Exeter.  1@$% Thanks.
+ 1@$% give me directions to the nearest place where i can have a cup of tea.
+ 1@$% give me directions to the nearest place where i can have a cup of tea.  1@$% You are two miles away from Starbucks, would you like to get its address?  1@$% Yes, please, and also pick the fastest route for me!
+ 1@$% give me directions to the nearest place where i can have a cup of tea.  1@$% You are two miles away from Starbucks, would you like to get its address?  1@$% Yes, please, and also pick the fastest route for me!  1@$% Then we're going at 792 Bedoin Street, no traffic on our way, enjoy the trip!  1@$% Thanks!
+ 1@$% What will be the highest temperature in downtown chicago on tuesday?
+ 1@$% What will be the highest temperature in downtown chicago on tuesday?  1@$% On tuesday the highest temperature in downtown chicago is 70F.  1@$% Thanks.
+ 1@$% what is the forecast for the city this week.
+ 1@$% what is the forecast for the city this week.  1@$% What city do you need the forecast for?  1@$% Can you tell me if it will be cloudy in San Francisco this week?
+ 1@$% what is the forecast for the city this week.  1@$% What city do you need the forecast for?  1@$% Can you tell me if it will be cloudy in San Francisco this week?  1@$% It will not be cloudy in San Francisco this week.  1@$% great, thank you.
+ 1@$% Where does my friend live?
+ 1@$% Where does my friend live?  1@$% 347 Alta Mesa Ave. is the address.  1@$% Thank you.
+ 1@$% Where does my friend live?  1@$% 347 Alta Mesa Ave. is the address.  1@$% Thank you.  1@$% Anything else?  1@$% How far away am I now from the house?
+ 1@$% Where does my friend live?  1@$% 347 Alta Mesa Ave. is the address.  1@$% Thank you.  1@$% Anything else?  1@$% How far away am I now from the house?  1@$% You're 3 miles away.  1@$% Thanks!
+ 1@$% set date for a meeting.
+ 1@$% set date for a meeting.  1@$% what is the date and time for the meeting ?  1@$% August 3rd at 11AM.
+ 1@$% set date for a meeting.  1@$% what is the date and time for the meeting ?  1@$% August 3rd at 11AM.  1@$% Meeting has been set on August 3rd  at 11 AM.   1@$% Thanks.
+ 1@$% tell me when my dinner reservations are scheduled for.
+ 1@$% tell me when my dinner reservations are scheduled for.  1@$% Your dinner reservations are set for Monday at 5pm.   1@$% Alright, thanks.
+ 1@$% Will San Jose be hot any time this week?
+ 1@$% Will San Jose be hot any time this week?  1@$% San Jose will be hot on Monday, Thursday and Saturday.  1@$% Thanks.
+ 1@$% I wanna go to my friends' house, it should be nearby, can you show me their position on the map?
+ 1@$% I wanna go to my friends' house, it should be nearby, can you show me their position on the map?  1@$% Jack lives at 864 Almanor Ln, it is shown on the map.  1@$% Thanks.
+ 1@$% what's the weather like.
+ 1@$% what's the weather like.  1@$% For which day and city would you like to know the weather?  1@$% The current weather in San Mateo.
+ 1@$% what's the weather like.  1@$% For which day and city would you like to know the weather?  1@$% The current weather in San Mateo.  1@$% Currently in San Mateo it is cloudy with a low of 30F and a high of 40F.  1@$% Thanks.
+ 1@$% What is the date and time of my next football activity?
+ 1@$% What is the date and time of my next football activity?  1@$% Your next football activity is on Friday at 1pm.  1@$% Thank you kindly. 
+ 1@$% put my optometrist appointment in my calendar.
+ 1@$% put my optometrist appointment in my calendar.  1@$% What date and time is your optometrist appointment at?  1@$% My optometrist appointment is at 10am on Sunday. 
+ 1@$% i'm looking for some takeout chinese food.
+ 1@$% i'm looking for some takeout chinese food.  1@$% The nearest chinese restaurant is 2 miles away, though there is a road block nearby. Would you like directions there?  1@$% Yes where is it?
+ 1@$% i'm looking for some takeout chinese food.  1@$% The nearest chinese restaurant is 2 miles away, though there is a road block nearby. Would you like directions there?  1@$% Yes where is it?  1@$% Jing Jing is located at 113 Arbol Dr. Setting navigation now.   1@$% Please direct me via the route that avoids all heavy traffic.
+ 1@$% i'm looking for some takeout chinese food.  1@$% The nearest chinese restaurant is 2 miles away, though there is a road block nearby. Would you like directions there?  1@$% Yes where is it?  1@$% Jing Jing is located at 113 Arbol Dr. Setting navigation now.   1@$% Please direct me via the route that avoids all heavy traffic.  1@$% Avoiding heavy traffic on the way to Jing Jing.  1@$% Thank you car!
+ 1@$% Is it misty in Oakland now?
+ 1@$% Is it misty in Oakland now?  1@$% There is drizzle but no mist in Oakland now.   1@$% Thank you.
+ 1@$% is it raining next week.
+ 1@$% is it raining next week.  1@$% Which city do you want to know if it's gonna rain next week?  1@$% San Francisco.
+ 1@$% is it raining next week.  1@$% Which city do you want to know if it's gonna rain next week?  1@$% San Francisco.  1@$% It's gonna rain in San Francisco on Tuesday and Sunday.  1@$% Okay, thank you car!
+ 1@$% give me directions to the nearest starbucks.
+ 1@$% give me directions to the nearest starbucks.  1@$% There is no Starbucks in the area, I'm sorry.   1@$% Are there any other coffee shops with the least traffic?
+ 1@$% give me directions to the nearest starbucks.  1@$% There is no Starbucks in the area, I'm sorry.   1@$% Are there any other coffee shops with the least traffic?  1@$% Cafe Venetia located at 269 Alger Dr is 4 miles away without any traffic.  1@$% Please direct me there, thank you.
+ 1@$% give me directions to the nearest starbucks.  1@$% There is no Starbucks in the area, I'm sorry.   1@$% Are there any other coffee shops with the least traffic?  1@$% Cafe Venetia located at 269 Alger Dr is 4 miles away without any traffic.  1@$% Please direct me there, thank you.  1@$% Navigating to 269 Alger Dr now.  1@$% Thanks car!
+ 1@$% give me a quick route to a grocery store.
+ 1@$% give me a quick route to a grocery store.  1@$% We are 1 miles away from Safeway with no traffic on our way and 1 miles away from Trader Joes with moderate traffic: where would you like to go?  1@$% Yes, what is the address?
+ 1@$% give me a quick route to a grocery store.  1@$% We are 1 miles away from Safeway with no traffic on our way and 1 miles away from Trader Joes with moderate traffic: where would you like to go?  1@$% Yes, what is the address?  1@$% Sorry, I didn't understand which address would you like me to give you. Would you prefer to go at Safeway or at Trader Joes?  1@$% I want the quickest one available please. 
+ 1@$% give me a quick route to a grocery store.  1@$% We are 1 miles away from Safeway with no traffic on our way and 1 miles away from Trader Joes with moderate traffic: where would you like to go?  1@$% Yes, what is the address?  1@$% Sorry, I didn't understand which address would you like me to give you. Would you prefer to go at Safeway or at Trader Joes?  1@$% I want the quickest one available please.   1@$% Then let's go at Safeway, better if you get some coffee, the address is 452 Arcadia Pl.  1@$% Thank you car!
+ 1@$% what's the temperature in city.
+ 1@$% what's the temperature in city.  1@$% What city would you like to know the temperature about?  1@$% Redwood city, what is the temperature for this week?
+ 1@$% what's the temperature in city.  1@$% What city would you like to know the temperature about?  1@$% Redwood city, what is the temperature for this week?  1@$% The temperature range for next week goes from lows in the 20s to highs in the 100s for Redwood City.   1@$% Thank you.
+ 1@$% Set a reminder for yoga activity at 11 am on the 4th with Martha.
+ 1@$% Set a reminder for yoga activity at 11 am on the 4th with Martha.  1@$% Setting reminder for yoga activity at 11 am on the 4th with Martha.  1@$% Okay, thanks.
+ 1@$% I'm looking for a place to shop for clothes that is around me. Can you find such a place?
+ 1@$% I'm looking for a place to shop for clothes that is around me. Can you find such a place?  1@$% Yes Ravenswood Shopping Center is 3 miles away. Do you want the address?  1@$% Oh yes that sounds great. 
+ 1@$% I'm looking for a place to shop for clothes that is around me. Can you find such a place?  1@$% Yes Ravenswood Shopping Center is 3 miles away. Do you want the address?  1@$% Oh yes that sounds great.   1@$% Ravenswood is located at 434 Arastradero Rd. Do you want me to set the GPS?  1@$% Sure, thanks!
+ 1@$% I need a gas station.
+ 1@$% I need a gas station.  1@$% I have one gas station listed. Want more info?  1@$% What is the address?
+ 1@$% I need a gas station.  1@$% I have one gas station listed. Want more info?  1@$% What is the address?  1@$% 76 is at 91 El Camino Real.  1@$% Thank you!
+ 1@$% Where can I go shopping?
+ 1@$% Where can I go shopping?  1@$% There is two shopping center, Town and Country and Stanford Shopping Center. Do you have a preference?  1@$% Which is closer?
+ 1@$% Where can I go shopping?  1@$% There is two shopping center, Town and Country and Stanford Shopping Center. Do you have a preference?  1@$% Which is closer?  1@$% Town and Country is closer.  1@$% Then pick the route through the shortest distance and let's go there, thank you!
+ 1@$% is it snowing out.
+ 1@$% is it snowing out.  1@$% What city would you like to know if it is snowing in?  1@$% Check to see if it'll be snowing in Boston during the week.
+ 1@$% is it snowing out.  1@$% What city would you like to know if it is snowing in?  1@$% Check to see if it'll be snowing in Boston during the week.  1@$% It might snow on Sunday, do you need to know anything else?  1@$% Nope, thanks.
+ 1@$% Schedule dinner with Martha on the 15th of this month at 10am.
+ 1@$% Schedule dinner with Martha on the 15th of this month at 10am.  1@$% Reminder for dinner on the 15th at 10am with martha is set.  1@$% Thanks!

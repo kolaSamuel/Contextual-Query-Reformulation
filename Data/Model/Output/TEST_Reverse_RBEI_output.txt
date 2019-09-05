@@ -1,0 +1,784 @@
+remind me to event_1.
+remind me to event_1 at time_1.
+what poi_type_1 are here?
+that's good! please pick the distance_1 route to get to the poi_type_1 poi_1 and traffic_info_1!
+what is the address of the poi_type_1 poi_1?
+perfect. thank you.
+set reminder for event_1 at 11am with party_1 on date_1.
+thank you, we are done for now.
+show me the weather for the date_1.
+will it be weather_attribute_1 the date_1 in location_1?
+thanks.
+where does my poi_type_1 live?
+ok set the gps for poi_1 at address_1. thanks.
+remind me to event_1 on the date_1.
+remind me to event_1 on the date_1 at time_1.
+thanks.
+give me weather weather_attribute_1 for date_1.
+give me weather weather_attribute_1 for date_1 in location_1.
+thanks.
+which weather_attribute_1 there will be in location_1 on date_1?
+thanks!
+what is the weather like in the city.
+what is the weather like in location_1.
+will there be a weather_attribute_1 in location_1?
+thanks.
+what's the weather like in location_1.
+what's the weather like date_1 in location_1.
+thanks.
+is it weather_attribute_1 in location_1 date_1?
+thanks.
+i need the distance_1 poi_type_1.
+yes, please give me directions to the poi_type_1 poi_1 distance_1 at address_1 via the traffic_info_1.
+thank you car!
+info about event_1 please.
+thanks, that's all.
+what are the directions to the distance_1 poi_type_1.
+thank you.
+take me to the distance_1 poi_1.
+yes.
+thank you car, pick a route to the poi_1 poi_2 distance_1 address_1 with traffic_info_1 and let's go to the poi_1 poi_2 distance_1 address_1!
+where is the distance_1 poi_1 with traffic_info_1?
+yes please set the gps for the poi_1 poi_2 distance_1 at address_1 with traffic_info_1.
+thank you.
+is it date_1 weather_attribute_1 in location_1?
+thank you car!
+is it going to be weather_attribute_1 date_1.
+is it going to be weather_attribute_1 date_1 in location_1.
+thanks car, that works.
+check weather for location_1 city.
+i need date_1 weather data about location_1, specifically information about the weather_attribute_1.
+awesome.
+what's the weather_attribute_1 going to be like date_1.
+what's the weather_attribute_1 going to be like date_1 in location_1.
+thank you very much car!
+set a reminder for me to event_1 at time_1 on date_1 with by party_1.
+thank you.
+i need to know my event_1 agenda, date and who is attending.
+great, and who all will be at the event_1 date_1 with the party_1 to agenda_1?
+thanks.
+thank you.
+where does my poi_type_1 live?
+thanks.
+get me directions to the nearest poi_1.
+any poi_type_1 shops distance_1?
+ok, please give me the directions to the poi_type_1 poi_1 distance_1 at address_1 with traffic_info_1 via the traffic_info_2.
+great, thank you.
+where can i find a poi_type_1?
+is the route to the poi_type_1 poi_1 at address_1 the distance_1 to a poi_type_1?
+ok thanks for the notification.
+give me directions to the distance_1 poi_type_1.
+thanks.
+will there be weather_attribute_1 in location_1 on date_1?
+thank you.
+directions to the poi_type_1.
+ok, please give me directions to the poi_type_1 poi_1 distance_1 at address_1 with a traffic_info_1 via the traffic_info_2.
+ok, thank you.
+what time is my next event_1 event and who will be attending?
+that will do, thanks.
+is there a chance of weather_attribute_1 in this weeks weather forecast.
+is there a chance of weather_attribute_1 in this weeks weather forecast for location_1.
+thank you!
+what is the date_1 weather_attribute_1.
+what is the date_1 weather_attribute_1 in location_1.
+okay, thank you.
+will there be weather_attribute_1 skies in location_1 on date_1?
+thanks.
+find me a poi_type_1 somewhere distance_1.
+can you send me the traffic_info_1 to go to the poi_1 poi_type_1 distance_1 at address_1?
+thank you.
+what is the weather going to be like date_2 and date_1.
+what is the weather going to be like date_2 and date_1 in location_1.
+awesome, thanks.
+what's the weather forecast.
+find out if there is weather_attribute_1 outside date_1, for location_1 please.
+thank you!
+will it weather_attribute_1 date_1.
+will it weather_attribute_1 date_1 in location_1.
+thank you car!
+find the address to a poi_type_1 or clinic.
+thank you.
+remind me to event_1 on sunday.
+remind me to event_1 on sunday at time_1.
+thank you.
+schedule a event_1 at time_1 next month on date_1.
+can you confirm you set the event_1 at time_1 on date_1 for next month on date_1?
+where is the distance_1 poi_type_1?
+how's the traffic to the poi_type_1 poi_1 distance_1 at address_1?
+sounds good, let's get going to the poi_type_1 poi_1 distance_1 at address_1 with traffic_info_1.
+thanks for the help.
+will you find me the traffic_info_1 to a poi_type_1.
+pick the traffic_info_1 to the poi_type_1 poi_1 distance_1 at address_1 please, thank you car!
+thank you car!
+who's showing up for event_1, and what's the date on that?
+what time will party_2 and party_1 be at the event_1?
+thank you assistant!
+what's the forecast report.
+tell me if it will be weather_attribute_1 on date_1 in location_1, please.
+thank you.
+will it weather_attribute_1 in location_1 during date_1?
+thank you very much!
+check my agenda for my meetings.
+okay, i want to find out what time my event_1 to agenda_1 is and where the event_1 to agenda_1 and what day the event_1 to agenda_1 please.
+perfect, thank you.
+will it be weather_attribute_1 in location_1 date_1?
+okay, thanks.
+when am i going swimming?
+thank you kindly.
+is it going to weather_attribute_1 date_1.
+is it going to weather_attribute_1 date_1 in location_1?
+thank you car!
+navigate poi_1.
+is that route to poi_1 distance_1 at address_1 avoiding heavy traffic?
+that is ok.
+schedule a event_1 with party_1 on date_1 at time_1.
+thank you.
+find the distance_1 poi_type_1.
+yes sounds great.
+set my gps to the poi_type_1 poi_1 distance_1 at address_1 with traffic_info_1 for the distance_2 please.
+thank you car!
+what is a distance_1 poi_1?
+please direct me to poi_1 distance_1 via the distance_2.
+thank you car!
+will the weather be weather_attribute_1 date_1.
+will the weather be weather_attribute_1 date_1 in location_1.
+thanks.
+where is there a poi_type_1?
+what is the quickest route to the parking poi_1 garage distance_1 at address_1?
+okay perfect, thanks!
+what time is my event_1 and who is going with me?
+okay perfect, thank you!
+assistant schedule an appointment at the event_1, time_1 of the date_1. bring party_1 with me.
+thank you!
+set a reminder for my event_1.
+set a reminder for my event_1 at time_1 on date_1.
+perfect. nothing else for now.
+where can i get poi_type_1?
+which poi_type_1, either the poi_type_1 poi_2 distance_2 or the poi_type_1 poi_1 distance_1, is the distance_3, is there any traffic_info_1 to either the poi_type_1 poi_2 distance_2 or the poi_type_1 poi_1 distance_1?
+yes poi_type_1 poi_1 distance_1 with traffic_info_1 please.
+ok can you tell me the address of the poi_type_1 poi_1 distance_1 please?
+thanks for all the help.
+i need a reminder for event_1.
+set my reminder for event_1 at time_1, for the date_1 of this month with my beloved party_1.
+thanks.
+is it gon na be any weather_attribute_1 on date_1 in location_1?
+thank you.
+is it gon na be weather_attribute_1 in location_1 on date_1?
+thanks.
+give me directions to the local poi_1.
+yes, please! which one is the address_1 of the poi_type_1? there is any distance_1 to the poi_type_1 available?
+perfect!
+what's the weather_attribute_1 going to be in location_1 date_1?
+thank you.
+i need a route to the poi_type_1 with traffic_info_1.
+what does the traffic to the distance_1 poi_1 poi_type_1 look like?
+ouch, patience, please pick the route to the distance_1 poi_1 poi_type_1 with traffic_info_1 and let's go to the distance_1 poi_1 poi_type_1, thank you!
+thank you car!
+find out the date and parties attending for my event_1.
+thanks for the info.
+find a poi_type_1.
+sounds great, let's go to the poi_type_1 poi_1 distance_1 at address_1.
+thank you.
+can you give me the weather date_1 for location_1.
+then no clear skies for me, i'm sad.. thank you car!
+i need the distance_1 route to a pizza restaurant near me.
+pick the distance_2 route to the pizza restaurant poi_1 distance_1 at address_1 and let's go to the pizza restaurant poi_1 distance_1 at address_1 please.
+where are there poi_type_1 around?
+where are there poi_type_2 around, either the poi_type_1 poi_2 or the poi_type_1 poi_1, whichever is the distance_1 to get to.
+what is the address of the poi_type_1 poi_1?
+thank you.
+will it be weather_attribute_1 in location_1 on date_1?
+thank you.
+what is the poi_type_1 with the distance_1 route nearby?
+what is the address of the poi_type_1 poi_1 distance_1?
+is there a distance_1 to reach the poi_type_1 poi_1 distance_2 at address_1 with a traffic_info_1?
+thank you car!
+have a good day.
+check the weather forecast.
+i want to know if it will be weather_attribute_1 in location_1 over the date_1.
+thank you car!
+please give me the address and directions via a route with traffic_info_1 to the distance_1 poi_type_1.
+yes, let's go to the poi_type_1 poi_1 distance_1 at address_1 with traffic_info_1, thank you!
+date_1 will it be weather_attribute_1 in location_1?
+thank you car!
+find location and address to poi_1 that is nearest me.
+thanks, set the gps for poi_1 at address_1.
+please give me the address and directions via a route that traffic_info_1 to a poi_type_1 distance_1.
+thank you very much car!
+set an event_1 date_1.
+set an event_1 date_2 date_1 at time_1.
+thanks.
+i need to find out the parties attending and the date for my event_1, thanks.
+great, thank you so much!
+thank you.
+find me the distance_1 poi_type_1.
+please pick the quickest route to get to the poi_type_1 distance_1, thank you!
+display address of the poi_type_1 poi_1 distance_1 on screen please.
+thanks for the information.
+what is the weather forecast in location_1 for date_1?
+thanks.
+set me a reminder for event_1 activity at time_1, this month on the date_1, with party_1.
+thanks buddy.
+need the distance_1 to poi_1.
+could you confirm the address of poi_1 distance_1 for me please?
+thank you.
+is it going to be weather_attribute_1 date_1 in location_1?
+i was asking about location_1 not seattle, do you have information for location_1, too?
+thank you so much for the information.
+schedule a event_1 with my party_1 for the date_1 at time_1.
+great, thank you.
+where is the distance_1 poi_type_1?
+please pick the traffic_info_1 to go to the poi_1 poi_type_1 distance_1 and send me the info on screen, thanks!
+thanks!
+what is the date and location for my event_1 and who is attending?
+what is the date and location for my event_1 at time_1 and who is attending the event_1 at time_1?
+thanks!
+will it be weather_attribute_1 in location_1 on date_1?
+thanks.
+schedule a event_1 on the date_1 at time_1. party_1 will be joining you.
+thanks!
+i need a poi_type_1 distance_1 radius.
+what is the address of the poi_type_1 poi_1 distance_1?
+set gps for distance_1 route to the poi_type_1 poi_1 distance_2 at 333 arbol dr.
+thanks!
+what date is my event_1 and who is attending?
+thank you, that was helpful.
+what is the date of my event_1 and who will be attending it?
+thank you.
+set an appointment for event_1.
+set an appointment for event_1 at time_1 on date_1.
+schedule event_1 with party_1 at 5pm date_1.
+thank you!
+is the weather weather_attribute_1 date_1.
+is the weather weather_attribute_1 date_1 in location_1.
+thanks.
+give me the location for the distance_1 poi_1.
+yes please.
+okay thank you.
+please set the gps to the poi_type_1 poi_1 distance_1 at address_1 to avoid all heavy traffic and let's go to the poi_type_1 poi_1 distance_1 at address_1, thank you!
+find directions to the distance_1 poi_1.
+let's go at poi_1 distance_2 please, send the address of poi_1 distance_2 on my screen and pich the distance_1 to poi_1 distance_2.
+yes. set gps for the distance_1 to poi_1 distance_2 at address_1 now.
+thanks.
+is it supposed to weather_attribute_1 date_1.
+is it supposed to weather_attribute_1 date_1 in location_1.
+thank you so much.
+give me directions to a poi_type_1.
+yes, please, pick a quick route to the poi_type_1 poi_1 distance_1!
+thanks.
+i'm desiring to eat at some poi_type_1, is there anything in this distance_1?
+yes, please, and pick a route to the poi_type_1 p.f. changs distance_1 to traffic_info_1.
+what is the address of the poi_type_1 poi_1 distance_1?
+sounds good, set the navigation to the poi_type_1 poi_1 distance_1 at address_1 please.
+which days are weather_attribute_1 forecasted.
+tell me if it is weather_attribute_1 in location_1 right date_1.
+thanks.
+schedule a event_1 at time_1 on the tenth with party_1.
+thank you.
+please set a reminder to event_1 at time_1 tuesday with party_1.
+thanks.
+i need poi_type_1.
+what is the address of the poi_type_1 poi_1 distance_1?
+can i have some route to the poi_type_1 poi_1 distance_1 at address_1 details? i would like to traffic_info_1 to the poi_type_1 poi_1 distance_1 at address_1.
+it's okay, thank you car!
+find me a poi_type_1.
+are there any other gas stations, besides the poi_type_1 poi_1 distance_1, that will take distance_2?
+ok send me the address of the poi_type_1 poi_1 distance_1 please.
+thank you.
+great!
+are there any poi_type_1 distance_1?
+which poi_type_1, either the poi_type_1 poi_2 distance_2 or the poi_type_1 poi_1 distance_1, has the distance_3 route?
+what is the address of the poi_type_1 poi_1 distance_1?
+distance_1 will it take to get to the poi_type_1 poi_1 distance_2 at address_1?
+thank you.
+where is the distance_1 poi_type_1 that we can traffic_info_1?
+yes sounds great.
+give me the location for the distance_1 poi_1.
+sure, just pick the distance_2 to poi_1 distance_1 for me, thanks!
+remind me to go event_1 at 4:50
+remind me to go event_1 at time_1 the date_1.
+thanks.
+please tell me the location, time and parties that are attending my event_1.
+great, thank you so much!
+that is all, thanks!
+what's the date_1 weather in location_1?
+okay thanks.
+what time is the doctors appointment and who is attending?
+what time is the doctors appointment on date_1 with party_1 and who is attending the doctors appointment on date_1 with party_1?
+set a reminder for the event_1.
+set a reminder for the event_1 on date_1 at time_1.
+set a reminder for the event_1 on date_1 at time_1 with the party_1.
+thanks.
+car, find out the time and parties attending for my event_1.
+thanks.
+what's the weather_attribute_1 going to be like on date_1.
+what's the weather_attribute_1 going to be like on date_1 in location_1?
+and what's the weather_attribute_1 going to be like on date_1 in location_1?
+thank you.
+take me to my poi_1.
+what about the address of my address_1.
+thanks for the help.
+what's the weather_attribute_1 going to be date_1.
+what's the weather_attribute_1 going to be date_1 in location_1.
+thanks!
+how is gon na be the weather forecast in location_1 for the date_1?
+okay, thank you.
+what's the weather_attribute_1 going to be like date_1.
+what's the weather_attribute_1 going to be like date_1 in location_1.
+thanks!
+please check the weather for date_1.
+will it be weather_attribute_1 date_1 in location_1?
+thank you!
+schedule a event_1 with the party_1 for date_1 at time_1.
+great, thanks.
+schedule a event_1 with martha for date_1 at time_1.
+thanks.
+will it be weather_attribute_1 in location_1 in the date_1?
+thanks.
+where is a distance_1 poi_type_1?
+yes, please give me directions to the poi_type_1 poi_1 distance_1 at address_1 via the fastest route.
+thank you.
+hi car i would like to schedule a reminder for my event_1 activity at time_1 on the tenth with party_1.
+perfect, thank you!
+what is the address of my poi_type_1?
+get me the address to my poi_type_1 distance_1 my current location.
+set the gps for the quickest route to my friend poi_1 at address_1 possible.
+thanks!
+where can i go poi_type_1?
+sounds amazing. set the gps to go to the poi_1 poi_type_1 distance_1 with traffic_info_1.
+thanks!
+i need to find out some info for my event_1, the date and time please.
+that will do, thanks.
+get me directions to the poi_type_1.
+let's go at the poi_type_1 poi_1 distance_1 and pick a route to the poi_type_1 poi_1 distance_1 with traffic_info_1 please!
+what's the address of the poi_type_1 poi_1 distance_1?
+thanks so much for all your help.
+is there a poi_type_1 distance_1 of me?
+ok, please give me directions to the poi_type_1 poi_1 distance_1 at address_1 via the route with traffic_info_1.
+thank you.
+find out if it's supposed to weather_attribute_1.
+find out if it's supposed to weather_attribute_1 in location_1.
+thank you.
+show me the distance_1 poi_type_1.
+does poi_1 have traffic_info_1 distance_1?
+does poi_type_1 poi_1 have traffic_info_1 distance_1?
+any other poi_1's with traffic_info_1 besides the poi_type_1 poi_2 with traffic_info_2?
+yes, please give me the address of the poi_type_1 poi_1 distance_1.
+quickly reboot your system car and then send me the address of the poi_type_1 poi_1 distance_1, thank you!
+i need a poi_type_1 distance_1.
+is there a traffic_info_1 to reach the poi_type_1 poi_1 distance_1 at address_1?
+thanks!
+find me a poi_type_1 that is distance_1 my location.
+please pick a distance_2 route to go to the poi_type_1 poi_1 distance_1.
+thanks!   what is the address of the poi_type_1 poi_1 distance_1?
+ok set the gps for the poi_type_1 poi_1 distance_1 at address_1 please. thanks for the help.
+where can i buy poi_type_1?
+what is the address of the poi_type_1 poi_1 distance_1?
+ouch, this sounds awful.. but patience, please set the gps to go to the poi_type_1 poi_1 distance_1 at address_1 with a traffic_info_1.
+thank you car!
+what's the weather_attribute_1 going to be date_1.
+what's the weather_attribute_1 going to be date_1 in location_1.
+thanks.
+what is the weather going to be like date_2 and date_1.
+will it be weather_attribute_1 date_2 and date_1 in location_1?
+thank you.
+does the forecast call for weather_attribute_1 date_1.
+does the forecast call for weather_attribute_1 date_1 in location_1.
+thanks.
+get me directions to the distance_1 poi_1.
+then let's go to the poi_type_1 poi_1 distance_1 car! please send me the address of the poi_type_1 poi_1 distance_1 on screen and pick the distance_2 route to the poi_type_1 poi_1 distance_1 for me.
+thanks so much for the information.
+is it gon na be weather_attribute_1 in location_1 in date_1?
+the date_1 please.
+thanks.
+which one is gon na be the weather_attribute_1 in location_1 date_1?
+thank you.
+schedule a event_1 with party_1 on the date_1 of this month at time_1.
+thank you.
+take me to the mall to buy some clothes.
+yes.
+i wish to find a route to the poi_1 poi_type_1 distance_1 at address_1 with traffic_info_1 but it's okay, please send the info on the gps, thanks!
+thank you car!
+i need the address to my friend's house please.
+could you please send on my screen the fastest route to get to my friend poi_1 at address_1?
+will do, thank you.
+find me a poi_1.
+is there an alternate route to the poi_2 poi_1 distance_1 at address_1, and is this the traffic_info_1 to the poi_2 poi_1 distance_1 at address_1?
+thank you.
+when is the event_1.
+thank you.
+what's the weather_attribute_1 going to be for date_1.
+what's the weather_attribute_1 going to be for date_1 in location_1.
+thank you car.
+where do i live?
+poi_1 at address_1 should be nearby, please pick a quick route to get to poi_1 at address_1.
+thanks!
+get me directions to a distance_1 poi_type_1.
+yes.
+thanks can you provide the address of the poi_type_1 poi_1 distance_2 and is this the distance_1 to the poi_type_1 poi_1 distance_2?
+car please give me the address of a good poi_type_1 in the distance_1.
+nice, what's the address of the poi_type_1 poi_1 distance_1?
+set gps for distance_1 to the poi_type_1 poi_1 distance_2 at address_1 now.
+find the distance_1 poi_type_1 on the map.
+let's go to the poi_type_1 poi_1 2 miles farther with traffic_info_1 then.
+okay, thanks.
+where can i get poi_type_1?
+okay, tell me the traffic_info_1 to the poi_type_1 poi_1 distance_1.
+sounds great, set the navigation for the poi_type_1 poi_1 distance_1 at address_1 with traffic_info_1.
+i want poi_type_1.
+yes, what is the address of the poi_1 distance_1?
+thanks!
+take me to a place where i can get some poi_type_1.
+how's the traffic to the distance_1 poi_type_1 poi_1?
+give me the address of the distance_1 poi_type_1 poi_1.
+is there an alternate route to the poi_type_1 poi_1 at address_1 with traffic_info_1?
+it sounds great! thank you car, let's navigate to poi_1 1 mile away with traffic_info_1 please!
+directions to distance_1 poi_type_1.
+is there another poi_type_2, besides the poi_type_1 poi_1 distance_1, that situated on a traffic_info_1?
+ok thank you.
+when is the next weather_attribute_1 day.
+will it be weather_attribute_1 on date_1 in location_1, please?
+thank you.
+what's the weather forecast for date_1.
+will it be weather_attribute_1 in location_1 date_1?
+thank you!
+are there weather_attribute_1 in the forecast date_1.
+are there weather_attribute_1 in the forecast date_1 in location_1.
+thanks.
+distance_1 coffee.
+is there any available?
+please direct me to the poi_type_1 poi_1 distance_1 at address_1 via the distance_2 distance.
+thank you car!
+schedule event_1 with party_1 on the date_1 time_1.
+thanks.
+is it going to be weather_attribute_1 in location_1 date_1?
+thank you car!
+please let me know the weather forecast for date_1.
+please let me know the weather forecast for date_1 in location_1.
+thank you.
+please give me information about my event_1.
+thanks.
+what time is my event_1 date_1 and what is the agenda.
+thanks.
+thanks again.
+is there weather_attribute_1 in the forecast for the date_1.
+is there weather_attribute_1 in the forecast for the date_1 in location_1.
+thanks.
+when's the event_1 and who's attending?
+thanks.
+set a reminder for a event_1 at time_1, on date_1, with party_1.
+thanks for your help.
+please give the directions to a distance_1 poi_type_1.
+and how is the traffic to the poi_type_1 poi_1 distance_1?
+could you give me the address of the poi_type_1 poi_1 distance_2 and directions to the poi_type_1 poi_1 distance_2 via a distance_1 route?
+okay thank you.
+set event_1 for the date_1.
+set event_1 for the date_1 at time_1.
+give me directions to the distance_1 shopping mall.
+is the route to the poi_type_1 poi_1 distance_1 the distance_2?
+give me the address of the poi_type_1 poi_1 distance_1.
+thanks.
+what time is my doctor apartment and who is it with?
+what time is my event_1 on date_1 and who is my event_1 on date_1 with?
+what time is my event_1 on the date_1 and who is my event_1 on the date_1 with?
+very good, thank you.
+car what is the weather_attribute_1 going to be date_2 and date_1.
+car what is the weather_attribute_1 going to be date_2 and date_1 in location_1.
+thanks.
+where can i get poi_type_1?
+is the route to the poi_type_1 poi_1 distance_1 the shortest route to a poi_type_1 available?
+yes please. thanks.
+is it going to weather_attribute_1 date_1.
+is it going to weather_attribute_1 date_1 in location_1.
+thank you car!
+what day is the event_1 and who will be attending?
+thanks!
+what time is my event_1 and who will be attending?
+thanks!
+great.
+what is a good poi_type_1?
+what is a good distance_1 poi_type_1?
+is that the distance_1 option?
+okay great, please set the navigation to take me to the poi_type_1 poi_1 distance_1.
+thank you car!
+what is the date and time of my next event_1 and who will be attending it?
+thank you.
+check date_1's forecast for weather_attribute_1.
+check date_1's forecast for weather_attribute_1 in location_1.
+thank you.
+i need to find out the date and time for my event_1!
+thanks!
+search date_1's weather_attribute_1.
+will it be weather_attribute_1 in location_1 date_1?
+thank you.
+what's the weather forecast for date_2 and date_1.
+what's the weather forecast for date_2 and date_1 in location_1.
+thanks.
+what's the weather like in location_1.
+i would like to know the weather for date_1 in location_1.
+thank you.
+thanks again!
+what is the weather like in location_1.
+what is the weather like date_1 in location_1.
+thank you.
+is it raining date_1.
+is it raining date_1 in location_1.
+thank you.
+remind me about my event_1.
+my event_1 is at time_1 on monday the 1st.
+ok, thanks.
+please give me the address and directions to poi_1 within 5 miles of here, traffic_info_1.
+ok that will do. thank you.
+is it weather_attribute_1 in location_1 date_1?
+but it's not weather_attribute_1 date_1 in location_1?
+thank you.
+take me to the poi_type_1 to buy some clothes.
+i am guessing the poi_type_2 ravenswood poi_type_1 distance_1 with a traffic_info_1 would be faster. let's go to the poi_type_2 ravenswood poi_type_1 distance_1.
+thank you very much car!
+what is the date and time for my event_1?
+thank you.
+navigate poi_1.
+okay, thank you.
+[ end conversation]
+i'm in the mood for some poi_type_2 can you show me directions to the distance_1 poi_type_1.
+hope the poi_type_1 poi_1 does n't have traffic_info_1.
+what is the address of the poi_type_1 poi_1 distance_1?
+thank you very much car!
+give me directions to the distance_1 poi_type_1.
+yes please that sounds perfect.
+that will be all, thanks.
+remind me about event_1 at time_1 at the date_1 with party_1.
+just set event_1 at time_1 with party_1 for the date_1.
+thanks.
+please give me the address and directions via the distance_1 distance to the nearest poi_type_1.
+yes, please show me the route to the poi_type_1 poi_1 distance_1 at address_1 with the distance_2 distance, thank you!
+thank you car!
+give me a location to a local poi_type_1.
+yes and please provide a distance_2 route to get to the poi_type_1 distance_1.
+please pick the distance_1 to the poi_type_1 poi_1 distance_2, thank you!
+what is the forecast for the date_1.
+will it be weather_attribute_1 the date_1 in location_1?
+thank you.
+show me directions to the distance_1 poi_1.
+pick the distance_1 to the poi_1 distance_2 at address_1 and with the traffic_info_1 traffic, then send the address of the poi_1 distance_2 at address_1 on my screen please.
+hope you picked the distance_1 to the poi_2 poi_1 distance_2 at address_1 or no more gasoline for you, car.. just kidding, thank you!
+schedule a event_1 with the party_1 for the date_1 of this month at time_1.
+thanks.
+find me the traffic_info_1 to the poi_type_1.
+ok, please give me the address of the poi_type_1 poi_1 distance_1 and directions to the poi_type_1 poi_1 distance_1 via the traffic_info_1.
+thank you.
+give me the forecast for the date_1.
+give me the forecast for the date_1 in location_1.
+okay, thank you car!
+give me directions to the closest poi_type_1.
+i need directions to the closest poi_type_1, either the poi_type_1 poi_2 distance_2 or the poi_type_1 poi_1 distance_1, that avoids all heavy traffic.
+thank you.
+car, find the date and time for my event_1.
+thanks.
+schedule event_1.
+i need the event_1 for date_1 at time_1 with party_1 to agenda_1.
+okay nice, thank you.
+what is the weather going to be date_2 and date_1.
+i want to know if it will weather_attribute_1 date_2 and date_1 in location_1.
+thank you.
+check forecast for date_2 and date_1.
+check forecast for date_2 and date_1 in location_1.
+thanks.
+what's the weather going to be like date_1.
+will it be weather_attribute_1 date_1 in location_1?
+thank you.
+where is a distance_1 poi_type_1?
+oh great job. thanks.
+will there be weather_attribute_1 in location_1 date_1?
+thanks.
+car please send me the distance_1 to go back poi_1.
+what is the address of poi_1?
+please send me the distance_1 to poi_1 at address_1 on screen and let's go to poi_1 at address_1, thank you!
+thanks for all your help.
+make an event_1 on the date_1.
+set the event_1 on the date_1 at time_1 please.
+thank you.
+what is the temperature for the date_1 weather forecast.
+what is the temperature for the date_1 weather forecast in location_1.
+thank you very much car!
+what will the weather in location_1 be in the date_1?
+thanks.
+what will be the weather_attribute_1 on date_1 in location_1?
+thanks.
+remind me about my event_1 with party_1 on the date_1, it is at time_1.
+schedule the event_1 with party_1 on the date_1 for time_1.
+thank you.
+what time is my next event_1 and who will be attending?
+thanks!
+car i need a poi_type_1, please send me a quick route to the one distance_1 me in the direction we're driving.
+please pick a quick route to the poi_type_1 poi_1 and let's go to the poi_type_1 poi_1, thank you!
+ok, thanks car!
+schedule a event_1 on monday the date_1 with my party_1 at time_1.
+thanks.
+will there be weather_attribute_1 in location_1 on date_1?
+thank you!
+is it gon na weather_attribute_1 in location_1 during the date_1?
+thank you.
+what is the weather like date_1.
+what is the weather like date_1 in location_1.
+thank.
+will it be weather_attribute_1 in location_1 on date_1?
+thank you so much.
+check weather forecast for location_1.
+please tell me the forecast in location_1 date_1.
+thank you.
+where is poi_1.
+okay, how far away am i from poi_1 at address_1 and send me the distance_1 route to poi_1 at address_1.
+thank you very much car!
+no response needed.
+find me a poi_type_1 with a traffic_info_1 route.
+send me the address of the poi_type_1 poi_1 anyway.
+please pick a route with traffic_info_1 to get to the poi_type_1 poi_1 at address_1, thanks!
+that is ok, thank you.
+can you find me a poi_type_1 that is distance_1?
+how is the traffic to the poi_type_1 poi_1 distance_1?
+sounds good, set the gps to the poi_type_1 poi_1 distance_1 with traffic_info_1 please.
+what is the weather forecast for the date_1.
+what is the forecast for date_1 in location_1?
+thanks.
+will it be weather_attribute_1 in location_1 during the date_1?
+thanks.
+find out the parties joining me and date for my event_1.
+cool, thanks.
+when's my event_1.
+okay great. thank you.
+when is my event_1, the date and time?
+that will do, thanks.
+will it weather_attribute_1 date_1.
+will it weather_attribute_1 date_1 in location_1.
+thank you.
+will it be weather_attribute_1 in location_1 on date_1?
+thank you.
+bye.
+i need directions to a distance_1 poi_type_1 poi_1 please.
+please give me the address and directions to whichever poi_type_1 poi_3, either the poi_type_1 poi_3 poi_2 distance_2 or the poi_type_1 poi_3 poi_1 distance_1, is on a route where i can avoid traffic_info_1.
+sounds good. set the gps for the poi_type_1 poi_2 poi_1 distance_1 at address_1 with traffic_info_1. thanks.
+where is the distance_1 poi_type_1.
+where is the poi_type_1 poi_1 distance_1.
+pick the distance_1 to go to the poi_type_1 poi_1 distance_2 at address_1 and send the info on my screen please.
+get me the weather report for date_1.
+get me the weather report for date_1 in location_1.
+thanks!
+what will be the weather_attribute_1 in location_1 on date_1?
+thank you car!
+tell me all the events and meetings scheduled on my calendar for today.
+thank you.
+what's the weather like date_2 and date_1.
+i need to know if it is going to be weather_attribute_1 in location_1 date_2 and date_1 car.
+thanks buddy.
+will there be weather_attribute_1 in location_1 date_1?
+thanks.
+tell me the weather report in location_1 for date_1.
+the date_1.
+perfect.
+schedule a event_1 with the party_1 on the date_1 at time_1.
+perfect.
+when is my event_1.
+thank you.
+please give me the address and directions via the distance_1 route to a poi_type_1 distance_2 of me.
+ok, please direct me to the poi_type_1 poi_1 distance_1 at address_1 with traffic_info_1 via the distance_2 route.
+okay thanks.
+pull up directions to address_1.
+pick a route to address_1 with traffic_info_1 and let's go to address_1, thank you!
+yes, patience, i need to get to address_1 anyway.. thank you car, send the info on my screen please!
+thanks.
+give me directions to the distance_1 poi_type_1.
+what is the next distance_2 poi_type_1 besides the poi_type_1 poi_1 distance_1 with a traffic_info_1?
+ok, well make a route to the poi_type_1 poi_1 distance_1 with a traffic_info_1 then, try to avoid the car accident.
+that's great! thank you car!
+car i need to go back poi_1, it's in the area, please pick a route with traffic_info_1.
+what is the address_1 of poi_1?
+set gps for a route poi_1 distance_1 at address_1 with traffic_info_1.
+thank you.
+where can i get poi_1?
+yes.
+sounds great. thank you.
+is it going to be weather_attribute_2 or weather_attribute_1 at all date_1.
+is it going to be weather_attribute_2 or weather_attribute_1 at all date_1 in location_1.
+thanks.
+i need poi_1.
+yes, please.
+thank you car, pick the distance_2 to the poi_1 poi_2 distance_1 at 338 alester avenue for me please!
+what's the weather forecast.
+what's the weather forecast in location_1.
+thank you very much car!
+schedule a event_1 with party_1 for date_1 at time_1.
+thank you.
+what is the weather like date_1.
+is it weather_attribute_1 date_1 in location_1?
+thank you!
+will it be weather_attribute_1 date_1 in location_1?
+thank you.
+what is the weather going to be like date_1 show me the 7 day forecast.
+there will be weather_attribute_1 date_1 in location_1?
+so no weather_attribute_1 date_1 in location_1?
+thanks.
+what is the weather like in location_1.
+what is the weather in location_1 on date_1?
+thanks.
+where does my friend live?
+.
+i was thinking about something that happened to jill yesterday, long story.. please pick a quick route to get to my friend poi_1 distance_1 at address_1, thank you!
+thank you!
+what's the weather_attribute_1 going to be like date_2 and date_1.
+what's the weather_attribute_1 going to be like date_2 and date_1 in location_1.
+thank you.
+is there a poi_type_1 within distance_1?
+that's great! please pick the distance_2 to the poi_type_1 distance_1 and send me the address of the poi_type_1 distance_1 on screen, thank you!
+fantastic. thanks, car!
+find poi_1.
+is the poi_1 distance_1 with a traffic_info_1 the quickest poi_1 available? i really need my morning coffee!
+where is the poi_1 distance_1?
+thank you.
+will it be weather_attribute_1 on date_1 in location_1?
+thank you.
+directions to the poi_type_1.
+thank you car, please pick the traffic_info_1 route to the poi_type_1 poi_1.
+sounds great and can you tell me the address of the poi_type_1 poi_1?
+awesome, goodbye.
+what time do i go to event_1 and who is going with me?
+thanks.
+car i need to get to a poi_type_1, please show me the distance_1.
+alright, where is the poi_type_1 poi_1 distance_1 located?
+please pick the distance_1 to get to the poi_type_1 poi_1 distance_2 at address_1.
+thank you car!
+i want to find the agenda, location, and time for my event_1.
+thanks.
+take me to the poi_type_1 distance_1.
+sure, thank you, just pick the distance_2 to the poi_type_1 poi_1 distance_1 and send me the address of the poi_type_1 poi_1 distance_1 on screen.
+schedule a event_1 with party_1 for date_1 at time_1.
+thank you.
+what is the weather_attribute_1 in location_1 over the date_1?
+thank you very much car!
+i would like to know who is attending my event_1 and when it is.
+thanks.
+is it going to weather_attribute_1 date_1.
+is it going to weather_attribute_1 date_1 in location_1.
+thanks.
+i need to schedule a event_1.
+the event_1 is at time_1 date_1.
+show me the distance_1 poi_type_1.
+okay, where is the shopping poi_1 mall distance_1 located?
+direction to the shopping poi_1 mall distance_1 at address_1 please.
+thank you.
+[ end conversation]
+car i need a poi_1 in the area, please pick something and avoid all traffic_info_1 traffic.
+sounds great. send me that address of the poi_2 poi_1 distance_1.
+sure, please do!
+can you find out for me the date and parties attending my event_1?
+thanks.
+look up location_1's date_1 weather info to see if it will be weather_attribute_1.
+thank you.
+i need to find out the date and time for my event_1.
+thanks that will do car.
+is it going to weather_attribute_1 in the date_1.
+is it going to weather_attribute_1 in the date_1 in location_1.
+thanks.
+what's the weather like date_1 and date_2.
+i want to know if it will be weather_attribute_1 date_1 and date_2 in location_1.
+thanks!

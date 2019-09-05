@@ -1,0 +1,1485 @@
+make an appointment to reserve entity_4 later this week entity_1.
+what day and time should i set an appointment to reserve the conference room?
+make an appointment to reserve entity_4 later this week entity_2 at entity_5 entity_1.
+i have made an appointment for entity_2 at entity_5 for the entity_3.
+is there supposed to be a entity_3 in entity_2 on entity_1?
+on entity_1 it's gon na rain in entity_2.
+thanks.
+you're welcome!
+give me directions to entity_2 entity_5.
+there is entity_4 entity_3 from here but with heavy traffic on our way.
+give me the address of the entity_5 entity_4 entity_3.
+the address to entity_4 is entity_1.
+thank you car, please pick the quickest way to get to the entity_5 entity_4 entity_3 at entity_1!
+you are welcome.
+what is the date of our entity_1 and who is attending?
+you have 2 dinners on your schedule. one on friday at 6 pm with your father and one on the 8th at 7 pm with your aunt.
+thank you.
+you're welcome!
+where can i go shopping?
+two shopping centers are located nearby. one is the topanga mall located 4 miles away and the other is ravenswood entity_3 that's entity_1. which do you prefer?
+i want to go to the entity_2 entity_3 entity_1, give me the address of the entity_2 entity_3 entity_1 and then directions to the entity_2 entity_3 entity_1 with entity_4.
+the address is 434 arastradero rd, i picked the fastest route for you, it's on your screen.
+thank you very much car!
+you're welcome!
+what time is my entity_1 and what is the agenda, also who is attending?
+for which one? i have one with sales team at 9 am to sign the nda, and i also have another with sales team at 1 pm to go over budget.
+what time is my entity_1 and what is the agenda of the entity_1, also who is attending the entity_1?
+anytime.
+set a reminder for a entity_2 at entity_4 on entity_1 with entity_3.
+okay, setting a reminder for your entity_2 at entity_4 on entity_1 with entity_3.
+thanks.
+you are welcome.
+where can i get entity_3?
+we're 1 miles away drom trader joes and there is moderate traffic on our way.
+what is the address of the entity_4 entity_2 entity_1 and give me directions to the entity_4 entity_2 entity_1 with the fastesr route.
+the quickest route to trader joes is entity_1 at 408 university avenue.
+thanks!
+no problem.
+when is my entity_1?
+your next entity_1 activity is thursday at 3 pm with your brother.
+thank you.
+happy to help.
+what's the weather like in entity_2.
+the weather in entity_3 is predicted as a drizzle with lows in the 60s and highs in the 80s.
+thanks, i would like to know if it will be entity_4 n entity_3 on entity_1 please.
+it will not be entity_4 in entity_2 tomorrow.
+thank you.
+you are welcome.
+where is a entity_5.
+there are two chinese restaurants nearby: entity_3 entity_1 and entity_4 entity_2.
+please tell me the chinese entity_5, either the chinese entity_5 entity_3 entity_1 or the chinese entity_5 entity_4 entity_2, with the entity_6 and the details of the location.
+entity_3 is entity_1 in moderate traffic, it is located at 271 springer street.
+thank you.
+anytime!
+what is the entity_1 entity_4?
+entity_3 is the entity_1 entity_4.
+please pick the entity_2 route to go to the entity_1 entity_4 entity_3 and send me the address of the entity_1 entity_4 entity_3 on my map.
+entity_3 	 is at 611 ames ave.
+thanks.
+anytime!
+is it going to be entity_3 this entity_1.
+what city are you inquiring about?
+is it going to be entity_3 this entity_1 in entity_2.
+it will be entity_3 on saturday and hailing on sunday in entity_2.
+thanks.
+happy to help.
+is it gon na be entity_3 in entity_2 on entity_1?
+on entity_1 the forecast is predicted to be foggy in entity_2.
+thank you.
+anytime.
+how's the weather in entity_2.
+the weather in entity_2 is hot today. are you interested in other days' forecast?
+will it be entity_3 on entity_1 in entity_2?
+on entity_1 it will be dew!
+thanks.
+you're welcome!
+set an optometrist appointment for entity_1.
+what time on entity_1 should i set the appointment reminder?
+set an optometrist appointment for entity_1 at entity_3 with my entity_2.
+okay great, i have that all set for you. can i help with anything else?
+that is all, thanks!
+can you please find me the time, date, and what is planned for the next entity_1 i have scheduled in my calendar?
+your entity_1 is on the 5th at 1 pm, the purpose is to go over the quarterly report.
+thank you.
+i'm here to serve.
+where's entity_3.
+the nearest one is entity_2, it's entity_1.
+can you get me a route to the entity_2 entity_3 entity_1 that avoids all entity_4?
+entity_2 has entity_4 and is the only local one, is it okay?
+yes get me the address of the entity_2 entity_3 entity_1.
+the address to entity_2 is 550 alester ave.
+thanks so much.
+bye for now.
+give me directions to the entity_2 to entity_6.
+there is entity_5 entity_4: does it sound good?
+that's fine. please give me the address of the entity_7 entity_5 entity_4 and directions to the entity_7 entity_5 entity_4 via the entity_3 route.
+the entity_3 route to entity_5 is with entity_8 to entity_1.
+show me the route to the entity_7 entity_5 entity_4 at entity_1 with entity_8 please.
+i sent the route on your screen, drive carefully!
+thank you car!
+you're welcome; drive safely, and enjoy.
+directions to the entity_3.
+entity_2 is a entity_4 i can find. it is located at entity_1.
+can you give me a route to the entity_4 entity_2 at entity_1 which is fast please.
+unfortunately there is a road block nearby but i sent on your screen another route to reach faster.
+great thank you.
+you're welcome!
+who is going to be at the entity_3?
+which one? there is one at entity_4 on entity_1, and there is another at entity_5 on entity_2.
+who is going to be at the entity_3, both the entity_3 at entity_4 on entity_1 and the entity_3 at entity_5 on entity_2?
+hr will be at the one on entity_2 and the infrastructure team will be present at the one on entity_1.
+please set reminder for the entity_1 at entity_4 for entity_2. my entity_3 is coming along.
+okay reminder set for your entity_2 appointment on the entity_1 at entity_4 with your entity_3.
+thank you.
+not a problem.
+what are some entity_1 entity_4.
+the closest is entity_3 entity_2, then the clement entity_5 2 miles away, four seasons is 4 miles away and the westin is 5 miles away.
+let's try the entity_5 entity_3 entity_2 what's the address of the entity_5 entity_3 entity_2 and how's the traffic to the entity_5 entity_3 entity_2?
+there is a road block entity_1 on the route to 333 arbol dr. would you like directions there?
+thank you for this route.
+you are welcome.
+what's the forecast for entity_3 entity_1.
+for what city did you need the forecast?
+will it be entity_5 anytime entity_2 in entity_4?
+it will not be entity_5 in entity_4 entity_1.
+thank you car!
+anytime!
+what time and day is my entity_1 on.
+your entity_1 is on thursday at 2 pm.
+thank you.
+you're welcome.
+search for entity_1 entity_4.
+entity_3 is the closest pizza, would you like the address?
+yes, please, send the address of the entity_5 entity_3 on my screen and show me the entity_2 to the entity_5 entity_3 too, thank you!
+we're going to 915 arbol dr, there is no traffic and you should be able to reach in few minutes. and you're welcome, i'm here to assist you!
+what's the weather supposed to be like in entity_2 entity_1.
+entity_1 in entity_3 will be rainy and windy with overcast skies.
+will be entity_4 any day entity_1 in entity_2?
+there are n't any days predicted to be entity_4 in entity_3 entity_1.
+thank you.
+glad to help.
+when is the date and time of my entity_1?
+your entity_1 is at 10 am on the 13th.
+thank you.
+you are welcome.
+on entity_1 in entity_2 will there be a entity_3?
+the forecast does not predict a entity_3 in entity_2 this entity_1.
+thank you car!
+glad i could help out.
+what time is my next entity_2 and who will be attending?
+your next entity_2 is on entity_1 with your entity_3.
+what is the scheduled time for the entity_2 on entity_1 with my entity_3?
+your entity_1 entity_2 with your entity_3 is at 9 am.
+okay thanks.
+show me entity_1's forecast.
+what city do you want the weather for?
+is it going to entity_3 entity_1 in entity_2?
+there is no entity_3 forecasted for entity_2 entity_1.
+thanks!
+anytime!
+entity_1 in entity_2, will it be entity_3?
+yes, entity_2 is predicted to be entity_3 entity_1.
+thank you car!
+you are welcome human!
+take me to a entity_4.
+entity_3 is the nearest entity_4 at entity_1.
+is the entity_4 entity_3 at entity_1 the entity_2 option?
+yes the route to entity_1 is the entity_2 available.
+that's good, please send me the address of the entity_4 entity_3 at entity_1 on the screen, thank you!
+i sent you the info on your screen, please drive carefully!
+can you kindly schedule a entity_4 at entity_6, entity_2 with entity_5 to entity_1?
+scheduling entity_4 for entity_6 entity_2 with entity_5 to entity_1. do you have a specific day in mind?
+can you kindly schedule a entity_4 at entity_6, entity_3 entity_2 with entity_5 to entity_1?
+anything else?
+no that was everything, thanks.
+you're welcome.
+set reminder for entity_2 at 9am on entity_1 with entity_3.
+okay setting reminder for your meeting with the entity_3 on entity_1 at 9am.
+thank you.
+happy to help.
+what will the entity_3 be for the entity_1.
+what city are you interested in?
+what will the entity_3 be for the entity_1 in entity_2.
+it will be between 60- 70f on monday and tuesday in entity_2.   70- 90f on wednesday, 80- 100f on thursday, 60- 70f on friday, 80- 100f on saturday, and 90- 100f on sunday.
+thanks.
+no problem.
+i'm in need of a entity_5.
+we're entity_3 from entity_4 and 6 miles away from round table: do they sound good?
+they sound great! please pick a quick route to the entity_5 entity_4 entity_3, thank you!
+entity_4 is the entity_2. navigating to entity_1. there is entity_6 on the route.
+that sounds good. please start directions to the entity_5 entity_4 entity_3 at entity_1 with entity_6.
+navigation set. have a great day.
+tell me when my next entity_1 is.
+your next tennis activity is on wednesday at 1 pm.
+great.
+you're welcome.
+what time and date is my entity_1?
+your entity_1 is scheduled on friday at 4 pm.
+thank you!
+you are welcome.
+what is the date and time of my next entity_1?
+you have two, one at 4 pm on the 17th, and one at 6 pm on tuesday.
+thank you.
+happy to help.
+navigate to the entity_1 entity_4.
+navigating you to entity_3.
+please send me the address of the entity_4 entity_3 on screen and pick the entity_2 route to the entity_4 entity_3 for me, thank you!
+entity_3 is at 792 bedoin street.
+thanks!
+you're welcome!
+where is a entity_3 in the area?
+i have a listing for a entity_3 named entity_2 and its entity_1.
+what is the address of the entity_3 entity_2 entity_1?
+its address is 899 ames ct, unfortunately there is heavy traffic on our way: what to do?
+that is ok, thanks.
+no problem!
+add entity_3 in entity_5 the calendar.
+what day and time is the entity_3?
+add entity_3 at entity_6 on entity_2 with entity_4 to entity_1 in entity_5 the calendar.
+setting entity_3 at entity_6 on entity_2 with entity_4 to entity_1.
+perfect. nothing else for now.
+glad to be of service.
+will it be entity_3 in entity_2 over the entity_1?
+it will be stormy on tuesday and there will be rain on wednesday in entity_2.
+thank you car!
+anytime!
+what day and time is my entity_1 activity?
+your entity_1 activity is on wednesday at 7 pm.
+alright, thanks.
+you're welcome.
+find me a entity_6 room for tonight.
+you have three possible rest stops, one entity_3, one entity_4, and one entity_5.
+which entity_8, either the entity_8 entity_3, the entity_8 entity_4, or the entity_8 entity_5, is the entity_2?
+entity_7 appears to be the fastest at entity_4 and entity_9. do you need the address?
+yes, please, and set the navigation to the entity_8 entity_7 entity_4 with entity_9 too.
+entity_7 is located at entity_1. setting navigation now.
+thank you.
+you are very welcome.
+what is the weather.
+where are you interested in the weather for?
+what is the weather in entity_1.
+in entity_1 right now, it is warm, with a low of 60f and a high of 70f.
+thank you!
+you're welcome!
+what time is the entity_1 this week.
+the entity_1 is on friday at 11 am.
+thank you car.
+you are welcome human.
+find me the entity_7 to the entity_3 entity_6 around.
+there is entity_5 entity_4 but with heavy traffic on its direction: do you want me to set the navigation there?
+yes please. thanks for the help.
+setting gps now.
+would you give me the address of the entity_6 entity_5 entity_4 please?
+the entity_1 is entity_2.
+thank you car, let's go to the entity_6 entity_5 entity_4 at entity_2!
+you are welcome driver!
+i'm not feeling well show me the entity_3 route to the entity_1 entity_2.
+the entity_1 entity_2 is 5 miles away at 899 ames ct, there is heavy traffic on the way.
+thanks.
+you are welcome.
+where is the entity_1 entity_2?
+the entity_1 entity_2 is 76 at 4 miles away but a road block is nearby.
+thanks for the information.
+you are welcome.
+on entity_1 will there be entity_3 in entity_2?
+in entity_2 the weather will be stormy on entity_1.
+thanks.
+happy to help.
+what time is my entity_1 and who is attending?
+which one? i have two, one for 11 am with ana, and one for 6 pm with job.
+what time is my entity_1 and who is attending my entity_1?
+all done, you are welcome.
+is it going to entity_3 sometime entity_1.
+what city are you wanting to know if it's going to entity_3?
+is it going to entity_3 sometime entity_1 in entity_2.
+in entity_2, it will entity_3 on tuesday and wednesday.
+thanks!
+no problem.
+please give me the address and directions via the entity_2 route to a entity_6 nearby.
+the entity_2 route to the entity_6 is entity_1. at entity_4 with a road block nearby. do you want to go to entity_5?
+yes, please pick the entity_3 distance to get to the entity_6 entity_5 entity_4 at entity_1, thank you!
+entity_3 route found and being set. you will arrive shortly.
+take me to the entity_1 entity_5.
+there is no entity_5 nearby.
+do you have any entity_2 entity_7, besides the entity_8 entity_5?
+there is entity_6, it's just entity_4 but there is heavy traffic on our way.
+pick the entity_3 way to the entity_8 entity_6 entity_4 and let's go to the entity_8 entity_6 entity_4, thank you!
+entity_6 is located at 394 van ness avenue. setting the entity_3 route on gps.
+thank you.
+you're welcome!
+what is the weather like in entity_2 entity_1.
+what can i tell you about entity_1's weather in entity_2?
+i want to find out if it will entity_3 entity_1 in entity_2.
+it will not entity_3 entity_1 in entity_2.
+thanks.
+you're welcome!
+i need the address of a the entity_4 that i can get to the entity_1 from here.
+entity_3 is entity_2 but there is heavy traffic on our way. do you want me to set the gps to get there?
+yes, please, just pick the entity_1 route to the entity_3 entity_4 entity_2 and let's go to the entity_3 entity_4 entity_2!
+the entity_1 route is 773 alger dr and is set.
+thanks for all the help.
+you're welcome.
+what is my entity_3 address?
+entity_2 is located at entity_1. anything else?
+how's the traffic to my friend entity_2 at entity_1?
+there is entity_5 on the way to entity_2.
+perfect. let's go to my friend entity_2 at entity_1 with entity_4
+okay, we're on the way now!
+thank you.
+you're welcome, happy i could help.
+i need a entity_3.
+entity_2 is entity_1.
+farther than i wish but patience.. please send me the entity_4 to get to the entity_3 entity_2 entity_1, thank you!
+sure, it's just entity_1 at 657 ames avenue.
+please give me a quick route to the entity_3 entity_2 entity_1 at 657 ames avenue. thank you.
+setting route to 657 ames avenue now.
+thank you car!
+you're welcome, happy to help.
+what is my entity_3's address?
+jill or jack?
+what is my entity_3's, either my friend entity_1 or my friend entity_2, address, who is closest?
+jack is closer.
+what is the address of my friend entity_2?
+864 almanor ln, it's 3 miles away, i sent his address on your screen.
+thanks.
+you're welcome, happy to help.
+i have an entity_2 at entity_4 on entity_1 with entity_3.
+okay making entity_2 with entity_3 on entity_1 at entity_4.
+thanks!
+my pleasure.
+will it entity_3 in entity_2 in the entity_1?
+it will not entity_3 in entity_2 entity_1.
+thank you.
+no problem.
+where is my entity_3?
+you live at entity_1.
+yes, yes, right, i need my morning coffee.. please pick the entity_2 to go back entity_3 at entity_1!
+we're 2 miles away and there is no traffic, i sent the route on your screen, keep your eyes open on the road!
+thank you car!
+happy to help.
+find me a entity_2 entity_6 where i can sit and have some coffee.
+the entity_5 is located at entity_1, it is entity_4 with moderate traffic.
+that's great! please send me the address of the entity_6 entity_5 entity_4 at entity_1 on screen and pick the entity_3 to the entity_6 entity_5 entity_4 at entity_1 for me.
+i sent the info on your screen, you're welcome!
+where is the entity_1 entity_4?
+entity_3 is entity_2.
+do you have for me a route with entity_5 to reach the entity_4 entity_3 entity_2?
+entity_3 route is reporting a car collision nearby. do you still want to go there?
+yes i need to rest.
+i sent the best available route on your screen, drive carefully!
+thanks!
+you're welcome!
+what time is the entity_1 and who is going?
+i have two, one at 1 pm with father, and one at 7 pm with entity_2.
+what time is the entity_1 with entity_2 and who is going to the entity_1 with entity_2?
+the entity_1 with entity_2 is at 7 pm.
+thanks!
+anytime!
+will it entity_3 entity_1.
+for which city would you like to know if there is going to be entity_3 entity_1?
+will it entity_3 entity_1 in entity_2.
+it will drizzle tuesday, saturday, and sunday in entity_2.
+thanks.
+no problem.
+what is entity_1's forecast.
+what city would you like entity_1's forecast for?
+what is entity_1's forecast in entity_2.
+entity_1 in entity_2 it is cloudy with a temperature between 70- 80f.
+okay, thank you.
+you are welcome.
+give me directions to the nearest entity_2.
+navigating you to entity_1 entity_1.
+can you give me the quickest route to the entity_2 entity_1 entity_1?
+setting gps to quickest route for entity_1 entity_1 which has no traffic.
+thank you car, please send me the address of the entity_2 entity_1 entity_1 on screen!
+you're welcome, glad i could help.
+is it entity_3 in entity_2 entity_1?
+it is not entity_3 in entity_2 entity_1.
+thanks.
+no problem.
+what grocery stores are entity_2?
+we're 1 miles away from entity_5 and there is no traffic on our way: set the gps to go there?
+what is the address of the entity_6 entity_5 entity_3?
+entity_5 is at entity_1.
+let's go to the entity_6 entity_5 entity_3 at entity_1 through the route with the entity_4 distance please.
+taking you there on the entity_4 distance.
+thanks!
+you're welcome, glad i could help.
+take me to the entity_1 entity_2 place i can buy groceries.
+entity_3 is the only grocery store i can find. it is 5 miles away.
+that will be fine, thank you.
+you're welcome!
+search entity_2 near me.
+there is a four seasons and a hotel keen entity_1.
+give me the address of a entity_3 entity_1.
+the nearest entity_3 is at 465 arcadia pl.
+thanks!
+you're welcome!
+what's the entity_5 going to be like entity_1.
+for what city?
+what's the entity_5 going to be like entity_1 in entity_4.
+entity_2's entity_5 in entity_4 will have a low of 30 f and a high of 40f. entity_3's entity_5 will be a low of 80f and a high of 90f.
+thank you!
+glad to help.
+i need you to set a reminder for me to entity_2. set it for entity_4, the entity_1 with entity_3, please.
+alright, setting a reminder at entity_4 to entity_2 on the entity_1 with entity_3.
+thank you.
+you're welcome.
+what is entity_3?
+entity_2 is programmed as entity_1.
+please give me the shortest route to entity_2 at entity_1.
+the route to entity_2 does not have any traffic, you should arrive quickly being that it is 1 mile away.
+awesome, thank you.
+you are welcome.
+find the entity_2 entity_6.
+the entity_2 entity_6 is entity_5 on 269 alger dr.
+ok, please direct me to the entity_6 entity_5 at entity_1 via a route that avoids all entity_7 traffic.
+there is a entity_8 on the route to entity_5.
+that is fine, just give directions to the entity_6 entity_5 at entity_1 with a entity_8 around the traffic.
+unfortunately there is a car collision nearby. do you want me to set the gps anyway?
+how entity_3 is the entity_6 entity_5 at entity_1?
+entity_4.
+yes, please direct me to the entity_6 entity_5 entity_4 at entity_1 via the route with entity_9
+ok, setting navigation now.
+thank you car assistant.
+you're very welcome!
+next week will it be entity_3 entity_1 in entity_2?
+this week it's not gon na be entity_3 in entity_2.
+thank you car!
+you are welcome human!
+car i need to get entity_2, it should be near me, please highlight its position on the map.
+your entity_2 is at entity_1.
+avoid all entity_3 to entity_2 at entity_1 and let's go to entity_2 at entity_1, thank you!
+setting gps to avoid any entity_3. your route is now set.
+thanks so much.
+you're welcome.
+what day and time is my entity_1?
+your entity_1 is on the 4th at 3 pm.
+thanks.
+no problem, have a good day.
+get me the weather report for entity_1.
+what city would you like the weather report from?
+i wanna know if it will entity_3 entity_1 in entity_2.
+it's not gon na entity_3 in entity_2 entity_1.
+thank you.
+you are very welcome.
+give me entity_1's entity_3.
+what city would you like to know the entity_3 of?
+give me entity_1's entity_3 for entity_2.
+entity_1 the highest temperature in entity_2 will be 90f on friday and sunday.
+thank you.
+you are welcome.
+what time is my entity_2 for this entity_1.
+your tennis activity is scheduled for entity_3 on tuesday, nothing is scheduled for entity_1.
+oh okay well thank you car.
+you are welcome.
+does the forecast say it will entity_2.
+what city do you want the weather for?
+does the forecast say it will entity_2 in entity_1.
+it is not forecasted to entity_2 in entity_1 this week.
+thanks.
+you are very welcome.
+find directions to entity_1 entity_2.
+there is no entity_2 in your area but there are other coffee places near by. would you like more info?
+yes.
+the entity_1 coffee shop is 2 miles away and the name of it is entity_3. would you like the address?
+yes please.
+entity_3 is 2 miles away at 583 alester avenue. anything else?
+no that's it for now. thanks.
+great, glad to help.
+where can i get entity_4?
+there is a entity_2 and entity_3 near.
+which entity_4 restaurant, either the entity_4 restaurant entity_2 or the entity_4 restaurant entity_3, is closer to my location?
+entity_3 is closer at 3 miles.
+then pick a quick route to get to the entity_4 restaurant entity_3 entity_1, thank you!
+setting navigation to entity_3 at 110 arastradero rd. anything else?
+that will be all, thanks!
+you're welcome!
+set a reminder about my entity_3 entity_1 at entity_4.
+your entity_3 has been set for entity_4 entity_1, the entity_2.... is that correct?
+yes, that is correct. thank you!
+you are welcome!
+what route can i take entity_2 to entity_3.
+in this moment there is moderate traffic on our way but since we're just entity_1 it should n't take too long to reach entity_2. i sent the route on your screen.
+ok, thanks for directions to entity_2 entity_1 via a route with the entity_4.
+setting directions to 5672 barringer street now.
+thank you car assistant for the help.
+anytime!
+give me directions to entity_2.
+there are no nearby entity_2, but there are 3 other coffee places nearby.
+please send me directions for the entity_4 entity_1.
+setting directions to entity_3, located 2 miles away at 394 van ness ave.
+thank you!
+you are welcome.
+what is the forecast for entity_1.
+what city do you want the weather for?
+will it be entity_5 in downtown entity_4 entity_2 or entity_3?
+there will be no entity_5 entity_1 in entity_4. the forecast for monday is hot, low of 80f, high of 90f. the forecast for tuesday will be snow, low of 60f, high of 70f.
+very nice to know, thanks.
+great talking with you, goodbye.
+find a entity_2 that i can get to with the entity_4.
+entity_1 is the only one nearby but here is entity_5.
+well i guess it will have to do. set the gps for the entity_1 entity_3 with entity_5 please.
+i sent its position on your screen, drive carefully!
+what is the forecast for the city entity_1.
+which city do you want the weather forecast for?
+what is the forecast for entity_2 entity_1.
+in entity_2 it will be frosty on monday, overcast on tuesday, raining on wednesday, foggy on thursday, drizzle on friday and saturday, dry on sunday.
+thank you!
+no problem!
+is it supposed to entity_3 entity_1.
+what location do you want the weather for?
+is it supposed to entity_3 entity_1 in entity_2.
+there will be no entity_3 entity_1 in entity_2.
+thanks.
+anytime.
+can you set a reminder for a entity_2 at entity_4 on the entity_1.
+okay, i am scheduling a entity_2 for you on the entity_1 at entity_4.
+can you set a reminder for a entity_2 at entity_4 on the entity_1 with my entity_3.
+your entity_3 has been added to parties involved for your entity_2 at entity_4 on the entity_1.
+perfect.
+i'm happy to help you!
+find me chinese restaurants entity_1 of my current location.
+there is a entity_3 entity_3 entity_2.
+could you give me the address of the entity_4 entity_3 entity_3 entity_2 and directions to the entity_4 entity_3 entity_3 entity_2 via a route that entity_5?
+alright, the route to 113 arbol drive is entity_2 with a entity_6.
+please set the gps to go to the entity_4 entity_3 entity_3 entity_2 at 113 arbol drive with a entity_6, thank you!
+navigation is set. drive carefully, and enjoy.
+thank you.
+you're very welcome!
+where can i get a entity_4?
+entity_3 is entity_2.
+is there a quick route to reach the entity_4 shop entity_3 entity_2?
+unfortunately entity_3 is the only entity_4 place i can find. it is entity_2 through entity_5, located at 145 amherst st.
+well, it is what it is. let's navigate to the entity_4 place entity_3 entity_2 at entity_1 with entity_5 now.
+navigation is set, have a great day.
+schedule a entity_2 with my entity_3 for entity_1 at entity_4.
+okay, scheduling a entity_2 with your entity_3 for entity_1 at entity_4.
+thanks.
+no problem driver.
+check the weather forecast.
+for what location and time?
+will it be entity_3 in entity_2 entity_1?
+no, it will not be entity_3 in entity_2 entity_1. entity_1's forecast is rain, with a low of 20f and a high of 40f.
+thank you!
+you are very welcome.
+is there a chinese place that has entity_2 on the way?
+entity_1 entity_1 is 2 miles away in light traffic. would you like directions there?
+yes, please!
+entity_1 entity_1 is at 113 arbol dr. do you need me to set the navigation?
+sure, thank you car!
+no problem.
+what is the date of my next entity_1 and who will be attending?
+i have two, one on thursday with tom, and one on the 3rd with alex.
+what is the date of my next entity_1 and who will be attending the entity_1?
+you are welcome driver.
+can you find out the parties attending and time for my optometrist appointment?
+i have four, one with alex at 5 pm on saturday, one with your sister at 2 pm on the 5th, one with jeff on the 6th, and one with martha on thursday. which one?
+that will do, thank you kindly.
+you are welcome.
+where is the entity_3 entity_5?
+there is a entity_5 entity_2. it's entity_4. would you like more details?
+yes please show me the route to the entity_5 entity_4 entity_2 and entity_6.
+here is the best route to entity_4.
+what is the address of the entity_5 entity_4 entity_2?
+entity_1: do you want me to send the route on your screen?
+yes please that sounds great.
+plotting route to entity_1, entity_2 with car collision nearby.
+thank you car!
+you're welcome!
+car i need a entity_4 to feed you: is there anything around here?
+there is 2 gas stations nearby one has a entity_6 and the other is entity_3 with entity_7. which do you prefer?
+please ask siri to replace you and take me to the entity_4, either the entity_4 with a entity_6 or the entity_4 entity_3 with entity_7, with a entity_2 route, thank you!
+directions to entity_5 are on your screen.
+where is the entity_4 entity_5 located?
+entity_5 is located at entity_1 and has a road block reported.
+then let's go to the entity_4 entity_5 at entity_1, thank you!
+the info are on your screen and you're welcome!
+what day is my entity_1 and who is coming with?
+currently you have two lab appointments. one on the 3rd which martha is attending, and one on the 13th that your brother is attending.
+thank you for your help.
+you are welcome.
+i have a entity_1 on the 12th of august at entity_2 please remind me.
+i have set a reminder for your entity_1 on august 12th at entity_2
+thank you.
+glad to be of service.
+car i need to go back entity_2, please pick the entity_1 way with entity_3.
+the only route i currently have to entity_2 currently has heavy traffic. would you like me to set your gps anyway?
+it's okay, just pick the entity_1 route to get entity_2, thank you!
+taking you on the entity_1 way entity_2.
+thank you car!
+you're welcome!
+navigate me to the entity_2 entity_5.
+the entity_2 entity_5 is the entity_4.
+send me the address of the entity_5 entity_4 on screen.
+the entity_4 entity_5 is located at entity_1.
+set gps for entity_3 available route to the entity_5 entity_4 at entity_1.
+gps set. anything else?
+that's it, thank you car!
+you're welcome!
+what's the weather forecast for the entity_1.
+what city are you inquiring about?
+what's the weather forecast for the entity_1 in entity_2.
+in the entity_1 in entity_2 it will be dry on monday, raining on tuesday, 	 hail on wednesday and thursday, hot on friday, overcast on saturday, frost on sunday.
+thank you!
+you're welcome!
+start listening what will be the weather for the entity_1.
+for what city do you need the weekly forecast?
+start listening what will be the weather for the entity_1 in entity_2.
+the weather in entity_2 during the next entity_1 will be humid on monday, clear skies on tuesday, stormy on wednesday, raining on thursday, windy on friday, raining again on saturday and sunday.
+thank you so much car!
+you are very welcome!
+schedule a entity_2 at entity_4 on entity_1 the 1st with entity_3.
+okay, scheduling entity_2 with entity_3 for entity_1 the 1st at entity_4.
+thanks!
+you are very welcome!
+will the weather be entity_3 in entity_2 over the entity_1?
+it will not be entity_3 in entity_2 this week.
+thank you.
+you are welcome.
+address to the entity_3.
+entity_2 is located at entity_1.
+ok, please give me directions to the entity_3 entity_2 at entity_1 via a entity_4.
+since there is a road block nearby, i found another route for you and i sent it on your screen.
+awesome thank you.
+you're welcome; drive carefully.
+is it going to be entity_3 in the next entity_1.
+for what city would you like the forecast?
+is it going to be entity_3 in the next entity_1 in entity_2.
+the weather in entity_2 will be mainly rainy and entity_3 over the next few days.
+schedule a entity_2 with my entity_3 for entity_1 at entity_4.
+setting a schedule for entity_2 with entity_3 for entity_1 at entity_4.
+thank you buddy.
+you are welcome friend.
+entity_1 are there entity_3 skies in entity_2?
+there entity_1 are no entity_3 skies in entity_2.
+thank you.
+glad i could help out.
+will it entity_3 in entity_2 entity_1?
+on tuesday there will be entity_3 in entity_2.
+thank you very much car!
+you are very welcome!
+check entity_5 for entity_1.
+what city should i check the entity_5 for?
+find out the entity_5 for entity_1 in entity_4.
+in entity_4 there will be rain entity_2, and it will be stormy entity_3.
+thank you!
+you're very welcome!
+schedule a entity_2.
+what date and time are you entity_2?
+schedule a entity_2 entity_1 at entity_3.
+your entity_2 has been scheduled for entity_1 at 1pm.
+perfect.
+no problem.
+what's the weather going to be like in the city on entity_1.
+what city do you want to hear entity_1's weather for?
+will it be entity_3 in entity_2 on entity_1?
+it will be cloudy in entity_2 on entity_1.
+thanks so much.
+you're very welcome!
+i need to locate a entity_6.
+entity_4 and entity_5 are both near.
+which entity_6, either the entity_4 entity_6 or the entity_6 entity_5, is entity_1?
+entity_4 is only 2 miles away and entity_5 is entity_2.
+since the entity_6 entity_5 entity_2 is the closest tell me the details about the entity_6 entity_5 entity_2.
+.
+i repeat: please tell me about the entity_6 entity_5 entity_2: which one is it the entity_3 to go to the entity_6 entity_5 entity_2?
+its address is 383 university ave, i sent the position on your screen.
+thank you car!
+you're welcome!
+what time do i have to take entity_1 and who is helping?
+i have you set for two. one at 6 pm and one at entity_2.
+who will be helping me for the take entity_1 at entity_2?
+mother is one the helping at entity_2. anything else?
+nope, thank you.
+you are welcome.
+what will the weather be like in the city.
+where would you like to hear the weather forecast from?
+i want to know if there are entity_3 in entity_2 entity_1.
+there will be no entity_3 in entity_2 today, the weather will be a blizzard, low of 50f, high of 60f.
+thank you!
+anytime!
+take me to a entity_2.
+entity_1 located at 593 arrowhead way is 4 miles away, there is n't any traffic on this route.
+thank you!
+you're welcome.
+set a reminder for my daughter's entity_2.
+okay, for what time and day?
+set a reminder for my daughter's entity_2 for entity_3 on the entity_1.
+i am setting a reminder for entity_2 at entity_3   on the entity_1.
+thank you car.
+you are welcome.
+what's the weather like in entity_2.
+the weather in entity_2 is foggy.
+okay great. will there be entity_3 in the entity_1 in entity_2?
+no, the weather is n't going to be good in entity_2 in next days.
+great thank you.
+anytime.
+schedule a entity_2 with entity_3 for entity_1 august 8th at entity_4.
+your entity_2 with entity_3 has been scheduled for entity_1 at entity_4.
+thank you.
+you're welcome.
+set a reminder to entity_2 on entity_1 at entity_4 with my entity_3.
+setting a reminder to entity_2 on entity_1 at entity_4 with your entity_3.
+thanks.
+you are welcome.
+will it be entity_3 in entity_2 entity_1?
+tuesday, wednesday, and sunday appear to be the entity_3 days expected in entity_2 entity_1.
+thank you.
+you are welcome.
+what's the entity_2.
+what city are you wanting to know the entity_2 for?
+what's the entity_2 in entity_1.
+it is currently overcast with a low of 60f and a high of 80f in entity_1.
+thank you!
+you are welcome.
+what is the forecast for entity_2.
+what days are you interested in?
+is there a entity_3 entity_1 in entity_2?
+no, there is not a entity_3 in new york right entity_1.
+okay, great. thanks!
+you're welcome!
+where does   my entity_4 live?
+jack or jill?
+mmm... which entity_4's house, either entity_4 entity_2 or entity_4 entity_3, is the quickest to reach?
+entity_3 is entity_1, while jacks house is 4 miles. there is entity_5 to both locations.
+let's head to my entity_4 entity_3 entity_1 with entity_5, then.
+displaying gps now.
+thanks.
+you're welcome.
+is it going to entity_3 in entity_2 entity_1?
+there is no entity_3 in the forecast for today in entity_2.
+thanks.
+no problem.
+please add entity_2 to my schedule.
+what day and time should i add entity_2 to your schedule?
+please add entity_2 to my schedule on entity_1 at entity_3.
+okay, adding entity_2 to your calendar, on entity_1 at entity_3.
+perfect. thank you.
+i'd like to know where i can get some entity_5.
+we're entity_2 from entity_4 entity_4 and 5 miles away from p.f.changs: which one do you like more?
+let's try the entity_6 entity_4 entity_4 entity_2.
+i sent its position and the route to reach it on your screen, do n't speed too much.
+what is the address of the entity_6 entity_4 entity_4 entity_2, and is there supposed to be any traffic to the entity_6 entity_4 entity_4 entity_2?
+entity_4 entity_4 is at 113 arbol dr. there is a road block nearby. shall i give you directions?
+yes please give me directions to the entity_6 entity_4 entity_4 entity_2 at entity_1 via the entity_3.
+i sent the best route on your screen, enjoy your trip!
+thank you car!
+you're welcome!
+i have a entity_2 with entity_3 at entity_4 at the entity_1.
+okay great, would you like to set a reminder for it?
+yes, please.
+okay, i just set that reminder for you. can i help with anything else?
+thank you.
+no problem.
+check weather for entity_1.
+new york is supposed to be fair with a chance of rain on saturday with the highs in the 90s and lows in the 20s.
+thanks.
+glad to help.
+give me the time for my next entity_1.
+your next entity_1 is thursday at entity_2.
+okay perfect.
+you are welcome.
+give me weather forecast for entity_1.
+what location do you want the weather for?
+will it be entity_3 entity_1 in entity_2?
+it is not predicted to be entity_3 in entity_2 entity_1.
+thanks.
+anytime.
+set calendar reminder for entity_3 this entity_1 with my entity_2.
+sure, a calender reminder has been set for entity_3 this upcoming tuesday with your entity_2.
+thank you!
+my pleasure.
+tell me the best route to get entity_1 with the entity_2.
+navigating you entity_1 with the least traffic.
+thank you car, send the address of entity_1 on the screen with the fastest route too.
+the address to your entity_1 is 56 cadwell street. setting gps for the fastest route now.
+great job, thanks.
+you're welcome!
+find me the entity_4.
+we're entity_2 from entity_3 and there is also a road block nearby: do you want me to find a quickest way to go there?
+yes please.
+setting navigation to entity_1 now.
+please pick the entity_6 to the entity_5 entity_3 entity_2 at entity_1, thanks!
+yes, i will navigate you via the entity_6.
+thank you car!
+you are welcome.
+is it going to entity_3 entity_1.
+what city would you like the forecast for?
+is it going to entity_3 entity_1 in entity_2.
+it will not entity_3 in entity_2 entity_1.
+i'd like to know where i can get some entity_3.
+entity_2 is a entity_4 nearby.
+can you show me the quickest route to the entity_4 entity_2?
+currently the quickest route to entity_2 is through entity_5. should i set the gps now?
+is there another entity_4 available, besides the entity_4 entity_2 with entity_5?
+no, entity_2 is the only one i have listed.
+what is the address of the entity_4 entity_2?
+entity_2 is located at entity_1.
+thank you, let's go to the entity_4 entity_2 at entity_1!
+i sent the info on your screen, you're welcome!
+car i'd like to have a entity_4 somewhere within entity_1: show me a quick route too please.
+here is a route to entity_3, entity_2.
+make sure the route to the entity_4 place entity_3 entity_2 is the quickest please.
+there is n't any traffic, heading to 792 bedoin street.
+great, thanks.
+you're welcome.
+will it be entity_3 in entity_2 this entity_1?
+it will be entity_3 on sunday in entity_2.
+thanks.
+no problem.
+will it entity_3 entity_1.
+which city would you like to find out if it's snowing in?
+will it entity_3 entity_1 in entity_2.
+entity_3 is predicted to fall in entity_2 today.
+thank you car.
+you're welcome!
+find directions to the entity_1 entity_3.
+there is no entity_3 nearby, the entity_4 is entity_2. would you like directions there?
+yes, please give me the address of the entity_4 entity_2 and directions to the entity_4 entity_2 via a route with entity_5.
+the entity_4 is reporting heavy traffic but i will still find the quickest route to 436 alger dr.
+thank you for all your help.
+you're welcome!
+what's the entity_3 for entity_1.
+what city should i check the entity_3 for?
+well, i need to know the entity_3 for entity_2, entity_1.
+the entity_3 for entity_2 entity_1 will be low of 60f, high of 80f, and also cloudy.
+thank you!
+you're welcome!
+where is the entity_2 entity_5.
+there is the entity_6 p.f. changs at entity_1, it's just entity_4.
+set gps for the entity_3 route to the entity_6 p.f. changs entity_4 at entity_1 with entity_7 of traffic.
+p.f. changs has no traffic at the moment. i am setting the navigation and we should arrive soon.
+that's great, thank you car!
+you're welcome!
+give me the entity_1 weather forecast.
+what city do you want to know the entity_1 forecast for?
+will it entity_3 during 7 days in entity_2?
+the weather forecast predicts it will entity_3 on saturday.
+okay thanks.
+you are welcome.
+give me directions to the entity_2 entity_4 food restaurant.
+the entity_2 entity_4 restaurant seems to be p.f. chang's at entity_3 with moderate traffic. do you want the address?
+just send the address of the entity_4 restaurant p.f. chang's entity_3 on my screen and let's go to the entity_4 restaurant p.f. chang's entity_3 through the quickest route, please!
+the address of p.f. changs is entity_1. we should be there shortly.
+pick a route to the entity_4 restaurant p.f. chang's entity_3 at entity_1 with no traffic and let's go to the entity_4 restaurant p.f. chang's entity_3 at entity_1. thank you!
+setting navigation now. enjoy!
+thanks for the help.
+you're welcome!
+i need directions to the entity_1 entity_4.
+we are entity_2 from entity_3: do you want me to send you its address on screen?
+yes, please, and pick a quick route to reach the entity_4 entity_3 entity_2 too, thank you!
+entity_3 is located at 452 arcadia pl. with no traffic. setting gps now.
+thank you car!
+no problem driver.
+check the entity_1 outlook to see what the entity_3 in entity_2 will be.
+over the next 7 days the days with the entity_3 will be wednesday and friday with a high of 90f.
+thanks.
+anytime.
+what is the weather like for entity_1.
+where are you located?
+will it be entity_4 entity_2 in entity_3?
+entity_2 in entity_3 it will be cloudy, there is n't a prediction for humidity.
+thank you.
+not a problem.
+find the entity_1 entity_4.
+there is entity_3 entity_3 1 miles away and p.f. changs 4 miles away: which one do you prefer?
+let's go for the entity_5 entity_3 entity_3 entity_2, please send the address of the entity_5 entity_3 entity_3 entity_2 on my screen along with the entity_6 route, thank you!
+entity_3 entity_3 is entity_2 at 113 arbol drive. we should n't be long in getting there.
+thank you.
+you're welcome, glad to help.
+how entity_3 is it going to be entity_1.
+what city do you need to know if it will be entity_3?
+how entity_3 is it going to be entity_1 in entity_2.
+entity_1 in entity_2 it will be windy on monday, clear skies on tuesday, hail on wednesday, lowest temperature on thursday, clear skies on friday, windy on saturday, dry on sunday.
+thank you!
+you're welcome!
+what entity_6 is entity_1?
+entity_4 	 and entity_5 are entity_3.
+which entity_3 entity_6, either the entity_3 entity_6 entity_4 or the entity_3 entity_6 entity_5, is entity_2?
+entity_5 is just 3 miles away and there is less traffic on its way than on the other entity_6. do you want me to set the navigation to go there?
+sure, thank you!
+you're welcome, glad to help.
+are there entity_3 in the forecast entity_1.
+for what city do you need information about entity_1's forecast?
+are there entity_3 in the forecast entity_1 in entity_2.
+it appears it will be windy- i do not have information about cloud cover.
+thanks.
+you're welcome.
+where can i go shopping?
+i have a listing for a entity_2 that is entity_1. want more info?
+give me the name of the entity_2 entity_1 and the address of the entity_2 entity_1.
+topanga mall is located at 171 oak road. want me to set the gps?
+yes please and thanks.
+you're welcome!
+what will the entity_3 be entity_1.
+what city do you want to know the entity_3?
+what will the entity_3 be entity_1 in entity_2.
+it will be between 80- 100f in entity_2 entity_1.
+thanks.
+anytime!
+get me the address to a local entity_3.
+there is a entity_3 but there is a car collison nearby that could delay your arrival but only one listed in area. do you want the details?
+yes, i want the address of the entity_3 with the entity_1.
+entity_2 is located at 610 amarillo ave, i sent its position with the quickest route on your screen.
+thank you!
+you're welcome!
+i need a entity_3 within entity_1.
+entity_2 is a entity_3 that is entity_1 away. need more info?
+yes, send me the address of the entity_3 entity_2 entity_1 away please.
+entity_2 is located at 214 el camino real.
+thank you!
+anytime!
+tell me the entity_3 for this entity_1.
+what city should i check the weekly entity_3 for?
+tell me the entity_3 for this entity_1 in entity_2.
+entity_2 has the following forecast: low of 60f and high of 70f on monday, low of 80f, high of 100f on tuesday, low of 50f, high of 70f on wednesday, low of 30f, high of 50f on thursday, low of 70f, high of 80f on friday, low of 50f, high of 60f on saturday, low of 40f, high of 50f on sunday.
+thanks.
+you're welcome!
+what time is my workout class today.
+your yoga class or entity_1?
+what time is my entity_1 today.
+your entity_1 class is scheduled for 10 am today.
+it's going to be entity_2 so i have to drive slow.
+what city will you be taking your drive in?
+entity_1, please.
+there are clear skies on entity_1 now but do n't go too fast!
+thank you car, do n't worry!
+you're welcome!
+set a reminder for an entity_2 at entity_4 on the entity_1- my entity_3 will be there as well.
+i will set a reminder for an entity_2 at entity_4 on the entity_1 with your entity_3 attending as well.
+thanks!
+you're welcome.
+what's the entity_1 forecast.
+what city do you want the weather for?
+will it be raining entity_2 in entity_3?
+no entity_4 is in the forecast for entity_3 entity_2.
+thanks!
+no problem!
+is it gon na entity_3 in entity_2 entity_1?
+the forecast does not predict entity_3 in entity_2 today or tomorrow.
+thanks.
+you're welcome, have a great day.
+can you help me find the entity_1 entity_3 entity_4?
+entity_2 is the entity_1.
+is there traffic to the entity_3 entity_2?
+there is moderate traffic.
+ok that's fine, set the gps for the entity_3 entity_2.
+i sent the info on your screen, drive carefully!
+tell me what the weather will be like entity_1.
+for what city would you like me to check entity_1's weather for?
+tell me what the weather will be like entity_1 in entity_2.
+the weather forecast for entity_2 says there will be clear skies with a low of 90f and a high of 100f entity_1.
+thank you.
+not a problem.
+what are the directions to the entity_1 entity_2.
+the entity_1 chinese restaraunt is panda express at 842 arrowhead way.
+thanks.
+you're welcome!
+what is the forecast for entity_1's weather.
+what city are you interested in?
+what is the forecast for entity_1's weather in entity_2.
+it will be windy with a low of 90f and a high of 100f in entity_2 entity_1.
+remind me about my entity_3 with the entity_4 on entity_2 the 1st.
+scheduling your entity_3 with the entity_4 on entity_2 the 1st, what time shall i add?
+remind me about my entity_3 with the entity_4 on entity_2 the 1st at entity_5 to entity_1.
+okay, setting a reminder about your entity_3 with the entity_4 on entity_2 the 1st at entity_5 to entity_1.
+thank you.
+no problem.
+what's the weather like entity_1.
+what city do you want the weather for?
+what's the weather like entity_1 in entity_2.
+the weather for entity_2 will be snow, low of 70f, high of 90f on monday, and hot, low of 70f, high of 90f on tuesday.
+thank you.
+no problem.
+give me directions to 5677 southwest 4th street.
+entity_1 is entity_2 with entity_3.
+sounds good, let's go to entity_1 entity_2 with entity_3. thanks for the help.
+you're welcome!
+check weather.
+what city would you like the weather for?
+i want to hear the entity_1 entity_3 for entity_2.
+monday will be cloudy in entity_2. tuesday will have a high temperature of 70f and a low of 50f.
+thank you car.
+you are welcome.
+how is the weather in the city entity_1.
+what city are you asking about?
+will there be any entity_4 entity_2 in entity_3?
+there will be no entity_4 for entity_3 entity_2.
+thank you!
+you're welcome!
+can you schedule a entity_2 at entity_3, the entity_1 of this month with the vice president?
+okay, i've got it scheduled for you. anything else?
+that's all, thank you!
+anytime!
+car is it going to entity_3 entity_1.
+what city should i check for entity_3?
+car is it going to entity_3 entity_1 in entity_2.
+it will not be snowing in entity_2 entity_1. it will be windy with a low of 50f and a high of 70f.
+thank you car!
+you're welcome!
+directions to entity_2 entity_4.
+the entity_2 entity_5 is entity_3 at 269 alger dr.
+ok, please direct me to the entity_5 entity_3 at entity_1 via the entity_6
+setting navigation now. there is heavy traffic, so drive carefully.
+thank you car!
+you're welcome; drive carefully, and enjoy.
+set a reminder for my entity_2 entity_1 at entity_4 with entity_3.
+okay, setting a reminder for your entity_2 entity_1 at entity_4 with entity_3.
+thanks.
+no problem.
+which days will be entity_3 entity_1.
+what city are you wanting to know if it's going to be entity_3?
+which days will be entity_3 entity_1 in entity_2.
+it will be entity_3 in entity_2 on friday.
+thank you.
+you're welcome!
+where do i live?
+entity_1 is at 56 cadwell street.
+thank you.
+you're welcome!
+set reminder for entity_2.
+is there a date or time for entity_2 that i should add to this reminder?
+set reminder for entity_2 entity_1 at entity_3.
+where is the location?
+there is no location to add to entity_2 entity_1 at entity_3.
+i have set a reminder for entity_2 at entity_3 entity_1.
+okay thank you.
+you are welcome.
+set a reminder to entity_2 with entity_3 at entity_4 on the tenth.
+reminder set for entity_3 to entity_2 on the entity_1 at entity_4.
+great, thanks.
+you are welcome.
+schedule dinner with my entity_2 at entity_3 on entity_1 the 1st.
+okay, scheduling a dinner with your entity_2 for entity_1 the 1st at entity_3.
+awesome, thanks.
+no problem.
+where can i get entity_5?
+there are 2 entity_5 stations near you, woud you like the entity_2 one?
+yes, what is the address of the entity_2 entity_5 station?
+the entity_4 is located at entity_1; it is entity_3 in entity_7.
+any entity_5 station, besides the entity_5 station entity_4 entity_3 at entity_1 with entity_7, entity_6?
+that is still the entity_2 entity_5 station.
+then let's go to the entity_5 station entity_4 entity_3 at entity_1 with entity_7, thank you car!
+you're welcome!
+what is my entity_4 address?
+jill lives at entity_1.
+is that the entity_2 to my friend entity_3 at entity_1?
+yes that route has no traffic noted.
+sounds great, let's go.
+okay.
+what is the entity_3 for the entity_1 forecast in entity_2?
+100f is the entity_3 predicted for the next two days in entity_2.
+thanks.
+anytime.
+schedule my entity_4 entity_2 on entity_1 with my entity_3.
+okay, i have scheduled your entity_2 for this entity_1 at entity_4 with your entity_3. anything else i can help with?
+list my current schedule.
+current schedule is empty.
+list my schedule for entity_1.
+okay, you have a entity_2 with your entity_3, at entity_4 on entity_1.
+thank you so much!
+happy to help.
+i need the time and parties for entity_1 please.
+for which one? i have three, one with jeff at 11 am. one with alex at 10 am, and one with your mother at 2 pm.
+that will do just fine, goodbye.
+you are welcome.
+what will the entity_3 be for the entity_1.
+what city do you want the entity_3 for?
+what will the entity_3 be for the entity_1 in entity_2.
+entity_1 the temperatures in entity_2 will be as follows: a low of 80f and a high of 100f on monday, a low of 30f and a high of 40f on tuesday, a low of 40f and a high of 50f on wednesday, a low of 50f and a high of 60f on thursday, a low of 40f and a high of 50f on friday, a low of 60f and a high of 70f on saturday, and a low of 80f and a high of 100f on sunday.
+thank you very much!
+you are very welcome!
+where can i get entity_3?
+there is entity_2 1 miles away from here but with heavy traffic on our way.
+can you pick a quick route to the entity_4 entity_2 entity_1 for me?
+setting quickest route to entity_2 on gps now.
+thanks so much.
+you're welcome, stay safe.
+get me directions to the entity_6 entity_3.
+there is no entity_3 listed locally, would you like directions to a different entity_5?
+yes please.
+there is a entity_4 entity_2. would you like directions?
+yes please.
+the address for entity_4 is entity_1.
+thank you car, please set the gps to get to the entity_5 entity_4 entity_2 at entity_1 on the entity_7 route.
+you're welcome, setting gps to quickest route. we will be there soon.
+schedule a entity_2 at entity_4 with my entity_3.
+sure! do you want me to schedule it for tomorrow?
+no, schedule my entity_2 at entity_4 with my entity_3 for entity_1.
+okay, scheduling your entity_2 for entity_1 at entity_4 with your entity_3.
+i need directions to a entity_2.
+i have a entity_2 that is entity_1. would you like info on it?
+yes, give me the address of the entity_2 entity_1.
+then let's go at sigona farmers market, the address is 638 amherst st, i sent it on your screen.
+sounds great. thank you.
+goodbye.
+are there entity_3 in entity_2 entity_1?
+it is warm and 80- 100f in entity_2 entity_1.
+thank you!
+you're welcome. glad to be of assistance.
+will it be entity_3 in entity_2 over the entity_1?
+it will be warm both monday and tuesday in entity_2.
+thank you very much.
+you're welcome. hope you have a great day.
+where does my friend live?
+your friend jill lives at entity_1. would you like to navigate there now?
+is there any traffic to my friend entity_2 at entity_1?
+there is no traffic listed on this route.
+thanks, let's go to my friend entity_2 at entity_1.
+i sent the best route on your screen, you're welcome!
+is my entity_1 on tuesday or wednesday.
+your doctor's appointment is on wednesday.
+okay thank you.
+you are welcome.
+please give me the address and directions via a route that avoids all entity_4 to a entity_2.
+the closest entity_2 is entity_3 at 638 amherst st. with entity_4 but still is the best option.
+mmm, i understand.. then let's go to the entity_2 entity_3 at entity_1 with entity_4, thank you car!
+okay, heading to entity_3.
+thank you.
+you're welcome!
+what's the weather like in entity_2.
+what days are you interested in?
+is it gon na entity_3 entity_1 in entity_2?
+it should not entity_3 in chicago on entity_1.
+thank you so much!
+you're very welcome.
+is it going to entity_3 entity_1.
+where should i check the forecast for entity_3?
+is it going to entity_3 entity_1 in entity_2.
+there is n't any entity_3 predicted to fall in entity_2 entity_1.
+great, thank you.
+no problem.
+is it going to entity_3 entity_1.
+what city do you want the weather for?
+is it going to entity_3 entity_1 in entity_2.
+it will not entity_3 in entity_2 entity_1.
+that is nice to know, goodbye.
+goodbye.
+remind me of the time for today's entity_2.
+entity_2 event time, entity_3, entity_1 evening.
+thank you.
+you are welcome.
+is entity_3 forecasted entity_1.
+what city can i give you the entity_3 information about?
+is entity_3 forecasted entity_1 in entity_2.
+it will entity_3 on wednesday in entity_2.
+thanks.
+you're welcome!
+can you give me directions to the entity_1 entity_3.
+the entity_1 entity_3 is the entity_2, 465 arcadia pl, it's 3 miles away.
+thank you.
+you are welcome.
+put my entity_2 appointment into the calendar it's entity_1 at entity_3 and remind me 2 hours before.
+reminding you of entity_2 appointment entity_1 at entity_3, will remind at entity_4.
+thank you!
+is there anything else i can do for you?
+no, thanks.
+you are welcome.
+what's the weather like in entity_2.
+what days are you inquiring about?
+will it entity_3 on entity_1 in entity_2?
+on entity_1 in new york there is n't any prediction for entity_3.
+awesome, thanks.
+you're welcome!
+set a reminder for entity_2 on entity_1 at entity_4 with my entity_3.
+setting reminder for entity_2 on entity_1 at entity_4 with entity_3.
+thanks.
+you are welcome.
+i'm looking for some entity_2.
+then let's go at entity_1, 271 springer street.
+sounds good.
+happy to help.
+please give me an address and directions via the entity_5 route to a local entity_4.
+entity_3 entity_4 is entity_2 at entity_1, there is n't any traffic.
+sounds perfect. set the navigation for the entity_4 entity_3 entity_2 at entity_1 with entity_6, thank you.
+navigation set, happy to help.
+i need directions to entity_1 and entity_2.
+your home is 7 miles away but there is a car collision nearby, i sent on your screen the best possible route.
+thank you car!
+you're welcome!
+what will the weather be like entity_1.
+for what location do you want entity_1's forecast?
+will it entity_3 entity_1 in entity_2?
+yes, the weather forecast is predicting entity_3 for entity_1 in entity_2.
+thanks.
+of course.
+set entity_1 for saturday entity_3 with the entity_2.
+okay, entity_1 with entity_2 on saturday at 11 is set.
+thank you.
+you are welcome.
+remind me that i need to entity_2 on the entity_1 at about entity_3.
+reminder has been set for 5pm at the entity_1.
+great. thanks.
+no problem.
+set a reminder for entity_2 with entity_3 at entity_4 on the entity_1.
+ok setting reminder of your entity_2 match with entity_3 on the 12th at 9:00 a.m.
+thank you.
+you're welcome.
+please give me an address and directions by the entity_6 to a entity_5 entity_2.
+the entity_4 is 1 miles away at entity_1, though there is a car collision entity_2. would you like directions there?
+yes.
+entity_4 is located at 333 arbol dr.
+thank you car, let's go to the entity_5 entity_4 entity_3 at entity_1 with a car collision entity_2.
+you are welcome.
+give me the entity_2 entity_6.
+the entity_2 one is entity_5, it's entity_3 but there is a entity_7.
+what's the address of the entity_6 entity_5 entity_3? i guess the entity_6 entity_5 entity_3 with a entity_7 will have to do.
+setting directions to entity_5 at entity_1. now.
+thank you car, please pick the entity_4 route to the entity_6 entity_5 entity_3 at entity_1!
+gps is set. drive carefully.
+is it gon na be entity_3 in entity_2 on entity_1?
+the low temperature for entity_2 on entity_1 is 90f with a high of 100f, it will be extremely entity_3.
+thank you car, this sounds great!
+you're welcome!
+what time is my entity_1 and who is coming?
+your entity_1 with martha is at 9 am.
+thanks.
+you are welcome.
+show me directions to the entity_1 entity_4.
+the entity_1 entity_4 entity_3 is entity_2 with entity_5, do you still want to go?
+yes i guess. program the address of the entity_4 entity_3 entity_2 and let's get going to the entity_4 entity_3 entity_2 with entity_5.
+setting gps now.
+what's the address of the entity_4 entity_3 entity_2, please? please direct me to the entity_4 entity_3 entity_2 via a entity_6.
+entity_3 is at 408 university ave. the only route i have is 5 miles through entity_5.
+that's ok, thank you.
+you're welcome!
+please schedule a entity_2 on entity_1 at entity_4 with my entity_3.
+will do, your entity_2 with entity_3 on entity_1 at entity_4 has been scheduled.
+thank you.
+my pleasure.
+that is all, thanks.
+goodbye.
+check out the entity_1 forecast to see if it will be entity_3 in entity_2.
+it will not be entity_3 in entity_2 next week.
+thanks, this is great!
+you're welcome!
+what time is my entity_2 at.
+i have one entity_2 on your calendar. it is entity_1 at entity_3.
+thank you.
+no problem.
+what is the weather entity_1 in entity_3.
+what days are you interested in?
+will it be entity_4 in entity_3 anytime entity_2?
+it should n't be entity_4 in entity_3 entity_2.
+thank you!
+glad to help.
+what is the weather entity_1.
+what location, specifically, are you asking about?
+i want to know if it is entity_3 in entity_2 entity_1.
+no entity_3 in entity_2 entity_1, the prediction is overcast.
+thank you!
+you're very welcome!
+find directions to entity_2.
+we're entity_1 from entity_2 and there is no traffic on our route, you should reach in few minutes.
+can you get me the address of entity_2 entity_1?
+the address to your entity_2 is 56 cadwell street.
+thanks so much for the information.
+you are welcome.
+give me the entity_1 weather forecast.
+where are you located?
+will it be entity_4 entity_2 in entity_3?
+entity_3 does not have any entity_4 weather prediction entity_2.
+thank you car!
+you're welcome!
+will it be entity_3 in entity_2 entity_1?
+it will not be entity_3 in entity_2 today or tomorrow.
+thank you.
+no problem.
+what is the entity_3 in entity_2?
+it will be 50f sunday in entity_2.
+thanks.
+you're welcome.
+where can i get entity_4?
+there is a entity_3 entity_2: would you like me to send you its address on the screen?
+what is the address of the entity_5 entity_3 entity_2?
+entity_3 is located at entity_1 but a car collision is noted nearby. do you still want to go there?
+yes, please, set the gps to go to the entity_5 entity_3 entity_2 at entity_1 with a entity_6, thank you!
+gps set, have a great day.
+from the two day forecast what will be the entity_2 in entity_1?
+the entity_2 in entity_1 is supposed to be 60f today, and 70f tomorrow.
+thanks.
+anytime.
+when is the next entity_2 day.
+for which city would you like to know when the next entity_2 day is?
+when is the next entity_2 day in entity_1.
+it will not be entity_2 in entity_1 next week.
+okay, thank you!
+you're welcome.
+schedule a entity_2 with entity_3 on the entity_1 at entity_4.
+your entity_2 with entity_3 on the entity_1 at entity_4 has been scheduled.
+thank you again.
+no problem.
+car please find for me the entity_3 route to get to some entity_5.
+there is a entity_1 entity_4.
+what is the address of the entity_4 entity_5 entity_1?
+the address for entity_1 is 436 alger dr.
+thanks set the gps to the entity_5 entity_1 at entity_2 please.
+you're welcome, gps set and you should arrive shortly.
+car i'm desiring to eat entity_6!
+entity_4 entity_4 and entity_5 are both entity_2.
+which entity_2 entity_6 restaurant, either the entity_2 entity_6 restaurant entity_4 entity_4 or the entity_2 entity_6 restaurant entity_5, is entity_1?
+entity_5 is entity_3 with a road block nearby.
+please pick the best route to the entity_6 restaurant entity_5 entity_3 for me and let's go to the entity_6 restaurant entity_5 entity_3!
+there is a road block nearby but i sent on your screen another route that should allow you to reach there fast enough.
+thank you car!
+you're welcome!
+send me to the entity_2 entity_5.
+the entity_2 entity_5 is entity_4 at entity_1, entity_3. setting directions now.
+where is the entity_5 entity_4 entity_3 at entity_1 and is there any traffic on the way to the entity_5 entity_4 entity_3 at entity_1?
+entity_4 is at entity_1 and moderate traffic is being noted.
+thank you.
+you're welcome!
+is there going to be entity_3 in entity_2 on entity_1?
+there will not be entity_3 in entity_2 on entity_1.
+thank you.
+you're welcome.
+schedule a new entity_2.
+what date and time should i schedule your entity_2?
+the entity_2 is today at entity_4 with entity_3 to entity_1.
+i am setting a new entity_2 in your calendar for today at entity_4 with entity_3 to entity_1.
+nothing else for now.
+no problem.
+will it be entity_3 in entity_2 or the entity_1?
+it will be between 80- 100f on tuesday in entity_2.
+thanks.
+sure.
+will it be entity_3 in entity_2 entity_1?
+it will be raining in entity_2 on tuesday.
+thank you.
+anytime.
+find entity_5.
+there is a entity_3 and a entity_4.
+is any of the entity_5 restaurants, either the entity_5 restaurant entity_3 or the entity_5 restaurant entity_4, entity_1 from our position?
+they are both entity_1. entity_3 is 3 miles away and entity_4 is entity_2.
+then let's go at the entity_5 restaurant entity_4 entity_2, please pick a route to the entity_5 restaurant entity_4 entity_2 with entity_6!
+setting route to entity_4 at 528 anton ct now.
+thank you car!
+you're welcome, have a great evening.
+i'm looking for a place to eat can you show me directions to the entity_1 entity_4.
+there is entity_3 	 entity_2: is it okay for you?
+sure, let's go to the entity_4 entity_3 entity_2, just pick a route to the entity_4 entity_3 entity_2 with entity_5 please.
+i highlighted its address on the map, drive carefully!
+set a reminder for my entity_2 entity_1.
+okay, reminder set for entity_2 entity_1.
+thank you.
+what time should i set the reminder for?
+what's the entity_3 going to be for entity_1.
+in what city can i check entity_1's entity_3?
+there will be any entity_4 entity_1 in entity_2?
+there will be no entity_4 in entity_2 next week.
+thank you.
+you're welcome, have a great day.
+will it be entity_3 on entity_1 in entity_2?
+it will not be entity_3 on entity_1 in entity_2.
+thanks.
+you are welcome.
+give me directions to the entity_1 where i can entity_5.
+you are two miles away from entity_4, would you like to get its address?
+yes, please, and also pick the entity_2 to the entity_6 entity_4 entity_3 for me!
+then we're going at 792 bedoin street, no traffic on our way, enjoy the trip!
+thanks!
+you're welcome!
+what will be the entity_3 in entity_2 on entity_1?
+on entity_1 the entity_3 in entity_2 is 70f.
+thanks.
+no problem.
+what is the forecast for the city this entity_1.
+what city do you need the forecast for?
+can you tell me if it will be entity_3 in entity_2 this entity_1?
+it will not be entity_3 in entity_2 this entity_1.
+great, thank you.
+you're welcome.
+where does my entity_3 live?
+entity_1. is the address.
+thank you.
+anything else?
+entity_2 am i now from my entity_3's entity_4 at entity_1?
+you're 3 miles away.
+thanks!
+you're welcome!
+set date for a entity_2.
+what is the date and time for the entity_2?
+set date for a entity_2 entity_1 at 11am.
+entity_2 has been set on entity_1   at entity_3.
+thanks.
+no problem.
+tell me when my entity_1 are scheduled for.
+your entity_1 are set for monday at 5 pm.
+alright, thanks.
+you are welcome.
+will san jose be hot any time this week?
+san jose will be hot on monday, thursday and saturday.
+thanks.
+you're welcome.
+i wanna go to my entity_2, it should be entity_1, can you show me their position on the map?
+jack lives at 864 almanor ln, it is shown on the map.
+i wanna go to my entity_2, it should be entity_1, can you show me my entity_2 position on the map?
+anytime!
+what's the weather like.
+for which day and city would you like to know the weather?
+what's the entity_1 weather like in entity_2.
+currently in entity_2 it is cloudy with a low of 30f and a high of 40f.
+thanks.
+you're welcome!
+what is the date and time of my next entity_1?
+your next entity_1 is on friday at 1 pm.
+thank you kindly.
+you're welcome!
+put my entity_1 in my calendar.
+what date and time is your entity_1 at?
+put my entity_1 in my calendar at entity_3 on entity_2.
+entity_1 in calendar for entity_3 on entity_2.
+i'm looking for some takeout chinese food.
+the nearest entity_4 is entity_2, though there is a road block nearby. would you like directions there?
+yes where is the entity_4 entity_2?
+entity_3 entity_3 is located at 113 arbol dr. setting navigation now.
+please direct me to the entity_4 entity_3 entity_3 entity_2 at entity_1 via the route that entity_5.
+avoiding heavy traffic on the way to entity_3 entity_3.
+thank you car!
+you're welcome!
+is it entity_3 in entity_2 entity_1?
+there is drizzle but no mist in entity_2 entity_1.
+thank you.
+you are welcome.
+is it entity_3 entity_1.
+which city do you want to know if it's gon na rain entity_1?
+is it entity_3 entity_1 in entity_2.
+it's gon na rain in entity_2 on tuesday and sunday.
+okay, thank you car!
+you're welcome!
+give me directions to the entity_2 entity_4.
+there is no entity_4 in the area, i'm sorry.
+are there any other coffee shops, besides the entity_5 entity_4, with the entity_7?
+entity_6 located at entity_1 is entity_3 without any traffic.
+please direct me to the entity_5 entity_6 entity_3 at entity_1 with entity_8, thank you.
+navigating to entity_1 now.
+thanks car!
+anytime!
+give me a entity_1 to a entity_5.
+we are 1 miles away from entity_4 with no traffic on our way and 1 miles away from entity_3 with moderate traffic: where would you like to go?
+yes what is the address of the entity_5 entity_4 entity_2 and the entity_5 entity_3 entity_2?
+sorry, i did n't understand which address would you like me to give you. would you prefer to go at entity_4 or at entity_3?
+i want the quickest entity_5 available, either the entity_5 entity_4 entity_2 or the entity_5 entity_3 entity_2, please.
+then let's go at entity_4, better if you get some coffee, the address is 452 arcadia pl.
+thank you car!
+you're welcome.
+what's the entity_3 in city.
+what city would you like to know the entity_3 about?
+what is the entity_3 for entity_1 in entity_2?
+the entity_3 range for next week goes from lows in the 20s to highs in the 100s for entity_2.
+thank you.
+you're welcome.
+set a reminder for entity_2 at entity_4 on the entity_1 with entity_3.
+setting reminder for entity_2 at entity_4 on the entity_1 with entity_3.
+okay, thanks.
+my pleasure.
+i'm looking for a place to shop for clothes that is around me. can you find such a place?
+yes entity_1 is 3 miles away. do you want the address?
+oh yes that sounds great.
+ravenswood is located at 434 arastradero rd. do you want me to set the gps?
+sure, thanks!
+happy to help.
+i need a entity_2
+i have one entity_2 want more info?
+what is the address of the gas station?
+entity_1 is at 91 el camino real.
+thank you!
+you're welcome, stay safe.
+where can i go entity_4?
+there is two entity_4 center, entity_2 and entity_3. do you have a preference?
+which entity_4 center, either the entity_4 center entity_2 or the entity_3 entity_4 center, is entity_1?
+entity_2 is entity_1.
+then pick the route to the entity_4 center entity_2 through the shortest distance and let's go to the entity_4 center entity_2, thank you!
+okay, heading to entity_2 at 383 university ave.
+is it entity_4 out.
+what city would you like to know if it is entity_4 in?
+check to see if it'll be entity_4 in entity_2 entity_1.
+it might entity_3 on sunday, do you need to know anything else?
+nope, thanks.
+you are welcome.
+schedule entity_2 with entity_3 on the entity_1 of this month at entity_4.
+reminder for entity_2 on the entity_1 at entity_4 with entity_3 is set.
+thanks!
+anytime.

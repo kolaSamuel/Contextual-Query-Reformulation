@@ -1,0 +1,744 @@
+<user> make an appointment to reserve room_1 later this week agenda_1.
+<user> make an appointment to reserve room_1 later this week agenda_1. <system> what day and time should i set an appointment to reserve the conference room? <user> make an appointment to reserve room_1 later this week date_1 at time_1 agenda_1.
+<user> is there supposed to be a weather_attribute_1 in location_1 on date_1?
+<user> is there supposed to be a weather_attribute_1 in location_1 on date_1? <system> on date_1 it's gon na rain in location_1. <user> thanks.
+<user> give me directions to distance_1 poi_type_1.
+<user> give me directions to distance_1 poi_type_1. <system> there is poi_1 distance_2 from here but with heavy traffic on our way. <user> give me the address of the poi_type_1 poi_1 distance_2.
+<user> give me directions to distance_1 poi_type_1. <system> there is poi_1 distance_2 from here but with heavy traffic on our way. <user> give me the address of the poi_type_1 poi_1 distance_2. <system> the address to poi_1 is address_1. <user> thank you car, please pick the quickest way to get to the poi_type_1 poi_1 distance_2 at address_1!
+<user> what is the date of our event_1 and who is attending?
+<user> what is the date of our event_1 and who is attending? <system> you have 2 dinners on your schedule. one on friday at 6 pm with your father and one on the 8th at 7 pm with your aunt. <user> thank you.
+<user> where can i go shopping?
+<user> where can i go shopping? <system> two shopping centers are located nearby. one is the topanga mall located 4 miles away and the other is ravenswood poi_type_1 that's distance_1. which do you prefer? <user> i want to go to the poi_1 poi_type_1 distance_1, give me the address of the poi_1 poi_type_1 distance_1 and then directions to the poi_1 poi_type_1 distance_1 with traffic_info_1.
+<user> where can i go shopping? <system> two shopping centers are located nearby. one is the topanga mall located 4 miles away and the other is ravenswood poi_type_1 that's distance_1. which do you prefer? <user> i want to go to the poi_1 poi_type_1 distance_1, give me the address of the poi_1 poi_type_1 distance_1 and then directions to the poi_1 poi_type_1 distance_1 with traffic_info_1. <system> the address is 434 arastradero rd, i picked the fastest route for you, it's on your screen. <user> thank you very much car!
+<user> what time is my event_1 and what is the agenda, also who is attending?
+<user> what time is my event_1 and what is the agenda, also who is attending? <system> for which one? i have one with sales team at 9 am to sign the nda, and i also have another with sales team at 1 pm to go over budget. <user> what time is my event_1 and what is the agenda of the event_1, also who is attending the event_1?
+<user> set a reminder for a event_1 at time_1 on date_1 with party_1.
+<user> set a reminder for a event_1 at time_1 on date_1 with party_1. <system> okay, setting a reminder for your event_1 at time_1 on date_1 with party_1. <user> thanks.
+<user> where can i get poi_type_1?
+<user> where can i get poi_type_1? <system> we're 1 miles away drom trader joes and there is moderate traffic on our way. <user> what is the address of the poi_type_2 poi_1 distance_1 and give me directions to the poi_type_2 poi_1 distance_1 with the fastesr route.
+<user> where can i get poi_type_1? <system> we're 1 miles away drom trader joes and there is moderate traffic on our way. <user> what is the address of the poi_type_2 poi_1 distance_1 and give me directions to the poi_type_2 poi_1 distance_1 with the fastesr route. <system> the quickest route to trader joes is distance_1 at 408 university avenue. <user> thanks!
+<user> when is my event_1?
+<user> when is my event_1? <system> your next event_1 activity is thursday at 3 pm with your brother. <user> thank you.
+<user> what's the weather like in location_1.
+<user> what's the weather like in location_1. <system> the weather in location_2 is predicted as a drizzle with lows in the 60s and highs in the 80s. <user> thanks, i would like to know if it will be weather_attribute_1 n location_2 on date_1 please.
+<user> what's the weather like in location_1. <system> the weather in location_2 is predicted as a drizzle with lows in the 60s and highs in the 80s. <user> thanks, i would like to know if it will be weather_attribute_1 n location_2 on date_1 please. <system> it will not be weather_attribute_1 in location_1 tomorrow. <user> thank you.
+<user> where is a poi_type_1.
+<user> where is a poi_type_1. <system> there are two chinese restaurants nearby: poi_1 distance_1 and poi_2 distance_2. <user> please tell me the chinese poi_type_1, either the chinese poi_type_1 poi_1 distance_1 or the chinese poi_type_1 poi_2 distance_2, with the traffic_info_1 and the details of the location.
+<user> where is a poi_type_1. <system> there are two chinese restaurants nearby: poi_1 distance_1 and poi_2 distance_2. <user> please tell me the chinese poi_type_1, either the chinese poi_type_1 poi_1 distance_1 or the chinese poi_type_1 poi_2 distance_2, with the traffic_info_1 and the details of the location. <system> poi_1 is distance_1 in moderate traffic, it is located at 271 springer street. <user> thank you.
+<user> what is the distance_1 poi_type_1?
+<user> what is the distance_1 poi_type_1? <system> poi_1 is the distance_1 poi_type_1. <user> please pick the distance_2 route to go to the distance_1 poi_type_1 poi_1 and send me the address of the distance_1 poi_type_1 poi_1 on my map.
+<user> what is the distance_1 poi_type_1? <system> poi_1 is the distance_1 poi_type_1. <user> please pick the distance_2 route to go to the distance_1 poi_type_1 poi_1 and send me the address of the distance_1 poi_type_1 poi_1 on my map. <system> poi_1 	 is at 611 ames ave. <user> thanks.
+<user> is it going to be weather_attribute_1 this date_1.
+<user> is it going to be weather_attribute_1 this date_1. <system> what city are you inquiring about? <user> is it going to be weather_attribute_1 this date_1 in location_1.
+<user> is it going to be weather_attribute_1 this date_1. <system> what city are you inquiring about? <user> is it going to be weather_attribute_1 this date_1 in location_1. <system> it will be weather_attribute_1 on saturday and hailing on sunday in location_1. <user> thanks.
+<user> is it gon na be weather_attribute_1 in location_1 on date_1?
+<user> is it gon na be weather_attribute_1 in location_1 on date_1? <system> on date_1 the forecast is predicted to be foggy in location_1. <user> thank you.
+<user> how's the weather in location_1.
+<user> how's the weather in location_1. <system> the weather in location_1 is hot today. are you interested in other days' forecast? <user> will it be weather_attribute_1 on date_1 in location_1?
+<user> how's the weather in location_1. <system> the weather in location_1 is hot today. are you interested in other days' forecast? <user> will it be weather_attribute_1 on date_1 in location_1? <system> on date_1 it will be dew! <user> thanks.
+<user> set an optometrist appointment for date_1.
+<user> set an optometrist appointment for date_1. <system> what time on date_1 should i set the appointment reminder? <user> set an optometrist appointment for date_1 at time_1 with my party_1.
+<user> set an optometrist appointment for date_1. <system> what time on date_1 should i set the appointment reminder? <user> set an optometrist appointment for date_1 at time_1 with my party_1. <system> okay great, i have that all set for you. can i help with anything else? <user> that is all, thanks!
+<user> can you please find me the time, date, and what is planned for the next event_1 i have scheduled in my calendar?
+<user> can you please find me the time, date, and what is planned for the next event_1 i have scheduled in my calendar? <system> your event_1 is on the 5th at 1 pm, the purpose is to go over the quarterly report. <user> thank you.
+<user> where's poi_type_1.
+<user> where's poi_type_1. <system> the nearest one is poi_1, it's distance_1. <user> can you get me a route to the poi_1 poi_type_1 distance_1 that avoids all traffic_info_1?
+<user> where's poi_type_1. <system> the nearest one is poi_1, it's distance_1. <user> can you get me a route to the poi_1 poi_type_1 distance_1 that avoids all traffic_info_1? <system> poi_1 has traffic_info_1 and is the only local one, is it okay? <user> yes get me the address of the poi_1 poi_type_1 distance_1.
+<user> where's poi_type_1. <system> the nearest one is poi_1, it's distance_1. <user> can you get me a route to the poi_1 poi_type_1 distance_1 that avoids all traffic_info_1? <system> poi_1 has traffic_info_1 and is the only local one, is it okay? <user> yes get me the address of the poi_1 poi_type_1 distance_1. <system> the address to poi_1 is 550 alester ave. <user> thanks so much.
+<user> give me directions to the distance_1 to poi_type_1.
+<user> give me directions to the distance_1 to poi_type_1. <system> there is poi_1 distance_3: does it sound good? <user> that's fine. please give me the address of the poi_type_2 poi_1 distance_3 and directions to the poi_type_2 poi_1 distance_3 via the distance_2 route.
+<user> give me directions to the distance_1 to poi_type_1. <system> there is poi_1 distance_3: does it sound good? <user> that's fine. please give me the address of the poi_type_2 poi_1 distance_3 and directions to the poi_type_2 poi_1 distance_3 via the distance_2 route. <system> the distance_2 route to poi_1 is with traffic_info_1 to address_1. <user> show me the route to the poi_type_2 poi_1 distance_3 at address_1 with traffic_info_1 please.
+<user> give me directions to the distance_1 to poi_type_1. <system> there is poi_1 distance_3: does it sound good? <user> that's fine. please give me the address of the poi_type_2 poi_1 distance_3 and directions to the poi_type_2 poi_1 distance_3 via the distance_2 route. <system> the distance_2 route to poi_1 is with traffic_info_1 to address_1. <user> show me the route to the poi_type_2 poi_1 distance_3 at address_1 with traffic_info_1 please. <system> i sent the route on your screen, drive carefully! <user> thank you car!
+<user> directions to the poi_type_1.
+<user> directions to the poi_type_1. <system> poi_1 is a poi_type_2 i can find. it is located at address_1. <user> can you give me a route to the poi_type_2 poi_1 at address_1 which is fast please.
+<user> directions to the poi_type_1. <system> poi_1 is a poi_type_2 i can find. it is located at address_1. <user> can you give me a route to the poi_type_2 poi_1 at address_1 which is fast please. <system> unfortunately there is a road block nearby but i sent on your screen another route to reach faster. <user> great thank you.
+<user> who is going to be at the event_1?
+<user> who is going to be at the event_1? <system> which one? there is one at time_1 on date_1, and there is another at time_2 on date_2. <user> who is going to be at the event_1, both the event_1 at time_1 on date_1 and the event_1 at time_2 on date_2?
+<user> please set reminder for the date_1 at time_1 for event_1. my party_1 is coming along.
+<user> please set reminder for the date_1 at time_1 for event_1. my party_1 is coming along. <system> okay reminder set for your event_1 appointment on the date_1 at time_1 with your party_1. <user> thank you.
+<user> what are some distance_1 poi_type_1.
+<user> what are some distance_1 poi_type_1. <system> the closest is poi_1 distance_2, then the clement poi_type_2 2 miles away, four seasons is 4 miles away and the westin is 5 miles away. <user> let's try the poi_type_2 poi_1 distance_2 what's the address of the poi_type_2 poi_1 distance_2 and how's the traffic to the poi_type_2 poi_1 distance_2?
+<user> what are some distance_1 poi_type_1. <system> the closest is poi_1 distance_2, then the clement poi_type_2 2 miles away, four seasons is 4 miles away and the westin is 5 miles away. <user> let's try the poi_type_2 poi_1 distance_2 what's the address of the poi_type_2 poi_1 distance_2 and how's the traffic to the poi_type_2 poi_1 distance_2? <system> there is a road block distance_1 on the route to 333 arbol dr. would you like directions there? <user> thank you for this route.
+<user> what's the forecast for location_1 date_1.
+<user> what's the forecast for location_1 date_1. <system> for what city did you need the forecast? <user> will it be weather_attribute_1 anytime date_2 in location_2?
+<user> what's the forecast for location_1 date_1. <system> for what city did you need the forecast? <user> will it be weather_attribute_1 anytime date_2 in location_2? <system> it will not be weather_attribute_1 in location_2 date_1. <user> thank you car!
+<user> what time and day is my event_1 on.
+<user> what time and day is my event_1 on. <system> your event_1 is on thursday at 2 pm. <user> thank you.
+<user> search for distance_1 poi_type_1.
+<user> search for distance_1 poi_type_1. <system> poi_1 is the closest pizza, would you like the address? <user> yes, please, send the address of the poi_type_2 poi_1 on my screen and show me the distance_2 to the poi_type_2 poi_1 too, thank you!
+<user> what's the weather supposed to be like in location_1 date_1.
+<user> what's the weather supposed to be like in location_1 date_1. <system> date_1 in location_2 will be rainy and windy with overcast skies. <user> will be weather_attribute_1 any day date_1 in location_1?
+<user> what's the weather supposed to be like in location_1 date_1. <system> date_1 in location_2 will be rainy and windy with overcast skies. <user> will be weather_attribute_1 any day date_1 in location_1? <system> there are n't any days predicted to be weather_attribute_1 in location_2 date_1. <user> thank you.
+<user> when is the date and time of my event_1?
+<user> when is the date and time of my event_1? <system> your event_1 is at 10 am on the 13th. <user> thank you.
+<user> on date_1 in location_1 will there be a weather_attribute_1?
+<user> on date_1 in location_1 will there be a weather_attribute_1? <system> the forecast does not predict a weather_attribute_1 in location_1 this date_1. <user> thank you car!
+<user> what time is my next event_1 and who will be attending?
+<user> what time is my next event_1 and who will be attending? <system> your next event_1 is on date_1 with your party_1. <user> what is the scheduled time for the event_1 on date_1 with my party_1?
+<user> what time is my next event_1 and who will be attending? <system> your next event_1 is on date_1 with your party_1. <user> what is the scheduled time for the event_1 on date_1 with my party_1? <system> your date_1 event_1 with your party_1 is at 9 am. <user> okay thanks.
+<user> show me date_1's forecast.
+<user> show me date_1's forecast. <system> what city do you want the weather for? <user> is it going to weather_attribute_1 date_1 in location_1?
+<user> show me date_1's forecast. <system> what city do you want the weather for? <user> is it going to weather_attribute_1 date_1 in location_1? <system> there is no weather_attribute_1 forecasted for location_1 date_1. <user> thanks!
+<user> date_1 in location_1, will it be weather_attribute_1?
+<user> date_1 in location_1, will it be weather_attribute_1? <system> yes, location_1 is predicted to be weather_attribute_1 date_1. <user> thank you car!
+<user> take me to a poi_type_1.
+<user> take me to a poi_type_1. <system> poi_1 is the nearest poi_type_1 at address_1. <user> is the poi_type_1 poi_1 at address_1 the distance_1 option?
+<user> take me to a poi_type_1. <system> poi_1 is the nearest poi_type_1 at address_1. <user> is the poi_type_1 poi_1 at address_1 the distance_1 option? <system> yes the route to address_1 is the distance_1 available. <user> that's good, please send me the address of the poi_type_1 poi_1 at address_1 on the screen, thank you!
+<user> can you kindly schedule a event_1 at time_1, date_1 with party_1 to agenda_1?
+<user> can you kindly schedule a event_1 at time_1, date_1 with party_1 to agenda_1? <system> scheduling event_1 for time_1 date_1 with party_1 to agenda_1. do you have a specific day in mind? <user> can you kindly schedule a event_1 at time_1, date_2 date_1 with party_1 to agenda_1?
+<user> can you kindly schedule a event_1 at time_1, date_1 with party_1 to agenda_1? <system> scheduling event_1 for time_1 date_1 with party_1 to agenda_1. do you have a specific day in mind? <user> can you kindly schedule a event_1 at time_1, date_2 date_1 with party_1 to agenda_1? <system> anything else? <user> no that was everything, thanks.
+<user> set reminder for event_1 at 9am on date_1 with party_1.
+<user> set reminder for event_1 at 9am on date_1 with party_1. <system> okay setting reminder for your meeting with the party_1 on date_1 at 9am. <user> thank you.
+<user> what will the weather_attribute_1 be for the date_1.
+<user> what will the weather_attribute_1 be for the date_1. <system> what city are you interested in? <user> what will the weather_attribute_1 be for the date_1 in location_1.
+<user> what will the weather_attribute_1 be for the date_1. <system> what city are you interested in? <user> what will the weather_attribute_1 be for the date_1 in location_1. <system> it will be between 60- 70f on monday and tuesday in location_1.   70- 90f on wednesday, 80- 100f on thursday, 60- 70f on friday, 80- 100f on saturday, and 90- 100f on sunday. <user> thanks.
+<user> i'm in need of a poi_type_1.
+<user> i'm in need of a poi_type_1. <system> we're distance_2 from poi_1 and 6 miles away from round table: do they sound good? <user> they sound great! please pick a quick route to the poi_type_1 poi_1 distance_2, thank you!
+<user> i'm in need of a poi_type_1. <system> we're distance_2 from poi_1 and 6 miles away from round table: do they sound good? <user> they sound great! please pick a quick route to the poi_type_1 poi_1 distance_2, thank you! <system> poi_1 is the distance_1. navigating to address_1. there is traffic_info_1 on the route. <user> that sounds good. please start directions to the poi_type_1 poi_1 distance_2 at address_1 with traffic_info_1.
+<user> tell me when my next event_1 is.
+<user> tell me when my next event_1 is. <system> your next tennis activity is on wednesday at 1 pm. <user> great.
+<user> what time and date is my event_1?
+<user> what time and date is my event_1? <system> your event_1 is scheduled on friday at 4 pm. <user> thank you!
+<user> what is the date and time of my next event_1?
+<user> what is the date and time of my next event_1? <system> you have two, one at 4 pm on the 17th, and one at 6 pm on tuesday. <user> thank you.
+<user> navigate to the distance_1 poi_type_1.
+<user> navigate to the distance_1 poi_type_1. <system> navigating you to poi_1. <user> please send me the address of the poi_type_1 poi_1 on screen and pick the distance_2 route to the poi_type_1 poi_1 for me, thank you!
+<user> navigate to the distance_1 poi_type_1. <system> navigating you to poi_1. <user> please send me the address of the poi_type_1 poi_1 on screen and pick the distance_2 route to the poi_type_1 poi_1 for me, thank you! <system> poi_1 is at 792 bedoin street. <user> thanks!
+<user> where is a poi_type_1 in the area?
+<user> where is a poi_type_1 in the area? <system> i have a listing for a poi_type_1 named poi_1 and its distance_1. <user> what is the address of the poi_type_1 poi_1 distance_1?
+<user> where is a poi_type_1 in the area? <system> i have a listing for a poi_type_1 named poi_1 and its distance_1. <user> what is the address of the poi_type_1 poi_1 distance_1? <system> its address is 899 ames ct, unfortunately there is heavy traffic on our way: what to do? <user> that is ok, thanks.
+<user> add event_1 in room_1 the calendar.
+<user> add event_1 in room_1 the calendar. <system> what day and time is the event_1? <user> add event_1 at time_1 on date_1 with party_1 to agenda_1 in room_1 the calendar.
+<user> add event_1 in room_1 the calendar. <system> what day and time is the event_1? <user> add event_1 at time_1 on date_1 with party_1 to agenda_1 in room_1 the calendar. <system> setting event_1 at time_1 on date_1 with party_1 to agenda_1. <user> perfect. nothing else for now.
+<user> will it be weather_attribute_1 in location_1 over the date_1?
+<user> will it be weather_attribute_1 in location_1 over the date_1? <system> it will be stormy on tuesday and there will be rain on wednesday in location_1. <user> thank you car!
+<user> what day and time is my event_1 activity?
+<user> what day and time is my event_1 activity? <system> your event_1 activity is on wednesday at 7 pm. <user> alright, thanks.
+<user> find me a poi_1 room for tonight.
+<user> find me a poi_1 room for tonight. <system> you have three possible rest stops, one distance_2, one distance_3, and one distance_4. <user> which poi_type_1, either the poi_type_1 distance_2, the poi_type_1 distance_3, or the poi_type_1 distance_4, is the distance_1?
+<user> find me a poi_1 room for tonight. <system> you have three possible rest stops, one distance_2, one distance_3, and one distance_4. <user> which poi_type_1, either the poi_type_1 distance_2, the poi_type_1 distance_3, or the poi_type_1 distance_4, is the distance_1? <system> poi_2 appears to be the fastest at distance_3 and traffic_info_1. do you need the address? <user> yes, please, and set the navigation to the poi_type_1 poi_2 distance_3 with traffic_info_1 too.
+<user> find me a poi_1 room for tonight. <system> you have three possible rest stops, one distance_2, one distance_3, and one distance_4. <user> which poi_type_1, either the poi_type_1 distance_2, the poi_type_1 distance_3, or the poi_type_1 distance_4, is the distance_1? <system> poi_2 appears to be the fastest at distance_3 and traffic_info_1. do you need the address? <user> yes, please, and set the navigation to the poi_type_1 poi_2 distance_3 with traffic_info_1 too. <system> poi_2 is located at address_1. setting navigation now. <user> thank you.
+<user> what is the weather.
+<user> what is the weather. <system> where are you interested in the weather for? <user> what is the weather in location_1.
+<user> what is the weather. <system> where are you interested in the weather for? <user> what is the weather in location_1. <system> in location_1 right now, it is warm, with a low of 60f and a high of 70f. <user> thank you!
+<user> what time is the event_1 this week.
+<user> what time is the event_1 this week. <system> the event_1 is on friday at 11 am. <user> thank you car.
+<user> find me the traffic_info_1 to the distance_1 poi_type_1 around.
+<user> find me the traffic_info_1 to the distance_1 poi_type_1 around. <system> there is poi_1 distance_2 but with heavy traffic on its direction: do you want me to set the navigation there? <user> yes please. thanks for the help.
+<user> find me the traffic_info_1 to the distance_1 poi_type_1 around. <system> there is poi_1 distance_2 but with heavy traffic on its direction: do you want me to set the navigation there? <user> yes please. thanks for the help. <system> setting gps now. <user> would you give me the address of the poi_type_1 poi_1 distance_2 please?
+<user> find me the traffic_info_1 to the distance_1 poi_type_1 around. <system> there is poi_1 distance_2 but with heavy traffic on its direction: do you want me to set the navigation there? <user> yes please. thanks for the help. <system> setting gps now. <user> would you give me the address of the poi_type_1 poi_1 distance_2 please? <system> the address_1 is address_2. <user> thank you car, let's go to the poi_type_1 poi_1 distance_2 at address_2!
+<user> i'm not feeling well show me the traffic_info_1 route to the distance_1 poi_type_1.
+<user> i'm not feeling well show me the traffic_info_1 route to the distance_1 poi_type_1. <system> the distance_1 poi_type_1 is 5 miles away at 899 ames ct, there is heavy traffic on the way. <user> thanks.
+<user> where is the distance_1 poi_type_1?
+<user> where is the distance_1 poi_type_1? <system> the distance_1 poi_type_1 is 76 at 4 miles away but a road block is nearby. <user> thanks for the information.
+<user> on date_1 will there be weather_attribute_1 in location_1?
+<user> on date_1 will there be weather_attribute_1 in location_1? <system> in location_1 the weather will be stormy on date_1. <user> thanks.
+<user> what time is my event_1 and who is attending?
+<user> what time is my event_1 and who is attending? <system> which one? i have two, one for 11 am with ana, and one for 6 pm with job. <user> what time is my event_1 and who is attending my event_1?
+<user> is it going to weather_attribute_1 sometime date_1.
+<user> is it going to weather_attribute_1 sometime date_1. <system> what city are you wanting to know if it's going to weather_attribute_1? <user> is it going to weather_attribute_1 sometime date_1 in location_1.
+<user> is it going to weather_attribute_1 sometime date_1. <system> what city are you wanting to know if it's going to weather_attribute_1? <user> is it going to weather_attribute_1 sometime date_1 in location_1. <system> in location_1, it will weather_attribute_1 on tuesday and wednesday. <user> thanks!
+<user> please give me the address and directions via the distance_1 route to a poi_type_1 nearby.
+<user> please give me the address and directions via the distance_1 route to a poi_type_1 nearby. <system> the distance_1 route to the poi_type_1 is address_1. at distance_3 with a road block nearby. do you want to go to poi_1? <user> yes, please pick the distance_2 distance to get to the poi_type_1 poi_1 distance_3 at address_1, thank you!
+<user> take me to the distance_1 poi_1.
+<user> take me to the distance_1 poi_1. <system> there is no poi_1 nearby. <user> do you have any distance_2 poi_type_1, besides the poi_type_2 poi_1?
+<user> take me to the distance_1 poi_1. <system> there is no poi_1 nearby. <user> do you have any distance_2 poi_type_1, besides the poi_type_2 poi_1? <system> there is poi_2, it's just distance_4 but there is heavy traffic on our way. <user> pick the distance_3 way to the poi_type_2 poi_2 distance_4 and let's go to the poi_type_2 poi_2 distance_4, thank you!
+<user> take me to the distance_1 poi_1. <system> there is no poi_1 nearby. <user> do you have any distance_2 poi_type_1, besides the poi_type_2 poi_1? <system> there is poi_2, it's just distance_4 but there is heavy traffic on our way. <user> pick the distance_3 way to the poi_type_2 poi_2 distance_4 and let's go to the poi_type_2 poi_2 distance_4, thank you! <system> poi_2 is located at 394 van ness avenue. setting the distance_3 route on gps. <user> thank you.
+<user> what is the weather like in location_1 date_1.
+<user> what is the weather like in location_1 date_1. <system> what can i tell you about date_1's weather in location_1? <user> i want to find out if it will weather_attribute_1 date_1 in location_1.
+<user> what is the weather like in location_1 date_1. <system> what can i tell you about date_1's weather in location_1? <user> i want to find out if it will weather_attribute_1 date_1 in location_1. <system> it will not weather_attribute_1 date_1 in location_1. <user> thanks.
+<user> i need the address of a the poi_type_1 that i can get to the distance_1 from here.
+<user> i need the address of a the poi_type_1 that i can get to the distance_1 from here. <system> poi_1 is distance_2 but there is heavy traffic on our way. do you want me to set the gps to get there? <user> yes, please, just pick the distance_1 route to the poi_1 poi_type_1 distance_2 and let's go to the poi_1 poi_type_1 distance_2!
+<user> i need the address of a the poi_type_1 that i can get to the distance_1 from here. <system> poi_1 is distance_2 but there is heavy traffic on our way. do you want me to set the gps to get there? <user> yes, please, just pick the distance_1 route to the poi_1 poi_type_1 distance_2 and let's go to the poi_1 poi_type_1 distance_2! <system> the distance_1 route is 773 alger dr and is set. <user> thanks for all the help.
+<user> what is my poi_type_1 address?
+<user> what is my poi_type_1 address? <system> poi_1 is located at address_1. anything else? <user> how's the traffic to my friend poi_1 at address_1?
+<user> what is my poi_type_1 address? <system> poi_1 is located at address_1. anything else? <user> how's the traffic to my friend poi_1 at address_1? <system> there is traffic_info_2 on the way to poi_1. <user> perfect. let's go to my friend poi_1 at address_1 with traffic_info_1
+<user> what is my poi_type_1 address? <system> poi_1 is located at address_1. anything else? <user> how's the traffic to my friend poi_1 at address_1? <system> there is traffic_info_2 on the way to poi_1. <user> perfect. let's go to my friend poi_1 at address_1 with traffic_info_1 <system> okay, we're on the way now! <user> thank you.
+<user> i need a poi_type_1.
+<user> i need a poi_type_1. <system> poi_1 is distance_1. <user> farther than i wish but patience.. please send me the traffic_info_1 to get to the poi_type_1 poi_1 distance_1, thank you!
+<user> i need a poi_type_1. <system> poi_1 is distance_1. <user> farther than i wish but patience.. please send me the traffic_info_1 to get to the poi_type_1 poi_1 distance_1, thank you! <system> sure, it's just distance_1 at 657 ames avenue. <user> please give me a quick route to the poi_type_1 poi_1 distance_1 at 657 ames avenue. thank you.
+<user> i need a poi_type_1. <system> poi_1 is distance_1. <user> farther than i wish but patience.. please send me the traffic_info_1 to get to the poi_type_1 poi_1 distance_1, thank you! <system> sure, it's just distance_1 at 657 ames avenue. <user> please give me a quick route to the poi_type_1 poi_1 distance_1 at 657 ames avenue. thank you. <system> setting route to 657 ames avenue now. <user> thank you car!
+<user> what is my poi_type_1's address?
+<user> what is my poi_type_1's address? <system> jill or jack? <user> what is my poi_type_1's, either my friend poi_1 or my friend poi_2, address, who is closest?
+<user> what is my poi_type_1's address? <system> jill or jack? <user> what is my poi_type_1's, either my friend poi_1 or my friend poi_2, address, who is closest? <system> jack is closer. <user> what is the address of my friend poi_2?
+<user> what is my poi_type_1's address? <system> jill or jack? <user> what is my poi_type_1's, either my friend poi_1 or my friend poi_2, address, who is closest? <system> jack is closer. <user> what is the address of my friend poi_2? <system> 864 almanor ln, it's 3 miles away, i sent his address on your screen. <user> thanks.
+<user> i have an event_1 at time_1 on date_1 with party_1.
+<user> i have an event_1 at time_1 on date_1 with party_1. <system> okay making event_1 with party_1 on date_1 at time_1. <user> thanks!
+<user> will it weather_attribute_1 in location_1 in the date_1?
+<user> will it weather_attribute_1 in location_1 in the date_1? <system> it will not weather_attribute_1 in location_1 date_1. <user> thank you.
+<user> where is my poi_1?
+<user> where is my poi_1? <system> you live at address_1. <user> yes, yes, right, i need my morning coffee.. please pick the distance_1 to go back poi_1 at address_1!
+<user> where is my poi_1? <system> you live at address_1. <user> yes, yes, right, i need my morning coffee.. please pick the distance_1 to go back poi_1 at address_1! <system> we're 2 miles away and there is no traffic, i sent the route on your screen, keep your eyes open on the road! <user> thank you car!
+<user> find me a distance_1 poi_type_1 where i can sit and have some coffee.
+<user> find me a distance_1 poi_type_1 where i can sit and have some coffee. <system> the poi_1 is located at address_1, it is distance_3 with moderate traffic. <user> that's great! please send me the address of the poi_type_1 poi_1 distance_3 at address_1 on screen and pick the distance_2 to the poi_type_1 poi_1 distance_3 at address_1 for me.
+<user> where is the distance_1 poi_type_1?
+<user> where is the distance_1 poi_type_1? <system> poi_1 is distance_2. <user> do you have for me a route with traffic_info_1 to reach the poi_type_1 poi_1 distance_2?
+<user> where is the distance_1 poi_type_1? <system> poi_1 is distance_2. <user> do you have for me a route with traffic_info_1 to reach the poi_type_1 poi_1 distance_2? <system> poi_1 route is reporting a car collision nearby. do you still want to go there? <user> yes i need to rest.
+<user> where is the distance_1 poi_type_1? <system> poi_1 is distance_2. <user> do you have for me a route with traffic_info_1 to reach the poi_type_1 poi_1 distance_2? <system> poi_1 route is reporting a car collision nearby. do you still want to go there? <user> yes i need to rest. <system> i sent the best available route on your screen, drive carefully! <user> thanks!
+<user> what time is the event_1 and who is going?
+<user> what time is the event_1 and who is going? <system> i have two, one at 1 pm with father, and one at 7 pm with party_1. <user> what time is the event_1 with party_1 and who is going to the event_1 with party_1?
+<user> what time is the event_1 and who is going? <system> i have two, one at 1 pm with father, and one at 7 pm with party_1. <user> what time is the event_1 with party_1 and who is going to the event_1 with party_1? <system> the event_1 with party_1 is at 7 pm. <user> thanks!
+<user> will it weather_attribute_1 date_1.
+<user> will it weather_attribute_1 date_1. <system> for which city would you like to know if there is going to be weather_attribute_1 date_1? <user> will it weather_attribute_1 date_1 in location_1.
+<user> will it weather_attribute_1 date_1. <system> for which city would you like to know if there is going to be weather_attribute_1 date_1? <user> will it weather_attribute_1 date_1 in location_1. <system> it will drizzle tuesday, saturday, and sunday in location_1. <user> thanks.
+<user> what is date_1's forecast.
+<user> what is date_1's forecast. <system> what city would you like date_1's forecast for? <user> what is date_1's forecast in location_1.
+<user> what is date_1's forecast. <system> what city would you like date_1's forecast for? <user> what is date_1's forecast in location_1. <system> date_1 in location_1 it is cloudy with a temperature between 70- 80f. <user> okay, thank you.
+<user> give me directions to the nearest poi_type_1.
+<user> give me directions to the nearest poi_type_1. <system> navigating you to poi_1 poi_1. <user> can you give me the quickest route to the poi_type_1 poi_1 poi_1?
+<user> give me directions to the nearest poi_type_1. <system> navigating you to poi_1 poi_1. <user> can you give me the quickest route to the poi_type_1 poi_1 poi_1? <system> setting gps to quickest route for poi_1 poi_1 which has no traffic. <user> thank you car, please send me the address of the poi_type_1 poi_1 poi_1 on screen!
+<user> is it weather_attribute_1 in location_1 date_1?
+<user> is it weather_attribute_1 in location_1 date_1? <system> it is not weather_attribute_1 in location_1 date_1. <user> thanks.
+<user> what grocery stores are distance_1?
+<user> what grocery stores are distance_1? <system> we're 1 miles away from poi_1 and there is no traffic on our way: set the gps to go there? <user> what is the address of the poi_type_1 poi_1 distance_2?
+<user> what grocery stores are distance_1? <system> we're 1 miles away from poi_1 and there is no traffic on our way: set the gps to go there? <user> what is the address of the poi_type_1 poi_1 distance_2? <system> poi_1 is at address_1. <user> let's go to the poi_type_1 poi_1 distance_2 at address_1 through the route with the distance_3 distance please.
+<user> what grocery stores are distance_1? <system> we're 1 miles away from poi_1 and there is no traffic on our way: set the gps to go there? <user> what is the address of the poi_type_1 poi_1 distance_2? <system> poi_1 is at address_1. <user> let's go to the poi_type_1 poi_1 distance_2 at address_1 through the route with the distance_3 distance please. <system> taking you there on the distance_3 distance. <user> thanks!
+<user> take me to the distance_1 poi_1 place i can buy groceries.
+<user> take me to the distance_1 poi_1 place i can buy groceries. <system> poi_2 is the only grocery store i can find. it is 5 miles away. <user> that will be fine, thank you.
+<user> search poi_type_1 near me.
+<user> search poi_type_1 near me. <system> there is a four seasons and a hotel keen distance_1. <user> give me the address of a poi_type_2 distance_1.
+<user> search poi_type_1 near me. <system> there is a four seasons and a hotel keen distance_1. <user> give me the address of a poi_type_2 distance_1. <system> the nearest poi_type_2 is at 465 arcadia pl. <user> thanks!
+<user> what's the weather_attribute_1 going to be like date_1.
+<user> what's the weather_attribute_1 going to be like date_1. <system> for what city? <user> what's the weather_attribute_1 going to be like date_1 in location_1.
+<user> what's the weather_attribute_1 going to be like date_1. <system> for what city? <user> what's the weather_attribute_1 going to be like date_1 in location_1. <system> date_2's weather_attribute_1 in location_1 will have a low of 30 f and a high of 40f. date_3's weather_attribute_1 will be a low of 80f and a high of 90f. <user> thank you!
+<user> i need you to set a reminder for me to event_1. set it for time_1, the date_1 with party_1, please.
+<user> i need you to set a reminder for me to event_1. set it for time_1, the date_1 with party_1, please. <system> alright, setting a reminder at time_1 to event_1 on the date_1 with party_1. <user> thank you.
+<user> what is poi_type_1?
+<user> what is poi_type_1? <system> poi_1 is programmed as address_1. <user> please give me the shortest route to poi_1 at address_1.
+<user> what is poi_type_1? <system> poi_1 is programmed as address_1. <user> please give me the shortest route to poi_1 at address_1. <system> the route to poi_1 does not have any traffic, you should arrive quickly being that it is 1 mile away. <user> awesome, thank you.
+<user> find the distance_1 poi_type_1.
+<user> find the distance_1 poi_type_1. <system> the distance_1 poi_type_1 is poi_1 on 269 alger dr. <user> ok, please direct me to the poi_type_1 poi_1 at address_1 via a route that avoids all traffic_info_1 traffic.
+<user> find the distance_1 poi_type_1. <system> the distance_1 poi_type_1 is poi_1 on 269 alger dr. <user> ok, please direct me to the poi_type_1 poi_1 at address_1 via a route that avoids all traffic_info_1 traffic. <system> there is a traffic_info_2 on the route to poi_1. <user> that is fine, just give directions to the poi_type_1 poi_1 at address_1 with a traffic_info_2 around the traffic.
+<user> find the distance_1 poi_type_1. <system> the distance_1 poi_type_1 is poi_1 on 269 alger dr. <user> ok, please direct me to the poi_type_1 poi_1 at address_1 via a route that avoids all traffic_info_1 traffic. <system> there is a traffic_info_2 on the route to poi_1. <user> that is fine, just give directions to the poi_type_1 poi_1 at address_1 with a traffic_info_2 around the traffic. <system> unfortunately there is a car collision nearby. do you want me to set the gps anyway? <user> how distance_2 is the poi_type_1 poi_1 at address_1?
+<user> find the distance_1 poi_type_1. <system> the distance_1 poi_type_1 is poi_1 on 269 alger dr. <user> ok, please direct me to the poi_type_1 poi_1 at address_1 via a route that avoids all traffic_info_1 traffic. <system> there is a traffic_info_2 on the route to poi_1. <user> that is fine, just give directions to the poi_type_1 poi_1 at address_1 with a traffic_info_2 around the traffic. <system> unfortunately there is a car collision nearby. do you want me to set the gps anyway? <user> how distance_2 is the poi_type_1 poi_1 at address_1? <system> distance_3. <user> yes, please direct me to the poi_type_1 poi_1 distance_3 at address_1 via the route with traffic_info_3
+<user> find the distance_1 poi_type_1. <system> the distance_1 poi_type_1 is poi_1 on 269 alger dr. <user> ok, please direct me to the poi_type_1 poi_1 at address_1 via a route that avoids all traffic_info_1 traffic. <system> there is a traffic_info_2 on the route to poi_1. <user> that is fine, just give directions to the poi_type_1 poi_1 at address_1 with a traffic_info_2 around the traffic. <system> unfortunately there is a car collision nearby. do you want me to set the gps anyway? <user> how distance_2 is the poi_type_1 poi_1 at address_1? <system> distance_3. <user> yes, please direct me to the poi_type_1 poi_1 distance_3 at address_1 via the route with traffic_info_3 <system> ok, setting navigation now. <user> thank you car assistant.
+<user> next week will it be weather_attribute_1 date_1 in location_1?
+<user> next week will it be weather_attribute_1 date_1 in location_1? <system> this week it's not gon na be weather_attribute_1 in location_1. <user> thank you car!
+<user> car i need to get poi_1, it should be near me, please highlight its position on the map.
+<user> car i need to get poi_1, it should be near me, please highlight its position on the map. <system> your poi_1 is at address_1. <user> avoid all traffic_info_1 to poi_1 at address_1 and let's go to poi_1 at address_1, thank you!
+<user> car i need to get poi_1, it should be near me, please highlight its position on the map. <system> your poi_1 is at address_1. <user> avoid all traffic_info_1 to poi_1 at address_1 and let's go to poi_1 at address_1, thank you! <system> setting gps to avoid any traffic_info_1. your route is now set. <user> thanks so much.
+<user> what day and time is my event_1?
+<user> what day and time is my event_1? <system> your event_1 is on the 4th at 3 pm. <user> thanks.
+<user> get me the weather report for date_1.
+<user> get me the weather report for date_1. <system> what city would you like the weather report from? <user> i wanna know if it will weather_attribute_1 date_1 in location_1.
+<user> get me the weather report for date_1. <system> what city would you like the weather report from? <user> i wanna know if it will weather_attribute_1 date_1 in location_1. <system> it's not gon na weather_attribute_1 in location_1 date_1. <user> thank you.
+<user> give me date_1's weather_attribute_1.
+<user> give me date_1's weather_attribute_1. <system> what city would you like to know the weather_attribute_1 of? <user> give me date_1's weather_attribute_1 for location_1.
+<user> give me date_1's weather_attribute_1. <system> what city would you like to know the weather_attribute_1 of? <user> give me date_1's weather_attribute_1 for location_1. <system> date_1 the highest temperature in location_1 will be 90f on friday and sunday. <user> thank you.
+<user> what time is my event_1 for this date_1.
+<user> what time is my event_1 for this date_1. <system> your tennis activity is scheduled for time_1 on tuesday, nothing is scheduled for date_1. <user> oh okay well thank you car.
+<user> does the forecast say it will weather_attribute_1.
+<user> does the forecast say it will weather_attribute_1. <system> what city do you want the weather for? <user> does the forecast say it will weather_attribute_1 in location_1.
+<user> does the forecast say it will weather_attribute_1. <system> what city do you want the weather for? <user> does the forecast say it will weather_attribute_1 in location_1. <system> it is not forecasted to weather_attribute_1 in location_1 this week. <user> thanks.
+<user> find directions to distance_1 poi_1.
+<user> find directions to distance_1 poi_1. <system> there is no poi_1 in your area but there are other coffee places near by. would you like more info? <user> yes.
+<user> find directions to distance_1 poi_1. <system> there is no poi_1 in your area but there are other coffee places near by. would you like more info? <user> yes. <system> the distance_1 coffee shop is 2 miles away and the name of it is poi_2. would you like the address? <user> yes please.
+<user> find directions to distance_1 poi_1. <system> there is no poi_1 in your area but there are other coffee places near by. would you like more info? <user> yes. <system> the distance_1 coffee shop is 2 miles away and the name of it is poi_2. would you like the address? <user> yes please. <system> poi_2 is 2 miles away at 583 alester avenue. anything else? <user> no that's it for now. thanks.
+<user> where can i get poi_type_1?
+<user> where can i get poi_type_1? <system> there is a poi_1 and poi_2 near. <user> which poi_type_1 restaurant, either the poi_type_1 restaurant poi_1 or the poi_type_1 restaurant poi_2, is closer to my location?
+<user> where can i get poi_type_1? <system> there is a poi_1 and poi_2 near. <user> which poi_type_1 restaurant, either the poi_type_1 restaurant poi_1 or the poi_type_1 restaurant poi_2, is closer to my location? <system> poi_2 is closer at 3 miles. <user> then pick a quick route to get to the poi_type_1 restaurant poi_2 distance_1, thank you!
+<user> where can i get poi_type_1? <system> there is a poi_1 and poi_2 near. <user> which poi_type_1 restaurant, either the poi_type_1 restaurant poi_1 or the poi_type_1 restaurant poi_2, is closer to my location? <system> poi_2 is closer at 3 miles. <user> then pick a quick route to get to the poi_type_1 restaurant poi_2 distance_1, thank you! <system> setting navigation to poi_2 at 110 arastradero rd. anything else? <user> that will be all, thanks!
+<user> set a reminder about my event_1 date_1 at time_1.
+<user> set a reminder about my event_1 date_1 at time_1. <system> your event_1 has been set for time_1 date_1, the date_2.... is that correct? <user> yes, that is correct. thank you!
+<user> what route can i take poi_1 to traffic_info_1.
+<user> what route can i take poi_1 to traffic_info_1. <system> in this moment there is moderate traffic on our way but since we're just distance_1 it should n't take too long to reach poi_1. i sent the route on your screen. <user> ok, thanks for directions to poi_1 distance_1 via a route with the traffic_info_2.
+<user> what route can i take poi_1 to traffic_info_1. <system> in this moment there is moderate traffic on our way but since we're just distance_1 it should n't take too long to reach poi_1. i sent the route on your screen. <user> ok, thanks for directions to poi_1 distance_1 via a route with the traffic_info_2. <system> setting directions to 5672 barringer street now. <user> thank you car assistant for the help.
+<user> give me directions to poi_1.
+<user> give me directions to poi_1. <system> there are no nearby poi_1, but there are 3 other coffee places nearby. <user> please send me directions for the poi_type_1 distance_1.
+<user> give me directions to poi_1. <system> there are no nearby poi_1, but there are 3 other coffee places nearby. <user> please send me directions for the poi_type_1 distance_1. <system> setting directions to poi_2, located 2 miles away at 394 van ness ave. <user> thank you!
+<user> what is the forecast for date_1.
+<user> what is the forecast for date_1. <system> what city do you want the weather for? <user> will it be weather_attribute_1 in downtown location_1 date_2 or date_3?
+<user> what is the forecast for date_1. <system> what city do you want the weather for? <user> will it be weather_attribute_1 in downtown location_1 date_2 or date_3? <system> there will be no weather_attribute_1 date_1 in location_1. the forecast for monday is hot, low of 80f, high of 90f. the forecast for tuesday will be snow, low of 60f, high of 70f. <user> very nice to know, thanks.
+<user> find a poi_type_1 that i can get to with the traffic_info_1.
+<user> find a poi_type_1 that i can get to with the traffic_info_1. <system> poi_1 is the only one nearby but here is traffic_info_2. <user> well i guess it will have to do. set the gps for the poi_1 poi_type_2 with traffic_info_2 please.
+<user> what is the forecast for the city date_1.
+<user> what is the forecast for the city date_1. <system> which city do you want the weather forecast for? <user> what is the forecast for location_1 date_1.
+<user> what is the forecast for the city date_1. <system> which city do you want the weather forecast for? <user> what is the forecast for location_1 date_1. <system> in location_1 it will be frosty on monday, overcast on tuesday, raining on wednesday, foggy on thursday, drizzle on friday and saturday, dry on sunday. <user> thank you!
+<user> is it supposed to weather_attribute_1 date_1.
+<user> is it supposed to weather_attribute_1 date_1. <system> what location do you want the weather for? <user> is it supposed to weather_attribute_1 date_1 in location_1.
+<user> is it supposed to weather_attribute_1 date_1. <system> what location do you want the weather for? <user> is it supposed to weather_attribute_1 date_1 in location_1. <system> there will be no weather_attribute_1 date_1 in location_1. <user> thanks.
+<user> can you set a reminder for a event_1 at time_1 on the date_1.
+<user> can you set a reminder for a event_1 at time_1 on the date_1. <system> okay, i am scheduling a event_1 for you on the date_1 at time_1. <user> can you set a reminder for a event_1 at time_1 on the date_1 with my party_1.
+<user> can you set a reminder for a event_1 at time_1 on the date_1. <system> okay, i am scheduling a event_1 for you on the date_1 at time_1. <user> can you set a reminder for a event_1 at time_1 on the date_1 with my party_1. <system> your party_1 has been added to parties involved for your event_1 at time_1 on the date_1. <user> perfect.
+<user> find me chinese restaurants distance_1 of my current location.
+<user> find me chinese restaurants distance_1 of my current location. <system> there is a poi_1 poi_1 distance_2. <user> could you give me the address of the poi_type_1 poi_1 poi_1 distance_2 and directions to the poi_type_1 poi_1 poi_1 distance_2 via a route that traffic_info_1?
+<user> find me chinese restaurants distance_1 of my current location. <system> there is a poi_1 poi_1 distance_2. <user> could you give me the address of the poi_type_1 poi_1 poi_1 distance_2 and directions to the poi_type_1 poi_1 poi_1 distance_2 via a route that traffic_info_1? <system> alright, the route to 113 arbol drive is distance_2 with a traffic_info_2. <user> please set the gps to go to the poi_type_1 poi_1 poi_1 distance_2 at 113 arbol drive with a traffic_info_2, thank you!
+<user> find me chinese restaurants distance_1 of my current location. <system> there is a poi_1 poi_1 distance_2. <user> could you give me the address of the poi_type_1 poi_1 poi_1 distance_2 and directions to the poi_type_1 poi_1 poi_1 distance_2 via a route that traffic_info_1? <system> alright, the route to 113 arbol drive is distance_2 with a traffic_info_2. <user> please set the gps to go to the poi_type_1 poi_1 poi_1 distance_2 at 113 arbol drive with a traffic_info_2, thank you! <system> navigation is set. drive carefully, and enjoy. <user> thank you.
+<user> where can i get a poi_type_1?
+<user> where can i get a poi_type_1? <system> poi_1 is distance_1. <user> is there a quick route to reach the poi_type_1 shop poi_1 distance_1?
+<user> where can i get a poi_type_1? <system> poi_1 is distance_1. <user> is there a quick route to reach the poi_type_1 shop poi_1 distance_1? <system> unfortunately poi_1 is the only poi_type_1 place i can find. it is distance_1 through traffic_info_1, located at 145 amherst st. <user> well, it is what it is. let's navigate to the poi_type_1 place poi_1 distance_1 at address_1 with traffic_info_1 now.
+<user> schedule a event_1 with my party_1 for date_1 at time_1.
+<user> schedule a event_1 with my party_1 for date_1 at time_1. <system> okay, scheduling a event_1 with your party_1 for date_1 at time_1. <user> thanks.
+<user> check the weather forecast.
+<user> check the weather forecast. <system> for what location and time? <user> will it be weather_attribute_1 in location_1 date_1?
+<user> check the weather forecast. <system> for what location and time? <user> will it be weather_attribute_1 in location_1 date_1? <system> no, it will not be weather_attribute_1 in location_1 date_1. date_1's forecast is rain, with a low of 20f and a high of 40f. <user> thank you!
+<user> is there a chinese place that has traffic_info_1 on the way?
+<user> is there a chinese place that has traffic_info_1 on the way? <system> poi_1 poi_1 is 2 miles away in light traffic. would you like directions there? <user> yes, please!
+<user> is there a chinese place that has traffic_info_1 on the way? <system> poi_1 poi_1 is 2 miles away in light traffic. would you like directions there? <user> yes, please! <system> poi_1 poi_1 is at 113 arbol dr. do you need me to set the navigation? <user> sure, thank you car!
+<user> what is the date of my next event_1 and who will be attending?
+<user> what is the date of my next event_1 and who will be attending? <system> i have two, one on thursday with tom, and one on the 3rd with alex. <user> what is the date of my next event_1 and who will be attending the event_1?
+<user> can you find out the parties attending and time for my optometrist appointment?
+<user> can you find out the parties attending and time for my optometrist appointment? <system> i have four, one with alex at 5 pm on saturday, one with your sister at 2 pm on the 5th, one with jeff on the 6th, and one with martha on thursday. which one? <user> that will do, thank you kindly.
+<user> where is the distance_2 poi_type_1?
+<user> where is the distance_2 poi_type_1? <system> there is a poi_type_1 distance_1. it's poi_1. would you like more details? <user> yes please show me the route to the poi_type_1 poi_1 distance_1 and traffic_info_1.
+<user> where is the distance_2 poi_type_1? <system> there is a poi_type_1 distance_1. it's poi_1. would you like more details? <user> yes please show me the route to the poi_type_1 poi_1 distance_1 and traffic_info_1. <system> here is the best route to poi_1. <user> what is the address of the poi_type_1 poi_1 distance_1?
+<user> where is the distance_2 poi_type_1? <system> there is a poi_type_1 distance_1. it's poi_1. would you like more details? <user> yes please show me the route to the poi_type_1 poi_1 distance_1 and traffic_info_1. <system> here is the best route to poi_1. <user> what is the address of the poi_type_1 poi_1 distance_1? <system> address_1: do you want me to send the route on your screen? <user> yes please that sounds great.
+<user> where is the distance_2 poi_type_1? <system> there is a poi_type_1 distance_1. it's poi_1. would you like more details? <user> yes please show me the route to the poi_type_1 poi_1 distance_1 and traffic_info_1. <system> here is the best route to poi_1. <user> what is the address of the poi_type_1 poi_1 distance_1? <system> address_1: do you want me to send the route on your screen? <user> yes please that sounds great. <system> plotting route to address_1, distance_1 with car collision nearby. <user> thank you car!
+<user> car i need a poi_1 to feed you: is there anything around here?
+<user> car i need a poi_1 to feed you: is there anything around here? <system> there is 2 gas stations nearby one has a traffic_info_1 and the other is distance_2 with traffic_info_2. which do you prefer? <user> please ask siri to replace you and take me to the poi_1, either the poi_1 with a traffic_info_1 or the poi_1 distance_2 with traffic_info_2, with a distance_1 route, thank you!
+<user> car i need a poi_1 to feed you: is there anything around here? <system> there is 2 gas stations nearby one has a traffic_info_1 and the other is distance_2 with traffic_info_2. which do you prefer? <user> please ask siri to replace you and take me to the poi_1, either the poi_1 with a traffic_info_1 or the poi_1 distance_2 with traffic_info_2, with a distance_1 route, thank you! <system> directions to poi_2 are on your screen. <user> where is the poi_1 poi_2 located?
+<user> car i need a poi_1 to feed you: is there anything around here? <system> there is 2 gas stations nearby one has a traffic_info_1 and the other is distance_2 with traffic_info_2. which do you prefer? <user> please ask siri to replace you and take me to the poi_1, either the poi_1 with a traffic_info_1 or the poi_1 distance_2 with traffic_info_2, with a distance_1 route, thank you! <system> directions to poi_2 are on your screen. <user> where is the poi_1 poi_2 located? <system> poi_2 is located at address_1 and has a road block reported. <user> then let's go to the poi_1 poi_2 at address_1, thank you!
+<user> what day is my event_1 and who is coming with?
+<user> what day is my event_1 and who is coming with? <system> currently you have two lab appointments. one on the 3rd which martha is attending, and one on the 13th that your brother is attending. <user> thank you for your help.
+<user> i have a event_1 on the 12th of august at time_1 please remind me.
+<user> i have a event_1 on the 12th of august at time_1 please remind me. <system> i have set a reminder for your event_1 on august 12th at time_1 <user> thank you.
+<user> car i need to go back poi_1, please pick the distance_1 way with traffic_info_1.
+<user> car i need to go back poi_1, please pick the distance_1 way with traffic_info_1. <system> the only route i currently have to poi_1 currently has heavy traffic. would you like me to set your gps anyway? <user> it's okay, just pick the distance_1 route to get poi_1, thank you!
+<user> car i need to go back poi_1, please pick the distance_1 way with traffic_info_1. <system> the only route i currently have to poi_1 currently has heavy traffic. would you like me to set your gps anyway? <user> it's okay, just pick the distance_1 route to get poi_1, thank you! <system> taking you on the distance_1 way poi_1. <user> thank you car!
+<user> navigate me to the distance_1 poi_type_1.
+<user> navigate me to the distance_1 poi_type_1. <system> the distance_1 poi_type_1 is the poi_1. <user> send me the address of the poi_type_1 poi_1 on screen.
+<user> navigate me to the distance_1 poi_type_1. <system> the distance_1 poi_type_1 is the poi_1. <user> send me the address of the poi_type_1 poi_1 on screen. <system> the poi_1 poi_type_1 is located at address_1. <user> set gps for distance_2 available route to the poi_type_1 poi_1 at address_1.
+<user> navigate me to the distance_1 poi_type_1. <system> the distance_1 poi_type_1 is the poi_1. <user> send me the address of the poi_type_1 poi_1 on screen. <system> the poi_1 poi_type_1 is located at address_1. <user> set gps for distance_2 available route to the poi_type_1 poi_1 at address_1. <system> gps set. anything else? <user> that's it, thank you car!
+<user> what's the weather forecast for the date_1.
+<user> what's the weather forecast for the date_1. <system> what city are you inquiring about? <user> what's the weather forecast for the date_1 in location_1.
+<user> what's the weather forecast for the date_1. <system> what city are you inquiring about? <user> what's the weather forecast for the date_1 in location_1. <system> in the date_1 in location_1 it will be dry on monday, raining on tuesday, 	 hail on wednesday and thursday, hot on friday, overcast on saturday, frost on sunday. <user> thank you!
+<user> start listening what will be the weather for the date_1.
+<user> start listening what will be the weather for the date_1. <system> for what city do you need the weekly forecast? <user> start listening what will be the weather for the date_1 in location_1.
+<user> start listening what will be the weather for the date_1. <system> for what city do you need the weekly forecast? <user> start listening what will be the weather for the date_1 in location_1. <system> the weather in location_1 during the next date_1 will be humid on monday, clear skies on tuesday, stormy on wednesday, raining on thursday, windy on friday, raining again on saturday and sunday. <user> thank you so much car!
+<user> schedule a event_1 at time_1 on date_1 the 1st with party_1.
+<user> schedule a event_1 at time_1 on date_1 the 1st with party_1. <system> okay, scheduling event_1 with party_1 for date_1 the 1st at time_1. <user> thanks!
+<user> will the weather be weather_attribute_1 in location_1 over the date_1?
+<user> will the weather be weather_attribute_1 in location_1 over the date_1? <system> it will not be weather_attribute_1 in location_1 this week. <user> thank you.
+<user> address to the poi_type_1.
+<user> address to the poi_type_1. <system> poi_1 is located at address_1. <user> ok, please give me directions to the poi_type_1 poi_1 at address_1 via a traffic_info_1.
+<user> address to the poi_type_1. <system> poi_1 is located at address_1. <user> ok, please give me directions to the poi_type_1 poi_1 at address_1 via a traffic_info_1. <system> since there is a road block nearby, i found another route for you and i sent it on your screen. <user> awesome thank you.
+<user> is it going to be weather_attribute_1 in the next date_1.
+<user> is it going to be weather_attribute_1 in the next date_1. <system> for what city would you like the forecast? <user> is it going to be weather_attribute_1 in the next date_1 in location_1.
+<user> schedule a event_1 with my party_1 for date_1 at time_1.
+<user> schedule a event_1 with my party_1 for date_1 at time_1. <system> setting a schedule for event_1 with party_1 for date_1 at time_1. <user> thank you buddy.
+<user> date_1 are there weather_attribute_1 skies in location_1?
+<user> date_1 are there weather_attribute_1 skies in location_1? <system> there date_1 are no weather_attribute_1 skies in location_1. <user> thank you.
+<user> will it weather_attribute_1 in location_1 date_1?
+<user> will it weather_attribute_1 in location_1 date_1? <system> on tuesday there will be weather_attribute_1 in location_1. <user> thank you very much car!
+<user> check weather_attribute_1 for date_1.
+<user> check weather_attribute_1 for date_1. <system> what city should i check the weather_attribute_1 for? <user> find out the weather_attribute_1 for date_1 in location_1.
+<user> check weather_attribute_1 for date_1. <system> what city should i check the weather_attribute_1 for? <user> find out the weather_attribute_1 for date_1 in location_1. <system> in location_1 there will be rain date_2, and it will be stormy date_3. <user> thank you!
+<user> schedule a event_1.
+<user> schedule a event_1. <system> what date and time are you event_1? <user> schedule a event_1 date_1 at time_1.
+<user> schedule a event_1. <system> what date and time are you event_1? <user> schedule a event_1 date_1 at time_1. <system> your event_1 has been scheduled for date_1 at 1pm. <user> perfect.
+<user> what's the weather going to be like in the city on date_1.
+<user> what's the weather going to be like in the city on date_1. <system> what city do you want to hear date_1's weather for? <user> will it be weather_attribute_1 in location_1 on date_1?
+<user> what's the weather going to be like in the city on date_1. <system> what city do you want to hear date_1's weather for? <user> will it be weather_attribute_1 in location_1 on date_1? <system> it will be cloudy in location_1 on date_1. <user> thanks so much.
+<user> i need to locate a poi_type_1.
+<user> i need to locate a poi_type_1. <system> poi_1 and poi_2 are both near. <user> which poi_type_1, either the poi_1 poi_type_1 or the poi_type_1 poi_2, is distance_1?
+<user> i need to locate a poi_type_1. <system> poi_1 and poi_2 are both near. <user> which poi_type_1, either the poi_1 poi_type_1 or the poi_type_1 poi_2, is distance_1? <system> poi_1 is only 2 miles away and poi_2 is distance_2. <user> since the poi_type_1 poi_2 distance_2 is the closest tell me the details about the poi_type_1 poi_2 distance_2.
+<user> i need to locate a poi_type_1. <system> poi_1 and poi_2 are both near. <user> which poi_type_1, either the poi_1 poi_type_1 or the poi_type_1 poi_2, is distance_1? <system> poi_1 is only 2 miles away and poi_2 is distance_2. <user> since the poi_type_1 poi_2 distance_2 is the closest tell me the details about the poi_type_1 poi_2 distance_2. <system> . <user> i repeat: please tell me about the poi_type_1 poi_2 distance_2: which one is it the distance_3 to go to the poi_type_1 poi_2 distance_2?
+<user> i need to locate a poi_type_1. <system> poi_1 and poi_2 are both near. <user> which poi_type_1, either the poi_1 poi_type_1 or the poi_type_1 poi_2, is distance_1? <system> poi_1 is only 2 miles away and poi_2 is distance_2. <user> since the poi_type_1 poi_2 distance_2 is the closest tell me the details about the poi_type_1 poi_2 distance_2. <system> . <user> i repeat: please tell me about the poi_type_1 poi_2 distance_2: which one is it the distance_3 to go to the poi_type_1 poi_2 distance_2? <system> its address is 383 university ave, i sent the position on your screen. <user> thank you car!
+<user> what time do i have to take event_1 and who is helping?
+<user> what time do i have to take event_1 and who is helping? <system> i have you set for two. one at 6 pm and one at time_1. <user> who will be helping me for the take event_1 at time_1?
+<user> what time do i have to take event_1 and who is helping? <system> i have you set for two. one at 6 pm and one at time_1. <user> who will be helping me for the take event_1 at time_1? <system> mother is one the helping at time_1. anything else? <user> nope, thank you.
+<user> what will the weather be like in the city.
+<user> what will the weather be like in the city. <system> where would you like to hear the weather forecast from? <user> i want to know if there are weather_attribute_1 in location_1 date_1.
+<user> what will the weather be like in the city. <system> where would you like to hear the weather forecast from? <user> i want to know if there are weather_attribute_1 in location_1 date_1. <system> there will be no weather_attribute_1 in location_1 today, the weather will be a blizzard, low of 50f, high of 60f. <user> thank you!
+<user> take me to a poi_type_1.
+<user> take me to a poi_type_1. <system> poi_1 located at 593 arrowhead way is 4 miles away, there is n't any traffic on this route. <user> thank you!
+<user> set a reminder for my daughter's event_1.
+<user> set a reminder for my daughter's event_1. <system> okay, for what time and day? <user> set a reminder for my daughter's event_1 for time_1 on the date_1.
+<user> set a reminder for my daughter's event_1. <system> okay, for what time and day? <user> set a reminder for my daughter's event_1 for time_1 on the date_1. <system> i am setting a reminder for event_1 at time_1   on the date_1. <user> thank you car.
+<user> what's the weather like in location_1.
+<user> what's the weather like in location_1. <system> the weather in location_1 is foggy. <user> okay great. will there be weather_attribute_1 in the date_1 in location_1?
+<user> what's the weather like in location_1. <system> the weather in location_1 is foggy. <user> okay great. will there be weather_attribute_1 in the date_1 in location_1? <system> no, the weather is n't going to be good in location_1 in next days. <user> great thank you.
+<user> schedule a event_1 with party_1 for date_1 august 8th at time_1.
+<user> schedule a event_1 with party_1 for date_1 august 8th at time_1. <system> your event_1 with party_1 has been scheduled for date_1 at time_1. <user> thank you.
+<user> set a reminder to event_1 on date_1 at time_1 with my party_1.
+<user> set a reminder to event_1 on date_1 at time_1 with my party_1. <system> setting a reminder to event_1 on date_1 at time_1 with your party_1. <user> thanks.
+<user> will it be weather_attribute_1 in location_1 date_1?
+<user> will it be weather_attribute_1 in location_1 date_1? <system> tuesday, wednesday, and sunday appear to be the weather_attribute_1 days expected in location_1 date_1. <user> thank you.
+<user> what's the weather_attribute_1.
+<user> what's the weather_attribute_1. <system> what city are you wanting to know the weather_attribute_1 for? <user> what's the weather_attribute_1 in location_1.
+<user> what's the weather_attribute_1. <system> what city are you wanting to know the weather_attribute_1 for? <user> what's the weather_attribute_1 in location_1. <system> it is currently overcast with a low of 60f and a high of 80f in location_1. <user> thank you!
+<user> what is the forecast for location_1.
+<user> what is the forecast for location_1. <system> what days are you interested in? <user> is there a weather_attribute_1 date_1 in location_1?
+<user> what is the forecast for location_1. <system> what days are you interested in? <user> is there a weather_attribute_1 date_1 in location_1? <system> no, there is not a weather_attribute_1 in new york right date_1. <user> okay, great. thanks!
+<user> where does   my poi_type_1 live?
+<user> where does   my poi_type_1 live? <system> jack or jill? <user> mmm... which poi_type_1's house, either poi_type_1 poi_1 or poi_type_1 poi_2, is the quickest to reach?
+<user> where does   my poi_type_1 live? <system> jack or jill? <user> mmm... which poi_type_1's house, either poi_type_1 poi_1 or poi_type_1 poi_2, is the quickest to reach? <system> poi_2 is distance_1, while jacks house is 4 miles. there is traffic_info_1 to both locations. <user> let's head to my poi_type_1 poi_2 distance_1 with traffic_info_1, then.
+<user> where does   my poi_type_1 live? <system> jack or jill? <user> mmm... which poi_type_1's house, either poi_type_1 poi_1 or poi_type_1 poi_2, is the quickest to reach? <system> poi_2 is distance_1, while jacks house is 4 miles. there is traffic_info_1 to both locations. <user> let's head to my poi_type_1 poi_2 distance_1 with traffic_info_1, then. <system> displaying gps now. <user> thanks.
+<user> is it going to weather_attribute_1 in location_1 date_1?
+<user> is it going to weather_attribute_1 in location_1 date_1? <system> there is no weather_attribute_1 in the forecast for today in location_1. <user> thanks.
+<user> please add event_1 to my schedule.
+<user> please add event_1 to my schedule. <system> what day and time should i add event_1 to your schedule? <user> please add event_1 to my schedule on date_1 at time_1.
+<user> please add event_1 to my schedule. <system> what day and time should i add event_1 to your schedule? <user> please add event_1 to my schedule on date_1 at time_1. <system> okay, adding event_1 to your calendar, on date_1 at time_1. <user> perfect. thank you.
+<user> i'd like to know where i can get some poi_type_1.
+<user> i'd like to know where i can get some poi_type_1. <system> we're distance_1 from poi_1 poi_1 and 5 miles away from p.f.changs: which one do you like more? <user> let's try the poi_type_2 poi_1 poi_1 distance_1.
+<user> i'd like to know where i can get some poi_type_1. <system> we're distance_1 from poi_1 poi_1 and 5 miles away from p.f.changs: which one do you like more? <user> let's try the poi_type_2 poi_1 poi_1 distance_1. <system> i sent its position and the route to reach it on your screen, do n't speed too much. <user> what is the address of the poi_type_2 poi_1 poi_1 distance_1, and is there supposed to be any traffic to the poi_type_2 poi_1 poi_1 distance_1?
+<user> i'd like to know where i can get some poi_type_1. <system> we're distance_1 from poi_1 poi_1 and 5 miles away from p.f.changs: which one do you like more? <user> let's try the poi_type_2 poi_1 poi_1 distance_1. <system> i sent its position and the route to reach it on your screen, do n't speed too much. <user> what is the address of the poi_type_2 poi_1 poi_1 distance_1, and is there supposed to be any traffic to the poi_type_2 poi_1 poi_1 distance_1? <system> poi_1 poi_1 is at 113 arbol dr. there is a road block nearby. shall i give you directions? <user> yes please give me directions to the poi_type_2 poi_1 poi_1 distance_1 at address_1 via the distance_2.
+<user> i'd like to know where i can get some poi_type_1. <system> we're distance_1 from poi_1 poi_1 and 5 miles away from p.f.changs: which one do you like more? <user> let's try the poi_type_2 poi_1 poi_1 distance_1. <system> i sent its position and the route to reach it on your screen, do n't speed too much. <user> what is the address of the poi_type_2 poi_1 poi_1 distance_1, and is there supposed to be any traffic to the poi_type_2 poi_1 poi_1 distance_1? <system> poi_1 poi_1 is at 113 arbol dr. there is a road block nearby. shall i give you directions? <user> yes please give me directions to the poi_type_2 poi_1 poi_1 distance_1 at address_1 via the distance_2. <system> i sent the best route on your screen, enjoy your trip! <user> thank you car!
+<user> i have a event_1 with party_1 at time_1 at the date_1.
+<user> i have a event_1 with party_1 at time_1 at the date_1. <system> okay great, would you like to set a reminder for it? <user> yes, please.
+<user> i have a event_1 with party_1 at time_1 at the date_1. <system> okay great, would you like to set a reminder for it? <user> yes, please. <system> okay, i just set that reminder for you. can i help with anything else? <user> thank you.
+<user> check weather for location_1.
+<user> check weather for location_1. <system> new york is supposed to be fair with a chance of rain on saturday with the highs in the 90s and lows in the 20s. <user> thanks.
+<user> give me the time for my next event_1.
+<user> give me the time for my next event_1. <system> your next event_1 is thursday at time_1. <user> okay perfect.
+<user> give me weather forecast for date_1.
+<user> give me weather forecast for date_1. <system> what location do you want the weather for? <user> will it be weather_attribute_1 date_1 in location_1?
+<user> give me weather forecast for date_1. <system> what location do you want the weather for? <user> will it be weather_attribute_1 date_1 in location_1? <system> it is not predicted to be weather_attribute_1 in location_1 date_1. <user> thanks.
+<user> set calendar reminder for time_1 this date_1 with my party_1.
+<user> set calendar reminder for time_1 this date_1 with my party_1. <system> sure, a calender reminder has been set for time_1 this upcoming tuesday with your party_1. <user> thank you!
+<user> tell me the best route to get poi_1 with the traffic_info_1.
+<user> tell me the best route to get poi_1 with the traffic_info_1. <system> navigating you poi_1 with the least traffic. <user> thank you car, send the address of poi_1 on the screen with the fastest route too.
+<user> tell me the best route to get poi_1 with the traffic_info_1. <system> navigating you poi_1 with the least traffic. <user> thank you car, send the address of poi_1 on the screen with the fastest route too. <system> the address to your poi_1 is 56 cadwell street. setting gps for the fastest route now. <user> great job, thanks.
+<user> find me the poi_type_1.
+<user> find me the poi_type_1. <system> we're distance_1 from poi_1 and there is also a road block nearby: do you want me to find a quickest way to go there? <user> yes please.
+<user> find me the poi_type_1. <system> we're distance_1 from poi_1 and there is also a road block nearby: do you want me to find a quickest way to go there? <user> yes please. <system> setting navigation to address_1 now. <user> please pick the traffic_info_1 to the poi_type_2 poi_1 distance_1 at address_1, thanks!
+<user> find me the poi_type_1. <system> we're distance_1 from poi_1 and there is also a road block nearby: do you want me to find a quickest way to go there? <user> yes please. <system> setting navigation to address_1 now. <user> please pick the traffic_info_1 to the poi_type_2 poi_1 distance_1 at address_1, thanks! <system> yes, i will navigate you via the traffic_info_1. <user> thank you car!
+<user> is it going to weather_attribute_1 date_1.
+<user> is it going to weather_attribute_1 date_1. <system> what city would you like the forecast for? <user> is it going to weather_attribute_1 date_1 in location_1.
+<user> i'd like to know where i can get some poi_type_1.
+<user> i'd like to know where i can get some poi_type_1. <system> poi_1 is a poi_type_2 nearby. <user> can you show me the quickest route to the poi_type_2 poi_1?
+<user> i'd like to know where i can get some poi_type_1. <system> poi_1 is a poi_type_2 nearby. <user> can you show me the quickest route to the poi_type_2 poi_1? <system> currently the quickest route to poi_1 is through traffic_info_1. should i set the gps now? <user> is there another poi_type_2 available, besides the poi_type_2 poi_1 with traffic_info_1?
+<user> i'd like to know where i can get some poi_type_1. <system> poi_1 is a poi_type_2 nearby. <user> can you show me the quickest route to the poi_type_2 poi_1? <system> currently the quickest route to poi_1 is through traffic_info_1. should i set the gps now? <user> is there another poi_type_2 available, besides the poi_type_2 poi_1 with traffic_info_1? <system> no, poi_1 is the only one i have listed. <user> what is the address of the poi_type_2 poi_1?
+<user> i'd like to know where i can get some poi_type_1. <system> poi_1 is a poi_type_2 nearby. <user> can you show me the quickest route to the poi_type_2 poi_1? <system> currently the quickest route to poi_1 is through traffic_info_1. should i set the gps now? <user> is there another poi_type_2 available, besides the poi_type_2 poi_1 with traffic_info_1? <system> no, poi_1 is the only one i have listed. <user> what is the address of the poi_type_2 poi_1? <system> poi_1 is located at address_1. <user> thank you, let's go to the poi_type_2 poi_1 at address_1!
+<user> car i'd like to have a poi_type_1 somewhere within distance_1: show me a quick route too please.
+<user> car i'd like to have a poi_type_1 somewhere within distance_1: show me a quick route too please. <system> here is a route to poi_1, distance_2. <user> make sure the route to the poi_type_1 place poi_1 distance_2 is the quickest please.
+<user> car i'd like to have a poi_type_1 somewhere within distance_1: show me a quick route too please. <system> here is a route to poi_1, distance_2. <user> make sure the route to the poi_type_1 place poi_1 distance_2 is the quickest please. <system> there is n't any traffic, heading to 792 bedoin street. <user> great, thanks.
+<user> will it be weather_attribute_1 in location_1 this date_1?
+<user> will it be weather_attribute_1 in location_1 this date_1? <system> it will be weather_attribute_1 on sunday in location_1. <user> thanks.
+<user> will it weather_attribute_1 date_1.
+<user> will it weather_attribute_1 date_1. <system> which city would you like to find out if it's snowing in? <user> will it weather_attribute_1 date_1 in location_1.
+<user> will it weather_attribute_1 date_1. <system> which city would you like to find out if it's snowing in? <user> will it weather_attribute_1 date_1 in location_1. <system> weather_attribute_1 is predicted to fall in location_1 today. <user> thank you car.
+<user> find directions to the distance_1 poi_1.
+<user> find directions to the distance_1 poi_1. <system> there is no poi_1 nearby, the poi_2 is distance_2. would you like directions there? <user> yes, please give me the address of the poi_2 distance_2 and directions to the poi_2 distance_2 via a route with traffic_info_1.
+<user> find directions to the distance_1 poi_1. <system> there is no poi_1 nearby, the poi_2 is distance_2. would you like directions there? <user> yes, please give me the address of the poi_2 distance_2 and directions to the poi_2 distance_2 via a route with traffic_info_1. <system> the poi_2 is reporting heavy traffic but i will still find the quickest route to 436 alger dr. <user> thank you for all your help.
+<user> what's the weather_attribute_1 for date_1.
+<user> what's the weather_attribute_1 for date_1. <system> what city should i check the weather_attribute_1 for? <user> well, i need to know the weather_attribute_1 for location_1, date_1.
+<user> what's the weather_attribute_1 for date_1. <system> what city should i check the weather_attribute_1 for? <user> well, i need to know the weather_attribute_1 for location_1, date_1. <system> the weather_attribute_1 for location_1 date_1 will be low of 60f, high of 80f, and also cloudy. <user> thank you!
+<user> where is the distance_1 poi_type_1.
+<user> where is the distance_1 poi_type_1. <system> there is the poi_type_2 p.f. changs at address_1, it's just distance_3. <user> set gps for the distance_2 route to the poi_type_2 p.f. changs distance_3 at address_1 with traffic_info_1 of traffic.
+<user> where is the distance_1 poi_type_1. <system> there is the poi_type_2 p.f. changs at address_1, it's just distance_3. <user> set gps for the distance_2 route to the poi_type_2 p.f. changs distance_3 at address_1 with traffic_info_1 of traffic. <system> p.f. changs has no traffic at the moment. i am setting the navigation and we should arrive soon. <user> that's great, thank you car!
+<user> give me the date_1 weather forecast.
+<user> give me the date_1 weather forecast. <system> what city do you want to know the date_1 forecast for? <user> will it weather_attribute_1 during 7 days in location_1?
+<user> give me the date_1 weather forecast. <system> what city do you want to know the date_1 forecast for? <user> will it weather_attribute_1 during 7 days in location_1? <system> the weather forecast predicts it will weather_attribute_1 on saturday. <user> okay thanks.
+<user> give me directions to the distance_1 poi_type_1 food restaurant.
+<user> give me directions to the distance_1 poi_type_1 food restaurant. <system> the distance_1 poi_type_1 restaurant seems to be p.f. chang's at distance_2 with moderate traffic. do you want the address? <user> just send the address of the poi_type_1 restaurant p.f. chang's distance_2 on my screen and let's go to the poi_type_1 restaurant p.f. chang's distance_2 through the quickest route, please!
+<user> give me directions to the distance_1 poi_type_1 food restaurant. <system> the distance_1 poi_type_1 restaurant seems to be p.f. chang's at distance_2 with moderate traffic. do you want the address? <user> just send the address of the poi_type_1 restaurant p.f. chang's distance_2 on my screen and let's go to the poi_type_1 restaurant p.f. chang's distance_2 through the quickest route, please! <system> the address of p.f. changs is address_1. we should be there shortly. <user> pick a route to the poi_type_1 restaurant p.f. chang's distance_2 at address_1 with no traffic and let's go to the poi_type_1 restaurant p.f. chang's distance_2 at address_1. thank you!
+<user> give me directions to the distance_1 poi_type_1 food restaurant. <system> the distance_1 poi_type_1 restaurant seems to be p.f. chang's at distance_2 with moderate traffic. do you want the address? <user> just send the address of the poi_type_1 restaurant p.f. chang's distance_2 on my screen and let's go to the poi_type_1 restaurant p.f. chang's distance_2 through the quickest route, please! <system> the address of p.f. changs is address_1. we should be there shortly. <user> pick a route to the poi_type_1 restaurant p.f. chang's distance_2 at address_1 with no traffic and let's go to the poi_type_1 restaurant p.f. chang's distance_2 at address_1. thank you! <system> setting navigation now. enjoy! <user> thanks for the help.
+<user> i need directions to the distance_1 poi_type_1.
+<user> i need directions to the distance_1 poi_type_1. <system> we are distance_2 from poi_1: do you want me to send you its address on screen? <user> yes, please, and pick a quick route to reach the poi_type_1 poi_1 distance_2 too, thank you!
+<user> i need directions to the distance_1 poi_type_1. <system> we are distance_2 from poi_1: do you want me to send you its address on screen? <user> yes, please, and pick a quick route to reach the poi_type_1 poi_1 distance_2 too, thank you! <system> poi_1 is located at 452 arcadia pl. with no traffic. setting gps now. <user> thank you car!
+<user> check the date_1 outlook to see what the weather_attribute_1 in location_1 will be.
+<user> check the date_1 outlook to see what the weather_attribute_1 in location_1 will be. <system> over the next 7 days the days with the weather_attribute_1 will be wednesday and friday with a high of 90f. <user> thanks.
+<user> what is the weather like for date_1.
+<user> what is the weather like for date_1. <system> where are you located? <user> will it be weather_attribute_1 date_2 in location_1?
+<user> what is the weather like for date_1. <system> where are you located? <user> will it be weather_attribute_1 date_2 in location_1? <system> date_2 in location_1 it will be cloudy, there is n't a prediction for humidity. <user> thank you.
+<user> find the distance_1 poi_type_1.
+<user> find the distance_1 poi_type_1. <system> there is poi_1 poi_1 1 miles away and p.f. changs 4 miles away: which one do you prefer? <user> let's go for the poi_type_2 poi_1 poi_1 distance_2, please send the address of the poi_type_2 poi_1 poi_1 distance_2 on my screen along with the traffic_info_1 route, thank you!
+<user> find the distance_1 poi_type_1. <system> there is poi_1 poi_1 1 miles away and p.f. changs 4 miles away: which one do you prefer? <user> let's go for the poi_type_2 poi_1 poi_1 distance_2, please send the address of the poi_type_2 poi_1 poi_1 distance_2 on my screen along with the traffic_info_1 route, thank you! <system> poi_1 poi_1 is distance_2 at 113 arbol drive. we should n't be long in getting there. <user> thank you.
+<user> how weather_attribute_1 is it going to be date_1.
+<user> how weather_attribute_1 is it going to be date_1. <system> what city do you need to know if it will be weather_attribute_1? <user> how weather_attribute_1 is it going to be date_1 in location_1.
+<user> how weather_attribute_1 is it going to be date_1. <system> what city do you need to know if it will be weather_attribute_1? <user> how weather_attribute_1 is it going to be date_1 in location_1. <system> date_1 in location_1 it will be windy on monday, clear skies on tuesday, hail on wednesday, lowest temperature on thursday, clear skies on friday, windy on saturday, dry on sunday. <user> thank you!
+<user> what poi_type_1 is distance_1?
+<user> what poi_type_1 is distance_1? <system> poi_1 	 and poi_2 are distance_3. <user> which distance_3 poi_type_1, either the distance_3 poi_type_1 poi_1 or the distance_3 poi_type_1 poi_2, is distance_2?
+<user> what poi_type_1 is distance_1? <system> poi_1 	 and poi_2 are distance_3. <user> which distance_3 poi_type_1, either the distance_3 poi_type_1 poi_1 or the distance_3 poi_type_1 poi_2, is distance_2? <system> poi_2 is just 3 miles away and there is less traffic on its way than on the other poi_type_1. do you want me to set the navigation to go there? <user> sure, thank you!
+<user> are there weather_attribute_1 in the forecast date_1.
+<user> are there weather_attribute_1 in the forecast date_1. <system> for what city do you need information about date_1's forecast? <user> are there weather_attribute_1 in the forecast date_1 in location_1.
+<user> are there weather_attribute_1 in the forecast date_1. <system> for what city do you need information about date_1's forecast? <user> are there weather_attribute_1 in the forecast date_1 in location_1. <system> it appears it will be windy- i do not have information about cloud cover. <user> thanks.
+<user> where can i go shopping?
+<user> where can i go shopping? <system> i have a listing for a poi_type_1 that is distance_1. want more info? <user> give me the name of the poi_type_1 distance_1 and the address of the poi_type_1 distance_1.
+<user> where can i go shopping? <system> i have a listing for a poi_type_1 that is distance_1. want more info? <user> give me the name of the poi_type_1 distance_1 and the address of the poi_type_1 distance_1. <system> topanga mall is located at 171 oak road. want me to set the gps? <user> yes please and thanks.
+<user> what will the weather_attribute_1 be date_1.
+<user> what will the weather_attribute_1 be date_1. <system> what city do you want to know the weather_attribute_1? <user> what will the weather_attribute_1 be date_1 in location_1.
+<user> what will the weather_attribute_1 be date_1. <system> what city do you want to know the weather_attribute_1? <user> what will the weather_attribute_1 be date_1 in location_1. <system> it will be between 80- 100f in location_1 date_1. <user> thanks.
+<user> get me the address to a local poi_type_1.
+<user> get me the address to a local poi_type_1. <system> there is a poi_type_1 but there is a car collison nearby that could delay your arrival but only one listed in area. do you want the details? <user> yes, i want the address of the poi_type_1 with the distance_1.
+<user> get me the address to a local poi_type_1. <system> there is a poi_type_1 but there is a car collison nearby that could delay your arrival but only one listed in area. do you want the details? <user> yes, i want the address of the poi_type_1 with the distance_1. <system> poi_1 is located at 610 amarillo ave, i sent its position with the quickest route on your screen. <user> thank you!
+<user> i need a poi_type_1 within distance_1.
+<user> i need a poi_type_1 within distance_1. <system> poi_1 is a poi_type_1 that is distance_1 away. need more info? <user> yes, send me the address of the poi_type_1 poi_1 distance_1 away please.
+<user> i need a poi_type_1 within distance_1. <system> poi_1 is a poi_type_1 that is distance_1 away. need more info? <user> yes, send me the address of the poi_type_1 poi_1 distance_1 away please. <system> poi_1 is located at 214 el camino real. <user> thank you!
+<user> tell me the weather_attribute_1 for this date_1.
+<user> tell me the weather_attribute_1 for this date_1. <system> what city should i check the weekly weather_attribute_1 for? <user> tell me the weather_attribute_1 for this date_1 in location_1.
+<user> tell me the weather_attribute_1 for this date_1. <system> what city should i check the weekly weather_attribute_1 for? <user> tell me the weather_attribute_1 for this date_1 in location_1. <system> location_1 has the following forecast: low of 60f and high of 70f on monday, low of 80f, high of 100f on tuesday, low of 50f, high of 70f on wednesday, low of 30f, high of 50f on thursday, low of 70f, high of 80f on friday, low of 50f, high of 60f on saturday, low of 40f, high of 50f on sunday. <user> thanks.
+<user> what time is my workout class today.
+<user> what time is my workout class today. <system> your yoga class or event_1? <user> what time is my event_1 today.
+<user> it's going to be weather_attribute_1 so i have to drive slow.
+<user> it's going to be weather_attribute_1 so i have to drive slow. <system> what city will you be taking your drive in? <user> location_1, please.
+<user> it's going to be weather_attribute_1 so i have to drive slow. <system> what city will you be taking your drive in? <user> location_1, please. <system> there are clear skies on location_1 now but do n't go too fast! <user> thank you car, do n't worry!
+<user> set a reminder for an event_1 at time_1 on the date_1- my party_1 will be there as well.
+<user> set a reminder for an event_1 at time_1 on the date_1- my party_1 will be there as well. <system> i will set a reminder for an event_1 at time_1 on the date_1 with your party_1 attending as well. <user> thanks!
+<user> what's the date_1 forecast.
+<user> what's the date_1 forecast. <system> what city do you want the weather for? <user> will it be raining date_2 in location_1?
+<user> what's the date_1 forecast. <system> what city do you want the weather for? <user> will it be raining date_2 in location_1? <system> no weather_attribute_1 is in the forecast for location_1 date_2. <user> thanks!
+<user> is it gon na weather_attribute_1 in location_1 date_1?
+<user> is it gon na weather_attribute_1 in location_1 date_1? <system> the forecast does not predict weather_attribute_1 in location_1 today or tomorrow. <user> thanks.
+<user> can you help me find the distance_1 poi_type_1 traffic_info_1?
+<user> can you help me find the distance_1 poi_type_1 traffic_info_1? <system> poi_1 is the distance_1. <user> is there traffic to the poi_type_1 poi_1?
+<user> can you help me find the distance_1 poi_type_1 traffic_info_1? <system> poi_1 is the distance_1. <user> is there traffic to the poi_type_1 poi_1? <system> there is moderate traffic. <user> ok that's fine, set the gps for the poi_type_1 poi_1.
+<user> tell me what the weather will be like date_1.
+<user> tell me what the weather will be like date_1. <system> for what city would you like me to check date_1's weather for? <user> tell me what the weather will be like date_1 in location_1.
+<user> tell me what the weather will be like date_1. <system> for what city would you like me to check date_1's weather for? <user> tell me what the weather will be like date_1 in location_1. <system> the weather forecast for location_1 says there will be clear skies with a low of 90f and a high of 100f date_1. <user> thank you.
+<user> what are the directions to the distance_1 poi_type_1.
+<user> what are the directions to the distance_1 poi_type_1. <system> the distance_1 chinese restaraunt is panda express at 842 arrowhead way. <user> thanks.
+<user> what is the forecast for date_1's weather.
+<user> what is the forecast for date_1's weather. <system> what city are you interested in? <user> what is the forecast for date_1's weather in location_1.
+<user> remind me about my event_1 with the party_1 on date_1 the 1st.
+<user> remind me about my event_1 with the party_1 on date_1 the 1st. <system> scheduling your event_1 with the party_1 on date_1 the 1st, what time shall i add? <user> remind me about my event_1 with the party_1 on date_1 the 1st at time_1 to agenda_1.
+<user> remind me about my event_1 with the party_1 on date_1 the 1st. <system> scheduling your event_1 with the party_1 on date_1 the 1st, what time shall i add? <user> remind me about my event_1 with the party_1 on date_1 the 1st at time_1 to agenda_1. <system> okay, setting a reminder about your event_1 with the party_1 on date_1 the 1st at time_1 to agenda_1. <user> thank you.
+<user> what's the weather like date_1.
+<user> what's the weather like date_1. <system> what city do you want the weather for? <user> what's the weather like date_1 in location_1.
+<user> what's the weather like date_1. <system> what city do you want the weather for? <user> what's the weather like date_1 in location_1. <system> the weather for location_1 will be snow, low of 70f, high of 90f on monday, and hot, low of 70f, high of 90f on tuesday. <user> thank you.
+<user> give me directions to 5677 southwest 4th street.
+<user> give me directions to 5677 southwest 4th street. <system> address_1 is distance_1 with traffic_info_1. <user> sounds good, let's go to address_1 distance_1 with traffic_info_1. thanks for the help.
+<user> check weather.
+<user> check weather. <system> what city would you like the weather for? <user> i want to hear the date_1 weather_attribute_1 for location_1.
+<user> check weather. <system> what city would you like the weather for? <user> i want to hear the date_1 weather_attribute_1 for location_1. <system> monday will be cloudy in location_1. tuesday will have a high temperature of 70f and a low of 50f. <user> thank you car.
+<user> how is the weather in the city date_1.
+<user> how is the weather in the city date_1. <system> what city are you asking about? <user> will there be any weather_attribute_1 date_2 in location_1?
+<user> how is the weather in the city date_1. <system> what city are you asking about? <user> will there be any weather_attribute_1 date_2 in location_1? <system> there will be no weather_attribute_1 for location_1 date_2. <user> thank you!
+<user> can you schedule a event_1 at time_1, the date_1 of this month with the vice president?
+<user> can you schedule a event_1 at time_1, the date_1 of this month with the vice president? <system> okay, i've got it scheduled for you. anything else? <user> that's all, thank you!
+<user> car is it going to weather_attribute_1 date_1.
+<user> car is it going to weather_attribute_1 date_1. <system> what city should i check for weather_attribute_1? <user> car is it going to weather_attribute_1 date_1 in location_1.
+<user> car is it going to weather_attribute_1 date_1. <system> what city should i check for weather_attribute_1? <user> car is it going to weather_attribute_1 date_1 in location_1. <system> it will not be snowing in location_1 date_1. it will be windy with a low of 50f and a high of 70f. <user> thank you car!
+<user> directions to distance_1 poi_type_1.
+<user> directions to distance_1 poi_type_1. <system> the distance_1 poi_type_2 is poi_1 at 269 alger dr. <user> ok, please direct me to the poi_type_2 poi_1 at address_1 via the traffic_info_1
+<user> directions to distance_1 poi_type_1. <system> the distance_1 poi_type_2 is poi_1 at 269 alger dr. <user> ok, please direct me to the poi_type_2 poi_1 at address_1 via the traffic_info_1 <system> setting navigation now. there is heavy traffic, so drive carefully. <user> thank you car!
+<user> set a reminder for my event_1 date_1 at time_1 with party_1.
+<user> set a reminder for my event_1 date_1 at time_1 with party_1. <system> okay, setting a reminder for your event_1 date_1 at time_1 with party_1. <user> thanks.
+<user> which days will be weather_attribute_1 date_1.
+<user> which days will be weather_attribute_1 date_1. <system> what city are you wanting to know if it's going to be weather_attribute_1? <user> which days will be weather_attribute_1 date_1 in location_1.
+<user> which days will be weather_attribute_1 date_1. <system> what city are you wanting to know if it's going to be weather_attribute_1? <user> which days will be weather_attribute_1 date_1 in location_1. <system> it will be weather_attribute_1 in location_1 on friday. <user> thank you.
+<user> where do i live?
+<user> where do i live? <system> poi_1 is at 56 cadwell street. <user> thank you.
+<user> set reminder for event_1.
+<user> set reminder for event_1. <system> is there a date or time for event_1 that i should add to this reminder? <user> set reminder for event_1 date_1 at time_1.
+<user> set reminder for event_1. <system> is there a date or time for event_1 that i should add to this reminder? <user> set reminder for event_1 date_1 at time_1. <system> where is the location? <user> there is no location to add to event_1 date_1 at time_1.
+<user> set reminder for event_1. <system> is there a date or time for event_1 that i should add to this reminder? <user> set reminder for event_1 date_1 at time_1. <system> where is the location? <user> there is no location to add to event_1 date_1 at time_1. <system> i have set a reminder for event_1 at time_1 date_1. <user> okay thank you.
+<user> set a reminder to event_1 with party_1 at time_1 on the tenth.
+<user> set a reminder to event_1 with party_1 at time_1 on the tenth. <system> reminder set for party_1 to event_1 on the date_1 at time_1. <user> great, thanks.
+<user> schedule dinner with my party_1 at time_1 on date_1 the 1st.
+<user> schedule dinner with my party_1 at time_1 on date_1 the 1st. <system> okay, scheduling a dinner with your party_1 for date_1 the 1st at time_1. <user> awesome, thanks.
+<user> where can i get poi_type_1?
+<user> where can i get poi_type_1? <system> there are 2 poi_type_1 stations near you, woud you like the distance_1 one? <user> yes, what is the address of the distance_1 poi_type_1 station?
+<user> where can i get poi_type_1? <system> there are 2 poi_type_1 stations near you, woud you like the distance_1 one? <user> yes, what is the address of the distance_1 poi_type_1 station? <system> the poi_1 is located at address_1; it is distance_2 in traffic_info_2. <user> any poi_type_1 station, besides the poi_type_1 station poi_1 distance_2 at address_1 with traffic_info_2, traffic_info_1?
+<user> where can i get poi_type_1? <system> there are 2 poi_type_1 stations near you, woud you like the distance_1 one? <user> yes, what is the address of the distance_1 poi_type_1 station? <system> the poi_1 is located at address_1; it is distance_2 in traffic_info_2. <user> any poi_type_1 station, besides the poi_type_1 station poi_1 distance_2 at address_1 with traffic_info_2, traffic_info_1? <system> that is still the distance_1 poi_type_1 station. <user> then let's go to the poi_type_1 station poi_1 distance_2 at address_1 with traffic_info_2, thank you car!
+<user> what is my poi_type_1 address?
+<user> what is my poi_type_1 address? <system> jill lives at address_1. <user> is that the distance_1 to my friend poi_1 at address_1?
+<user> what is my poi_type_1 address? <system> jill lives at address_1. <user> is that the distance_1 to my friend poi_1 at address_1? <system> yes that route has no traffic noted. <user> sounds great, let's go.
+<user> what is the weather_attribute_1 for the date_1 forecast in location_1?
+<user> what is the weather_attribute_1 for the date_1 forecast in location_1? <system> 100f is the weather_attribute_1 predicted for the next two days in location_1. <user> thanks.
+<user> schedule my time_1 event_1 on date_1 with my party_1.
+<user> schedule my time_1 event_1 on date_1 with my party_1. <system> okay, i have scheduled your event_1 for this date_1 at time_1 with your party_1. anything else i can help with? <user> list my current schedule.
+<user> schedule my time_1 event_1 on date_1 with my party_1. <system> okay, i have scheduled your event_1 for this date_1 at time_1 with your party_1. anything else i can help with? <user> list my current schedule. <system> current schedule is empty. <user> list my schedule for date_1.
+<user> schedule my time_1 event_1 on date_1 with my party_1. <system> okay, i have scheduled your event_1 for this date_1 at time_1 with your party_1. anything else i can help with? <user> list my current schedule. <system> current schedule is empty. <user> list my schedule for date_1. <system> okay, you have a event_1 with your party_1, at time_1 on date_1. <user> thank you so much!
+<user> i need the time and parties for event_1 please.
+<user> i need the time and parties for event_1 please. <system> for which one? i have three, one with jeff at 11 am. one with alex at 10 am, and one with your mother at 2 pm. <user> that will do just fine, goodbye.
+<user> what will the weather_attribute_1 be for the date_1.
+<user> what will the weather_attribute_1 be for the date_1. <system> what city do you want the weather_attribute_1 for? <user> what will the weather_attribute_1 be for the date_1 in location_1.
+<user> what will the weather_attribute_1 be for the date_1. <system> what city do you want the weather_attribute_1 for? <user> what will the weather_attribute_1 be for the date_1 in location_1. <system> date_1 the temperatures in location_1 will be as follows: a low of 80f and a high of 100f on monday, a low of 30f and a high of 40f on tuesday, a low of 40f and a high of 50f on wednesday, a low of 50f and a high of 60f on thursday, a low of 40f and a high of 50f on friday, a low of 60f and a high of 70f on saturday, and a low of 80f and a high of 100f on sunday. <user> thank you very much!
+<user> where can i get poi_type_1?
+<user> where can i get poi_type_1? <system> there is poi_1 1 miles away from here but with heavy traffic on our way. <user> can you pick a quick route to the poi_type_2 poi_1 distance_1 for me?
+<user> where can i get poi_type_1? <system> there is poi_1 1 miles away from here but with heavy traffic on our way. <user> can you pick a quick route to the poi_type_2 poi_1 distance_1 for me? <system> setting quickest route to poi_1 on gps now. <user> thanks so much.
+<user> get me directions to the traffic_info_1 poi_1.
+<user> get me directions to the traffic_info_1 poi_1. <system> there is no poi_1 listed locally, would you like directions to a different poi_type_1? <user> yes please.
+<user> get me directions to the traffic_info_1 poi_1. <system> there is no poi_1 listed locally, would you like directions to a different poi_type_1? <user> yes please. <system> there is a poi_2 distance_1. would you like directions? <user> yes please.
+<user> get me directions to the traffic_info_1 poi_1. <system> there is no poi_1 listed locally, would you like directions to a different poi_type_1? <user> yes please. <system> there is a poi_2 distance_1. would you like directions? <user> yes please. <system> the address for poi_2 is address_1. <user> thank you car, please set the gps to get to the poi_type_1 poi_2 distance_1 at address_1 on the traffic_info_2 route.
+<user> schedule a event_1 at time_1 with my party_1.
+<user> schedule a event_1 at time_1 with my party_1. <system> sure! do you want me to schedule it for tomorrow? <user> no, schedule my event_1 at time_1 with my party_1 for date_1.
+<user> i need directions to a poi_type_1.
+<user> i need directions to a poi_type_1. <system> i have a poi_type_1 that is distance_1. would you like info on it? <user> yes, give me the address of the poi_type_1 distance_1.
+<user> i need directions to a poi_type_1. <system> i have a poi_type_1 that is distance_1. would you like info on it? <user> yes, give me the address of the poi_type_1 distance_1. <system> then let's go at sigona farmers market, the address is 638 amherst st, i sent it on your screen. <user> sounds great. thank you.
+<user> are there weather_attribute_1 in location_1 date_1?
+<user> are there weather_attribute_1 in location_1 date_1? <system> it is warm and 80- 100f in location_1 date_1. <user> thank you!
+<user> will it be weather_attribute_1 in location_1 over the date_1?
+<user> will it be weather_attribute_1 in location_1 over the date_1? <system> it will be warm both monday and tuesday in location_1. <user> thank you very much.
+<user> where does my friend live?
+<user> where does my friend live? <system> your friend jill lives at address_1. would you like to navigate there now? <user> is there any traffic to my friend poi_1 at address_1?
+<user> where does my friend live? <system> your friend jill lives at address_1. would you like to navigate there now? <user> is there any traffic to my friend poi_1 at address_1? <system> there is no traffic listed on this route. <user> thanks, let's go to my friend poi_1 at address_1.
+<user> is my event_1 on tuesday or wednesday.
+<user> is my event_1 on tuesday or wednesday. <system> your doctor's appointment is on wednesday. <user> okay thank you.
+<user> please give me the address and directions via a route that avoids all traffic_info_1 to a poi_1.
+<user> please give me the address and directions via a route that avoids all traffic_info_1 to a poi_1. <system> the closest poi_1 is poi_2 at 638 amherst st. with traffic_info_1 but still is the best option. <user> mmm, i understand.. then let's go to the poi_1 poi_2 at address_1 with traffic_info_1, thank you car!
+<user> please give me the address and directions via a route that avoids all traffic_info_1 to a poi_1. <system> the closest poi_1 is poi_2 at 638 amherst st. with traffic_info_1 but still is the best option. <user> mmm, i understand.. then let's go to the poi_1 poi_2 at address_1 with traffic_info_1, thank you car! <system> okay, heading to poi_2. <user> thank you.
+<user> what's the weather like in location_1.
+<user> what's the weather like in location_1. <system> what days are you interested in? <user> is it gon na weather_attribute_1 date_1 in location_1?
+<user> what's the weather like in location_1. <system> what days are you interested in? <user> is it gon na weather_attribute_1 date_1 in location_1? <system> it should not weather_attribute_1 in chicago on date_1. <user> thank you so much!
+<user> is it going to weather_attribute_1 date_1.
+<user> is it going to weather_attribute_1 date_1. <system> where should i check the forecast for weather_attribute_1? <user> is it going to weather_attribute_1 date_1 in location_1.
+<user> is it going to weather_attribute_1 date_1. <system> where should i check the forecast for weather_attribute_1? <user> is it going to weather_attribute_1 date_1 in location_1. <system> there is n't any weather_attribute_1 predicted to fall in location_1 date_1. <user> great, thank you.
+<user> is it going to weather_attribute_1 date_1.
+<user> is it going to weather_attribute_1 date_1. <system> what city do you want the weather for? <user> is it going to weather_attribute_1 date_1 in location_1.
+<user> is it going to weather_attribute_1 date_1. <system> what city do you want the weather for? <user> is it going to weather_attribute_1 date_1 in location_1. <system> it will not weather_attribute_1 in location_1 date_1. <user> that is nice to know, goodbye.
+<user> remind me of the time for today's event_1.
+<user> remind me of the time for today's event_1. <system> event_1 event time, time_1, date_1 evening. <user> thank you.
+<user> is weather_attribute_1 forecasted date_1.
+<user> is weather_attribute_1 forecasted date_1. <system> what city can i give you the weather_attribute_1 information about? <user> is weather_attribute_1 forecasted date_1 in location_1.
+<user> is weather_attribute_1 forecasted date_1. <system> what city can i give you the weather_attribute_1 information about? <user> is weather_attribute_1 forecasted date_1 in location_1. <system> it will weather_attribute_1 on wednesday in location_1. <user> thanks.
+<user> can you give me directions to the distance_1 poi_type_1.
+<user> can you give me directions to the distance_1 poi_type_1. <system> the distance_1 poi_type_1 is the poi_1, 465 arcadia pl, it's 3 miles away. <user> thank you.
+<user> put my event_1 appointment into the calendar it's date_1 at time_1 and remind me 2 hours before.
+<user> put my event_1 appointment into the calendar it's date_1 at time_1 and remind me 2 hours before. <system> reminding you of event_1 appointment date_1 at time_1, will remind at time_2. <user> thank you!
+<user> put my event_1 appointment into the calendar it's date_1 at time_1 and remind me 2 hours before. <system> reminding you of event_1 appointment date_1 at time_1, will remind at time_2. <user> thank you! <system> is there anything else i can do for you? <user> no, thanks.
+<user> what's the weather like in location_1.
+<user> what's the weather like in location_1. <system> what days are you inquiring about? <user> will it weather_attribute_1 on date_1 in location_1?
+<user> what's the weather like in location_1. <system> what days are you inquiring about? <user> will it weather_attribute_1 on date_1 in location_1? <system> on date_1 in new york there is n't any prediction for weather_attribute_1. <user> awesome, thanks.
+<user> set a reminder for event_1 on date_1 at time_1 with my party_1.
+<user> set a reminder for event_1 on date_1 at time_1 with my party_1. <system> setting reminder for event_1 on date_1 at time_1 with party_1. <user> thanks.
+<user> i'm looking for some poi_type_1.
+<user> i'm looking for some poi_type_1. <system> then let's go at poi_1, 271 springer street. <user> sounds good.
+<user> please give me an address and directions via the traffic_info_1 route to a local poi_type_1.
+<user> please give me an address and directions via the traffic_info_1 route to a local poi_type_1. <system> poi_1 poi_type_1 is distance_1 at address_1, there is n't any traffic. <user> sounds perfect. set the navigation for the poi_type_1 poi_1 distance_1 at address_1 with traffic_info_2, thank you.
+<user> i need directions to poi_1 and traffic_info_1.
+<user> i need directions to poi_1 and traffic_info_1. <system> your home is 7 miles away but there is a car collision nearby, i sent on your screen the best possible route. <user> thank you car!
+<user> what will the weather be like date_1.
+<user> what will the weather be like date_1. <system> for what location do you want date_1's forecast? <user> will it weather_attribute_1 date_1 in location_1?
+<user> what will the weather be like date_1. <system> for what location do you want date_1's forecast? <user> will it weather_attribute_1 date_1 in location_1? <system> yes, the weather forecast is predicting weather_attribute_1 for date_1 in location_1. <user> thanks.
+<user> set event_1 for saturday time_1 with the party_1.
+<user> set event_1 for saturday time_1 with the party_1. <system> okay, event_1 with party_1 on saturday at 11 is set. <user> thank you.
+<user> remind me that i need to event_1 on the date_1 at about time_1.
+<user> remind me that i need to event_1 on the date_1 at about time_1. <system> reminder has been set for 5pm at the date_1. <user> great. thanks.
+<user> set a reminder for event_1 with party_1 at time_1 on the date_1.
+<user> set a reminder for event_1 with party_1 at time_1 on the date_1. <system> ok setting reminder of your event_1 match with party_1 on the 12th at 9:00 a.m. <user> thank you.
+<user> please give me an address and directions by the traffic_info_1 to a poi_type_1 distance_1.
+<user> please give me an address and directions by the traffic_info_1 to a poi_type_1 distance_1. <system> the poi_1 is 1 miles away at address_1, though there is a car collision distance_1. would you like directions there? <user> yes.
+<user> please give me an address and directions by the traffic_info_1 to a poi_type_1 distance_1. <system> the poi_1 is 1 miles away at address_1, though there is a car collision distance_1. would you like directions there? <user> yes. <system> poi_1 is located at 333 arbol dr. <user> thank you car, let's go to the poi_type_1 poi_1 distance_2 at address_1 with a car collision distance_1.
+<user> give me the distance_1 poi_type_1.
+<user> give me the distance_1 poi_type_1. <system> the distance_1 one is poi_1, it's distance_2 but there is a traffic_info_1. <user> what's the address of the poi_type_1 poi_1 distance_2? i guess the poi_type_1 poi_1 distance_2 with a traffic_info_1 will have to do.
+<user> give me the distance_1 poi_type_1. <system> the distance_1 one is poi_1, it's distance_2 but there is a traffic_info_1. <user> what's the address of the poi_type_1 poi_1 distance_2? i guess the poi_type_1 poi_1 distance_2 with a traffic_info_1 will have to do. <system> setting directions to poi_1 at address_1. now. <user> thank you car, please pick the distance_3 route to the poi_type_1 poi_1 distance_2 at address_1!
+<user> is it gon na be weather_attribute_1 in location_1 on date_1?
+<user> is it gon na be weather_attribute_1 in location_1 on date_1? <system> the low temperature for location_1 on date_1 is 90f with a high of 100f, it will be extremely weather_attribute_1. <user> thank you car, this sounds great!
+<user> what time is my event_1 and who is coming?
+<user> what time is my event_1 and who is coming? <system> your event_1 with martha is at 9 am. <user> thanks.
+<user> show me directions to the distance_1 poi_type_1.
+<user> show me directions to the distance_1 poi_type_1. <system> the distance_1 poi_type_1 poi_1 is distance_2 with traffic_info_1, do you still want to go? <user> yes i guess. program the address of the poi_type_1 poi_1 distance_2 and let's get going to the poi_type_1 poi_1 distance_2 with traffic_info_1.
+<user> show me directions to the distance_1 poi_type_1. <system> the distance_1 poi_type_1 poi_1 is distance_2 with traffic_info_1, do you still want to go? <user> yes i guess. program the address of the poi_type_1 poi_1 distance_2 and let's get going to the poi_type_1 poi_1 distance_2 with traffic_info_1. <system> setting gps now. <user> what's the address of the poi_type_1 poi_1 distance_2, please? please direct me to the poi_type_1 poi_1 distance_2 via a traffic_info_2.
+<user> show me directions to the distance_1 poi_type_1. <system> the distance_1 poi_type_1 poi_1 is distance_2 with traffic_info_1, do you still want to go? <user> yes i guess. program the address of the poi_type_1 poi_1 distance_2 and let's get going to the poi_type_1 poi_1 distance_2 with traffic_info_1. <system> setting gps now. <user> what's the address of the poi_type_1 poi_1 distance_2, please? please direct me to the poi_type_1 poi_1 distance_2 via a traffic_info_2. <system> poi_1 is at 408 university ave. the only route i have is 5 miles through traffic_info_1. <user> that's ok, thank you.
+<user> please schedule a event_1 on date_1 at time_1 with my party_1.
+<user> please schedule a event_1 on date_1 at time_1 with my party_1. <system> will do, your event_1 with party_1 on date_1 at time_1 has been scheduled. <user> thank you.
+<user> please schedule a event_1 on date_1 at time_1 with my party_1. <system> will do, your event_1 with party_1 on date_1 at time_1 has been scheduled. <user> thank you. <system> my pleasure. <user> that is all, thanks.
+<user> check out the date_1 forecast to see if it will be weather_attribute_1 in location_1.
+<user> check out the date_1 forecast to see if it will be weather_attribute_1 in location_1. <system> it will not be weather_attribute_1 in location_1 next week. <user> thanks, this is great!
+<user> what time is my event_1 at.
+<user> what time is my event_1 at. <system> i have one event_1 on your calendar. it is date_1 at time_1. <user> thank you.
+<user> what is the weather date_1 in location_1.
+<user> what is the weather date_1 in location_1. <system> what days are you interested in? <user> will it be weather_attribute_1 in location_1 anytime date_2?
+<user> what is the weather date_1 in location_1. <system> what days are you interested in? <user> will it be weather_attribute_1 in location_1 anytime date_2? <system> it should n't be weather_attribute_1 in location_1 date_2. <user> thank you!
+<user> what is the weather date_1.
+<user> what is the weather date_1. <system> what location, specifically, are you asking about? <user> i want to know if it is weather_attribute_1 in location_1 date_1.
+<user> what is the weather date_1. <system> what location, specifically, are you asking about? <user> i want to know if it is weather_attribute_1 in location_1 date_1. <system> no weather_attribute_1 in location_1 date_1, the prediction is overcast. <user> thank you!
+<user> find directions to poi_1.
+<user> find directions to poi_1. <system> we're distance_1 from poi_1 and there is no traffic on our route, you should reach in few minutes. <user> can you get me the address of poi_1 distance_1?
+<user> find directions to poi_1. <system> we're distance_1 from poi_1 and there is no traffic on our route, you should reach in few minutes. <user> can you get me the address of poi_1 distance_1? <system> the address to your poi_1 is 56 cadwell street. <user> thanks so much for the information.
+<user> give me the date_1 weather forecast.
+<user> give me the date_1 weather forecast. <system> where are you located? <user> will it be weather_attribute_1 date_2 in location_1?
+<user> give me the date_1 weather forecast. <system> where are you located? <user> will it be weather_attribute_1 date_2 in location_1? <system> location_1 does not have any weather_attribute_1 weather prediction date_2. <user> thank you car!
+<user> will it be weather_attribute_1 in location_1 date_1?
+<user> will it be weather_attribute_1 in location_1 date_1? <system> it will not be weather_attribute_1 in location_1 today or tomorrow. <user> thank you.
+<user> what is the weather_attribute_1 in location_1?
+<user> what is the weather_attribute_1 in location_1? <system> it will be 50f sunday in location_1. <user> thanks.
+<user> where can i get poi_type_1?
+<user> where can i get poi_type_1? <system> there is a poi_1 distance_1: would you like me to send you its address on the screen? <user> what is the address of the poi_type_2 poi_1 distance_1?
+<user> where can i get poi_type_1? <system> there is a poi_1 distance_1: would you like me to send you its address on the screen? <user> what is the address of the poi_type_2 poi_1 distance_1? <system> poi_1 is located at address_1 but a car collision is noted nearby. do you still want to go there? <user> yes, please, set the gps to go to the poi_type_2 poi_1 distance_1 at address_1 with a traffic_info_1, thank you!
+<user> from the two day forecast what will be the weather_attribute_1 in location_1?
+<user> from the two day forecast what will be the weather_attribute_1 in location_1? <system> the weather_attribute_1 in location_1 is supposed to be 60f today, and 70f tomorrow. <user> thanks.
+<user> when is the next weather_attribute_1 day.
+<user> when is the next weather_attribute_1 day. <system> for which city would you like to know when the next weather_attribute_1 day is? <user> when is the next weather_attribute_1 day in location_1.
+<user> when is the next weather_attribute_1 day. <system> for which city would you like to know when the next weather_attribute_1 day is? <user> when is the next weather_attribute_1 day in location_1. <system> it will not be weather_attribute_1 in location_1 next week. <user> okay, thank you!
+<user> schedule a event_1 with party_1 on the date_1 at time_1.
+<user> schedule a event_1 with party_1 on the date_1 at time_1. <system> your event_1 with party_1 on the date_1 at time_1 has been scheduled. <user> thank you again.
+<user> car please find for me the distance_1 route to get to some poi_type_1.
+<user> car please find for me the distance_1 route to get to some poi_type_1. <system> there is a address_1 distance_2. <user> what is the address of the distance_2 poi_type_1 address_1?
+<user> car please find for me the distance_1 route to get to some poi_type_1. <system> there is a address_1 distance_2. <user> what is the address of the distance_2 poi_type_1 address_1? <system> the address for address_1 is 436 alger dr. <user> thanks set the gps to the poi_type_1 address_1 at address_2 please.
+<user> car i'm desiring to eat poi_type_1!
+<user> car i'm desiring to eat poi_type_1! <system> poi_1 poi_1 and poi_2 are both distance_2. <user> which distance_2 poi_type_1 restaurant, either the distance_2 poi_type_1 restaurant poi_1 poi_1 or the distance_2 poi_type_1 restaurant poi_2, is distance_1?
+<user> car i'm desiring to eat poi_type_1! <system> poi_1 poi_1 and poi_2 are both distance_2. <user> which distance_2 poi_type_1 restaurant, either the distance_2 poi_type_1 restaurant poi_1 poi_1 or the distance_2 poi_type_1 restaurant poi_2, is distance_1? <system> poi_2 is distance_3 with a road block nearby. <user> please pick the best route to the poi_type_1 restaurant poi_2 distance_3 for me and let's go to the poi_type_1 restaurant poi_2 distance_3!
+<user> car i'm desiring to eat poi_type_1! <system> poi_1 poi_1 and poi_2 are both distance_2. <user> which distance_2 poi_type_1 restaurant, either the distance_2 poi_type_1 restaurant poi_1 poi_1 or the distance_2 poi_type_1 restaurant poi_2, is distance_1? <system> poi_2 is distance_3 with a road block nearby. <user> please pick the best route to the poi_type_1 restaurant poi_2 distance_3 for me and let's go to the poi_type_1 restaurant poi_2 distance_3! <system> there is a road block nearby but i sent on your screen another route that should allow you to reach there fast enough. <user> thank you car!
+<user> send me to the distance_1 poi_type_1.
+<user> send me to the distance_1 poi_type_1. <system> the distance_1 poi_type_1 is poi_1 at address_1, distance_2. setting directions now. <user> where is the poi_type_1 poi_1 distance_2 at address_1 and is there any traffic on the way to the poi_type_1 poi_1 distance_2 at address_1?
+<user> send me to the distance_1 poi_type_1. <system> the distance_1 poi_type_1 is poi_1 at address_1, distance_2. setting directions now. <user> where is the poi_type_1 poi_1 distance_2 at address_1 and is there any traffic on the way to the poi_type_1 poi_1 distance_2 at address_1? <system> poi_1 is at address_1 and moderate traffic is being noted. <user> thank you.
+<user> is there going to be weather_attribute_1 in location_1 on date_1?
+<user> is there going to be weather_attribute_1 in location_1 on date_1? <system> there will not be weather_attribute_1 in location_1 on date_1. <user> thank you.
+<user> schedule a new event_1.
+<user> schedule a new event_1. <system> what date and time should i schedule your event_1? <user> the event_1 is today at time_1 with party_1 to agenda_1.
+<user> schedule a new event_1. <system> what date and time should i schedule your event_1? <user> the event_1 is today at time_1 with party_1 to agenda_1. <system> i am setting a new event_1 in your calendar for today at time_1 with party_1 to agenda_1. <user> nothing else for now.
+<user> will it be weather_attribute_1 in location_1 or the date_1?
+<user> will it be weather_attribute_1 in location_1 or the date_1? <system> it will be between 80- 100f on tuesday in location_1. <user> thanks.
+<user> will it be weather_attribute_1 in location_1 date_1?
+<user> will it be weather_attribute_1 in location_1 date_1? <system> it will be raining in location_1 on tuesday. <user> thank you.
+<user> find poi_type_1.
+<user> find poi_type_1. <system> there is a poi_1 and a poi_2. <user> is any of the poi_type_1 restaurants, either the poi_type_1 restaurant poi_1 or the poi_type_1 restaurant poi_2, distance_1 from our position?
+<user> find poi_type_1. <system> there is a poi_1 and a poi_2. <user> is any of the poi_type_1 restaurants, either the poi_type_1 restaurant poi_1 or the poi_type_1 restaurant poi_2, distance_1 from our position? <system> they are both distance_1. poi_1 is 3 miles away and poi_2 is distance_2. <user> then let's go at the poi_type_1 restaurant poi_2 distance_2, please pick a route to the poi_type_1 restaurant poi_2 distance_2 with traffic_info_1!
+<user> find poi_type_1. <system> there is a poi_1 and a poi_2. <user> is any of the poi_type_1 restaurants, either the poi_type_1 restaurant poi_1 or the poi_type_1 restaurant poi_2, distance_1 from our position? <system> they are both distance_1. poi_1 is 3 miles away and poi_2 is distance_2. <user> then let's go at the poi_type_1 restaurant poi_2 distance_2, please pick a route to the poi_type_1 restaurant poi_2 distance_2 with traffic_info_1! <system> setting route to poi_2 at 528 anton ct now. <user> thank you car!
+<user> i'm looking for a place to eat can you show me directions to the distance_1 poi_type_1.
+<user> i'm looking for a place to eat can you show me directions to the distance_1 poi_type_1. <system> there is poi_1 	 distance_2: is it okay for you? <user> sure, let's go to the poi_type_1 poi_1 distance_2, just pick a route to the poi_type_1 poi_1 distance_2 with traffic_info_1 please.
+<user> set a reminder for my event_1 date_1.
+<user> set a reminder for my event_1 date_1. <system> okay, reminder set for event_1 date_1. <user> thank you.
+<user> what's the weather_attribute_1 going to be for date_1.
+<user> what's the weather_attribute_1 going to be for date_1. <system> in what city can i check date_1's weather_attribute_1? <user> there will be any weather_attribute_2 date_1 in location_1?
+<user> what's the weather_attribute_1 going to be for date_1. <system> in what city can i check date_1's weather_attribute_1? <user> there will be any weather_attribute_2 date_1 in location_1? <system> there will be no weather_attribute_2 in location_1 next week. <user> thank you.
+<user> will it be weather_attribute_1 on date_1 in location_1?
+<user> will it be weather_attribute_1 on date_1 in location_1? <system> it will not be weather_attribute_1 on date_1 in location_1. <user> thanks.
+<user> give me directions to the distance_1 where i can poi_type_1.
+<user> give me directions to the distance_1 where i can poi_type_1. <system> you are two miles away from poi_1, would you like to get its address? <user> yes, please, and also pick the distance_2 to the poi_type_2 poi_1 distance_3 for me!
+<user> give me directions to the distance_1 where i can poi_type_1. <system> you are two miles away from poi_1, would you like to get its address? <user> yes, please, and also pick the distance_2 to the poi_type_2 poi_1 distance_3 for me! <system> then we're going at 792 bedoin street, no traffic on our way, enjoy the trip! <user> thanks!
+<user> what will be the weather_attribute_1 in location_1 on date_1?
+<user> what will be the weather_attribute_1 in location_1 on date_1? <system> on date_1 the weather_attribute_1 in location_1 is 70f. <user> thanks.
+<user> what is the forecast for the city this date_1.
+<user> what is the forecast for the city this date_1. <system> what city do you need the forecast for? <user> can you tell me if it will be weather_attribute_1 in location_1 this date_1?
+<user> what is the forecast for the city this date_1. <system> what city do you need the forecast for? <user> can you tell me if it will be weather_attribute_1 in location_1 this date_1? <system> it will not be weather_attribute_1 in location_1 this date_1. <user> great, thank you.
+<user> where does my poi_1 live?
+<user> where does my poi_1 live? <system> address_1. is the address. <user> thank you.
+<user> where does my poi_1 live? <system> address_1. is the address. <user> thank you. <system> anything else? <user> distance_1 am i now from my poi_1's poi_type_1 at address_1?
+<user> where does my poi_1 live? <system> address_1. is the address. <user> thank you. <system> anything else? <user> distance_1 am i now from my poi_1's poi_type_1 at address_1? <system> you're 3 miles away. <user> thanks!
+<user> set date for a event_1.
+<user> set date for a event_1. <system> what is the date and time for the event_1? <user> set date for a event_1 date_1 at 11am.
+<user> set date for a event_1. <system> what is the date and time for the event_1? <user> set date for a event_1 date_1 at 11am. <system> event_1 has been set on date_1   at time_1. <user> thanks.
+<user> tell me when my event_1 are scheduled for.
+<user> tell me when my event_1 are scheduled for. <system> your event_1 are set for monday at 5 pm. <user> alright, thanks.
+<user> will san jose be hot any time this week?
+<user> will san jose be hot any time this week? <system> san jose will be hot on monday, thursday and saturday. <user> thanks.
+<user> i wanna go to my poi_1, it should be distance_1, can you show me their position on the map?
+<user> i wanna go to my poi_1, it should be distance_1, can you show me their position on the map? <system> jack lives at 864 almanor ln, it is shown on the map. <user> i wanna go to my poi_1, it should be distance_1, can you show me my poi_1 position on the map?
+<user> what's the weather like.
+<user> what's the weather like. <system> for which day and city would you like to know the weather? <user> what's the date_1 weather like in location_1.
+<user> what's the weather like. <system> for which day and city would you like to know the weather? <user> what's the date_1 weather like in location_1. <system> currently in location_1 it is cloudy with a low of 30f and a high of 40f. <user> thanks.
+<user> what is the date and time of my next event_1?
+<user> what is the date and time of my next event_1? <system> your next event_1 is on friday at 1 pm. <user> thank you kindly.
+<user> put my agenda_1 in my calendar.
+<user> put my agenda_1 in my calendar. <system> what date and time is your agenda_1 at? <user> put my agenda_1 in my calendar at time_1 on date_1.
+<user> i'm looking for some takeout chinese food.
+<user> i'm looking for some takeout chinese food. <system> the nearest poi_type_1 is distance_1, though there is a road block nearby. would you like directions there? <user> yes where is the poi_type_1 distance_1?
+<user> i'm looking for some takeout chinese food. <system> the nearest poi_type_1 is distance_1, though there is a road block nearby. would you like directions there? <user> yes where is the poi_type_1 distance_1? <system> poi_1 poi_1 is located at 113 arbol dr. setting navigation now. <user> please direct me to the poi_type_1 poi_1 poi_1 distance_1 at address_1 via the route that traffic_info_1.
+<user> i'm looking for some takeout chinese food. <system> the nearest poi_type_1 is distance_1, though there is a road block nearby. would you like directions there? <user> yes where is the poi_type_1 distance_1? <system> poi_1 poi_1 is located at 113 arbol dr. setting navigation now. <user> please direct me to the poi_type_1 poi_1 poi_1 distance_1 at address_1 via the route that traffic_info_1. <system> avoiding heavy traffic on the way to poi_1 poi_1. <user> thank you car!
+<user> is it weather_attribute_1 in location_1 date_1?
+<user> is it weather_attribute_1 in location_1 date_1? <system> there is drizzle but no mist in location_1 date_1. <user> thank you.
+<user> is it weather_attribute_1 date_1.
+<user> is it weather_attribute_1 date_1. <system> which city do you want to know if it's gon na rain date_1? <user> is it weather_attribute_1 date_1 in location_1.
+<user> is it weather_attribute_1 date_1. <system> which city do you want to know if it's gon na rain date_1? <user> is it weather_attribute_1 date_1 in location_1. <system> it's gon na rain in location_1 on tuesday and sunday. <user> okay, thank you car!
+<user> give me directions to the distance_1 poi_1.
+<user> give me directions to the distance_1 poi_1. <system> there is no poi_1 in the area, i'm sorry. <user> are there any other coffee shops, besides the poi_2 poi_1, with the traffic_info_1?
+<user> give me directions to the distance_1 poi_1. <system> there is no poi_1 in the area, i'm sorry. <user> are there any other coffee shops, besides the poi_2 poi_1, with the traffic_info_1? <system> poi_3 located at address_1 is distance_2 without any traffic. <user> please direct me to the poi_2 poi_3 distance_2 at address_1 with traffic_info_2, thank you.
+<user> give me directions to the distance_1 poi_1. <system> there is no poi_1 in the area, i'm sorry. <user> are there any other coffee shops, besides the poi_2 poi_1, with the traffic_info_1? <system> poi_3 located at address_1 is distance_2 without any traffic. <user> please direct me to the poi_2 poi_3 distance_2 at address_1 with traffic_info_2, thank you. <system> navigating to address_1 now. <user> thanks car!
+<user> give me a distance_1 to a poi_type_1.
+<user> give me a distance_1 to a poi_type_1. <system> we are 1 miles away from poi_2 with no traffic on our way and 1 miles away from poi_1 with moderate traffic: where would you like to go? <user> yes what is the address of the poi_type_1 poi_2 distance_2 and the poi_type_1 poi_1 distance_2?
+<user> give me a distance_1 to a poi_type_1. <system> we are 1 miles away from poi_2 with no traffic on our way and 1 miles away from poi_1 with moderate traffic: where would you like to go? <user> yes what is the address of the poi_type_1 poi_2 distance_2 and the poi_type_1 poi_1 distance_2? <system> sorry, i did n't understand which address would you like me to give you. would you prefer to go at poi_2 or at poi_1? <user> i want the quickest poi_type_1 available, either the poi_type_1 poi_2 distance_2 or the poi_type_1 poi_1 distance_2, please.
+<user> give me a distance_1 to a poi_type_1. <system> we are 1 miles away from poi_2 with no traffic on our way and 1 miles away from poi_1 with moderate traffic: where would you like to go? <user> yes what is the address of the poi_type_1 poi_2 distance_2 and the poi_type_1 poi_1 distance_2? <system> sorry, i did n't understand which address would you like me to give you. would you prefer to go at poi_2 or at poi_1? <user> i want the quickest poi_type_1 available, either the poi_type_1 poi_2 distance_2 or the poi_type_1 poi_1 distance_2, please. <system> then let's go at poi_2, better if you get some coffee, the address is 452 arcadia pl. <user> thank you car!
+<user> what's the weather_attribute_1 in city.
+<user> what's the weather_attribute_1 in city. <system> what city would you like to know the weather_attribute_1 about? <user> what is the weather_attribute_1 for date_1 in location_1?
+<user> what's the weather_attribute_1 in city. <system> what city would you like to know the weather_attribute_1 about? <user> what is the weather_attribute_1 for date_1 in location_1? <system> the weather_attribute_1 range for next week goes from lows in the 20s to highs in the 100s for location_1. <user> thank you.
+<user> set a reminder for event_1 at time_1 on the date_1 with party_1.
+<user> set a reminder for event_1 at time_1 on the date_1 with party_1. <system> setting reminder for event_1 at time_1 on the date_1 with party_1. <user> okay, thanks.
+<user> i'm looking for a place to shop for clothes that is around me. can you find such a place?
+<user> i'm looking for a place to shop for clothes that is around me. can you find such a place? <system> yes poi_1 is 3 miles away. do you want the address? <user> oh yes that sounds great.
+<user> i'm looking for a place to shop for clothes that is around me. can you find such a place? <system> yes poi_1 is 3 miles away. do you want the address? <user> oh yes that sounds great. <system> ravenswood is located at 434 arastradero rd. do you want me to set the gps? <user> sure, thanks!
+<user> i need a poi_type_1
+<user> i need a poi_type_1 <system> i have one poi_type_1 want more info? <user> what is the address of the gas station?
+<user> i need a poi_type_1 <system> i have one poi_type_1 want more info? <user> what is the address of the gas station? <system> poi_1 is at 91 el camino real. <user> thank you!
+<user> where can i go poi_type_1?
+<user> where can i go poi_type_1? <system> there is two poi_type_1 center, poi_1 and poi_2. do you have a preference? <user> which poi_type_1 center, either the poi_type_1 center poi_1 or the poi_2 poi_type_1 center, is distance_1?
+<user> where can i go poi_type_1? <system> there is two poi_type_1 center, poi_1 and poi_2. do you have a preference? <user> which poi_type_1 center, either the poi_type_1 center poi_1 or the poi_2 poi_type_1 center, is distance_1? <system> poi_1 is distance_1. <user> then pick the route to the poi_type_1 center poi_1 through the shortest distance and let's go to the poi_type_1 center poi_1, thank you!
+<user> is it weather_attribute_2 out.
+<user> is it weather_attribute_2 out. <system> what city would you like to know if it is weather_attribute_2 in? <user> check to see if it'll be weather_attribute_2 in location_1 date_1.
+<user> is it weather_attribute_2 out. <system> what city would you like to know if it is weather_attribute_2 in? <user> check to see if it'll be weather_attribute_2 in location_1 date_1. <system> it might weather_attribute_1 on sunday, do you need to know anything else? <user> nope, thanks.
+<user> schedule event_1 with party_1 on the date_1 of this month at time_1.
+<user> schedule event_1 with party_1 on the date_1 of this month at time_1. <system> reminder for event_1 on the date_1 at time_1 with party_1 is set. <user> thanks!
